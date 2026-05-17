@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-17T11:28:08.957Z",
+  "updated": "2026-05-17T11:44:28.139Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 35212,
-      "forks": 3462,
+      "stars": 35224,
+      "forks": 3463,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Local AI anywhere, for everyone — LLM inference, chat UI, voice, agents, workflows, RAG, and image generation. No cloud, no subscriptions.",
       "url": "https://github.com/Light-Heart-Labs/DreamServer",
       "avatarUrl": "https://github.com/Light-Heart-Labs.png",
-      "stars": 928,
+      "stars": 936,
       "forks": 192,
       "todayStars": 0,
       "language": "Python",
@@ -38,7 +38,7 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "url": "https://github.com/KeygraphHQ/shannon",
       "avatarUrl": "https://github.com/KeygraphHQ.png",
-      "stars": 42456,
+      "stars": 42463,
       "forks": 4856,
       "todayStars": 0,
       "language": "TypeScript",
@@ -51,8 +51,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 2931,
-      "forks": 235,
+      "stars": 2937,
+      "forks": 238,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

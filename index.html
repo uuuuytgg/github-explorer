@@ -628,16 +628,14 @@
       const resp = await fetch(jsonUrl, { cache: 'no-cache' });
       if (resp.ok) {
         const payload = await resp.json();
-        if (payload.repos && payload.repos.length > 0) {
-          dataSource[tab] = 'json';
-          updateDataSourceLabel(tab);
-          // 更新统计栏时间
-          if (payload.updated) {
-            document.getElementById('statUpdate').textContent = relTime(payload.updated);
-            document.getElementById('updateTime').textContent = relTime(payload.updated) + ' 更新';
-          }
-          return payload.repos;
+        // JSON 存在即有效 — repo 为空也不走 CORS 回退
+        dataSource[tab] = 'json';
+        updateDataSourceLabel(tab);
+        if (payload.updated) {
+          document.getElementById('statUpdate').textContent = relTime(payload.updated);
+          document.getElementById('updateTime').textContent = relTime(payload.updated) + ' 更新';
         }
+        return payload.repos || [];
       }
     } catch(e) {
       console.log(`[Load] JSON 不可用 (${tab}): ${e.message}`);

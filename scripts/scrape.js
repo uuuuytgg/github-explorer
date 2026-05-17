@@ -46,10 +46,10 @@ const CATEGORIES = {
     priority: 2,
   },
   ai: {
-    url: 'https://github.com/trending/artificial-intelligence?since=daily',
+    url: 'https://github.com/trending?since=daily', // 主 Trending 页(服务端渲染)+关键词过滤
     label: 'AI & LLM',
     icon: '🤖',
-    keywords: ['ai','llm','machine-learning','deep-learning','neural','transformer','gpt','openai','diffusion','stable-diffusion','langchain','agent','chatbot','nlp','pytorch','tensorflow'],
+    keywords: ['ai','llm','gpt','openai','claude','diffusion','agent','chatbot','langchain','langgraph','rag','vector','embedding','pytorch','tensorflow','transformer','neural','deep-learning','machine-learning','stable-diffusion','sora','veo','gen-ai','generative','nlp','llama','mistral','gemini','copilot','autogen','crewai','composio','mlx','whisper','tts','stt','voice','vision','multimodal'],
     priority: 1,
   },
   design: {
@@ -67,15 +67,17 @@ const CATEGORIES = {
     priority: 3,
   },
   mobile: {
-    url: 'https://github.com/trending/mobile-development?since=daily',
+    url: 'https://github.com/trending?since=daily',
     label: '移动开发',
     icon: '📱',
+    keywords: ['react-native','flutter','android','ios','swiftui','jetpack','compose','expo','ionic','cordova','mobile','appkit','kotlin','swift','dart'],
     priority: 3,
   },
   security: {
-    url: 'https://github.com/trending/cyber-security?since=weekly',
+    url: 'https://github.com/trending?since=daily',
     label: '安全研究',
     icon: '🔐',
+    keywords: ['security','cyber','ctf','hack','penetration','exploit','vulnerability','crypto','encryption','firewall','malware','forensic','red-team','zero-day','pentest','auth','oauth','jwt','sso','xss','sql-injection','sandbox','container-security','supply-chain'],
     priority: 3,
   },
 };
@@ -461,6 +463,19 @@ async function main() {
       seen.add(r.fullName);
       return true;
     }).slice(0, 25);
+
+    // Fallback: 如果关键词过滤后为 0，尝试从同 URL 的主力分类借
+    if (repos.length === 0 && key !== 'trending' && key !== 'newest') {
+      const mainKey = cfg.url.includes('since=weekly') ? 'newest' : 'trending';
+      const mainResult = categoryResults[mainKey];
+      if (mainResult && mainResult.repos && mainResult.repos.length > 0) {
+        const filtered = filterByKeywords(mainResult.repos, cfg.keywords || []);
+        if (filtered.length > 0) {
+          repos = filtered.slice(0, 25);
+          console.log(`    ↪ 回退: 从 ${mainKey} 借 ${repos.length} 个`);
+        }
+      }
+    }
     
     categoryResults[key] = { repos };
     totalRepos += repos.length;

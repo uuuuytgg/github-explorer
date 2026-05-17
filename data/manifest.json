@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-17T11:28:08.957Z",
+  "updated": "2026-05-17T11:44:28.139Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -14,7 +14,7 @@
     "ai": {
       "label": "AI & LLM",
       "icon": "🤖",
-      "count": 0
+      "count": 13
     },
     "design": {
       "label": "设计系统",
@@ -29,12 +29,12 @@
     "mobile": {
       "label": "移动开发",
       "icon": "📱",
-      "count": 1
+      "count": 0
     },
     "security": {
       "label": "安全研究",
       "icon": "🔐",
-      "count": 1
+      "count": 2
     }
   }
 }

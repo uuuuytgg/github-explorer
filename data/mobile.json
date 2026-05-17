@@ -2,22 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-17T11:28:08.957Z",
-  "count": 1,
-  "repos": [
-    {
-      "fullName": "sponsors/explore",
-      "owner": "sponsors",
-      "name": "explore",
-      "description": "",
-      "url": "https://github.com/sponsors/explore",
-      "avatarUrl": "https://github.com/sponsors.png",
-      "stars": 0,
-      "forks": 0,
-      "todayStars": 0,
-      "language": "",
-      "topics": []
-    }
-  ],
+  "updated": "2026-05-17T11:44:28.139Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }
