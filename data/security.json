@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-17T11:44:54.342Z",
-  "count": 2,
+  "updated": "2026-05-17T13:55:03.175Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "KeygraphHQ/shannon",
@@ -12,8 +12,8 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "url": "https://github.com/KeygraphHQ/shannon",
       "avatarUrl": "https://github.com/KeygraphHQ.png",
-      "stars": 42464,
-      "forks": 4856,
+      "stars": 42510,
+      "forks": 4858,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "url": "https://github.com/TryGhost/Ghost",
       "avatarUrl": "https://github.com/TryGhost.png",
-      "stars": 53055,
-      "forks": 11590,
+      "stars": 53095,
+      "forks": 11593,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "url": "https://github.com/plausible/analytics",
       "avatarUrl": "https://github.com/plausible.png",
-      "stars": 25068,
-      "forks": 1430,
+      "stars": 25129,
+      "forks": 1437,
       "todayStars": 0,
       "language": "Elixir",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 2943,
-      "forks": 239,
+      "stars": 3008,
+      "forks": 245,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
