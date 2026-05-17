@@ -603,6 +603,11 @@
       </button></div>`;
   }
 
+  function updateDataSourceLabel(tab) {
+    const sub = document.querySelector('#panel-' + tab + ' .section-sub');
+    if (sub) sub.textContent = 'GitHub Trending · ' + (dataSource[tab]==='json' ? '预计算数据' : dataSource[tab]==='proxy' ? '实时抓取' : '缓存数据');
+  }
+
   function updateStats(repos) {
     document.getElementById('statCount').textContent = repos.length;
     const maxS = repos.length ? Math.max(...repos.map(r=>r.stars||0)) : 0;
@@ -625,6 +630,7 @@
         const payload = await resp.json();
         if (payload.repos && payload.repos.length > 0) {
           dataSource[tab] = 'json';
+          updateDataSourceLabel(tab);
           // 更新统计栏时间
           if (payload.updated) {
             document.getElementById('statUpdate').textContent = relTime(payload.updated);
@@ -641,6 +647,7 @@
     const cached = cacheGet('cat_'+tab);
     if (cached) {
       dataSource[tab] = 'cache';
+      updateDataSourceLabel(tab);
       showToast('使用缓存数据（' + relTime(new Date(Date.now()-CACHE_TTL).toISOString()) + '前）');
       return cached;
     }
@@ -654,6 +661,7 @@
       if (repos.length > 0) {
         cacheSet('cat_'+tab, repos, CACHE_TTL);
         dataSource[tab] = 'proxy';
+        updateDataSourceLabel(tab);
         document.getElementById('updateTime').textContent = '实时抓取';
         document.getElementById('statUpdate').textContent = '实时';
         return repos;
