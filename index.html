@@ -1,0 +1,981 @@
+<!DOCTYPE html>
+<html lang="zh-CN" data-theme="dark">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>GitHub Explorer · 开源项目发现</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+SC:wght@300;400;500;700;900&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet" />
+
+  <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.min.js"></script>
+
+  <!-- ════════════════════════════════════════ -->
+  <!--   Material Design 3 Expressive          -->
+  <!--   Monet 动态色彩系统                     -->
+  <!-- ════════════════════════════════════════ -->
+  <style>
+
+    :root {
+      /* === Monet Tonal Palette (Dark Theme) === */
+
+      /* Primary — 紫色系 */
+      --md-primary-0:     oklch(0.99 0.005 275);
+      --md-primary-5:     oklch(0.95 0.035 275);
+      --md-primary-10:    oklch(0.90 0.065 275);
+      --md-primary-20:    oklch(0.82 0.115 275);
+      --md-primary-30:    oklch(0.74 0.155 275);
+      --md-primary-40:    oklch(0.67 0.180 275);
+      --md-primary-50:    oklch(0.61 0.185 275);
+      --md-primary-60:    oklch(0.54 0.170 275);
+      --md-primary-70:    oklch(0.48 0.145 270);
+      --md-primary-80:    oklch(0.42 0.120 268);  /* primary */
+      --md-primary-90:    oklch(0.36 0.090 268);
+      --md-primary-95:    oklch(0.28 0.055 268);
+      --md-primary-99:    oklch(0.18 0.032 268);
+
+      /* Secondary Palette — 青紫色 */
+      --md-secondary-80:  oklch(0.50 0.130 260);  /* secondary */
+      --md-secondary-100: oklch(0.40 0.095 258);
+
+      /* Tertiary Palette — 橙黄暖色 */
+      --md-tertiary-60:   oklch(0.62 0.175 55);   /* warm accent */
+      --md-tertiary-70:   oklch(0.53 0.155 50);
+      --md-tertiary-90:   oklch(0.34 0.085 45);
+
+      /* Neutral Palette */
+      --md-surface-dim:        oklch(0.14 0.010 265);
+      --md-surface:            oklch(0.17 0.012 265);
+      --md-surface-bright:     oklch(0.22 0.015 265);
+      --md-surface-container-lowest: oklch(0.10 0.008 265);
+      --md-surface-container-low:   oklch(0.19 0.013 265);
+      --md-surface-container:      oklch(0.21 0.015 265);
+      --md-surface-container-high:  oklch(0.24 0.017 265);
+      --md-surface-container-highest:oklch(0.29 0.020 265);
+
+      --md-inverse-surface: oklch(0.96 0.008 265);
+      --md-on-surface:      oklch(0.94 0.007 265);
+      --md-on-surface-var:  oklch(0.72 0.020 265);
+      --md-outline:         oklch(0.45 0.018 265);
+      --md-outline-var:     oklch(0.58 0.110 270);
+      --md-inverse-on-surf:  oklch(0.10 0.010 265);
+
+      /* Surface Tints */
+      --md-primary-container:    oklch(0.32 0.140 268);
+      --md-on-pri-container:     oklch(0.92 0.065 270);
+      --md-secondary-container:  oklch(0.38 0.105 255);
+      --md-sec-container:        oklch(0.85 0.080 257);
+      --md-tertiary-container:   oklch(0.33 0.125 45);
+      --md-tertiary-container-text: oklch(0.93 0.090 47);
+      --md-surface-container-tint: oklch(0.19 0.020 268);
+
+      /* Error */
+      --md-error:           oklch(0.63 0.220 25);
+      --md-error-container: oklch(0.30 0.150 25);
+
+      /* ── Semantic Tokens ── */
+      --color-primary:              var(--md-primary-80);
+      --color-on-primary:           oklch(1.00 0 0);
+      --color-primary-container:    var(--md-primary-container);
+      --color-on-pri-container:     var(--md-on-pri-container);
+      --color-secondary:            var(--md-secondary-80);
+      --color-on-secondary:         oklch(1.00 0 0);
+      --color-sec-container:        var(--md-secondary-container);
+      --color-on-sec-container:     var(--md-sec-container);
+      --color-tertiary:             var(--md-tertiary-60);
+      --color-tertiary-container:   var(--md-tertiary-container);
+      --color-on-tert-container:    var(--md-tertiary-container-text);
+      --color-surface:              var(--md-surface);
+      --color-surface-dim:          var(--md-surface-dim);
+      --color-surface-bright:       var(--md-surface-bright);
+      --color-surface-cont:         var(--md-surface-container);
+      --color-surface-cont-high:    var(--md-surface-container-high);
+      --color-surface-cont-highest: var(--md-surface-container-highest);
+      --color-surface-cont-low:     var(--md-surface-container-low);
+      --color-on-surface:           var(--md-on-surface);
+      --color-on-surface-var:       var(--md-on-surface-var);
+      --color-outline:              var(--md-outline);
+      --color-outline-var:          var(--md-outline-var);
+      --color-inverse-surface:      var(--md-inverse-surface);
+      --color-inv-on-surface:       var(--md-inverse-on-surf);
+      --color-error:                var(--md-error);
+      --color-error-container:      var(--md-error-container);
+
+      /* ── Elevation Overlays ── */
+      --elevation-1-shadow:  0 1px 2px oklch(0 0 0 / 0.30), 0 1px 3px oklch(0 0 0 / 0.15), 0 0 1px oklch(0 0 0 / 0.20);
+      --elevation-2-shadow:  0 4px 8px oklch(0 0 0 / 0.30), 0 2px 6px oklch(0 0 0 / 0.18), 0 0 1px oklch(0 0 0 / 0.20);
+      --elevation-3-shadow:  0 8px 16px oklch(0 0 0 / 0.35), 0 4px 8px oklch(0 0 0 / 0.20), 0 0 1px oklch(0 0 0 / 0.20);
+      --elevation-4-shadow:  0 12px 24px oklch(0 0 0 / 0.40), 0 6px 12px oklch(0 0 0 / 0.22), 0 0 1px oklch(0 0 0 / 0.20);
+      --elevation-5-shadow:  0 20px 40px oklch(0 0 0 / 0.45), 0 8px 16px oklch(0 0 0 / 0.25);
+
+      /* ── Shape System ── */
+      --shape-none:    0;
+      --shape-xs:       4px;
+      --shape-sm:       8px;
+      --shape-md:       12px;
+      --shape-lg:       16px;
+      --shape-xl:       20px;
+      --shape-2xl:      28px;
+      --shape-3xl:      32px;
+      --shape-full:     9999px;
+
+      /* ── Typography Scale ── */
+      --font-display: 'Noto Sans SC', system-ui, sans-serif;
+      --font-mono: 'JetBrains Mono', monospace;
+
+      --type-display-large:    900 57px/64px var(--font-display);
+      --type-display-medium:   400 45px/52px var(--font-display);
+      --type-headline-large:   400 32px/40px var(--font-display);
+      --type-headline-medium:  400 28px/36px var(--font-display);
+      --type-headline-small:   400 24px/32px var(--font-display);
+      --type-title-large:      500 22px/28px var(--font-display);
+      --type-title-medium:     500 16px/24px var(--font-display);
+      --type-title-small:      500 14px/20px var(--font-display);
+      --type-body-large:        400 16px/24px var(--font-display);
+      --type-body-medium:       400 14px/20px var(--font-display);
+      --type-body-small:        400 12px/16px var(--font-display);
+      --type-label-large:       500 14px/20px var(--font-display);
+      --type-label-medium:      500 12px/16px var(--font-display);
+      --type-label-small:       500 11px/16px var(--font-display);
+    }
+
+    /* ═════ Light Theme ═════ */
+    [data-theme="light"] {
+      :root {
+        --md-primary-98:    oklch(0.97 0.04 275);
+        --md-primary-95:    oklch(0.94 0.06 275);
+        --md-primary-90:    oklch(0.88 0.11 275);
+        --md-primary-50:    oklch(0.78 0.14 275);
+        --md-primary-40:    oklch(0.68 0.17 275);
+        --md-primary-30:    oklch(0.58 0.18 275);
+        --md-primary-20:    oklch(0.48 0.16 270);
+        --md-primary-10:    oklch(0.38 0.11 268);
+
+        --md-secondary-40:  oklch(0.58 0.12 258);
+        --md-secondary-30:  oklch(0.68 0.10 256);
+        --md-secondary-20:  oklch(0.82 0.07 256);
+
+        --md-tertiary-40:   oklch(0.64 0.15 50);
+        --md-tertiary-30:   oklch(0.76 0.12 48);
+        --md-tertiary-20:   oklch(0.88 0.08 46);
+
+        --md-surface:            oklch(0.985 0.002 265);
+        --md-surface-dim:        oklch(0.955 0.005 265);
+        --md-surface-bright:     oklch(1.000 0 0);
+        --md-surface-container-lowest: oklch(1.000 0 0);
+        --md-surface-container-low:   oklch(0.978 0.005 265);
+        --md-surface-container:      oklch(0.965 0.008 265);
+        --md-surface-container-high:  oklch(0.940 0.010 265);
+        --md-surface-container-highest:oklch(0.910 0.015 265);
+        --md-surface-container-tint: oklch(0.970 0.015 275);
+
+        --md-inverse-surface: oklch(0.14 0.010 265);
+        --md-on-surface:      oklch(0.14 0.010 265);
+        --md-on-surface-var:  oklch(0.44 0.020 270);
+        --md-outline:         oklch(0.56 0.018 265);
+        --md-outline-var:     oklch(0.50 0.12 270);
+        --md-inverse-on-surf:  oklch(0.96 0.008 265);
+
+        --md-primary-container:    oklch(0.91 0.12 275);
+        --md-on-pri-container:     oklch(0.28 0.12 270);
+        --md-secondary-container:  oklch(0.92 0.09 258);
+        --md-sec-container:        oklch(0.35 0.10 256);
+        --md-tertiary-container:   oklch(0.93 0.12 48);
+        --md-tertiary-container-text: oklch(0.32 0.12 45);
+
+        --elevation-1-shadow: 0 1px 2px oklch(0 0 0 / 0.08), 0 1px 3px oklch(0 0 0 / 0.04);
+        --elevation-2-shadow: 0 4px 8px oklch(0 0 0 / 0.10), 0 2px 6px oklch(0 0 0 / 0.06);
+        --elevation-3-shadow: 0 8px 16px oklch(0 0 0 / 0.12), 0 4px 8px oklch(0 0 0 / 0.07);
+        --elevation-4-shadow: 0 12px 24px oklch(0 0 0 / 0.14), 0 6px 12px oklch(0 0 0 / 0.08);
+        --elevation-5-shadow: 0 20px 40px oklch(0 0 0 / 0.16), 0 8px 16px oklch(0 0 0 / 0.09);
+
+        --color-primary:              var(--md-primary-40);
+        --color-on-primary:           var(--md-primary-98);
+        --color-primary-container:    var(--md-primary-container);
+        --color-on-pri-container:     var(--md-on-pri-container);
+        --color-secondary:            var(--md-secondary-40);
+        --color-on-secondary:         oklch(1 0 0);
+        --color-sec-container:        var(--md-secondary-container);
+        --color-on-sec-container:     var(--md-sec-container);
+        --color-tertiary:             var(--md-tertiary-40);
+        --color-tertiary-container:   var(--md-tertiary-container);
+        --color-on-tert-container:    var(--md-tertiary-container-text);
+        --color-surface:              var(--md-surface);
+        --color-surface-dim:          var(--md-surface-dim);
+        --color-surface-bright:       var(--md-surface-bright);
+        --color-surface-cont:         var(--md-surface-container);
+        --color-surface-cont-high:    var(--md-surface-container-high);
+        --color-surface-cont-highest: var(--md-surface-container-highest);
+        --color-surface-cont-low:     var(--md-surface-container-low);
+        --color-on-surface:           var(--md-on-surface);
+        --color-on-surface-var:       var(--md-on-surface-var);
+        --color-outline:              var(--md-outline);
+        --color-outline-var:          var(--md-outline-var);
+        --color-inverse-surface:      var(--md-inverse-surface);
+        --color-inv-on-surface:       var(--md-inverse-on-surf);
+      }
+    }
+
+    /* ═══ Base Reset ════ */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font: var(--type-body-large);
+      color: var(--color-on-surface);
+      background-color: var(--color-surface);
+      min-height: 100vh;
+      line-height: 1.5;
+      -webkit-font-smoothing: antialiased;
+      overflow-x: hidden;
+    }
+    ::selection { background: var(--color-primary); color: var(--color-on-primary); }
+    a { color: inherit; text-decoration: none; }
+
+    ::-webkit-scrollbar { width: 8px; height: 8px; }
+    ::-webkit-scrollbar-track { background: transparent; }
+    ::-webkit-scrollbar-thumb { background: var(--md-outline); border-radius: var(--shape-full); }
+    ::-webkit-scrollbar-thumb:hover { background: var(--color-on-surface-var); }
+
+    /* ═══ TOP APP BAR ════ */
+    .top-app-bar {
+      position: sticky; top: 0; z-index: 200;
+      display: flex; align-items: center; gap: 16px;
+      height: 84px; padding: 0 20px;
+      background: color-mix(in srgb, var(--color-surface) 85%, transparent);
+      backdrop-filter: blur(24px) saturate(180%);
+      border-bottom: 1px solid var(--md-surface-container-highest);
+      box-shadow: var(--elevation-1-shadow);
+    }
+    @media (max-width: 720px) { .top-app-bar { height: 72px; padding: 0 12px; gap: 12px; } }
+
+    .nav-icon-btn {
+      width: 48px; height: 48px; border-radius: var(--shape-full);
+      border: none; background: transparent;
+      color: var(--color-on-surface-var); cursor: pointer;
+      display: flex; align-items: center; justify-content: center;
+      transition: all 200ms cubic-bezier(0.2, 0, 0, 1);
+    }
+    .nav-icon-btn:hover { background: var(--color-surface-cont-high); }
+    .nav-icon-btn svg { width: 24px; height: 24px; }
+
+    .app-bar-title { flex: 1; min-width: 0; font: var(--type-headline-small); letter-spacing: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .app-bar-title span { color: var(--color-primary); }
+
+    .search-bar { flex: 1; max-width: 420px; position: relative; }
+    .search-bar svg.icon-search { position: absolute; left: 16px; top: 50%; transform: translateY(-50%); color: var(--color-on-surface-var); pointer-events: none; width: 20px; height: 20px; }
+    .search-input {
+      width: 100%; height: 48px; border-radius: var(--shape-full);
+      border: none; padding: 0 20px 0 48px;
+      background: var(--color-surface-cont-high);
+      color: var(--color-on-surface); font: var(--type-body-large); outline: none;
+      transition: all 250ms cubic-bezier(0.2, 0, 0, 1);
+    }
+    .search-input::placeholder { color: var(--color-on-surface-var); opacity: 0.7; }
+    .search-input:focus { background: var(--color-surface-cont-highest); box-shadow: inset 0 0 0 2px var(--color-primary); }
+
+    .chip-pill {
+      display: inline-flex; align-items: center; gap: 6px;
+      height: 32px; padding: 0 16px; border-radius: var(--shape-full);
+      border: 1px solid var(--color-outline); background: transparent;
+      color: var(--color-on-surface); font: var(--type-label-large); cursor: pointer;
+      transition: all 200ms ease; white-space: nowrap;
+    }
+    .chip-pill:hover { background: var(--color-surface-cont-high); border-color: var(--color-primary); color: var(--color-primary); }
+    .chip-pill svg { width: 16px; height: 16px; flex-shrink: 0; }
+    .chip-dot { width: 8px; height: 8px; border-radius: var(--shape-full); background: var(--color-tertiary); animation: pulse 2s infinite; }
+
+    /* ═══ NAVIGATION RAIL ════ */
+    .nav-rail {
+      position: sticky; top: 84px; z-index: 100;
+      display: flex; gap: 2px; padding: 8px 20px;
+      background: var(--color-surface);
+      border-bottom: 1px solid var(--md-surface-container-highest);
+      overflow-x: auto; scrollbar-width: none;
+    }
+    .nav-rail::-webkit-scrollbar { display: none; }
+    @media (max-width: 720px) { .nav-rail { top: 72px; padding: 6px 12px; } }
+
+    .nav-chip {
+      display: flex; align-items: center; gap: 8px;
+      padding: 10px 18px; border-radius: var(--shape-full);
+      border: none; background: transparent;
+      color: var(--color-on-surface-var); font: var(--type-label-large);
+      font-weight: 500; cursor: pointer;
+      transition: all 250ms cubic-bezier(0.2, 0, 0, 1);
+      white-space: nowrap; flex-shrink: 0;
+    }
+    .nav-chip:hover { background: var(--color-surface-cont-high); }
+    .nav-chip.active { background: var(--color-secondary-container); color: var(--color-on-sec-container); }
+    .nav-chip svg { width: 18px; height: 18px; flex-shrink: 0; }
+    .nav-count { font-size: 11px; font-weight: 600; font-family: var(--font-mono); min-width: 20px; height: 20px; display: inline-flex; align-items: center; justify-content: center; border-radius: var(--shape-full); background: var(--color-surface-cont-high); color: var(--color-on-surface-var); }
+    .nav-chip.active .nav-count { background: rgba(0,0,0,0.15); color: inherit; }
+
+    /* ═══ MAIN LAYOUT ════ */
+    main { max-width: 1440px; margin: 0 auto; padding: 28px 20px 40px; }
+
+    /* ── Hero Section ── */
+    .hero-section { margin-bottom: 32px; padding: 32px; border-radius: var(--shape-2xl); background: linear-gradient(135deg, var(--color-primary-container) 0%, var(--color-tertiary-container) 100%); color: var(--color-on-tert-container); position: relative; overflow: hidden; box-shadow: var(--elevation-3-shadow); }
+    .hero-section::before { content: ''; position: absolute; top: -50%; right: -20%; width: 400px; height: 400px; border-radius: var(--shape-full); background: radial-gradient(circle, oklch(from var(--color-primary) l c h / 0.15), transparent 70%); animation: floatBlob 8s ease-in-out infinite; }
+    .hero-section::after { content: ''; position: absolute; bottom: -30%; left: -10%; width: 300px; height: 300px; border-radius: var(--shape-full); background: radial-gradient(circle, oklch(from var(--color-tertiary) l c h / 0.12), transparent 70%); animation: floatBlob 10s ease-in-out reverse infinite; }
+    @keyframes floatBlob { 0%, 100% { transform: translate(0, 0) scale(1); } 50% { transform: translate(30px, -20px) scale(1.1); } }
+
+    .hero-content { position: relative; z-index: 1; }
+    .hero-tag { display: inline-flex; align-items: center; gap: 6px; padding: 6px 14px; border-radius: var(--shape-full); background: oklch(from var(--color-on-tert-container) l c h / 0.12); backdrop-filter: blur(8px); font: var(--type-label-medium); margin-bottom: 16px; }
+    .hero-title { font: var(--type-display-medium); letter-spacing: -0.02em; margin-bottom: 12px; line-height: 1.15; }
+    .hero-sub { font: var(--type-body-large); opacity: 0.85; max-width: 520px; }
+
+    .hero-stats-row { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 16px; margin-top: 24px; position: relative; z-index: 1; }
+    .hero-stat-card { padding: 18px 20px; border-radius: var(--shape-xl); background: oklch(from var(--color-on-tert-container) l c h / 0.08); backdrop-filter: blur(8px); border: 1px solid oklch(from var(--color-on-tert-container) l c h / 0.1); }
+    .hero-stat-val { font: var(--type-headline-medium); letter-spacing: -0.01em; }
+    .hero-stat-lbl { font: var(--type-label-medium); opacity: 0.7; margin-top: 2px; }
+
+    /* ── Section Header ── */
+    .section-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 20px; padding-bottom: 12px; border-bottom: 1px solid var(--color-outline); border-image: linear-gradient(90deg, var(--color-primary), transparent 60%) 1; }
+    .section-title-group { display: flex; align-items: center; gap: 12px; }
+    .section-indicator { width: 4px; height: 24px; border-radius: var(--shape-full); background: linear-gradient(180deg, var(--color-primary), var(--color-tertiary)); }
+    .section-heading { font: var(--type-title-large); color: var(--color-on-surface); }
+    .section-meta { font: var(--type-label-medium); color: var(--color-on-surface-var); }
+
+    /* ═══ PROJECT CARD ════ */
+    .projects-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 20px; }
+    .projects-grid > * { min-width: 0; }
+
+    .project-card {
+      position: relative; border-radius: var(--shape-2xl);
+      background: var(--color-surface-cont); box-shadow: var(--elevation-1-shadow);
+      overflow: hidden; cursor: pointer;
+      transition: all 350ms cubic-bezier(0.2, 0, 0, 1);
+      display: flex; flex-direction: column;
+      animation: cardEnter 500ms ease-out both;
+      border: 1px solid transparent;
+    }
+    .project-card:nth-child(1) { --card-i: 0; } .project-card:nth-child(2) { --card-i: 1; }
+    .project-card:nth-child(3) { --card-i: 2; } .project-card:nth-child(4) { --card-i: 3; }
+    .project-card:nth-child(5) { --card-i: 4; } .project-card:nth-child(6) { --card-i: 5; }
+    .project-card:nth-child(7) { --card-i: 6; } .project-card:nth-child(8) { --card-i: 7; }
+    .project-card:nth-child(9) { --card-i: 8; } .project-card:nth-child(10){ --card-i: 9; }
+    .project-card:nth-child(11){--card-i: 10;} .project-card:nth-child(12){--card-i: 11;}
+    .project-card { animation-delay: calc(min((var(--card-i, 0)) * 50ms, 800ms)); }
+
+    @keyframes cardEnter { from { opacity: 0; transform: translateY(24px) scale(0.97); } to { opacity: 1; transform: translateY(0) scale(1); } }
+
+    .project-card:hover { transform: translateY(-6px); box-shadow: var(--elevation-4-shadow); border-color: var(--color-surface-cont-highest); background: var(--color-surface-bright); }
+    .card-accent-bar { height: 4px; background: linear-gradient(90deg, var(--color-primary), var(--color-tertiary), var(--md-secondary-80)); opacity: 0; transition: opacity 300ms; }
+    .project-card:hover .card-accent-bar { opacity: 1; }
+
+    .card-body { padding: 24px; display: flex; flex-direction: column; gap: 14px; }
+    .card-top-row { display: flex; align-items: flex-start; gap: 14px; }
+    .card-avatar { width: 44px; height: 44px; border-radius: var(--shape-lg); object-fit: cover; border: 2px solid var(--color-surface-cont-high); flex-shrink: 0; transition: border-color 200ms; }
+    .project-card:hover .card-avatar { border-color: var(--color-primary); }
+    .card-name-block { flex: 1; min-width: 0; }
+    .card-owner { font: var(--type-label-medium); color: var(--color-on-surface-var); font-family: var(--font-mono); letter-spacing: 0.02em; }
+    .card-repo-name { font: var(--type-title-medium); color: var(--color-on-surface); line-height: 1.3; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .rank-badge { font: var(--type-label-large); font-family: var(--font-mono); font-weight: 700; padding: 4px 10px; border-radius: var(--shape-full); background: var(--color-primary-container); color: var(--color-primary); flex-shrink: 0; align-self: flex-start; border: 1px solid var(--color-outline); }
+
+    .card-desc { font: var(--type-body-medium); color: var(--color-on-surface-var); line-height: 1.6; display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .card-desc.zh-ai { color: var(--color-on-surface); font-style: normal; }
+
+    .star-progress-track { height: 5px; border-radius: var(--shape-full); background: var(--color-surface-cont-highest); overflow: hidden; }
+    .star-progress-fill { height: 100%; border-radius: var(--shape-full); background: linear-gradient(90deg, var(--color-primary), var(--color-tertiary)); width: 0%; transition: width 1s cubic-bezier(0.2, 0, 0, 1); }
+
+    .meta-row { display: flex; flex-wrap: wrap; align-items: center; gap: 12px; }
+    .meta-item { display: inline-flex; align-items: center; gap: 5px; font: var(--type-label-medium); color: var(--color-on-surface-var); }
+    .meta-item svg { width: 15px; height: 15px; flex-shrink: 0; }
+    .meta-star { color: var(--color-tertiary); font-weight: 600; font-family: var(--font-mono); }
+    .lang-dot { width: 10px; height: 10px; border-radius: var(--shape-full); flex-shrink: 0; }
+    .meta-spacer { flex: 1; }
+    .meta-time { font-size: 12px; opacity: 0.7; }
+
+    .card-footer { padding: 14px 24px; border-top: 1px solid var(--color-outline); display: flex; align-items: center; justify-content: space-between; background: var(--color-surface-cont-low); }
+    .topic-chips { display: flex; flex-wrap: wrap; gap: 6px; flex: 1; }
+    .topic-chip { font: var(--type-label-small); padding: 3px 12px; border-radius: var(--shape-full); background: var(--color-surface-cont-high); color: var(--color-on-surface-var); border: 1px solid transparent; transition: all 200ms; }
+    .project-card:hover .topic-chip { border-color: var(--color-outline); color: var(--color-on-surface); }
+    .visit-btn { display: inline-flex; align-items: center; gap: 4px; padding: 6px 14px; border-radius: var(--shape-full); font: var(--type-label-medium); color: var(--color-primary); background: transparent; border: 1px solid transparent; transition: all 200ms; flex-shrink: 0; }
+    .project-card:hover .visit-btn { background: var(--color-primary-container); border-color: var(--color-primary); color: var(--color-on-pri-container); }
+    .visit-btn svg { width: 14px; height: 14px; }
+
+    /* ═══ LOADING SKELETON ════ */
+    .skeleton-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(360px, 1fr)); gap: 20px; }
+    .skeleton-card { border-radius: var(--shape-2xl); background: var(--color-surface-cont); height: 280px; position: relative; overflow: hidden; }
+    .skeleton-card::after { content: ''; position: absolute; inset: 0; background: linear-gradient(90deg, transparent 0%, oklch(from var(--color-surface-cont-highest) l c h / 0.4) 50%, transparent 100%); background-size: 200% 100%; animation: shimmer 1.5s ease-in-out infinite; }
+    @keyframes shimmer { from { background-position: 200% 0; } to { background-position: -200% 0; } }
+    .skeleton-shape { position: absolute; left: 24px; top: 24px; border-radius: var(--shape-lg); background: var(--color-surface-cont-high); }
+    .sk-avatar{width:44px;height:44px} .sk-title{left:76px;top:26px;width:60%;height:14px;border-radius:7px}
+    .sk-sub{left:76px;top:48px;width:35%;height:10px;border-radius:5px}
+    .sk-desc-1{left:24px;top:86px;width:100%;height:10px;border-radius:5px;right:24px}
+    .sk-desc-2{left:24px;top:106px;width:75%;height:10px;border-radius:5px}
+    .sk-desc-3{left:24px;top:126px;width:50%;height:10px;border-radius:5px}
+    .sk-bar{left:24px;top:156px;width:100%;height:5px;border-radius:var(--shape-full);right:24px}
+    .sk-meta-1{left:24px;bottom:52px;width:80px;height:10px;border-radius:5px}
+    .sk-meta-2{left:116px;bottom:52px;width:60px;height:10px;border-radius:5px}
+
+    /* ═══ ERROR STATE ════ */
+    .error-state { grid-column: 1 / -1; text-align: center; padding: 64px 24px; color: var(--color-on-surface-var); }
+    .error-state svg { width: 56px; height: 56px; opacity: 0.3; margin: 0 auto 16px; color: var(--color-error); }
+    .error-state h3 { font: var(--type-title-large); color: var(--color-on-surface); margin-bottom: 8px; }
+    .error-state p { font: var(--type-body-medium); max-width: 380px; margin: 0 auto 20px; }
+    .btn-filled { display: inline-flex; align-items: center; gap: 8px; height: 40px; padding: 0 24px; border-radius: var(--shape-full); border: none; background: var(--color-primary); color: var(--color-on-primary); font: var(--type-label-large); cursor: pointer; transition: all 200ms; }
+    .btn-filled:hover { box-shadow: var(--elevation-2-shadow); filter: brightness(1.05); }
+    .btn-filled svg { width: 16px; height: 16px; }
+
+    /* ═══ FOOTER ════ */
+    .site-footer { border-top: 1px solid var(--md-surface-container-highest); padding: 24px 20px; display: flex; align-items: center; justify-content: space-between; font: var(--type-label-small); color: var(--color-on-surface-var); background: var(--color-surface); }
+    .site-footer a { color: var(--color-primary); transition: opacity 200ms; }
+    .site-footer a:hover { opacity: 0.7; }
+
+    /* ═══ PANEL TOGGLE ════ */
+    .tab-panel { display: none; }
+    .tab-panel.active { display: block; animation: panelFade 300ms ease-out both; }
+    @keyframes panelFade { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+
+    /* ═══ UTILITIES ════ */
+    .spin { animation: spin 1s linear infinite; }
+    @keyframes spin { from{transform:rotate(0deg)}to{transform:rotate(360deg)} }
+    @keyframes pulse { 0%,100%{opacity:1}50%{opacity:0.4} }
+
+    /* ═══ Responsive ════ */
+    @media (max-width: 900px) { .hero-stats-row{grid-template-columns:repeat(2,1fr)} .projects-grid,.skeleton-grid{grid-template-columns:1fr!important} }
+    @media (max-width: 640px) { .search-bar{display:none} .hero-section{padding:24px 20px;border-radius:var(--shape-xl)} .hero-title{font-size:28px;line-height:1.2} .card-body{padding:18px} .card-footer{padding:12px 18px} main{padding:20px 12px 32px} }
+  </style>
+</head>
+<body>
+
+  <!-- ═══ TOP APP BAR ═══ -->
+  <header class="top-app-bar">
+    <button class="nav-icon-btn" aria-label="菜单">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><path d="M9.09 9a3 3 0 0 1 5.83 1c0 2-3 3-3 3"/><path d="M12 17h.01"/></svg>
+    </button>
+    <h1 class="app-bar-title">GitHub<span>Explorer</span></h1>
+    <div class="search-bar">
+      <svg class="icon-search" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/></svg>
+      <input class="search-input" id="qSearch" type="text" placeholder="搜索项目名称、描述或标签…" autocomplete="off"/>
+    </div>
+    <div class="chip-pill" id="liveBadge"><div class="chip-dot"></div><span id="liveText">实时</span></div>
+    <button class="nav-icon-btn" id="themeBtn" title="切换主题">
+      <svg id="themeIconSvg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/></svg>
+    </button>
+    <button class="chip-pill refresh-action" onclick="refreshData()">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/><path d="M21 12a9 9 0 0 1-9 9 9.75 9.75 0 0 1-6.74-2.74L3 16"/><path d="M8 16H3v5"/></svg>
+      刷新
+    </button>
+  </header>
+
+  <!-- ═══ NAVIGATION RAIL ═══ -->
+  <nav class="nav-rail" id="navRail">
+    <button class="nav-chip active" data-tab="trending" onclick="switchTab('trending',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polyline points="22 7 13.5 15.5 8.5 10.5 2 17"/><polyline points="16 7 22 7 22 13"/></svg>
+      🔥 热门趋势 <span class="nav-count" id="cnt-trending">—</span>
+    </button>
+    <button class="nav-chip" data-tab="newest" onclick="switchTab('newest',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+      🆕 最新项目 <span class="nav-count" id="cnt-newest">—</span>
+    </button>
+    <button class="nav-chip" data-tab="ai" onclick="switchTab('ai',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 2a4 4 0 0 1 4 4c0 1.9-1.3 3.5-3 3.9V12h3a1 1 0 0 1 0 2h-3v2.1c1.7.4 3 2 3 3.9a4 4 0 0 1-8 0c0-1.9 1.3-3.5 3-3.9V14H8a1 1 0 0 1 0-2h3V9.9C9.3 9.5 8 7.9 8 6a4 4 0 0 1 4-4z"/></svg>
+      🤖 AI & LLM <span class="nav-count" id="cnt-ai">—</span>
+    </button>
+    <button class="nav-chip" data-tab="design" onclick="switchTab('design',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="13.5" cy="6.5" r="2.5"/><circle cx="17.5" cy="10.5" r="2.5"/><circle cx="8.5" cy="7.5" r="2.5"/><circle cx="6.5" cy="12.5" r="2.5"/><path d="M12 20v-8.5"/><path d="M12 20H4a2 2 0 0 1-2-2v-8"/><path d="M22 10v8a2 2 0 0 1-2 2H12"/></svg>
+      🎨 设计系统 <span class="nav-count" id="cnt-design">—</span>
+    </button>
+    <button class="nav-chip" data-tab="tools" onclick="switchTab('tools',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"/></svg>
+      🛠 开发工具 <span class="nav-count" id="cnt-tools">—</span>
+    </button>
+    <button class="nav-chip" data-tab="mobile" onclick="switchTab('mobile',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect width="7" height="12" x="5" y="2" rx="1"/><path d="M5 7h14"/><path d="M5 11h14"/><path d="M5 15h14"/><path d="M14 2h5a1 1 0 0 1 1 1v16a1 1 0 0 1-1 1H5a1 1 0 0 1-1-1V3a1 1 0 0 1 1-1h4"/></svg>
+      📱 移动开发 <span class="nav-count" id="cnt-mobile">—</span>
+    </button>
+    <button class="nav-chip" data-tab="security" onclick="switchTab('security',this)">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M12 22s8-4 8-10V5l-8-3-8 3v7c0 6 8 10 8 10z"/></svg>
+      🔐 安全研究 <span class="nav-count" id="cnt-security">—</span>
+    </button>
+  </nav>
+
+  <!-- ═══ MAIN CONTENT ═══ -->
+  <main>
+    <section class="hero-section" id="heroSection">
+      <div class="hero-content">
+        <div class="hero-tag"><div class="chip-dot"></div>实时数据 · 浏览器端爬虫</div>
+        <h2 class="hero-title">发现 GitHub 上最精彩的开源世界</h2>
+        <p class="hero-sub">自动爬取 Trending 排行，AI 驱动的中文项目简介。点击任意卡片直达项目主页。</p>
+        <div class="hero-stats-row" id="heroStats">
+          <div class="hero-stat-card"><div class="hero-stat-val" id="statTotal">—</div><div class="hero-stat-lbl">当前板块</div></div>
+          <div class="hero-stat-card"><div class="hero-stat-val" id="statMaxStar">—</div><div class="hero-stat-lbl">最高 Star</div></div>
+          <div class="hero-stat-card"><div class="hero-stat-val" id="statLangs">—</div><div class="hero-stat-lbl">编程语言数</div></div>
+          <div class="hero-stat-card"><div class="hero-stat-val" id="statUpdated">—</div><div class="hero-stat-lbl">最后更新</div></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="tab-panel active" id="panel-trending">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator"></div><h3 class="section-heading">🔥 今日热门趋势</h3></div><span class="section-meta">GitHub Trending · 每日更新</span></div>
+      <div class="projects-grid" id="grid-trending"></div>
+    </section>
+    <section class="tab-panel" id="panel-newest">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,var(--color-tertiary),var(--color-primary))"></div><h3 class="section-heading">🆕 本周新秀</h3></div><span class="section-meta">过去一周内崛起的项目</span></div>
+      <div class="projects-grid" id="grid-newest"></div>
+    </section>
+    <section class="tab-panel" id="panel-ai">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,var(--color-primary),var(--md-tertiary-60))"></div><h3 class="section-heading">🤖 AI 与大模型</h3></div><span class="section-meta">LLM · 机器学习 · 生成式AI</span></div>
+      <div class="projects-grid" id="grid-ai"></div>
+    </section>
+    <section class="tab-panel" id="panel-design">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,var(--md-tertiary-60),#d97757)"></div><h3 class="section-heading">🎨 设计与 UI</h3></div><span class="section-meta">组件库 · 设计系统 · CSS框架</span></div>
+      <div class="projects-grid" id="grid-design"></div>
+    </section>
+    <section class="tab-panel" id="panel-tools">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,#3b82f6,var(--color-primary))"></div><h3 class="section-heading">🛠 开发工具链</h3></div><span class="section-meta">CLI · DevOps · 效率工具</span></div>
+      <div class="projects-grid" id="grid-tools"></div>
+    </section>
+    <section class="tab-panel" id="panel-mobile">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,#22c55e,#16a34a)"></div><h3 class="section-heading">📱 移动端开发</h3></div><span class="span class="section-meta">跨平台 · React Native · Flutter</span></div>
+      <div class="projects-grid" id="grid-mobile"></div>
+    </section>
+    <section class="tab-panel" id="panel-security">
+      <div class="section-header"><div class="section-title-group"><div class="section-indicator" style="background:linear-gradient(180deg,#ef4444,#dc2626)"></div><h3 class="section-heading">🔐 安全领域</h3></div><span class="section-meta">网络安全 · CTF · 渗透测试</span></div>
+      <div class="projects-grid" id="grid-security"></div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div>数据来源：<a href="https://github.com/trending" target="_blank" rel="noopener">github.com/trending</a> · 浏览器端爬虫实时抓取 · AI 中文简介由 Kimi 驱动</div>
+    <div>GitHub Explorer v3 Static · 仅作开源项目发现用途</div>
+  </footer>
+
+  <script>
+  /* ═══════════════════════════════════════════════════════════════
+     GitHub Explorer v3 — 纯静态版本（无需后端服务器）
+     数据来源: GitHub Trending 页面（通过 CORS 代理抓取）
+     AI 简介: Kimi API（浏览器端直连）
+     部署平台: GitHub Pages
+  ═══════════════════════════════════════════════════════════════ */
+
+  // ── 配置 ──
+  const KIMI_API_KEY = 'sk-kimi-Srjh1I9pk4adQ2MdTM4oZEm8RJEwl2Jpsu68TUHRIkOdw3b20LyoZFHpWUlVFWIR';
+  const CACHE_TTL = 10 * 60 * 1000;       // 爬虫数据缓存 10 分钟
+  const AI_CACHE_TTL = 30 * 60 * 1000;    // AI 描述缓存 30 分钟
+
+  // CORS 代理列表（自动故障转移）
+  const CORS_PROXIES = [
+    url => 'https://api.allorigins.win/raw?url=' + encodeURIComponent(url),
+    url => 'https://corsproxy.io/?' + encodeURIComponent(url),
+    url => 'https://api.codetabs.com/v1/proxy?quest=' + encodeURIComponent(url),
+  ];
+
+  // 分类 URL 映射
+  const CATEGORY_URLS = {
+    trending: 'https://github.com/trending?since=daily',
+    newest:   'https://github.com/trending?since=weekly',
+    ai:       'https://github.com/trending/artificial-intelligence?since=daily',
+    design:   'https://github.com/trending?since=weekly&spoken_language_code=',
+    tools:    'https://github.com/trending?since=daily&spoken_language_code=',
+    mobile:   'https://github.com/trending/mobile-development?since=daily',
+    security: 'https://github.com/trending/cyber-security?since=weekly',
+  };
+
+  // 语言颜色表
+  const LANG_COLORS = {
+    JavaScript:'#f1e05a', TypeScript:'#3178c6', Python:'#3572A5',
+    Java:'#b07219', C:'#555555', 'C++':'#f34b7d', 'C#':'#178600',
+    Go:'#00ADD8', Rust:'#dea584', Swift:'#F05138',
+    Kotlin:'#A97BFF', Ruby:'#701516', PHP:'#4F5D95',
+    Shell:'#89e051', HTML:'#e34c26', CSS:'#563d7c',
+    Vue:'#41b883', Dart:'#00B4AB', Jupyter:'#DA5B0B',
+    Dockerfile:'#384d54', Makefile:'#427819',
+  };
+
+  function fmtNum(n) {
+    if (!n && n !== 0) return '—';
+    if (n >= 1e6) return (n/1e6).toFixed(1)+'M';
+    if (n >= 1e3) return (n/1e3).toFixed(1)+'k';
+    return ''+n;
+  }
+  function getLangColor(l) { return LANG_COLORS[l]||'#6b7280'; }
+  function relTime(iso) {
+    const diff = Date.now() - new Date(iso).getTime();
+    const m = Math.floor(diff/60000), h = Math.floor(diff/3600000), d = Math.floor(diff/86400000);
+    if (m<60) return m+'分钟前';
+    if (h<24) return h+'小时前';
+    if (d<30) return d+'天前';
+    if (d<365) return Math.floor(d/30)+'个月前';
+    return Math.floor(d/365)+'年前';
+  }
+
+  // ── localStorage 缓存 ──
+  const CACHE_PREFIX = 'gh_explorer_';
+
+  function cacheGet(key) {
+    try {
+      const raw = localStorage.getItem(CACHE_PREFIX + key);
+      if (!raw) return null;
+      const obj = JSON.parse(raw);
+      if (Date.now() > obj.exp) { localStorage.removeItem(CACHE_PREFIX + key); return null; }
+      return obj.data;
+    } catch(e) { return null; }
+  }
+  function cacheSet(key, data, ttl) {
+    localStorage.setItem(CACHE_PREFIX + key, JSON.stringify({ data, exp: Date.now() + ttl }));
+  }
+
+  // ── 通过 CORS 代理抓取页面 ──
+  async function fetchViaProxy(targetUrl) {
+    let lastError;
+    for (let i = 0; i < CORS_PROXIES.length; i++) {
+      const proxyUrl = CORS_PROXIES[i](targetUrl);
+      try {
+        const res = await fetch(proxyUrl, { signal: AbortSignal.timeout(15000) });
+        if (!res.ok) throw new Error(`Proxy HTTP ${res.status}`);
+        return await res.text();
+      } catch(e) {
+        lastError = e;
+        console.warn(`[CORS Proxy ${i+1}] 失败:`, e.message);
+      }
+    }
+    throw lastError || new Error('所有 CORS 代理均不可用');
+  }
+
+  // ── 解析 GitHub Trending HTML（浏览器端 DOMParser）──
+  function parseTrendingHTML(html) {
+    const parser = new DOMParser();
+    const doc = parser.parseFromString(html, 'text/html');
+    const repos = [];
+    const rows = doc.querySelectorAll('.Box-row');
+
+    rows.forEach(row => {
+      // 项目链接和名称
+      const linkEl = row.querySelector('h2 a[href^="/"]');
+      if (!linkEl) return;
+      let href = linkEl.getAttribute('href') || '';
+      href = href.trim().replace(/^\//,'').replace(/\/$/,'');
+      if (!href || !href.includes('/')) return;
+
+      const parts = href.split('/').map(s => s.trim());
+      if (parts.length < 2) return;
+      const owner = parts[0], name = parts[1];
+
+      // 描述
+      const pEl = row.querySelector('p');
+      const desc = pEl ? pEl.textContent.trim() : '';
+
+      // Stars
+      const starLink = row.querySelector('a[href*="/stargazers"]');
+      let stars = 0;
+      if (starLink) {
+        const st = starLink.textContent.replace(/[^0-9.]/g,'').trim();
+        const m = st.match(/([\d.]+)([kKmMbB]?)/);
+        if (m) {
+          stars = parseFloat(m[1]);
+          const suf = (m[2]||'').toUpperCase();
+          if (suf==='K') stars*=1000; else if(suf==='M') stars*=1000000; else if(suf==='B') stars*=1000000000;
+          stars=Math.round(stars);
+        }
+      }
+
+      // Forks
+      const forkLink = row.querySelector('a[href*="/forks"]');
+      let forks = 0;
+      if (forkLink) {
+        const ft = forkLink.textContent.replace(/[^0-9.]/g,'').trim();
+        const m = ft.match(/([\d.]+)([kKmMbB]?)/);
+        if (m) {
+          forks = parseFloat(m[1]);
+          const suf = (m[2]||'').toUpperCase();
+          if (suf==='K') forks*=1000; else if(suf==='M') forks*=1000000;
+          forks=Math.round(forks);
+        }
+      }
+
+      // 今日新增 Star
+      let todayStars = 0;
+      const dailyStarEls = row.querySelectorAll('span.d-inline-block.float-sm-right');
+      if (dailyStarEls.length > 0) {
+        const dsText = dailyStarEls[dailyStarEls.length-1]?.textContent?.replace(/[^0-9]/g,'');
+        todayStars = parseInt(dsText)||0;
+      }
+      // fallback: 搜索包含 "stars today" 文本的小 span
+      if (todayStars === 0) {
+        Array.from(row.querySelectorAll('span')).forEach(sp => {
+          const t = sp.textContent.trim();
+          if (/^\d+\s*stars?\s*(today|today)$/i.test(t)) {
+            todayStars = parseInt(t)||0;
+          }
+        });
+      }
+
+      // 语言
+      const langProp = row.querySelector('[itemprop="programmingLanguage"]');
+      const language = langProp ? langProp.textContent.trim() : '';
+
+      // Topics
+      const topics = [];
+      row.querySelectorAll('a.topic-tag-link').forEach(t => {
+        const tn = t.textContent.trim(); if (tn) topics.push(tn);
+      });
+      // Fallback: topic-tag
+      if (topics.length === 0) {
+        row.querySelectorAll('.topic-tag').forEach(t => {
+          const tn = t.textContent.trim(); if (tn) topics.push(tn);
+        });
+      }
+
+      repos.push({
+        fullName: `${owner}/${name}`,
+        owner, name,
+        description: desc,
+        url: `https://github.com/${owner}/${name}`,
+        avatarUrl: `https://github.com/${owner}.png`,
+        stars, forks, todayStars,
+        language,
+        topics,
+        updatedAt: new Date().toISOString(),
+      });
+    });
+
+    return repos;
+  }
+
+  // ── Kimi AI 中文简介 ──
+  async function callKimi(repo) {
+    const prompt = `请用一句话（不超过50个字）为以下GitHub开源项目写一个中文简介，突出它的核心功能和用途。只输出简介文字本身，不要加任何格式、标题或解释。
+
+项目名：${repo.fullName}
+原始描述：${repo.description||'无'}
+语言：${repo.language||'未知'}
+⭐${fmtNum(repo.stars)}
+${repo.topics&&repo.topics.length?'标签：'+repo.topics.join(', '):''}`;
+
+    try {
+      const res = await fetch('https://api.moonshot.cn/v1/chat/completions', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Authorization': `Bearer ${KIMI_API_KEY}`,
+        },
+        body: JSON.stringify({
+          model: 'moonshot-v1-8k',
+          messages: [{ role: 'user', content: prompt }],
+          max_tokens: 120,
+          temperature: 0.7,
+        }),
+        signal: AbortSignal.timeout(20000),
+      });
+      if (!res.ok) return '';
+      const json = await res.json();
+      const text = json.choices?.[0]?.message?.content || '';
+      return text.trim().replace(/^["'""]|["'""]$/g, '');
+    } catch(e) {
+      console.warn('[Kimi] AI 描述生成失败:', e.message);
+      return '';
+    }
+  }
+
+  const BATCH_SIZE = 3;  // 浏览器端并发控制更保守
+  async function batchAiDesc(repos) {
+    const results = {};
+    for (let i = 0; i < repos.length; i += BATCH_SIZE) {
+      const batch = repos.slice(i, i + BATCH_SIZE);
+      await Promise.all(batch.map(async (repo) => {
+        results[repo.fullName] = await callKimi(repo);
+      }));
+    }
+    return results;
+  }
+
+  // ── 抓取 + 解析主流程 ──
+  async function scrapeCategory(category) {
+    const cacheKey = 'scrape_' + category;
+    // 先检查缓存
+    const cached = cacheGet(cacheKey);
+    if (cached) return cached;
+
+    const targetUrl = CATEGORY_URLS[category];
+    if (!targetUrl) throw new Error(`未知分类: ${category}`);
+
+    // 抓取页面
+    const html = await fetchViaProxy(targetUrl);
+    const repos = parseTrendingHTML(html);
+
+    // 存入缓存
+    cacheSet(cacheKey, repos, CACHE_TTL);
+    return repos;
+  }
+
+  // ── UI 渲染函数 ──
+  function renderSkeletons(gridId) {
+    document.getElementById(gridId).innerHTML = Array(12).fill(`
+      <div class="skeleton-card"><div class="skeleton-shape sk-avatar"></div>
+      <div class="skeleton-shape sk-title"></div><div class="skeleton-shape sk-sub"></div>
+      <div class="skeleton-shape sk-desc-1"></div><div class="skeleton-shape sk-desc-2"></div>
+      <div class="skeleton-shape sk-desc-3"></div><div class="skeleton-shape sk-bar"></div>
+      <div class="skeleton-shape sk-meta-1"></div><div class="skeleton-shape sk-meta-2"></div></div>`).join('');
+  }
+
+  function renderError(gridId, msg) {
+    document.getElementById(gridId).innerHTML =
+      `<div class="error-state">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="12"cy="12"r="8"/><path d="m15 9-6 6"/><path d="m9 9 6 6"/></svg>
+        <h3>加载失败</h3><p>${msg}</p>
+        <button class="btn-filled" onclick="loadTab('${gridId.replace('grid-','')}')">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M3 12a9 9 0 0 1 9-9 9.75 9.75 0 0 1 6.74 2.74L21 8"/><path d="M21 3v5h-5"/></svg>重试
+        </button></div>`;
+  }
+
+  function renderCard(repo, idx, maxStars) {
+    const pct = Math.min(100, Math.round(((repo.stars||0)/Math.max(maxStars,1))*100));
+    const topics = (repo.topics||[]).slice(0,4);
+    const desc = repo.zhDesc || repo.description || '暂无描述';
+    const lang = repo.language;
+    const lc = getLangColor(lang);
+    const today = repo.todayStars ? `今日 +${fmtNum(repo.todayStars)} ⭐` : '';
+    const isAiDesc = !!repo.zhDesc;
+
+    return `
+    <article class="project-card" onclick="window.open('${repo.url}','_blank','noopener')" role="button" tabindex="0">
+      <div class="card-accent-bar"></div>
+      <div class="card-body">
+        <div class="card-top-row">
+          <img class="card-avatar" src="${repo.avatarUrl}" alt="${repo.owner}" loading="lazy"
+               onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 44 44%22><rect fill=%22%23${lang?'333':'ccc'}%22 rx=%2210%22 width=%2244%22 height=%2244%22/><text x=%2222%22 y=%2228%22 text-anchor=%22middle%22 fill=%22white%22 font-size=%2216%22>${repo.owner[0].toUpperCase()}</text></svg>'"/>
+          <div class="card-name-block"><div class="card-owner">${repo.owner}</div><div class="card-repo-name" title="${repo.name}">${repo.name}</div></div>
+          <span class="rank-badge">#${idx+1}</span>
+        </div>
+        <p class="card-desc ${isAiDesc?'zh-ai':''}">${desc}${today ? `<br/><small style="opacity:.6;font-size:12px">${today}</small>` : ''}</p>
+        <div class="star-progress-track"><div class="star-progress-fill" style="width:${pct}%"></div></div>
+        <div class="meta-row">
+          <span class="meta-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><polygon points="12 2 15.09 8.26 22 9.27 17 14.14 18.18 21.02 12 17.77 5.82 21.02 7 14.14 2 9.27 8.91 8.26 12 2"/></svg><span class="meta-star">${fmtNum(repo.stars)}</span></span>
+          <span class="meta-item"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M15 22v-4a4.8 4.8 0 0 0-1-3.5c3 0 6-2 6-5.5.08-1.25-.27-2.48-1-3.5.28-1.15.28-2.35 0-3.5 0 0-1 0-3 1.5-2.64-.5-5.36-.5-8 0C6 2 5 2 5 2c-.3 1.15-.3 2.35 0 3.5A5.403 5.403 0 0 0 4 9c0 3.5 3 5.5 6 5.5-.39.49-.68 1.05-.85 1.65-.17.6-.22 1.23-.15 1.85v4"/><path d="M9 18c-4.51 2-5-2-7-2"/></svg>${fmtNum(repo.forks)}</span>
+          ${lang ? `<span class="meta-item"><span class="lang-dot" style="background:${lc}"></span>${lang}</span>` : ''}
+          <span class="meta-spacer"></span><span class="meta-item meta-time">${repo.updatedAt ? relTime(repo.updatedAt) : ''}</span>
+        </div>
+      </div>
+      ${topics.length ? `<div class="card-footer"><div class="topic-chips">${topics.map(t=>`<span class="topic-chip">${t}</span>`).join('')}</div><span class="visit-btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>访问</span></div>` : `<div class="card-footer"><div></div><span class="visit-btn"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>查看</span></div>`}
+    </article>`;
+  }
+
+  function updateStats(repos) {
+    const total = repos.length;
+    const maxS = repos.length ? Math.max(...repos.map(r=>r.stars||0)) : 0;
+    const langs = new Set(repos.map(r=>r.language).filter(Boolean));
+    const now = new Date().toLocaleTimeString('zh-CN',{hour:'2-digit',minute:'2-digit'});
+    document.getElementById('statTotal').textContent = total;
+    document.getElementById('statMaxStar').textContent = fmtNum(maxS);
+    document.getElementById('statLangs').textContent = langs.size;
+    document.getElementById('statUpdated').textContent = now;
+    document.getElementById('liveText').textContent = now+' 更新';
+  }
+
+  // ── 数据存储与状态 ──
+  let allRepos = {};
+  let currentTab = 'trending';
+  let currentSearch = '';
+  let loadedTabs = new Set();
+
+  function filterRender(tab) {
+    const repos = allRepos[tab] || [];
+    const term = currentSearch.trim().toLowerCase();
+    const filtered = term ? repos.filter(r => {
+      const t = `${r.fullName} ${r.description||''} ${r.owner} ${(r.topics||[]).join(' ')}`.toLowerCase();
+      return t.includes(term);
+    }) : repos;
+    const grid = document.getElementById('grid-'+tab);
+    if (!filtered.length) {
+      grid.innerHTML = `<div class="error-state"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5"><circle cx="11"cy="11"r="8"/><path d="m21 21-4.35-4.35"/></svg><h3>无匹配结果</h3><p>换个关键词试试？</p></div>`;
+      return;
+    }
+    const maxS = Math.max(...filtered.map(r=>r.stars||0));
+    grid.innerHTML = filtered.map((r,i)=>renderCard(r,i,maxS)).join('');
+    updateStats(filtered);
+  }
+
+  // ── 加载 tab ──
+  async function loadTab(tab) {
+    if (loadedTabs.has(tab) && !isRefreshing) { filterRender(tab); return; }
+    renderSkeletons('grid-'+tab);
+    try {
+      let repos = await scrapeCategory(tab);
+      allRepos[tab] = repos;
+      loadedTabs.add(tab);
+      const badge = document.getElementById('cnt-'+tab);
+      if (badge) badge.textContent = repos.length;
+
+      // 尝试加载缓存的 AI 描述
+      const aiCacheKey = 'ai_' + tab;
+      const cachedAi = cacheGet(aiCacheKey);
+      if (cachedAi) {
+        Object.entries(cachedAi).forEach(([k,v]) => {
+          const r = repos.find(x=>x.fullName===k); if(r) r.zhDesc=v;
+        });
+        filterRender(tab);
+      } else {
+        filterRender(tab);
+        // 后台异步生成 AI 描述
+        batchAiDesc(repos).then(aiMap => {
+          const hasAny = Object.values(aiMap).some(Boolean);
+          if (hasAny) {
+            Object.entries(aiMap).forEach(([k,v]) => {
+              if(v){const r=repos.find(x=>x.fullName===k);if(r)r.zhDesc=v;}
+            });
+            cacheSet(aiCacheKey, aiMap, AI_CACHE_TTL);
+            filterRender(tab);
+          }
+        }).catch(()=>{});
+      }
+    } catch(e) {
+      console.error('[Load]', tab, e);
+      renderError('grid-'+tab, e.message);
+    }
+  }
+
+  function switchTab(tab, el) {
+    document.querySelectorAll('.nav-chip').forEach(c=>c.classList.remove('active'));
+    document.querySelectorAll('.tab-panel').forEach(p=>p.classList.remove('active'));
+    el.classList.add('active');
+    document.getElementById('panel-'+tab).classList.add('active');
+    currentTab = tab;
+    loadTab(tab);
+  }
+
+  let isRefreshing = false;
+  async function refreshData() {
+    isRefreshing = true;
+    loadedTabs.clear();
+    allRepos = {};
+    // 清除所有爬虫缓存
+    Object.keys(localStorage)
+      .filter(k => k.startsWith(CACHE_PREFIX+'scrape_'))
+      .forEach(k => localStorage.removeItem(k));
+
+    const btn = document.querySelector('.refresh-action svg');
+    btn?.classList.add('spin');
+    await loadTab(currentTab);
+    btn?.classList.remove('spin');
+    isRefreshing = false;
+  }
+
+  // 主题切换
+  let isDark = true;
+  document.getElementById('themeBtn').addEventListener('click', () => {
+    isDark = !isDark;
+    document.documentElement.dataset.theme = isDark ? 'dark' : 'light';
+    document.getElementById('themeIconSvg').innerHTML = isDark
+      ? '<path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"/>'
+      : '<circle cx="12" cy="12" r="5"/><line x1="12" y1="1" x2="12" y2="3"/><line x1="12" y1="21" x2="12" y2="23"/><line x1="4.22" y1="4.22" x2="5.64" y2="5.64"/><line x1="18.36" y1="18.36" x2="19.78" y2="19.78"/><line x1="1" y1="12" x2="3" y2="12"/><line x1="21" y1="12" x2="23" y2="12"/><line x1="4.22" y1="19.78" x2="5.64" y2="18.36"/><line x1="18.36" y1="5.64" x2="19.78" y2="4.22"/>';
+  });
+
+  // 搜索
+  let searchTimer;
+  document.getElementById('qSearch').addEventListener('input', e => {
+    clearTimeout(searchTimer);
+    searchTimer = setTimeout(() => { currentSearch = e.target.value; filterRender(currentTab); }, 300);
+  });
+
+  // 启动
+  loadTab('trending');
+
+  // 初始化 Lucide 图标（如果库加载完成）
+  if (typeof lucide !== 'undefined') { lucide.createIcons(); }
+  </script>
+</body>
+</html>
