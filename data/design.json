@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-17T21:34:51.314Z",
+  "updated": "2026-05-17T22:32:25.093Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "avatarUrl": "https://github.com/bytedance.png",
-      "stars": 34383,
+      "stars": 34391,
       "forks": 3444,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,7 +25,7 @@
       "description": "Coding agent for DeepSeek models that runs in your terminal",
       "url": "https://github.com/Hmbown/DeepSeek-TUI",
       "avatarUrl": "https://github.com/Hmbown.png",
-      "stars": 31197,
+      "stars": 31206,
       "forks": 2633,
       "todayStars": 0,
       "language": "Rust",
