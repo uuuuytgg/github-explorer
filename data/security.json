@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-17T11:44:54.342Z",
-  "count": 2,
+  "updated": "2026-05-17T11:53:05.019Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "KeygraphHQ/shannon",
@@ -12,7 +12,7 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "url": "https://github.com/KeygraphHQ/shannon",
       "avatarUrl": "https://github.com/KeygraphHQ.png",
-      "stars": 42464,
+      "stars": 42468,
       "forks": 4856,
       "todayStars": 0,
       "language": "TypeScript",
@@ -38,7 +38,7 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "url": "https://github.com/plausible/analytics",
       "avatarUrl": "https://github.com/plausible.png",
-      "stars": 25068,
+      "stars": 25073,
       "forks": 1430,
       "todayStars": 0,
       "language": "Elixir",
