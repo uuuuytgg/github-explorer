@@ -1,0 +1,54 @@
+name: Scrape GitHub Trending
+
+on:
+  schedule:
+    # 每 15 分钟运行一次 (UTC)
+    - cron: '*/15 * * * *'
+  # 手动触发
+  workflow_dispatch:
+  # 推送到 main 时也运行（用于测试）
+  push:
+    branches:
+      - main
+    paths:
+      - 'scripts/scrape.js'
+      - '.github/workflows/scrape.yml'
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      # 需要写入仓库内容来提交 JSON 数据
+      contents: write
+    
+    steps:
+      - name: 检出仓库
+        uses: actions/checkout@v4
+
+      - name: 设置 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 运行爬虫
+        run: node scripts/scrape.js
+        env:
+          AI_API_KEY: ${{ secrets.AI_API_KEY }}
+          # 可选：覆盖默认的 AI API 配置
+          # AI_API_URL: ${{ secrets.AI_API_URL }}
+          # AI_MODEL: ${{ secrets.AI_MODEL }}
+
+      - name: 提交更新的数据
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          
+          # 检查 data/ 目录是否有变更
+          if git diff --quiet data/; then
+            echo "数据无变化，跳过提交"
+          else
+            git add data/
+            git commit -m "📊 自动更新数据 [$(date -u +'%Y-%m-%d %H:%M UTC')]"
+            git push
+            echo "✅ 数据已更新并推送"
+          fi

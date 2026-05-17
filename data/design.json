@@ -1,0 +1,23 @@
+{
+  "category": "design",
+  "label": "设计系统",
+  "icon": "🎨",
+  "updated": "2026-05-17T11:14:56.540Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "millionco/react-doctor",
+      "owner": "millionco",
+      "name": "react-doctor",
+      "description": "Your agent writes bad React. This catches it",
+      "url": "https://github.com/millionco/react-doctor",
+      "avatarUrl": "https://github.com/millionco.png",
+      "stars": 9845,
+      "forks": 310,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ],
+  "error": null
+}

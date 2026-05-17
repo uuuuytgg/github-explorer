@@ -1,0 +1,23 @@
+{
+  "category": "security",
+  "label": "安全研究",
+  "icon": "🔐",
+  "updated": "2026-05-17T11:14:56.540Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "sponsors/explore",
+      "owner": "sponsors",
+      "name": "explore",
+      "description": "",
+      "url": "https://github.com/sponsors/explore",
+      "avatarUrl": "https://github.com/sponsors.png",
+      "stars": 0,
+      "forks": 0,
+      "todayStars": 0,
+      "language": "",
+      "topics": []
+    }
+  ],
+  "error": null
+}

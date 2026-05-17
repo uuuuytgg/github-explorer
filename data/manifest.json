@@ -1,0 +1,40 @@
+{
+  "updated": "2026-05-17T11:14:56.540Z",
+  "categories": {
+    "trending": {
+      "label": "热门趋势",
+      "icon": "🔥",
+      "count": 18
+    },
+    "newest": {
+      "label": "本周新星",
+      "icon": "🆕",
+      "count": 15
+    },
+    "ai": {
+      "label": "AI & LLM",
+      "icon": "🤖",
+      "count": 0
+    },
+    "design": {
+      "label": "设计系统",
+      "icon": "🎨",
+      "count": 1
+    },
+    "tools": {
+      "label": "开发工具",
+      "icon": "🛠",
+      "count": 4
+    },
+    "mobile": {
+      "label": "移动开发",
+      "icon": "📱",
+      "count": 1
+    },
+    "security": {
+      "label": "安全研究",
+      "icon": "🔐",
+      "count": 1
+    }
+  }
+}
