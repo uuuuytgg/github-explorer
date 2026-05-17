@@ -46,38 +46,38 @@ const CATEGORIES = {
     priority: 2,
   },
   ai: {
-    url: 'https://github.com/trending?since=daily', // 主 Trending 页(服务端渲染)+关键词过滤
+    url: 'https://github.com/trending?since=daily',
     label: 'AI & LLM',
     icon: '🤖',
-    keywords: ['ai','llm','gpt','openai','claude','diffusion','agent','chatbot','langchain','langgraph','rag','vector','embedding','pytorch','tensorflow','transformer','neural','deep-learning','machine-learning','stable-diffusion','sora','veo','gen-ai','generative','nlp','llama','mistral','gemini','copilot','autogen','crewai','composio','mlx','whisper','tts','stt','voice','vision','multimodal'],
+    keywords: ['ai','llm','gpt','openai','claude','diffusion','agent','chatbot','langchain','langgraph','rag','embedding','vector','pytorch','tensorflow','transformer','neural','deep-learning','machine-learning','stable-diffusion','sora','veo','gen-ai','generative','nlp','llama','mistral','gemini','copilot','autogen','crewai','composio','mlx','whisper','tts','stt','voice','speech','multimodal','openai','anthropic','ollama','fine-tune','rlhf','sft','inference','pretrained','model-hub','huggingface','jupyter'],
     priority: 1,
   },
   design: {
     url: 'https://github.com/trending?since=weekly',
     label: '设计系统',
     icon: '🎨',
-    keywords: ['design','ui-kit','component','tailwind','css','shadcn','radix','chakra','material','ant-design','figma','theme','animation','vue','react'],
+    keywords: ['design','ui','ux','interface','frontend','component-library','tailwind','shadcn','radix','chakra','material design','ant-design','figma','theme','template','dashboard','style','animation','css','canvas','svg','icon','typography','color','palette','responsive','layout','storybook','motion','framer'],
     priority: 3,
   },
   tools: {
     url: 'https://github.com/trending?since=daily',
     label: '开发工具',
     icon: '🛠',
-    keywords: ['cli','tool','devops','docker','k8s','terraform','terminal','shell','automation','workflow','ci-cd','git','sdk','api','proxy','debug','monitoring'],
+    keywords: ['cli','terminal','shell','runtime','bundler','package-manager','devops','docker','k8s','kubernetes','terraform','monitoring','logging','debug','profiler','workflow','ci/cd','git','github-actions','sdk','api','proxy','server','framework','engine','platform','analytics','pipeline','automation','scaffold','config','migration','generator','formatter','linter','compiler','transpiler','test-runner','coverage','benchmark','cms','publishing','newsletter','subscription'],
     priority: 3,
   },
   mobile: {
     url: 'https://github.com/trending?since=daily',
     label: '移动开发',
     icon: '📱',
-    keywords: ['react-native','flutter','android','ios','swiftui','jetpack','compose','expo','ionic','cordova','mobile','appkit','kotlin','swift','dart'],
+    keywords: ['mobile','android','ios','iphone','ipad','flutter','react-native','swiftui','jetpack-compose','expo','capacitor','kotlin','swift','dart','watchos','tvos','smartwatch','wearable','cross-platform','pwa','hybrid-app','play-store','app-store','material-you','adaptive'],
     priority: 3,
   },
   security: {
     url: 'https://github.com/trending?since=daily',
     label: '安全研究',
     icon: '🔐',
-    keywords: ['security','cyber','ctf','hack','penetration','exploit','vulnerability','crypto','encryption','firewall','malware','forensic','red-team','zero-day','pentest','auth','oauth','jwt','sso','xss','sql-injection','sandbox','container-security','supply-chain'],
+    keywords: ['security','auth','authentication','authorization','oauth','jwt','token','ssl','tls','certificate','encryption','decrypt','cipher','crypto','cryptography','hash','firewall','malware','antivirus','ctf','capture-the-flag','penetration-test','pentest','exploit','vulnerability','cve','zeroday','zero-day','patch','forensic','cyber','risk','compliance','audit','intrusion','detection','ids','ips','waf','scan','scanner','privacy','gdpr','sandbox','isolate','privilege','escalation','phishing','ransomware','ddos','mitm','reverse-engineering','obfuscation'],
     priority: 3,
   },
 };
@@ -398,9 +398,18 @@ async function translateBatch(repos, concurrency) {
 
 function filterByKeywords(repos, keywords) {
   if (!keywords || keywords.length === 0) return repos;
+  const thresholds = { 3: 3, 2: 5, 1: 999 }; // 至少匹配几个关键词
   return repos.filter(r => {
-    const text = `${r.name} ${r.description} ${r.language || ''}`.toLowerCase();
-    return keywords.some(k => text.includes(k));
+    const text = [r.name, r.description, r.language || '', (r.topics||[]).join(' ')].join(' ').toLowerCase();
+    let matches = 0;
+    for (const kw of keywords) {
+      const search = kw.toLowerCase();
+      // 精确匹配或空格分隔的词匹配
+      if (text.includes(search) || text.split(/[\s_-]+/).some(w => w.startsWith(search))) {
+        matches++;
+      }
+    }
+    return matches >= 1;
   });
 }
 
