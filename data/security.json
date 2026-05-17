@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-17T18:42:17.029Z",
+  "updated": "2026-05-17T19:48:54.216Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Shannon Lite is an autonomous, white-box AI pentester for web applications and APIs. It analyzes your source code, identifies attack vectors, and executes real exploits to prove vulnerabilities before they reach production.",
       "url": "https://github.com/KeygraphHQ/shannon",
       "avatarUrl": "https://github.com/KeygraphHQ.png",
-      "stars": 42605,
-      "forks": 4865,
+      "stars": 42621,
+      "forks": 4867,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "url": "https://github.com/TryGhost/Ghost",
       "avatarUrl": "https://github.com/TryGhost.png",
-      "stars": 53194,
+      "stars": 53210,
       "forks": 11604,
       "todayStars": 0,
       "language": "JavaScript",
@@ -38,8 +38,8 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "url": "https://github.com/plausible/analytics",
       "avatarUrl": "https://github.com/plausible.png",
-      "stars": 25272,
-      "forks": 1448,
+      "stars": 25302,
+      "forks": 1451,
       "todayStars": 0,
       "language": "Elixir",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 3170,
-      "forks": 251,
+      "stars": 3195,
+      "forks": 252,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
