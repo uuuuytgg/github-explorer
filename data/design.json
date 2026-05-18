@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-18T20:08:36.139Z",
+  "updated": "2026-05-18T21:35:32.205Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Open-Source Multimodal AI Agent Stack: Connecting Cutting-Edge AI Models and Agent Infra",
       "url": "https://github.com/bytedance/UI-TARS-desktop",
       "avatarUrl": "https://github.com/bytedance.png",
-      "stars": 34607,
-      "forks": 3468,
+      "stars": 34615,
+      "forks": 3470,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
