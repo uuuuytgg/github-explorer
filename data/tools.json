@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-18T12:54:46.728Z",
+  "updated": "2026-05-18T16:17:03.355Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 36301,
-      "forks": 3525,
+      "stars": 36422,
+      "forks": 3534,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A set of ready to use Agent Skills for research, science, engineering, analysis, finance and writing.",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "avatarUrl": "https://github.com/K-Dense-AI.png",
-      "stars": 24156,
-      "forks": 2562,
+      "stars": 24246,
+      "forks": 2566,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 59551,
-      "forks": 7770,
+      "stars": 59666,
+      "forks": 7788,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "url": "https://github.com/plausible/analytics",
       "avatarUrl": "https://github.com/plausible.png",
-      "stars": 25728,
-      "forks": 1480,
+      "stars": 25804,
+      "forks": 1488,
       "todayStars": 0,
       "language": "Elixir",
       "topics": []
