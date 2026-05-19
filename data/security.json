@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-19T06:18:58.567Z",
+  "updated": "2026-05-19T10:12:12.192Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 60124,
-      "forks": 7834,
+      "stars": 60323,
+      "forks": 7861,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "avatarUrl": "https://github.com/CloakHQ.png",
-      "stars": 15587,
-      "forks": 1223,
+      "stars": 15882,
+      "forks": 1244,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open source, privacy-first web analytics. Lightweight, cookie-free Google Analytics alternative. Self-hosted or cloud.",
       "url": "https://github.com/plausible/analytics",
       "avatarUrl": "https://github.com/plausible.png",
-      "stars": 26062,
-      "forks": 1499,
+      "stars": 26141,
+      "forks": 1500,
       "todayStars": 0,
       "language": "Elixir",
       "topics": []
