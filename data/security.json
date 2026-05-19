@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-19T20:10:04.217Z",
+  "updated": "2026-05-19T21:43:16.895Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Stealth Chromium that passes every bot detection test. Drop-in Playwright replacement with source-level fingerprint patches. 30/30 tests passed.",
       "url": "https://github.com/CloakHQ/CloakBrowser",
       "avatarUrl": "https://github.com/CloakHQ.png",
-      "stars": 16409,
-      "forks": 1268,
+      "stars": 16469,
+      "forks": 1269,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "CLI proxy that reduces LLM token consumption by 60-90% on common dev commands. Single Rust binary, zero dependencies",
       "url": "https://github.com/rtk-ai/rtk",
       "avatarUrl": "https://github.com/rtk-ai.png",
-      "stars": 50739,
-      "forks": 3094,
+      "stars": 50788,
+      "forks": 3096,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 101400,
-      "forks": 16770,
+      "stars": 101456,
+      "forks": 16777,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 6350,
-      "forks": 425,
+      "stars": 6443,
+      "forks": 430,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "avatarUrl": "https://github.com/Diolinux.png",
-      "stars": 10694,
+      "stars": 10724,
       "forks": 372,
       "todayStars": 0,
       "language": "CSS",
