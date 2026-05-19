@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-19T02:00:30.127Z",
+  "updated": "2026-05-19T06:18:58.567Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Lightning-Fast, On-Device, Multilingual TTS — running natively via ONNX.",
       "url": "https://github.com/supertone-inc/supertonic",
       "avatarUrl": "https://github.com/supertone-inc.png",
-      "stars": 8376,
-      "forks": 854,
+      "stars": 8486,
+      "forks": 861,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
