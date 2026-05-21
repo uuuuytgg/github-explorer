@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-21T05:52:22.556Z",
+  "updated": "2026-05-21T08:52:32.989Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 10612,
-      "forks": 654,
+      "stars": 11291,
+      "forks": 684,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 5540,
-      "forks": 459,
+      "stars": 5613,
+      "forks": 464,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 103063,
-      "forks": 16983,
+      "stars": 103193,
+      "forks": 16997,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
