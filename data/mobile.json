@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-21T22:46:46.708Z",
+  "updated": "2026-05-21T23:48:22.866Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "url": "https://github.com/teng-lin/notebooklm-py",
       "avatarUrl": "https://github.com/teng-lin.png",
-      "stars": 14352,
-      "forks": 1992,
+      "stars": 14363,
+      "forks": 1993,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "url": "https://github.com/truelockmc/streambert",
       "avatarUrl": "https://github.com/truelockmc.png",
-      "stars": 3924,
-      "forks": 304,
+      "stars": 3952,
+      "forks": 308,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
