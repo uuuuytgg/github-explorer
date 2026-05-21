@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-21T01:33:18.585Z",
+  "updated": "2026-05-21T05:52:22.556Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 9603,
-      "forks": 1946,
+      "stars": 9899,
+      "forks": 1994,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 38553,
-      "forks": 3662,
+      "stars": 38678,
+      "forks": 3675,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 5430,
-      "forks": 454,
+      "stars": 5540,
+      "forks": 459,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 200071,
-      "forks": 17841,
+      "stars": 200409,
+      "forks": 17863,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 102866,
-      "forks": 16954,
+      "stars": 103063,
+      "forks": 16983,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "url": "https://github.com/rmyndharis/OpenWA",
       "avatarUrl": "https://github.com/rmyndharis.png",
-      "stars": 4876,
-      "forks": 986,
+      "stars": 4985,
+      "forks": 1001,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "url": "https://github.com/truelockmc/streambert",
       "avatarUrl": "https://github.com/truelockmc.png",
-      "stars": 3063,
-      "forks": 250,
+      "stars": 3267,
+      "forks": 258,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "#1 Persistent memory for AI coding agents based on real-world benchmarks",
       "url": "https://github.com/rohitg00/agentmemory",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 15163,
-      "forks": 1252,
+      "stars": 15313,
+      "forks": 1267,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "\"ViMax: Agentic Video Generation (Director, Screenwriter, Producer, and Video Generator All-in-One)\"",
       "url": "https://github.com/HKUDS/ViMax",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 6079,
-      "forks": 983,
+      "stars": 6208,
+      "forks": 992,
       "todayStars": 0,
       "language": "Python",
       "topics": []
