@@ -2,8 +2,22 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-21T08:52:32.989Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-05-21T12:00:27.605Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "humanlayer/12-factor-agents",
+      "owner": "humanlayer",
+      "name": "12-factor-agents",
+      "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
+      "url": "https://github.com/humanlayer/12-factor-agents",
+      "avatarUrl": "https://github.com/humanlayer.png",
+      "stars": 21487,
+      "forks": 1618,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ],
   "error": null
 }
