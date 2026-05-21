@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-20T23:39:25.160Z",
+  "updated": "2026-05-21T01:33:18.585Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
       "url": "https://github.com/truelockmc/streambert",
       "avatarUrl": "https://github.com/truelockmc.png",
-      "stars": 2950,
-      "forks": 245,
+      "stars": 3063,
+      "forks": 250,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
