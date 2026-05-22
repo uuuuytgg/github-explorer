@@ -2,35 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-22T09:53:34.667Z",
-  "count": 2,
-  "repos": [
-    {
-      "fullName": "teng-lin/notebooklm-py",
-      "owner": "teng-lin",
-      "name": "notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-      "url": "https://github.com/teng-lin/notebooklm-py",
-      "avatarUrl": "https://github.com/teng-lin.png",
-      "stars": 14541,
-      "forks": 2006,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "truelockmc/streambert",
-      "owner": "truelockmc",
-      "name": "streambert",
-      "description": "A cross-platform Electron Desktop App to stream and download any Movie, TV Series or Anime in the World. Zero Ads and Tracking",
-      "url": "https://github.com/truelockmc/streambert",
-      "avatarUrl": "https://github.com/truelockmc.png",
-      "stars": 4370,
-      "forks": 336,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    }
-  ],
+  "updated": "2026-05-22T12:11:15.518Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }

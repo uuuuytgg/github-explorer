@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-22T09:53:34.667Z",
+  "updated": "2026-05-22T12:11:15.518Z",
   "count": 3,
   "repos": [
     {
@@ -12,10 +12,23 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 15192,
-      "forks": 841,
+      "stars": 15530,
+      "forks": 851,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatarUrl": "https://github.com/ruvnet.png",
+      "stars": 63483,
+      "forks": 8399,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 6081,
-      "forks": 491,
+      "stars": 6119,
+      "forks": 497,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "msitarzewski/agency-agents",
-      "owner": "msitarzewski",
-      "name": "agency-agents",
-      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
-      "url": "https://github.com/msitarzewski/agency-agents",
-      "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 104004,
-      "forks": 17099,
-      "todayStars": 0,
-      "language": "Shell",
       "topics": []
     }
   ],
