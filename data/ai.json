@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-05-22T17:20:25.377Z",
+  "updated": "2026-05-22T19:09:18.483Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 24326,
-      "forks": 2732,
+      "stars": 24501,
+      "forks": 2744,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 16081,
-      "forks": 883,
+      "stars": 16218,
+      "forks": 891,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 11517,
-      "forks": 2202,
+      "stars": 11633,
+      "forks": 2220,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Chrome DevTools for coding agents",
       "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
       "avatarUrl": "https://github.com/ChromeDevTools.png",
-      "stars": 40873,
-      "forks": 2591,
+      "stars": 40903,
+      "forks": 2593,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Repository for skills to assist AI coding agents with .NET and C#",
       "url": "https://github.com/dotnet/skills",
       "avatarUrl": "https://github.com/dotnet.png",
-      "stars": 2452,
-      "forks": 193,
+      "stars": 2474,
+      "forks": 195,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "avatarUrl": "https://github.com/Lum1104.png",
-      "stars": 18056,
-      "forks": 1639,
+      "stars": 18219,
+      "forks": 1649,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 6242,
-      "forks": 505,
+      "stars": 6275,
+      "forks": 507,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Neural Networks: Zero to Hero",
       "url": "https://github.com/karpathy/nn-zero-to-hero",
       "avatarUrl": "https://github.com/karpathy.png",
-      "stars": 22214,
-      "forks": 3234,
+      "stars": 22260,
+      "forks": 3237,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
