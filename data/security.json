@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-22T15:20:10.740Z",
+  "updated": "2026-05-22T17:20:25.377Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Pre-indexed code knowledge graph for Claude Code, Codex, Cursor, and OpenCode — fewer tokens, fewer tool calls, 100% local",
       "url": "https://github.com/colbymchenry/codegraph",
       "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 15883,
-      "forks": 873,
+      "stars": 16081,
+      "forks": 883,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 63654,
-      "forks": 8422,
+      "stars": 63758,
+      "forks": 8433,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 6203,
+      "stars": 6242,
       "forks": 505,
       "todayStars": 0,
       "language": "TypeScript",
