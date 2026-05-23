@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-23T01:54:11.395Z",
+  "updated": "2026-05-23T05:31:04.456Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 64057,
-      "forks": 8465,
+      "stars": 64170,
+      "forks": 8476,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 11982,
-      "forks": 2277,
+      "stars": 12228,
+      "forks": 2309,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "avatarUrl": "https://github.com/Lum1104.png",
-      "stars": 18738,
-      "forks": 1697,
+      "stars": 19059,
+      "forks": 1729,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of inspiring lists, manuals, cheatsheets, blogs, hacks, one-liners, cli/web tools and more.",
       "url": "https://github.com/trimstray/the-book-of-secret-knowledge",
       "avatarUrl": "https://github.com/trimstray.png",
-      "stars": 223226,
-      "forks": 13382,
+      "stars": 223323,
+      "forks": 13392,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "FinceptTerminal is a modern finance application offering advanced market analytics, investment research, and economic data tools, designed for interactive exploration and data-driven decision-making in a user-friendly environment.",
       "url": "https://github.com/Fincept-Corporation/FinceptTerminal",
       "avatarUrl": "https://github.com/Fincept-Corporation.png",
-      "stars": 22659,
-      "forks": 3128,
+      "stars": 22732,
+      "forks": 3132,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 6370,
-      "forks": 518,
+      "stars": 6437,
+      "forks": 526,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
