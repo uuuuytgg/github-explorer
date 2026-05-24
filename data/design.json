@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-24T01:34:25.172Z",
+  "updated": "2026-05-24T05:46:06.560Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "url": "https://github.com/humanlayer/12-factor-agents",
       "avatarUrl": "https://github.com/humanlayer.png",
-      "stars": 21939,
-      "forks": 1650,
+      "stars": 22002,
+      "forks": 1654,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 13801,
-      "forks": 2577,
+      "stars": 14075,
+      "forks": 2617,
       "todayStars": 0,
       "language": "Python",
       "topics": []
