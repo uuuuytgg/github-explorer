@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-24T10:09:49.063Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-05-24T11:40:11.120Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "manaflow-ai/cmux",
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "avatarUrl": "https://github.com/manaflow-ai.png",
+      "stars": 18698,
+      "forks": 1429,
+      "todayStars": 0,
+      "language": "Swift",
+      "topics": []
+    }
+  ],
   "error": null
 }
