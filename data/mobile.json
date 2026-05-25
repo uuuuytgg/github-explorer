@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-25T01:37:27.215Z",
+  "updated": "2026-05-25T06:09:27.112Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "url": "https://github.com/manaflow-ai/cmux",
       "avatarUrl": "https://github.com/manaflow-ai.png",
-      "stars": 19036,
-      "forks": 1449,
+      "stars": 19145,
+      "forks": 1455,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
