@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-25T10:45:55.197Z",
+  "updated": "2026-05-25T13:54:24.010Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 17644,
-      "forks": 3018,
+      "stars": 17891,
+      "forks": 3058,
       "todayStars": 0,
       "language": "Python",
       "topics": []
