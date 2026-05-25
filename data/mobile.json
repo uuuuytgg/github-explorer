@@ -2,8 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-25T06:09:27.112Z",
-  "count": 1,
+  "updated": "2026-05-25T10:45:55.197Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "manaflow-ai/cmux",
@@ -12,10 +12,23 @@
       "description": "Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents",
       "url": "https://github.com/manaflow-ai/cmux",
       "avatarUrl": "https://github.com/manaflow-ai.png",
-      "stars": 19145,
-      "forks": 1455,
+      "stars": 19260,
+      "forks": 1461,
       "todayStars": 0,
       "language": "Swift",
+      "topics": []
+    },
+    {
+      "fullName": "Axorax/awesome-free-apps",
+      "owner": "Axorax",
+      "name": "awesome-free-apps",
+      "description": "Curated list of the best free apps for PC and mobile",
+      "url": "https://github.com/Axorax/awesome-free-apps",
+      "avatarUrl": "https://github.com/Axorax.png",
+      "stars": 4131,
+      "forks": 218,
+      "todayStars": 0,
+      "language": "JavaScript",
       "topics": []
     }
   ],
