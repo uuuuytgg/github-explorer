@@ -1,5 +1,5 @@
 {
-  "updated": "2026-05-26T04:34:38.711Z",
+  "updated": "2026-05-26T08:20:56.462Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -19,7 +19,7 @@
     "design": {
       "label": "设计系统",
       "icon": "🎨",
-      "count": 1
+      "count": 2
     },
     "tools": {
       "label": "开发工具",
