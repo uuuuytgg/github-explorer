@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-26T19:36:40.643Z",
+  "updated": "2026-05-26T21:17:48.411Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Curated list of the best free apps for PC and mobile",
       "url": "https://github.com/Axorax/awesome-free-apps",
       "avatarUrl": "https://github.com/Axorax.png",
-      "stars": 5148,
-      "forks": 257,
+      "stars": 5180,
+      "forks": 263,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
