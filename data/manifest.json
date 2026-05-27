@@ -1,20 +1,20 @@
 {
-  "updated": "2026-05-27T14:02:15.257Z",
+  "updated": "2026-05-27T17:32:17.533Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
       "icon": "🔥",
-      "count": 15
+      "count": 16
     },
     "newest": {
       "label": "本周新星",
       "icon": "🆕",
-      "count": 18
+      "count": 19
     },
     "ai": {
       "label": "AI & LLM",
       "icon": "🤖",
-      "count": 10
+      "count": 11
     },
     "design": {
       "label": "设计系统",
@@ -24,7 +24,7 @@
     "tools": {
       "label": "开发工具",
       "icon": "🛠",
-      "count": 5
+      "count": 6
     },
     "mobile": {
       "label": "移动开发",
