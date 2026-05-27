@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-27T02:05:14.273Z",
+  "updated": "2026-05-27T06:39:13.143Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 20847,
-      "forks": 3462,
+      "stars": 21187,
+      "forks": 3506,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "What are the principles we can use to build LLM-powered software that is actually good enough to put in the hands of production customers?",
       "url": "https://github.com/humanlayer/12-factor-agents",
       "avatarUrl": "https://github.com/humanlayer.png",
-      "stars": 22430,
-      "forks": 1693,
+      "stars": 22462,
+      "forks": 1695,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "url": "https://github.com/dograh-hq/dograh",
       "avatarUrl": "https://github.com/dograh-hq.png",
-      "stars": 3270,
-      "forks": 708,
+      "stars": 3299,
+      "forks": 709,
       "todayStars": 0,
       "language": "Python",
       "topics": []
