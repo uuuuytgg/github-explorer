@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-26T23:48:30.517Z",
+  "updated": "2026-05-27T02:05:14.273Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "avatarUrl": "https://github.com/Lum1104.png",
-      "stars": 35691,
-      "forks": 2865,
+      "stars": 36115,
+      "forks": 2895,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 20663,
-      "forks": 3444,
+      "stars": 20847,
+      "forks": 3462,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "754 structured cybersecurity skills for AI agents · Mapped to 5 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND &amp; NIST AI RMF · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 26 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 10086,
-      "forks": 1184,
+      "stars": 10164,
+      "forks": 1193,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://github.com/Leonxlnx.png",
-      "stars": 21557,
-      "forks": 1735,
+      "stars": 21941,
+      "forks": 1753,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "avatarUrl": "https://github.com/DigitalPlatDev.png",
-      "stars": 167291,
-      "forks": 3079,
+      "stars": 167482,
+      "forks": 3092,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The Free Software Media System - Server Backend &amp; API",
       "url": "https://github.com/jellyfin/jellyfin",
       "avatarUrl": "https://github.com/jellyfin.png",
-      "stars": 52369,
-      "forks": 4870,
+      "stars": 52402,
+      "forks": 4871,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 12086,
-      "forks": 1625,
+      "stars": 12156,
+      "forks": 1629,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A contact solver for physics-based simulations involving 👚 shells, 🪵 solids and 🪢 rods.",
       "url": "https://github.com/st-tech/ppf-contact-solver",
       "avatarUrl": "https://github.com/st-tech.png",
-      "stars": 3473,
-      "forks": 248,
+      "stars": 3508,
+      "forks": 251,
       "todayStars": 0,
       "language": "Python",
       "topics": []
