@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-28T11:56:36.936Z",
+  "updated": "2026-05-28T15:31:59.297Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 196718,
-      "forks": 30257,
+      "stars": 196929,
+      "forks": 30284,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "url": "https://github.com/byoungd/English-level-up-tips",
       "avatarUrl": "https://github.com/byoungd.png",
-      "stars": 47772,
-      "forks": 5016,
+      "stars": 48086,
+      "forks": 5042,
       "todayStars": 0,
       "language": "",
       "topics": []
