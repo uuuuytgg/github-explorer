@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-28T22:20:22.081Z",
+  "updated": "2026-05-28T23:46:20.797Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 66083,
-      "forks": 9573,
+      "stars": 66179,
+      "forks": 9588,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://github.com/Leonxlnx.png",
-      "stars": 26265,
-      "forks": 1968,
+      "stars": 26323,
+      "forks": 1972,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "avatarUrl": "https://github.com/DigitalPlatDev.png",
-      "stars": 170626,
-      "forks": 3288,
+      "stars": 170670,
+      "forks": 3291,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 210999,
-      "forks": 18780,
+      "stars": 211032,
+      "forks": 18782,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Graphs that teach &gt; graphs that impress. Turn any code into an interactive knowledge graph you can explore, search, and ask questions about. Works with Claude Code, Codex, Cursor, Copilot, Gemini CLI, and more.",
       "url": "https://github.com/Lum1104/Understand-Anything",
       "avatarUrl": "https://github.com/Lum1104.png",
-      "stars": 42626,
-      "forks": 3393,
+      "stars": 42674,
+      "forks": 3399,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "avatarUrl": "https://github.com/EveryInc.png",
-      "stars": 17749,
+      "stars": 17762,
       "forks": 1362,
       "todayStars": 0,
       "language": "TypeScript",
