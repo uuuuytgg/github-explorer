@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-29T10:13:00.799Z",
+  "updated": "2026-05-29T13:32:55.920Z",
   "count": 2,
   "repos": [
-    {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 197955,
-      "forks": 30426,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
     {
       "fullName": "byoungd/English-level-up-tips",
       "owner": "byoungd",
@@ -25,10 +12,23 @@
       "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
       "url": "https://github.com/byoungd/English-level-up-tips",
       "avatarUrl": "https://github.com/byoungd.png",
-      "stars": 49193,
-      "forks": 5162,
+      "stars": 49358,
+      "forks": 5176,
       "todayStars": 0,
       "language": "",
+      "topics": []
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://github.com/affaan-m.png",
+      "stars": 198137,
+      "forks": 30454,
+      "todayStars": 0,
+      "language": "JavaScript",
       "topics": []
     }
   ],
