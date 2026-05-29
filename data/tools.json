@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-29T19:39:31.632Z",
+  "updated": "2026-05-29T21:25:36.499Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 69347,
-      "forks": 10000,
+      "stars": 69457,
+      "forks": 10012,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "avatarUrl": "https://github.com/EveryInc.png",
-      "stars": 18074,
-      "forks": 1374,
+      "stars": 18093,
+      "forks": 1375,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 127785,
-      "forks": 20902,
+      "stars": 127817,
+      "forks": 20904,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://github.com/Leonxlnx.png",
-      "stars": 27934,
-      "forks": 2071,
+      "stars": 28005,
+      "forks": 2077,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "A platform for reproducible world model research and evaluation",
       "url": "https://github.com/galilai-group/stable-worldmodel",
       "avatarUrl": "https://github.com/galilai-group.png",
-      "stars": 1191,
+      "stars": 1212,
       "forks": 147,
       "todayStars": 0,
       "language": "Python",
@@ -77,8 +77,8 @@
       "description": "DigitalPlat FreeDomain: Free Domain For Everyone",
       "url": "https://github.com/DigitalPlatDev/FreeDomain",
       "avatarUrl": "https://github.com/DigitalPlatDev.png",
-      "stars": 171631,
-      "forks": 3336,
+      "stars": 171679,
+      "forks": 3340,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Data Engineering Zoomcamp is a free 9-week course on building production-ready data pipelines. The next cohort starts in January 2026. Join the course here 👇🏼",
       "url": "https://github.com/DataTalksClub/data-engineering-zoomcamp",
       "avatarUrl": "https://github.com/DataTalksClub.png",
-      "stars": 41502,
-      "forks": 8270,
+      "stars": 41526,
+      "forks": 8271,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
