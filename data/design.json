@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-30T10:56:17.674Z",
+  "updated": "2026-05-30T12:01:17.572Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 24876,
-      "forks": 4035,
+      "stars": 24902,
+      "forks": 4038,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "url": "https://github.com/dograh-hq/dograh",
       "avatarUrl": "https://github.com/dograh-hq.png",
-      "stars": 3775,
+      "stars": 3779,
       "forks": 778,
       "todayStars": 0,
       "language": "Python",
