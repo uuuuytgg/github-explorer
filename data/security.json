@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-30T12:01:17.572Z",
-  "count": 2,
+  "updated": "2026-05-30T14:02:08.480Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "byoungd/English-level-up-tips",
-      "owner": "byoungd",
-      "name": "English-level-up-tips",
-      "description": "An advanced guide to learn English which might benefit you a lot 🎉 . 离谱的英语学习指南/英语学习教程/英语学习/学英语",
-      "url": "https://github.com/byoungd/English-level-up-tips",
-      "avatarUrl": "https://github.com/byoungd.png",
-      "stars": 49960,
-      "forks": 5218,
-      "todayStars": 0,
-      "language": "",
-      "topics": []
-    },
     {
       "fullName": "affaan-m/ECC",
       "owner": "affaan-m",
@@ -25,10 +12,36 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 198904,
-      "forks": 30551,
+      "stars": 198984,
+      "forks": 30560,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "avatarUrl": "https://github.com/OpenBMB.png",
+      "stars": 22530,
+      "forks": 2650,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatarUrl": "https://github.com/ruvnet.png",
+      "stars": 68526,
+      "forks": 9133,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],

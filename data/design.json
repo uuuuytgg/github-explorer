@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-30T12:01:17.572Z",
-  "count": 2,
+  "updated": "2026-05-30T14:02:08.480Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "rohitg00/ai-engineering-from-scratch",
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 24902,
-      "forks": 4038,
+      "stars": 24944,
+      "forks": 4047,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "url": "https://github.com/dograh-hq/dograh",
       "avatarUrl": "https://github.com/dograh-hq.png",
-      "stars": 3779,
+      "stars": 3788,
       "forks": 778,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "revfactory/harness",
+      "owner": "revfactory",
+      "name": "harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "url": "https://github.com/revfactory/harness",
+      "avatarUrl": "https://github.com/revfactory.png",
+      "stars": 4138,
+      "forks": 613,
+      "todayStars": 0,
+      "language": "HTML",
       "topics": []
     }
   ],
