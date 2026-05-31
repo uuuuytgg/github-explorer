@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-31T11:53:42.951Z",
-  "count": 3,
+  "updated": "2026-05-31T13:07:58.793Z",
+  "count": 1,
   "repos": [
-    {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 199769,
-      "forks": 30664,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
     {
       "fullName": "OpenBMB/VoxCPM",
       "owner": "OpenBMB",
@@ -25,23 +12,10 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 23093,
-      "forks": 2696,
+      "stars": 23132,
+      "forks": 2699,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "ruvnet/RuView",
-      "owner": "ruvnet",
-      "name": "RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "url": "https://github.com/ruvnet/RuView",
-      "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 69224,
-      "forks": 9242,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     }
   ],
