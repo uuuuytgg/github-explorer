@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-31T19:46:01.813Z",
+  "updated": "2026-05-31T20:45:58.652Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 56453,
-      "forks": 5474,
+      "stars": 56485,
+      "forks": 5476,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A list of developer portfolios for your inspiration",
       "url": "https://github.com/emmabostian/developer-portfolios",
       "avatarUrl": "https://github.com/emmabostian.png",
-      "stars": 23290,
-      "forks": 4601,
+      "stars": 23303,
+      "forks": 4604,
       "todayStars": 0,
       "language": "Python",
       "topics": []
