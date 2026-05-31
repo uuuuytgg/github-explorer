@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-05-31T08:01:06.604Z",
+  "updated": "2026-05-31T10:23:01.079Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "url": "https://github.com/chen08209/FlClash",
       "avatarUrl": "https://github.com/chen08209.png",
-      "stars": 40450,
-      "forks": 2533,
+      "stars": 40477,
+      "forks": 2534,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
       "url": "https://github.com/OpenMOSS/MOSS-TTS",
       "avatarUrl": "https://github.com/OpenMOSS.png",
-      "stars": 2704,
-      "forks": 240,
+      "stars": 2730,
+      "forks": 243,
       "todayStars": 0,
       "language": "Python",
       "topics": []
