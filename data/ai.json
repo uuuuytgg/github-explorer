@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-05-31T13:07:58.793Z",
+  "updated": "2026-05-31T14:54:37.632Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 73117,
-      "forks": 10442,
+      "stars": 73356,
+      "forks": 10479,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "url": "https://github.com/nesquena/hermes-webui",
       "avatarUrl": "https://github.com/nesquena.png",
-      "stars": 9598,
-      "forks": 1327,
+      "stars": 9671,
+      "forks": 1335,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "avatarUrl": "https://github.com/EveryInc.png",
-      "stars": 18550,
-      "forks": 1402,
+      "stars": 18583,
+      "forks": 1404,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 23132,
-      "forks": 2699,
+      "stars": 23200,
+      "forks": 2701,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 4439,
-      "forks": 634,
+      "stars": 4471,
+      "forks": 636,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A straightforward method for training your LLM, from downloading data to generating text.",
       "url": "https://github.com/FareedKhan-dev/train-llm-from-scratch",
       "avatarUrl": "https://github.com/FareedKhan-dev.png",
-      "stars": 2584,
-      "forks": 401,
+      "stars": 2660,
+      "forks": 412,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "url": "https://github.com/supermemoryai/supermemory",
       "avatarUrl": "https://github.com/supermemoryai.png",
-      "stars": 23066,
-      "forks": 2088,
+      "stars": 23110,
+      "forks": 2089,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "avatarUrl": "https://github.com/Crosstalk-Solutions.png",
-      "stars": 27523,
-      "forks": 2699,
+      "stars": 27552,
+      "forks": 2702,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 128642,
-      "forks": 20970,
+      "stars": 128684,
+      "forks": 20973,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "Pi extension for async subagent delegation with truncation, artifacts, and session sharing",
       "url": "https://github.com/nicobailon/pi-subagents",
       "avatarUrl": "https://github.com/nicobailon.png",
-      "stars": 1734,
-      "forks": 248,
+      "stars": 1751,
+      "forks": 250,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
