@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-05-31T18:15:43.977Z",
+  "updated": "2026-05-31T19:46:01.813Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 25570,
-      "forks": 4152,
+      "stars": 25631,
+      "forks": 4161,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 4522,
+      "stars": 4534,
       "forks": 643,
       "todayStars": 0,
       "language": "HTML",
@@ -38,8 +38,8 @@
       "description": "Open source voice AI platform. Self-hosted alternative to Vapi and Retell. On Prem, BYOK across Speech to Speech or LLM/STT/TTS, with a visual workflow builder, MCP native and telephony support.",
       "url": "https://github.com/dograh-hq/dograh",
       "avatarUrl": "https://github.com/dograh-hq.png",
-      "stars": 3942,
-      "forks": 790,
+      "stars": 3949,
+      "forks": 793,
       "todayStars": 0,
       "language": "Python",
       "topics": []

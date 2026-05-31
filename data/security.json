@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-05-31T18:15:43.977Z",
+  "updated": "2026-05-31T19:46:01.813Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 23326,
+      "stars": 23372,
       "forks": 2708,
       "todayStars": 0,
       "language": "Python",
