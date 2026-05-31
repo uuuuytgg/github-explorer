@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-05-31T22:45:29.949Z",
+  "updated": "2026-05-31T23:54:23.284Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 74030,
-      "forks": 10567,
+      "stars": 74094,
+      "forks": 10575,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 56548,
-      "forks": 5482,
+      "stars": 56579,
+      "forks": 5486,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "avatarUrl": "https://github.com/EveryInc.png",
-      "stars": 18685,
+      "stars": 18693,
       "forks": 1408,
       "todayStars": 0,
       "language": "TypeScript",
@@ -51,8 +51,8 @@
       "description": "The open-source repo for docs.github.com",
       "url": "https://github.com/github/docs",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 19712,
-      "forks": 67285,
+      "stars": 19718,
+      "forks": 67286,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "url": "https://github.com/supermemoryai/supermemory",
       "avatarUrl": "https://github.com/supermemoryai.png",
-      "stars": 23295,
-      "forks": 2101,
+      "stars": 23314,
+      "forks": 2103,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 128868,
-      "forks": 20993,
+      "stars": 128886,
+      "forks": 20996,
       "todayStars": 0,
       "language": "Python",
       "topics": []
