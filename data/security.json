@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-01T21:56:26.466Z",
+  "updated": "2026-06-01T23:21:58.040Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 9427,
+      "stars": 9438,
       "forks": 759,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,8 +25,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 24170,
-      "forks": 2784,
+      "stars": 24193,
+      "forks": 2786,
       "todayStars": 0,
       "language": "Python",
       "topics": []
