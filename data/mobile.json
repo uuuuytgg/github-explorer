@@ -2,8 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-01T07:23:27.885Z",
-  "count": 2,
+  "updated": "2026-06-01T13:07:01.715Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "D4Vinci/Scrapling",
@@ -12,21 +12,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 57153,
-      "forks": 5547,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "emmabostian/developer-portfolios",
-      "owner": "emmabostian",
-      "name": "developer-portfolios",
-      "description": "A list of developer portfolios for your inspiration",
-      "url": "https://github.com/emmabostian/developer-portfolios",
-      "avatarUrl": "https://github.com/emmabostian.png",
-      "stars": 23553,
-      "forks": 4628,
+      "stars": 57560,
+      "forks": 5589,
       "todayStars": 0,
       "language": "Python",
       "topics": []
