@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-02T06:21:04.842Z",
+  "updated": "2026-06-02T11:00:00.722Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "url": "https://github.com/supermemoryai/supermemory",
       "avatarUrl": "https://github.com/supermemoryai.png",
-      "stars": 24147,
-      "forks": 2158,
+      "stars": 24316,
+      "forks": 2161,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 77203,
-      "forks": 10958,
+      "stars": 77568,
+      "forks": 11005,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 58364,
-      "forks": 5656,
+      "stars": 58635,
+      "forks": 5677,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Official Compound Engineering plugin for Claude Code, Codex, Cursor, and more",
       "url": "https://github.com/EveryInc/compound-engineering-plugin",
       "avatarUrl": "https://github.com/EveryInc.png",
-      "stars": 19186,
-      "forks": 1432,
+      "stars": 19270,
+      "forks": 1433,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 81949,
-      "forks": 15926,
+      "stars": 82142,
+      "forks": 15951,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Godot Engine – Multi-platform 2D and 3D game engine",
       "url": "https://github.com/godotengine/godot",
       "avatarUrl": "https://github.com/godotengine.png",
-      "stars": 111737,
-      "forks": 25515,
+      "stars": 111862,
+      "forks": 25527,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "⌥ AI Coding agent for the terminal — hash-anchored edits, optimized tool harness, LSP, Python, browser, subagents, and more",
       "url": "https://github.com/can1357/oh-my-pi",
       "avatarUrl": "https://github.com/can1357.png",
-      "stars": 9613,
-      "forks": 771,
+      "stars": 9786,
+      "forks": 796,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
