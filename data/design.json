@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-03T07:04:48.866Z",
+  "updated": "2026-06-03T07:48:24.214Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 5580,
-      "forks": 742,
+      "stars": 5589,
+      "forks": 743,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 27549,
-      "forks": 4468,
+      "stars": 27575,
+      "forks": 4473,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Industrial-grade speech recognition toolkit: 170x realtime, 50+ languages, speaker diarization, emotion detection, streaming, and OpenAI-compatible API.",
       "url": "https://github.com/modelscope/FunASR",
       "avatarUrl": "https://github.com/modelscope.png",
-      "stars": 16977,
+      "stars": 16986,
       "forks": 1733,
       "todayStars": 0,
       "language": "Python",

@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-03T07:04:48.866Z",
+  "updated": "2026-06-03T07:48:24.214Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 7411,
-      "forks": 504,
+      "stars": 7541,
+      "forks": 510,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 204496,
-      "forks": 31369,
+      "stars": 204568,
+      "forks": 31382,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "url": "https://github.com/reconurge/flowsint",
       "avatarUrl": "https://github.com/reconurge.png",
-      "stars": 4659,
-      "forks": 595,
+      "stars": 4676,
+      "forks": 597,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 25316,
-      "forks": 2892,
+      "stars": 25336,
+      "forks": 2895,
       "todayStars": 0,
       "language": "Python",
       "topics": []
