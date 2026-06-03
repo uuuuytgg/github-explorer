@@ -12,6 +12,7 @@ on:
       - main
     paths:
       - 'scripts/scrape.js'
+      - 'scripts/scrape-safe.js'
       - '.github/workflows/scrape.yml'
 
 jobs:
@@ -34,7 +35,7 @@ jobs:
         run: npm run check
 
       - name: 运行爬虫
-        run: node scripts/scrape.js
+        run: npm run scrape
         env:
           AI_API_KEY: ${{ secrets.AI_API_KEY }}
           # 可选：覆盖默认的 AI API 配置
