@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-03T07:54:14.996Z",
+  "updated": "2026-06-03T12:06:29.329Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 59519,
-      "forks": 5744,
+      "stars": 59728,
+      "forks": 5759,
       "todayStars": 0,
       "language": "Python",
       "topics": []

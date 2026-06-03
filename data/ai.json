@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-03T07:54:14.996Z",
+  "updated": "2026-06-03T12:06:29.329Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 7567,
-      "forks": 510,
+      "stars": 8276,
+      "forks": 548,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 204575,
-      "forks": 31383,
+      "stars": 204902,
+      "forks": 31440,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "url": "https://github.com/nesquena/hermes-webui",
       "avatarUrl": "https://github.com/nesquena.png",
-      "stars": 12773,
-      "forks": 1558,
+      "stars": 12873,
+      "forks": 1573,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 25341,
-      "forks": 2895,
+      "stars": 25438,
+      "forks": 2905,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Code for Machine Learning for Algorithmic Trading, 2nd edition.",
       "url": "https://github.com/stefan-jansen/machine-learning-for-trading",
       "avatarUrl": "https://github.com/stefan-jansen.png",
-      "stars": 18707,
-      "forks": 5240,
+      "stars": 18850,
+      "forks": 5258,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "",
       "url": "https://github.com/jamwithai/production-agentic-rag-course",
       "avatarUrl": "https://github.com/jamwithai.png",
-      "stars": 6516,
-      "forks": 1495,
+      "stars": 6588,
+      "forks": 1502,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "url": "https://github.com/supermemoryai/supermemory",
       "avatarUrl": "https://github.com/supermemoryai.png",
-      "stars": 24838,
-      "forks": 2189,
+      "stars": 24933,
+      "forks": 2197,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "avatarUrl": "https://github.com/Open-LLM-VTuber.png",
-      "stars": 8592,
-      "forks": 1089,
+      "stars": 8711,
+      "forks": 1095,
       "todayStars": 0,
       "language": "Python",
       "topics": []
