@@ -30,6 +30,9 @@ jobs:
         with:
           node-version: '20'
 
+      - name: 检查脚本语法
+        run: npm run check
+
       - name: 运行爬虫
         run: node scripts/scrape.js
         env:
