@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-03T17:13:33.907Z",
+  "updated": "2026-06-03T20:27:39.857Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 9015,
-      "forks": 600,
+      "stars": 9312,
+      "forks": 615,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
       "avatarUrl": "https://github.com/aquasecurity.png",
-      "stars": 35317,
+      "stars": 35346,
       "forks": 412,
       "todayStars": 0,
       "language": "Go",
@@ -38,8 +38,8 @@
       "description": "🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 59956,
-      "forks": 5789,
+      "stars": 60087,
+      "forks": 5798,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "avatarUrl": "https://github.com/Open-LLM-VTuber.png",
-      "stars": 8831,
-      "forks": 1099,
+      "stars": 8882,
+      "forks": 1101,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A complete computer science study plan to become a software engineer.",
       "url": "https://github.com/jwasham/coding-interview-university",
       "avatarUrl": "https://github.com/jwasham.png",
-      "stars": 348885,
-      "forks": 83149,
+      "stars": 348939,
+      "forks": 83152,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Memory engine and app that is extremely fast, scalable. The Memory API for the AI era.",
       "url": "https://github.com/supermemoryai/supermemory",
       "avatarUrl": "https://github.com/supermemoryai.png",
-      "stars": 25047,
-      "forks": 2200,
+      "stars": 25102,
+      "forks": 2204,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
