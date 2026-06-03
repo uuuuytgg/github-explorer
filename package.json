@@ -4,8 +4,9 @@
   "description": "GitHub Trending 项目发现 — 离线优先架构，GitHub Actions 定时抓取 + AI 翻译",
   "private": true,
   "scripts": {
-    "check": "node --check server.js && node --check scripts/scrape.js",
-    "scrape": "node scripts/scrape.js",
+    "check": "node --check server.js && node --check scripts/scrape.js && node --check scripts/scrape-safe.js",
+    "scrape": "node scripts/scrape-safe.js",
+    "scrape:raw": "node scripts/scrape.js",
     "dev": "node server.js"
   },
   "dependencies": {
