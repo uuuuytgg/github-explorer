@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-04T09:07:00.129Z",
-  "count": 4,
+  "updated": "2026-06-04T12:15:24.486Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "revfactory/harness",
@@ -12,36 +12,10 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 5803,
-      "forks": 771,
+      "stars": 5838,
+      "forks": 773,
       "todayStars": 0,
       "language": "HTML",
-      "topics": []
-    },
-    {
-      "fullName": "OpenMOSS/MOSS-TTS",
-      "owner": "OpenMOSS",
-      "name": "MOSS-TTS",
-      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
-      "url": "https://github.com/OpenMOSS/MOSS-TTS",
-      "avatarUrl": "https://github.com/OpenMOSS.png",
-      "stars": 3005,
-      "forks": 269,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "rohitg00/ai-engineering-from-scratch",
-      "owner": "rohitg00",
-      "name": "ai-engineering-from-scratch",
-      "description": "Learn it. Build it. Ship it for others.",
-      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
-      "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 28092,
-      "forks": 4590,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -51,8 +25,21 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 25711,
+      "stars": 25748,
       "forks": 2928,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "OpenMOSS/MOSS-TTS",
+      "owner": "OpenMOSS",
+      "name": "MOSS-TTS",
+      "description": "MOSS‑TTS Family is an open‑source speech and sound generation model family from MOSI.AI and the OpenMOSS team. It is designed for high‑fidelity, high‑expressiveness, and complex real‑world scenarios, covering stable long‑form speech, multi‑speaker dialogue, voice/character design, environmental sound effects, and real‑time streaming TTS.",
+      "url": "https://github.com/OpenMOSS/MOSS-TTS",
+      "avatarUrl": "https://github.com/OpenMOSS.png",
+      "stars": 3024,
+      "forks": 271,
       "todayStars": 0,
       "language": "Python",
       "topics": []
