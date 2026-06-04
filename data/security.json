@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-04T12:15:24.486Z",
+  "updated": "2026-06-04T15:52:25.618Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 11399,
-      "forks": 743,
+      "stars": 11809,
+      "forks": 771,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 206566,
-      "forks": 31713,
+      "stars": 206819,
+      "forks": 31746,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "url": "https://github.com/reconurge/flowsint",
       "avatarUrl": "https://github.com/reconurge.png",
-      "stars": 5066,
-      "forks": 626,
+      "stars": 5152,
+      "forks": 628,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
