@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-04T18:06:28.100Z",
+  "updated": "2026-06-04T20:22:21.789Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 12017,
-      "forks": 783,
+      "stars": 12189,
+      "forks": 796,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
       "avatarUrl": "https://github.com/NousResearch.png",
-      "stars": 180638,
-      "forks": 30979,
+      "stars": 180769,
+      "forks": 31000,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 206943,
-      "forks": 31769,
+      "stars": 207059,
+      "forks": 31789,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "avatarUrl": "https://github.com/PaddlePaddle.png",
-      "stars": 79735,
-      "forks": 10591,
+      "stars": 79767,
+      "forks": 10595,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "url": "https://github.com/NVIDIA/cosmos",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 8892,
-      "forks": 574,
+      "stars": 8922,
+      "forks": 575,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "avatarUrl": "https://github.com/Open-LLM-VTuber.png",
-      "stars": 9482,
-      "forks": 1142,
+      "stars": 9517,
+      "forks": 1143,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 8891,
-      "forks": 1205,
+      "stars": 8921,
+      "forks": 1208,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
       "avatarUrl": "https://github.com/aquasecurity.png",
-      "stars": 35618,
-      "forks": 429,
+      "stars": 35636,
+      "forks": 431,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "avatarUrl": "https://github.com/mvanhorn.png",
-      "stars": 27440,
-      "forks": 2337,
+      "stars": 27490,
+      "forks": 2341,
       "todayStars": 0,
       "language": "Python",
       "topics": []
