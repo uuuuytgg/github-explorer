@@ -2,8 +2,8 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-05T00:18:34.046Z",
-  "count": 9,
+  "updated": "2026-06-05T04:52:44.667Z",
+  "count": 8,
   "repos": [
     {
       "fullName": "chopratejas/headroom",
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 12440,
-      "forks": 807,
+      "stars": 12943,
+      "forks": 833,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
       "avatarUrl": "https://github.com/NousResearch.png",
-      "stars": 180951,
-      "forks": 31038,
+      "stars": 181308,
+      "forks": 31113,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 207209,
-      "forks": 31811,
+      "stars": 207482,
+      "forks": 31842,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,23 +51,10 @@
       "description": "Turn any PDF or image document into structured data for your AI. A powerful, lightweight OCR toolkit that bridges the gap between images/PDFs and LLMs. Supports 100+ languages.",
       "url": "https://github.com/PaddlePaddle/PaddleOCR",
       "avatarUrl": "https://github.com/PaddlePaddle.png",
-      "stars": 79845,
-      "forks": 10598,
+      "stars": 80036,
+      "forks": 10611,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "NVIDIA/cosmos",
-      "owner": "NVIDIA",
-      "name": "cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 8988,
-      "forks": 579,
-      "todayStars": 0,
-      "language": "Jupyter Notebook",
       "topics": []
     },
     {
@@ -77,8 +64,8 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "avatarUrl": "https://github.com/Open-LLM-VTuber.png",
-      "stars": 9575,
-      "forks": 1151,
+      "stars": 9721,
+      "forks": 1163,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +77,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 8963,
-      "forks": 1211,
+      "stars": 9038,
+      "forks": 1214,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -103,8 +90,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
       "avatarUrl": "https://github.com/aquasecurity.png",
-      "stars": 35664,
-      "forks": 430,
+      "stars": 35703,
+      "forks": 433,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -116,8 +103,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "avatarUrl": "https://github.com/mvanhorn.png",
-      "stars": 27560,
-      "forks": 2345,
+      "stars": 27740,
+      "forks": 2357,
       "todayStars": 0,
       "language": "Python",
       "topics": []

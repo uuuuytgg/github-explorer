@@ -2,8 +2,8 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-05T00:18:34.046Z",
-  "count": 7,
+  "updated": "2026-06-05T04:52:44.667Z",
+  "count": 6,
   "repos": [
     {
       "fullName": "chopratejas/headroom",
@@ -12,23 +12,10 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 12440,
-      "forks": 807,
+      "stars": 12943,
+      "forks": 833,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "NVIDIA/cosmos",
-      "owner": "NVIDIA",
-      "name": "cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 8988,
-      "forks": 579,
-      "todayStars": 0,
-      "language": "Jupyter Notebook",
       "topics": []
     },
     {
@@ -38,8 +25,8 @@
       "description": "Talk to any LLM with hands-free voice interaction, voice interruption, and Live2D taking face running locally across platforms",
       "url": "https://github.com/Open-LLM-VTuber/Open-LLM-VTuber",
       "avatarUrl": "https://github.com/Open-LLM-VTuber.png",
-      "stars": 9575,
-      "forks": 1151,
+      "stars": 9721,
+      "forks": 1163,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +38,8 @@
       "description": "A complete computer science study plan to become a software engineer.",
       "url": "https://github.com/jwasham/coding-interview-university",
       "avatarUrl": "https://github.com/jwasham.png",
-      "stars": 349707,
-      "forks": 83225,
+      "stars": 349845,
+      "forks": 83244,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -64,8 +51,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 8963,
-      "forks": 1211,
+      "stars": 9038,
+      "forks": 1214,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -77,8 +64,8 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
       "avatarUrl": "https://github.com/aquasecurity.png",
-      "stars": 35664,
-      "forks": 430,
+      "stars": 35703,
+      "forks": 433,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +77,8 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "url": "https://github.com/reconurge/flowsint",
       "avatarUrl": "https://github.com/reconurge.png",
-      "stars": 5303,
-      "forks": 638,
+      "stars": 5370,
+      "forks": 645,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
