@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-05T08:37:11.889Z",
-  "count": 3,
+  "updated": "2026-06-05T11:46:22.754Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "chopratejas/headroom",
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 13477,
-      "forks": 857,
+      "stars": 13839,
+      "forks": 874,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,23 +25,10 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 207695,
-      "forks": 31872,
+      "stars": 207863,
+      "forks": 31899,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "reconurge/flowsint",
-      "owner": "reconurge",
-      "name": "flowsint",
-      "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
-      "url": "https://github.com/reconurge/flowsint",
-      "avatarUrl": "https://github.com/reconurge.png",
-      "stars": 5433,
-      "forks": 653,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
