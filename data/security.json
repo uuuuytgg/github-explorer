@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-05T21:52:05.370Z",
-  "count": 2,
+  "updated": "2026-06-05T22:55:35.124Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "chopratejas/headroom",
@@ -12,8 +12,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 14420,
-      "forks": 914,
+      "stars": 14456,
+      "forks": 919,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 208276,
-      "forks": 31957,
+      "stars": 208308,
+      "forks": 31958,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "withastro/flue",
+      "owner": "withastro",
+      "name": "flue",
+      "description": "The sandbox agent framework.",
+      "url": "https://github.com/withastro/flue",
+      "avatarUrl": "https://github.com/withastro.png",
+      "stars": 4498,
+      "forks": 241,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],
