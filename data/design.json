@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-06T10:59:05.898Z",
+  "updated": "2026-06-06T12:05:23.688Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6191,
+      "stars": 6197,
       "forks": 834,
       "todayStars": 0,
       "language": "HTML",
@@ -25,8 +25,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 26826,
-      "forks": 3038,
+      "stars": 26846,
+      "forks": 3041,
       "todayStars": 0,
       "language": "Python",
       "topics": []
