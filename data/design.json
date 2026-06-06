@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-06T16:44:19.386Z",
+  "updated": "2026-06-06T17:48:17.143Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6223,
-      "forks": 839,
+      "stars": 6229,
+      "forks": 840,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 27029,
-      "forks": 3056,
+      "stars": 27071,
+      "forks": 3057,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "url": "https://github.com/nesquena/hermes-webui",
       "avatarUrl": "https://github.com/nesquena.png",
-      "stars": 13613,
-      "forks": 1667,
+      "stars": 13619,
+      "forks": 1670,
       "todayStars": 0,
       "language": "Python",
       "topics": []
