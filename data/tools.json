@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-06T22:41:33.925Z",
+  "updated": "2026-06-06T23:42:22.052Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "url": "https://github.com/MemPalace/mempalace",
       "avatarUrl": "https://github.com/MemPalace.png",
-      "stars": 54249,
-      "forks": 7107,
+      "stars": 54261,
+      "forks": 7109,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 22271,
-      "forks": 1903,
+      "stars": 22293,
+      "forks": 1906,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Find vulnerabilities, misconfigurations, secrets, SBOM in containers, Kubernetes, code repositories, clouds and more",
       "url": "https://github.com/aquasecurity/trivy",
       "avatarUrl": "https://github.com/aquasecurity.png",
-      "stars": 35992,
+      "stars": 35996,
       "forks": 454,
       "todayStars": 0,
       "language": "Go",
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 219618,
-      "forks": 19540,
+      "stars": 219636,
+      "forks": 19542,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
