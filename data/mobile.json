@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-07T12:54:47.458Z",
+  "updated": "2026-06-07T14:45:15.467Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Useful tool to track location or mobile number",
       "url": "https://github.com/HunxByts/GhostTrack",
       "avatarUrl": "https://github.com/HunxByts.png",
-      "stars": 13578,
-      "forks": 1825,
+      "stars": 13608,
+      "forks": 1826,
       "todayStars": 0,
       "language": "Python",
       "topics": []
