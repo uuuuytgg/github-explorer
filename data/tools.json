@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-07T22:42:49.739Z",
+  "updated": "2026-06-07T23:43:32.306Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Taste-Skill - gives your AI good taste. stops the AI from generating boring, generic slop",
       "url": "https://github.com/Leonxlnx/taste-skill",
       "avatarUrl": "https://github.com/Leonxlnx.png",
-      "stars": 36505,
-      "forks": 2639,
+      "stars": 36551,
+      "forks": 2640,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
