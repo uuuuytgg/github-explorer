@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-07T16:04:52.915Z",
+  "updated": "2026-06-07T17:38:50.988Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6383,
-      "forks": 861,
+      "stars": 6395,
+      "forks": 864,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 35413,
-      "forks": 1928,
+      "stars": 35448,
+      "forks": 1930,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Hermes WebUI: The best way to use Hermes Agent from the web or from your phone!",
       "url": "https://github.com/nesquena/hermes-webui",
       "avatarUrl": "https://github.com/nesquena.png",
-      "stars": 13769,
-      "forks": 1694,
+      "stars": 13788,
+      "forks": 1696,
       "todayStars": 0,
       "language": "Python",
       "topics": []
