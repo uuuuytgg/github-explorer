@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-08T15:00:59.904Z",
+  "updated": "2026-06-08T18:07:40.620Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 33962,
-      "forks": 4290,
+      "stars": 34024,
+      "forks": 4295,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
