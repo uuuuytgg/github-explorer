@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-08T20:34:31.374Z",
+  "updated": "2026-06-08T22:14:11.512Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 23981,
-      "forks": 2023,
+      "stars": 24018,
+      "forks": 2026,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Find the local LLM that actually runs and performs best on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
       "url": "https://github.com/Andyyyy64/whichllm",
       "avatarUrl": "https://github.com/Andyyyy64.png",
-      "stars": 3376,
-      "forks": 199,
+      "stars": 3406,
+      "forks": 200,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "The best-benchmarked open-source AI memory system. And it's free.",
       "url": "https://github.com/MemPalace/mempalace",
       "avatarUrl": "https://github.com/MemPalace.png",
-      "stars": 54866,
+      "stars": 54887,
       "forks": 7158,
       "todayStars": 0,
       "language": "Python",
