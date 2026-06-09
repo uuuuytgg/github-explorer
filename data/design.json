@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-09T21:17:31.570Z",
+  "updated": "2026-06-09T22:55:10.219Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6662,
+      "stars": 6663,
       "forks": 908,
       "todayStars": 0,
       "language": "HTML",
@@ -25,7 +25,7 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 34447,
+      "stars": 34450,
       "forks": 4320,
       "todayStars": 0,
       "language": "TypeScript",
@@ -38,8 +38,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 36753,
-      "forks": 2004,
+      "stars": 36775,
+      "forks": 2005,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
