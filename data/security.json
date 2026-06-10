@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-10T00:03:46.447Z",
+  "updated": "2026-06-10T04:44:16.394Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "avatarUrl": "https://github.com/x1xhlol.png",
-      "stars": 139137,
-      "forks": 34559,
+      "stars": 139247,
+      "forks": 34564,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🛜 ESPectre 👻 - Motion detection system based on Wi-Fi spectre analysis (CSI), with Home Assistant integration.",
       "url": "https://github.com/francescopace/espectre",
       "avatarUrl": "https://github.com/francescopace.png",
-      "stars": 8193,
-      "forks": 632,
+      "stars": 8276,
+      "forks": 633,
       "todayStars": 0,
       "language": "Python",
       "topics": []
