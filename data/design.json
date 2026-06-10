@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-10T08:36:26.821Z",
+  "updated": "2026-06-10T11:57:07.814Z",
   "count": 3,
   "repos": [
-    {
-      "fullName": "revfactory/harness",
-      "owner": "revfactory",
-      "name": "harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "url": "https://github.com/revfactory/harness",
-      "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6704,
-      "forks": 917,
-      "todayStars": 0,
-      "language": "HTML",
-      "topics": []
-    },
     {
       "fullName": "CopilotKit/CopilotKit",
       "owner": "CopilotKit",
@@ -25,10 +12,23 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 34522,
-      "forks": 4321,
+      "stars": 34541,
+      "forks": 4323,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "revfactory/harness",
+      "owner": "revfactory",
+      "name": "harness",
+      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
+      "url": "https://github.com/revfactory/harness",
+      "avatarUrl": "https://github.com/revfactory.png",
+      "stars": 6711,
+      "forks": 918,
+      "todayStars": 0,
+      "language": "HTML",
       "topics": []
     },
     {
@@ -38,8 +38,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 36926,
-      "forks": 2019,
+      "stars": 36994,
+      "forks": 2025,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

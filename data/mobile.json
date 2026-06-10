@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-10T08:36:26.821Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-06-10T11:57:07.814Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "apple/container",
+      "owner": "apple",
+      "name": "container",
+      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
+      "url": "https://github.com/apple/container",
+      "avatarUrl": "https://github.com/apple.png",
+      "stars": 28386,
+      "forks": 800,
+      "todayStars": 0,
+      "language": "Swift",
+      "topics": []
+    }
+  ],
   "error": null
 }
