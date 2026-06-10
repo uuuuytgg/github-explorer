@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-10T22:23:18.669Z",
+  "updated": "2026-06-10T23:52:52.890Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 51590,
-      "forks": 5693,
+      "stars": 51699,
+      "forks": 5698,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 223530,
-      "forks": 19870,
+      "stars": 223569,
+      "forks": 19874,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 84933,
-      "forks": 12124,
+      "stars": 84980,
+      "forks": 12134,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 72854,
-      "forks": 9724,
+      "stars": 72881,
+      "forks": 9727,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
