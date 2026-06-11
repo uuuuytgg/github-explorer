@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-11T15:29:09.526Z",
+  "updated": "2026-06-11T18:34:17.114Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 53919,
-      "forks": 5875,
+      "stars": 54254,
+      "forks": 5903,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 224527,
-      "forks": 19949,
+      "stars": 224644,
+      "forks": 19965,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 111213,
-      "forks": 18214,
+      "stars": 111381,
+      "forks": 18233,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "url": "https://github.com/kenn-io/agentsview",
       "avatarUrl": "https://github.com/kenn-io.png",
-      "stars": 1490,
-      "forks": 168,
+      "stars": 1542,
+      "forks": 170,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "SIA is a Self Improving AI framework to autonomously improve the performance of any AI system (Model / Agent) on a benchmark task.",
       "url": "https://github.com/hexo-ai/sia",
       "avatarUrl": "https://github.com/hexo-ai.png",
-      "stars": 1106,
-      "forks": 148,
+      "stars": 1167,
+      "forks": 152,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "url": "https://github.com/mattermost/mattermost",
       "avatarUrl": "https://github.com/mattermost.png",
-      "stars": 37181,
-      "forks": 8691,
+      "stars": 37233,
+      "forks": 8695,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

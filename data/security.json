@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-11T15:29:09.526Z",
+  "updated": "2026-06-11T18:34:17.114Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 2409,
-      "forks": 199,
+      "stars": 2494,
+      "forks": 202,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "avatarUrl": "https://github.com/x1xhlol.png",
-      "stars": 139771,
+      "stars": 139816,
       "forks": 34611,
       "todayStars": 0,
       "language": "",
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 111213,
-      "forks": 18214,
+      "stars": 111381,
+      "forks": 18233,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "avatarUrl": "https://github.com/masterking32.png",
-      "stars": 5552,
-      "forks": 514,
+      "stars": 5604,
+      "forks": 516,
       "todayStars": 0,
       "language": "Go",
       "topics": []
