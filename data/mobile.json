@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-11T02:15:44.745Z",
+  "updated": "2026-06-11T07:12:26.948Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 29941,
-      "forks": 833,
+      "stars": 30332,
+      "forks": 846,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
