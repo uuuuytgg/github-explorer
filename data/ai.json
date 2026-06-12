@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-12T19:59:30.559Z",
+  "updated": "2026-06-12T21:43:49.934Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 56637,
-      "forks": 6105,
+      "stars": 56679,
+      "forks": 6109,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 34874,
-      "forks": 969,
+      "stars": 34957,
+      "forks": 972,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "url": "https://github.com/iptv-org/iptv",
       "avatarUrl": "https://github.com/iptv-org.png",
-      "stars": 117955,
-      "forks": 6295,
+      "stars": 117987,
+      "forks": 6298,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 225894,
-      "forks": 20076,
+      "stars": 225922,
+      "forks": 20079,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "open-source healthcare ai",
       "url": "https://github.com/maziyarpanahi/openmed",
       "avatarUrl": "https://github.com/maziyarpanahi.png",
-      "stars": 3152,
-      "forks": 301,
+      "stars": 3169,
+      "forks": 303,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "url": "https://github.com/LMCache/LMCache",
       "avatarUrl": "https://github.com/LMCache.png",
-      "stars": 8592,
-      "forks": 1287,
+      "stars": 8608,
+      "forks": 1288,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "PM Skills Marketplace: 100+ agentic skills, commands, and plugins — from discovery to strategy, execution, launch, and growth.",
       "url": "https://github.com/phuryn/pm-skills",
       "avatarUrl": "https://github.com/phuryn.png",
-      "stars": 16876,
-      "forks": 1734,
+      "stars": 16910,
+      "forks": 1735,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Advanced DNS tunneling VPN for censorship bypass, optimized beyond DNSTT and SlipStream with low-overhead ARQ, resolver load balancing, high packet-loss stability and speed.",
       "url": "https://github.com/masterking32/MasterDnsVPN",
       "avatarUrl": "https://github.com/masterking32.png",
-      "stars": 5953,
-      "forks": 537,
+      "stars": 5978,
+      "forks": 538,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 112280,
-      "forks": 18323,
+      "stars": 112329,
+      "forks": 18330,
       "todayStars": 0,
       "language": "Shell",
       "topics": []

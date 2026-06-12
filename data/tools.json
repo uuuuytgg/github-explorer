@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-12T19:59:30.559Z",
+  "updated": "2026-06-12T21:43:49.934Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 56637,
-      "forks": 6105,
+      "stars": 56679,
+      "forks": 6109,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "url": "https://github.com/music-assistant/server",
       "avatarUrl": "https://github.com/music-assistant.png",
-      "stars": 1731,
+      "stars": 1749,
       "forks": 422,
       "todayStars": 0,
       "language": "Python",
@@ -38,8 +38,8 @@
       "description": "Mattermost is an open source platform for secure collaboration across the entire software development lifecycle..",
       "url": "https://github.com/mattermost/mattermost",
       "avatarUrl": "https://github.com/mattermost.png",
-      "stars": 37581,
-      "forks": 8710,
+      "stars": 37599,
+      "forks": 8711,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 225894,
-      "forks": 20076,
+      "stars": 225922,
+      "forks": 20079,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 112280,
-      "forks": 18323,
+      "stars": 112329,
+      "forks": 18330,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
