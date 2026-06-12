@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-12T15:46:03.489Z",
+  "updated": "2026-06-12T17:57:13.656Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 34609,
-      "forks": 959,
+      "stars": 34764,
+      "forks": 965,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "url": "https://github.com/NVIDIA/cosmos",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 10004,
-      "forks": 645,
+      "stars": 10017,
+      "forks": 646,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 34827,
-      "forks": 4343,
+      "stars": 34841,
+      "forks": 4345,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 53075,
-      "forks": 10610,
+      "stars": 53119,
+      "forks": 10618,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
