@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-12T12:29:00.268Z",
-  "count": 5,
+  "updated": "2026-06-12T15:46:03.489Z",
+  "count": 4,
   "repos": [
-    {
-      "fullName": "NVIDIA/cosmos",
-      "owner": "NVIDIA",
-      "name": "cosmos",
-      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
-      "url": "https://github.com/NVIDIA/cosmos",
-      "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 9988,
-      "forks": 644,
-      "todayStars": 0,
-      "language": "Jupyter Notebook",
-      "topics": []
-    },
     {
       "fullName": "apple/container",
       "owner": "apple",
@@ -25,10 +12,23 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 34323,
-      "forks": 950,
+      "stars": 34609,
+      "forks": 959,
       "todayStars": 0,
       "language": "Swift",
+      "topics": []
+    },
+    {
+      "fullName": "NVIDIA/cosmos",
+      "owner": "NVIDIA",
+      "name": "cosmos",
+      "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
+      "url": "https://github.com/NVIDIA/cosmos",
+      "avatarUrl": "https://github.com/NVIDIA.png",
+      "stars": 10004,
+      "forks": 645,
+      "todayStars": 0,
+      "language": "Jupyter Notebook",
       "topics": []
     },
     {
@@ -38,8 +38,8 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 34797,
-      "forks": 4338,
+      "stars": 34827,
+      "forks": 4343,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,23 +51,10 @@
       "description": "AI-powered job search system built on Claude Code. 14 skill modes, Go dashboard, PDF generation, batch processing.",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 53009,
-      "forks": 10601,
+      "stars": 53075,
+      "forks": 10610,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "revfactory/harness",
-      "owner": "revfactory",
-      "name": "harness",
-      "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
-      "url": "https://github.com/revfactory/harness",
-      "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 6877,
-      "forks": 935,
-      "todayStars": 0,
-      "language": "HTML",
       "topics": []
     }
   ],
