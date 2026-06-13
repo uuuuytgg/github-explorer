@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-13T19:11:03.703Z",
+  "updated": "2026-06-13T20:38:41.487Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 36111,
-      "forks": 1024,
+      "stars": 36168,
+      "forks": 1028,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "翻墙-科学上网",
       "url": "https://github.com/bannedbook/fanqiang",
       "avatarUrl": "https://github.com/bannedbook.png",
-      "stars": 47450,
+      "stars": 47458,
       "forks": 8077,
       "todayStars": 0,
       "language": "Kotlin",
