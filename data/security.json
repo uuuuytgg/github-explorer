@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-13T23:55:19.257Z",
+  "updated": "2026-06-14T02:28:37.664Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 4413,
-      "forks": 334,
+      "stars": 4500,
+      "forks": 343,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "avatarUrl": "https://github.com/x1xhlol.png",
-      "stars": 140295,
-      "forks": 34656,
+      "stars": 140312,
+      "forks": 34660,
       "todayStars": 0,
       "language": "",
       "topics": []
