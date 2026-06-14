@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-14T20:15:03.554Z",
+  "updated": "2026-06-14T21:39:30.954Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 5158,
+      "stars": 5195,
       "forks": 398,
       "todayStars": 0,
       "language": "Python",
