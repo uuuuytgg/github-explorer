@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-14T07:05:48.303Z",
+  "updated": "2026-06-14T10:30:54.299Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "url": "https://github.com/iptv-org/iptv",
       "avatarUrl": "https://github.com/iptv-org.png",
-      "stars": 119454,
-      "forks": 6387,
+      "stars": 119665,
+      "forks": 6403,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 58724,
-      "forks": 6350,
+      "stars": 58948,
+      "forks": 6379,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "url": "https://github.com/chatwoot/chatwoot",
       "avatarUrl": "https://github.com/chatwoot.png",
-      "stars": 30953,
-      "forks": 7559,
+      "stars": 31010,
+      "forks": 7565,
       "todayStars": 0,
       "language": "Ruby",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 227191,
-      "forks": 20203,
+      "stars": 227365,
+      "forks": 20218,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 36515,
-      "forks": 1041,
+      "stars": 36653,
+      "forks": 1045,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Local-first session intelligence and analytics for coding agents, supporting Claude Code, Codex, and more than 20 other agents. Also: 100x faster replacement for ccusage!",
       "url": "https://github.com/kenn-io/agentsview",
       "avatarUrl": "https://github.com/kenn-io.png",
-      "stars": 2454,
-      "forks": 220,
+      "stars": 2512,
+      "forks": 224,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "LMCache: Supercharge Your LLM with the Fastest KV Cache Layer",
       "url": "https://github.com/LMCache/LMCache",
       "avatarUrl": "https://github.com/LMCache.png",
-      "stars": 8966,
-      "forks": 1311,
+      "stars": 9009,
+      "forks": 1312,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 14196,
-      "forks": 1490,
+      "stars": 14239,
+      "forks": 1493,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 4648,
-      "forks": 352,
+      "stars": 4771,
+      "forks": 368,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
       "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
       "avatarUrl": "https://github.com/x1xhlol.png",
-      "stars": 140371,
-      "forks": 34666,
+      "stars": 140412,
+      "forks": 34675,
       "todayStars": 0,
       "language": "",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-14T07:05:48.303Z",
+  "updated": "2026-06-14T10:30:54.299Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 36515,
-      "forks": 1041,
+      "stars": 36653,
+      "forks": 1045,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The Frontend Stack for Agents &amp; Generative UI. React, Angular, Mobile, Slack, and more. Makers of the AG-UI Protocol",
       "url": "https://github.com/CopilotKit/CopilotKit",
       "avatarUrl": "https://github.com/CopilotKit.png",
-      "stars": 35035,
+      "stars": 35059,
       "forks": 4364,
       "todayStars": 0,
       "language": "TypeScript",
@@ -38,8 +38,8 @@
       "description": "NVIDIA Cosmos is an open platform of world models, datasets, and tools that enables developers to build Physical AI for robots, autonomous vehicles, smart infrastructure, and more.",
       "url": "https://github.com/NVIDIA/cosmos",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 10169,
-      "forks": 660,
+      "stars": 10182,
+      "forks": 661,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "An interface library for RL post training with environments.",
       "url": "https://github.com/huggingface/OpenEnv",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 2183,
+      "stars": 2192,
       "forks": 393,
       "todayStars": 0,
       "language": "Python",
