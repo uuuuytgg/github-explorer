@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-14T10:30:54.299Z",
-  "count": 2,
+  "updated": "2026-06-14T12:27:48.633Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "NVIDIA/SkillSpector",
@@ -12,23 +12,10 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 4771,
-      "forks": 368,
+      "stars": 4855,
+      "forks": 372,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "x1xhlol/system-prompts-and-models-of-ai-tools",
-      "owner": "x1xhlol",
-      "name": "system-prompts-and-models-of-ai-tools",
-      "description": "FULL Augment Code, Claude Code, Cluely, CodeBuddy, Comet, Cursor, Devin AI, Junie, Kiro, Leap.new, Lovable, Manus, NotionAI, Orchids.app, Perplexity, Poke, Qoder, Replit, Same.dev, Trae, Traycer AI, VSCode Agent, Warp.dev, Windsurf, Xcode, Z.ai Code, Dia &amp; v0. (And other Open Sourced) System Prompts, Internal Tools &amp; AI Models",
-      "url": "https://github.com/x1xhlol/system-prompts-and-models-of-ai-tools",
-      "avatarUrl": "https://github.com/x1xhlol.png",
-      "stars": 140412,
-      "forks": 34675,
-      "todayStars": 0,
-      "language": "",
       "topics": []
     }
   ],

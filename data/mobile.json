@@ -2,35 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-14T10:30:54.299Z",
-  "count": 2,
-  "repos": [
-    {
-      "fullName": "apple/container",
-      "owner": "apple",
-      "name": "container",
-      "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
-      "url": "https://github.com/apple/container",
-      "avatarUrl": "https://github.com/apple.png",
-      "stars": 36653,
-      "forks": 1045,
-      "todayStars": 0,
-      "language": "Swift",
-      "topics": []
-    },
-    {
-      "fullName": "bannedbook/fanqiang",
-      "owner": "bannedbook",
-      "name": "fanqiang",
-      "description": "翻墙-科学上网",
-      "url": "https://github.com/bannedbook/fanqiang",
-      "avatarUrl": "https://github.com/bannedbook.png",
-      "stars": 47659,
-      "forks": 8094,
-      "todayStars": 0,
-      "language": "Kotlin",
-      "topics": []
-    }
-  ],
+  "updated": "2026-06-14T12:27:48.633Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }
