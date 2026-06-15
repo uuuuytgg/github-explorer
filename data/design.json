@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-15T16:08:56.201Z",
+  "updated": "2026-06-15T19:54:26.271Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 37345,
-      "forks": 1068,
+      "stars": 37404,
+      "forks": 1072,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "url": "https://github.com/RyanCodrai/turbovec",
       "avatarUrl": "https://github.com/RyanCodrai.png",
-      "stars": 11612,
-      "forks": 1012,
+      "stars": 11627,
+      "forks": 1014,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 42375,
-      "forks": 7047,
+      "stars": 42405,
+      "forks": 7051,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An interface library for RL post training with environments.",
       "url": "https://github.com/huggingface/OpenEnv",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 2258,
-      "forks": 396,
+      "stars": 2267,
+      "forks": 397,
       "todayStars": 0,
       "language": "Python",
       "topics": []
