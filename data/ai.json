@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-14T23:58:48.633Z",
+  "updated": "2026-06-15T04:04:19.286Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "url": "https://github.com/iptv-org/iptv",
       "avatarUrl": "https://github.com/iptv-org.png",
-      "stars": 120856,
-      "forks": 6466,
+      "stars": 121373,
+      "forks": 6504,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Open-source live-chat, email support, omni-channel desk. An alternative to Intercom, Zendesk, Salesforce Service Cloud etc. 🔥💬",
       "url": "https://github.com/chatwoot/chatwoot",
       "avatarUrl": "https://github.com/chatwoot.png",
-      "stars": 31204,
-      "forks": 7585,
+      "stars": 31312,
+      "forks": 7594,
       "todayStars": 0,
       "language": "Ruby",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 5256,
-      "forks": 401,
+      "stars": 5504,
+      "forks": 419,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "100+ open-source clones of popular sites like Airbnb, Amazon, Instagram, Netflix, Tiktok, Spotify, Whatsapp, Youtube etc. See source code, demo links, tech stack, github stars.",
       "url": "https://github.com/GorvGoyl/Clone-Wars",
       "avatarUrl": "https://github.com/GorvGoyl.png",
-      "stars": 35438,
-      "forks": 3183,
+      "stars": 35567,
+      "forks": 3191,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 14380,
-      "forks": 1504,
+      "stars": 14440,
+      "forks": 1507,
       "todayStars": 0,
       "language": "Python",
       "topics": []
