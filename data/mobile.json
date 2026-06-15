@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-15T10:31:41.495Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-06-15T16:08:56.201Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "krahets/hello-algo",
+      "owner": "krahets",
+      "name": "hello-algo",
+      "description": "《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持简中、繁中、English、日本語，提供 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 等代码实现",
+      "url": "https://github.com/krahets/hello-algo",
+      "avatarUrl": "https://github.com/krahets.png",
+      "stars": 126814,
+      "forks": 15131,
+      "todayStars": 0,
+      "language": "Java",
+      "topics": []
+    }
+  ],
   "error": null
 }
