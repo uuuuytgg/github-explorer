@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-16T14:33:10.379Z",
+  "updated": "2026-06-16T18:46:12.028Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Rust-based platform for the Web",
       "url": "https://github.com/swc-project/swc",
       "avatarUrl": "https://github.com/swc-project.png",
-      "stars": 33910,
-      "forks": 1412,
+      "stars": 33939,
+      "forks": 1414,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "JavaScript API for Chrome and Firefox",
       "url": "https://github.com/puppeteer/puppeteer",
       "avatarUrl": "https://github.com/puppeteer.png",
-      "stars": 94815,
-      "forks": 9445,
+      "stars": 94840,
+      "forks": 9448,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Music Assistant is a free, opensource Media library manager that connects to your streaming services and a wide range of connected speakers. The server is the beating heart, the core of Music Assistant and must run on an always-on device like a Raspberry Pi, a NAS or an Intel NUC or alike.",
       "url": "https://github.com/music-assistant/server",
       "avatarUrl": "https://github.com/music-assistant.png",
-      "stars": 2490,
+      "stars": 2521,
       "forks": 450,
       "todayStars": 0,
       "language": "Python",
@@ -51,8 +51,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7120,
-      "forks": 308,
+      "stars": 7199,
+      "forks": 311,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Free, Open Source, Self-Hosted WhatsApp API Gateway",
       "url": "https://github.com/rmyndharis/OpenWA",
       "avatarUrl": "https://github.com/rmyndharis.png",
-      "stars": 8901,
-      "forks": 1981,
+      "stars": 8989,
+      "forks": 1989,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-16T14:33:10.379Z",
+  "updated": "2026-06-16T18:46:12.028Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 37737,
+      "stars": 37794,
       "forks": 1086,
       "todayStars": 0,
       "language": "Swift",
@@ -25,8 +25,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 42682,
-      "forks": 7084,
+      "stars": 42746,
+      "forks": 7093,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "MLX: An array framework for Apple silicon",
       "url": "https://github.com/ml-explore/mlx",
       "avatarUrl": "https://github.com/ml-explore.png",
-      "stars": 27048,
+      "stars": 27057,
       "forks": 1913,
       "todayStars": 0,
       "language": "C++",
