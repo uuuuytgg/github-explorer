@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-15T22:08:38.526Z",
+  "updated": "2026-06-16T00:00:06.856Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Open-source infrastructure for Computer-Use Agents. Sandboxes, SDKs, and benchmarks to train and evaluate AI agents that can control full desktops (macOS, Linux, Windows).",
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://github.com/trycua.png",
-      "stars": 18118,
+      "stars": 18134,
       "forks": 1171,
       "todayStars": 0,
       "language": "HTML",
@@ -25,7 +25,7 @@
       "description": "Free, open-source Windows optimization tool for performance, privacy, and simplicity.",
       "url": "https://github.com/itsfatduck/optimizerDuck",
       "avatarUrl": "https://github.com/itsfatduck.png",
-      "stars": 3652,
+      "stars": 3674,
       "forks": 158,
       "todayStars": 0,
       "language": "C#",
@@ -38,8 +38,8 @@
       "description": "Security scanner for AI agent skills. Detect vulnerabilities, malicious patterns, and security risks.",
       "url": "https://github.com/NVIDIA/SkillSpector",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 6260,
-      "forks": 458,
+      "stars": 6315,
+      "forks": 462,
       "todayStars": 0,
       "language": "Python",
       "topics": []
