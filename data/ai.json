@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-16T18:46:12.028Z",
+  "updated": "2026-06-16T21:37:30.515Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A self-hosted data logger for your Tesla 🚘 [main maintainer=@JakobLichterfeld]",
       "url": "https://github.com/teslamate-org/teslamate",
       "avatarUrl": "https://github.com/teslamate-org.png",
-      "stars": 8379,
-      "forks": 955,
+      "stars": 8388,
+      "forks": 956,
       "todayStars": 0,
       "language": "Elixir",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Collection of publicly available IPTV channels from all over the world",
       "url": "https://github.com/iptv-org/iptv",
       "avatarUrl": "https://github.com/iptv-org.png",
-      "stars": 123881,
-      "forks": 6681,
+      "stars": 123945,
+      "forks": 6687,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 30066,
-      "forks": 3402,
+      "stars": 30096,
+      "forks": 3404,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 10380,
-      "forks": 604,
+      "stars": 10406,
+      "forks": 605,
       "todayStars": 0,
       "language": "C++",
       "topics": []
