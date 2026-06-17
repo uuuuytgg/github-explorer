@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-17T19:48:12.672Z",
+  "updated": "2026-06-17T21:51:15.863Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 38180,
+      "stars": 38192,
       "forks": 1101,
       "todayStars": 0,
       "language": "Swift",
@@ -25,8 +25,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 43077,
-      "forks": 7137,
+      "stars": 43091,
+      "forks": 7139,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
