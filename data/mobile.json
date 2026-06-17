@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-17T01:39:24.570Z",
+  "updated": "2026-06-17T06:48:48.002Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7328,
-      "forks": 315,
+      "stars": 7431,
+      "forks": 319,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
