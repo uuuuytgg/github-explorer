@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-18T10:51:43.100Z",
+  "updated": "2026-06-18T13:54:56.869Z",
   "count": 3,
   "repos": [
     {
@@ -12,10 +12,23 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 6359,
-      "forks": 525,
+      "stars": 6583,
+      "forks": 534,
       "todayStars": 0,
       "language": "C",
+      "topics": []
+    },
+    {
+      "fullName": "withastro/flue",
+      "owner": "withastro",
+      "name": "flue",
+      "description": "The sandbox agent framework.",
+      "url": "https://github.com/withastro/flue",
+      "avatarUrl": "https://github.com/withastro.png",
+      "stars": 5356,
+      "forks": 289,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7749,
+      "stars": 7794,
       "forks": 334,
       "todayStars": 0,
       "language": "Rust",
-      "topics": []
-    },
-    {
-      "fullName": "alexzhang13/rlm",
-      "owner": "alexzhang13",
-      "name": "rlm",
-      "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
-      "url": "https://github.com/alexzhang13/rlm",
-      "avatarUrl": "https://github.com/alexzhang13.png",
-      "stars": 4994,
-      "forks": 829,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],
