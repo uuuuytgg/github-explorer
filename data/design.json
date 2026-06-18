@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-18T21:28:38.142Z",
+  "updated": "2026-06-18T23:17:15.035Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 38557,
-      "forks": 1108,
+      "stars": 38570,
+      "forks": 1109,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
