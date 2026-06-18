@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-18T01:41:50.484Z",
+  "updated": "2026-06-18T06:26:44.602Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 5370,
-      "forks": 491,
+      "stars": 5887,
+      "forks": 504,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7653,
-      "forks": 328,
+      "stars": 7707,
+      "forks": 331,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "General plug-and-play inference library for Recursive Language Models (RLMs), supporting various sandboxes.",
       "url": "https://github.com/alexzhang13/rlm",
       "avatarUrl": "https://github.com/alexzhang13.png",
-      "stars": 4932,
-      "forks": 823,
+      "stars": 4971,
+      "forks": 828,
       "todayStars": 0,
       "language": "Python",
       "topics": []
