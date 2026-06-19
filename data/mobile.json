@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-19T02:10:42.043Z",
+  "updated": "2026-06-19T07:24:02.939Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "url": "https://github.com/Kong/insomnia",
       "avatarUrl": "https://github.com/Kong.png",
-      "stars": 38695,
-      "forks": 2293,
+      "stars": 38755,
+      "forks": 2294,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7929,
-      "forks": 342,
+      "stars": 7978,
+      "forks": 343,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "url": "https://github.com/dotnet/aspnetcore",
       "avatarUrl": "https://github.com/dotnet.png",
-      "stars": 38098,
-      "forks": 10710,
+      "stars": 38110,
+      "forks": 10712,
       "todayStars": 0,
       "language": "C#",
       "topics": []
