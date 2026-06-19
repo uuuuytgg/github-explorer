@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-18T23:17:15.035Z",
+  "updated": "2026-06-19T02:10:42.043Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 6977,
-      "forks": 563,
+      "stars": 7099,
+      "forks": 570,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The sandbox agent framework.",
       "url": "https://github.com/withastro/flue",
       "avatarUrl": "https://github.com/withastro.png",
-      "stars": 5479,
-      "forks": 298,
+      "stars": 5524,
+      "forks": 302,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
       "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
       "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7910,
-      "forks": 338,
+      "stars": 7929,
+      "forks": 342,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
