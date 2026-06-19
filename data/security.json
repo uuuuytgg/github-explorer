@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-19T07:24:02.939Z",
+  "updated": "2026-06-19T11:44:50.212Z",
   "count": 3,
   "repos": [
     {
@@ -12,10 +12,23 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 7313,
-      "forks": 575,
+      "stars": 7498,
+      "forks": 587,
       "todayStars": 0,
       "language": "C",
+      "topics": []
+    },
+    {
+      "fullName": "chopratejas/headroom",
+      "owner": "chopratejas",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/chopratejas/headroom",
+      "avatarUrl": "https://github.com/chopratejas.png",
+      "stars": 36480,
+      "forks": 2479,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "The sandbox agent framework.",
       "url": "https://github.com/withastro/flue",
       "avatarUrl": "https://github.com/withastro.png",
-      "stars": 5581,
-      "forks": 308,
+      "stars": 5631,
+      "forks": 310,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "owner": "Universal-Debloater-Alliance",
-      "name": "universal-android-debloater-next-generation",
-      "description": "Cross-platform GUI written in Rust using ADB to debloat non-rooted Android devices. Improve your privacy, the security and battery life of your device.",
-      "url": "https://github.com/Universal-Debloater-Alliance/universal-android-debloater-next-generation",
-      "avatarUrl": "https://github.com/Universal-Debloater-Alliance.png",
-      "stars": 7978,
-      "forks": 343,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     }
   ],
