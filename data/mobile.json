@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-19T18:50:42.261Z",
+  "updated": "2026-06-19T20:22:59.087Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "avatarUrl": "https://github.com/palmier-io.png",
-      "stars": 1678,
-      "forks": 178,
+      "stars": 1742,
+      "forks": 180,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "url": "https://github.com/Kong/insomnia",
       "avatarUrl": "https://github.com/Kong.png",
-      "stars": 38901,
+      "stars": 38921,
       "forks": 2299,
       "todayStars": 0,
       "language": "TypeScript",
