@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-19T16:57:36.115Z",
+  "updated": "2026-06-19T18:50:42.261Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 7879,
-      "forks": 605,
+      "stars": 7984,
+      "forks": 615,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 57025,
-      "forks": 9128,
+      "stars": 57083,
+      "forks": 9130,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A framework for building agent-native applications.",
       "url": "https://github.com/BuilderIO/agent-native",
       "avatarUrl": "https://github.com/BuilderIO.png",
-      "stars": 925,
-      "forks": 109,
+      "stars": 950,
+      "forks": 114,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 37598,
-      "forks": 2563,
+      "stars": 37926,
+      "forks": 2589,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 6070,
-      "forks": 1067,
+      "stars": 6133,
+      "forks": 1071,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "GLM-5: From Vibe Coding to Agentic Engineering",
       "url": "https://github.com/zai-org/GLM-5",
       "avatarUrl": "https://github.com/zai-org.png",
-      "stars": 4439,
-      "forks": 452,
+      "stars": 4478,
+      "forks": 454,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The sandbox agent framework.",
       "url": "https://github.com/withastro/flue",
       "avatarUrl": "https://github.com/withastro.png",
-      "stars": 5744,
-      "forks": 316,
+      "stars": 5775,
+      "forks": 320,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 233124,
-      "forks": 20709,
+      "stars": 233194,
+      "forks": 20715,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "url": "https://github.com/Kong/insomnia",
       "avatarUrl": "https://github.com/Kong.png",
-      "stars": 38878,
-      "forks": 2298,
+      "stars": 38901,
+      "forks": 2299,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
