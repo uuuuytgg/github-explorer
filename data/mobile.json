@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-20T15:11:56.063Z",
+  "updated": "2026-06-20T16:47:35.692Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "avatarUrl": "https://github.com/palmier-io.png",
-      "stars": 2641,
-      "forks": 236,
+      "stars": 2804,
+      "forks": 244,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The open-source, cross-platform API client for GraphQL, REST, WebSockets, SSE and gRPC. With Cloud, Local and Git storage.",
       "url": "https://github.com/Kong/insomnia",
       "avatarUrl": "https://github.com/Kong.png",
-      "stars": 39172,
-      "forks": 2320,
+      "stars": 39206,
+      "forks": 2321,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -35,10 +35,10 @@
       "fullName": "pppscn/SmsForwarder",
       "owner": "pppscn",
       "name": "SmsForwarder",
-      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指定规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
+      "description": "短信转发器——监控Android手机短信、来电、APP通知，并根据指��规则转发到其他手机：钉钉群自定义机器人、钉钉企业内机器人、企业微信群机器人、飞书机器人、企业微信应用消息、邮箱、bark、webhook、Telegram机器人、Server酱、PushPlus、手机短信等。包括主动控制服务端与客户端，让你轻松远程发短信、查短信、查通话、查话簿、查电量等。（V3.0 新增）PS.这个APK主要是学习与自用，如有BUG请提ISSUE，同时欢迎大家提PR指正",
       "url": "https://github.com/pppscn/SmsForwarder",
       "avatarUrl": "https://github.com/pppscn.png",
-      "stars": 26433,
+      "stars": 26449,
       "forks": 3270,
       "todayStars": 0,
       "language": "Kotlin",
