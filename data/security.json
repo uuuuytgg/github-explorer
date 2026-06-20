@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-20T01:51:56.241Z",
+  "updated": "2026-06-20T06:08:09.294Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 8271,
-      "forks": 629,
+      "stars": 8485,
+      "forks": 648,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60-95% fewer tokens, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/chopratejas/headroom",
       "avatarUrl": "https://github.com/chopratejas.png",
-      "stars": 38799,
-      "forks": 2648,
+      "stars": 39367,
+      "forks": 2696,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The sandbox agent framework.",
       "url": "https://github.com/withastro/flue",
       "avatarUrl": "https://github.com/withastro.png",
-      "stars": 5847,
-      "forks": 324,
+      "stars": 5891,
+      "forks": 327,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
