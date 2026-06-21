@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-21T20:57:13.616Z",
+  "updated": "2026-06-21T22:08:57.320Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 44294,
-      "forks": 7323,
+      "stars": 44326,
+      "forks": 7325,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
