@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-21T17:59:44.169Z",
+  "updated": "2026-06-21T19:41:42.117Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "avatarUrl": "https://github.com/palmier-io.png",
-      "stars": 4668,
-      "forks": 361,
+      "stars": 4792,
+      "forks": 369,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
