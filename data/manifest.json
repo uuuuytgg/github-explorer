@@ -1,10 +1,10 @@
 {
-  "updated": "2026-06-21T23:42:30.974Z",
+  "updated": "2026-06-22T02:08:33.973Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
       "icon": "🔥",
-      "count": 17
+      "count": 16
     },
     "newest": {
       "label": "本周新星",
