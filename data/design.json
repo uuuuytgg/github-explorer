@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-22T20:43:15.602Z",
+  "updated": "2026-06-22T22:25:24.550Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 44976,
-      "forks": 7405,
+      "stars": 44996,
+      "forks": 7407,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "url": "https://github.com/penpot/penpot",
       "avatarUrl": "https://github.com/penpot.png",
-      "stars": 52796,
-      "forks": 3378,
+      "stars": 52820,
+      "forks": 3382,
       "todayStars": 0,
       "language": "Clojure",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 58574,
+      "stars": 58583,
       "forks": 9253,
       "todayStars": 0,
       "language": "TypeScript",
