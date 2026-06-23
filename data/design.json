@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-23T10:00:42.423Z",
+  "updated": "2026-06-23T12:45:29.761Z",
   "count": 3,
   "repos": [
     {
@@ -12,23 +12,10 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 45218,
-      "forks": 7442,
+      "stars": 45266,
+      "forks": 7450,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "penpot/penpot",
-      "owner": "penpot",
-      "name": "penpot",
-      "description": "Penpot: The open-source design tool for design and code collaboration",
-      "url": "https://github.com/penpot/penpot",
-      "avatarUrl": "https://github.com/penpot.png",
-      "stars": 53126,
-      "forks": 3399,
-      "todayStars": 0,
-      "language": "Clojure",
       "topics": []
     },
     {
@@ -38,10 +25,23 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 58734,
-      "forks": 9264,
+      "stars": 58790,
+      "forks": 9265,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "penpot/penpot",
+      "owner": "penpot",
+      "name": "penpot",
+      "description": "Penpot: The open-source design tool for design and code collaboration",
+      "url": "https://github.com/penpot/penpot",
+      "avatarUrl": "https://github.com/penpot.png",
+      "stars": 53182,
+      "forks": 3404,
+      "todayStars": 0,
+      "language": "Clojure",
       "topics": []
     }
   ],
