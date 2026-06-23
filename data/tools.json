@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-23T06:04:40.962Z",
+  "updated": "2026-06-23T10:00:42.423Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 12931,
-      "forks": 1611,
+      "stars": 13736,
+      "forks": 1675,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 18939,
-      "forks": 2232,
+      "stars": 19137,
+      "forks": 2241,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,10 +38,10 @@
       "description": "#1 PDF Application on GitHub that lets you edit PDFs on any device anywhere",
       "url": "https://github.com/Stirling-Tools/Stirling-PDF",
       "avatarUrl": "https://github.com/Stirling-Tools.png",
-      "stars": 83212,
-      "forks": 7248,
+      "stars": 83442,
+      "forks": 7263,
       "todayStars": 0,
-      "language": "TypeScript",
+      "language": "Java",
       "topics": []
     },
     {
@@ -51,8 +51,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 113385,
-      "forks": 16821,
+      "stars": 113586,
+      "forks": 16842,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 11931,
-      "forks": 877,
+      "stars": 12172,
+      "forks": 891,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "url": "https://github.com/firecrawl/firecrawl",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 137590,
-      "forks": 7969,
+      "stars": 137811,
+      "forks": 7973,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 142171,
-      "forks": 12291,
+      "stars": 142620,
+      "forks": 12318,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
