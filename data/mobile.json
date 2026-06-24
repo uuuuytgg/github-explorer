@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-24T22:38:00.091Z",
+  "updated": "2026-06-24T23:46:58.670Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 42125,
-      "forks": 1231,
+      "stars": 42173,
+      "forks": 1236,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 177286,
+      "stars": 177301,
       "forks": 30544,
       "todayStars": 0,
       "language": "Dart",
@@ -38,7 +38,7 @@
       "description": "Headunit App for displaying Android Auto",
       "url": "https://github.com/andreknieriem/headunit-revived",
       "avatarUrl": "https://github.com/andreknieriem.png",
-      "stars": 1405,
+      "stars": 1408,
       "forks": 112,
       "todayStars": 0,
       "language": "Kotlin",
@@ -51,8 +51,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 6723,
-      "forks": 487,
+      "stars": 6749,
+      "forks": 489,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
