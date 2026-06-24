@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-24T15:59:06.207Z",
+  "updated": "2026-06-24T17:53:07.426Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 18390,
-      "forks": 2109,
+      "stars": 18667,
+      "forks": 2140,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 6586,
-      "forks": 479,
+      "stars": 6633,
+      "forks": 482,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "git push no-mistakes",
       "url": "https://github.com/kunchenguid/no-mistakes",
       "avatarUrl": "https://github.com/kunchenguid.png",
-      "stars": 1842,
-      "forks": 129,
+      "stars": 1883,
+      "forks": 131,
       "todayStars": 0,
       "language": "Go",
       "topics": []
