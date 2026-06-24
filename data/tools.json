@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-24T01:29:11.550Z",
+  "updated": "2026-06-24T05:36:07.235Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 15745,
-      "forks": 1871,
+      "stars": 16454,
+      "forks": 1944,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 19721,
-      "forks": 2299,
+      "stars": 19961,
+      "forks": 2324,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 114097,
-      "forks": 16889,
+      "stars": 114324,
+      "forks": 16912,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 59114,
-      "forks": 9284,
+      "stars": 59244,
+      "forks": 9294,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "from vibe coding to agentic engineering - practice makes claude perfect",
       "url": "https://github.com/shanraisshan/claude-code-best-practice",
       "avatarUrl": "https://github.com/shanraisshan.png",
-      "stars": 59473,
-      "forks": 5985,
+      "stars": 59669,
+      "forks": 5997,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 12971,
-      "forks": 939,
+      "stars": 13303,
+      "forks": 975,
       "todayStars": 0,
       "language": "C",
       "topics": []
