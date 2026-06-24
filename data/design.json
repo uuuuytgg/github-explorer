@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-24T08:41:32.314Z",
-  "count": 3,
+  "updated": "2026-06-24T11:27:47.887Z",
+  "count": 4,
   "repos": [
-    {
-      "fullName": "asgeirtj/system_prompts_leaks",
-      "owner": "asgeirtj",
-      "name": "system_prompts_leaks",
-      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
-      "url": "https://github.com/asgeirtj/system_prompts_leaks",
-      "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 45541,
-      "forks": 7480,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
     {
       "fullName": "koala73/worldmonitor",
       "owner": "koala73",
@@ -25,10 +12,23 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 59356,
-      "forks": 9299,
+      "stars": 59428,
+      "forks": 9306,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "asgeirtj/system_prompts_leaks",
+      "owner": "asgeirtj",
+      "name": "system_prompts_leaks",
+      "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
+      "url": "https://github.com/asgeirtj/system_prompts_leaks",
+      "avatarUrl": "https://github.com/asgeirtj.png",
+      "stars": 45584,
+      "forks": 7487,
+      "todayStars": 0,
+      "language": "JavaScript",
       "topics": []
     },
     {
@@ -38,10 +38,23 @@
       "description": "Penpot: The open-source design tool for design and code collaboration",
       "url": "https://github.com/penpot/penpot",
       "avatarUrl": "https://github.com/penpot.png",
-      "stars": 53389,
-      "forks": 3430,
+      "stars": 53410,
+      "forks": 3434,
       "todayStars": 0,
       "language": "Clojure",
+      "topics": []
+    },
+    {
+      "fullName": "ZhuLinsen/daily_stock_analysis",
+      "owner": "ZhuLinsen",
+      "name": "daily_stock_analysis",
+      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
+      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+      "avatarUrl": "https://github.com/ZhuLinsen.png",
+      "stars": 47924,
+      "forks": 42770,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
