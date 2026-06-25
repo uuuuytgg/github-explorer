@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-25T02:01:34.846Z",
+  "updated": "2026-06-25T06:17:51.894Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 19582,
-      "forks": 2221,
+      "stars": 20276,
+      "forks": 2284,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 48592,
-      "forks": 42996,
+      "stars": 48916,
+      "forks": 43140,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.",
       "url": "https://github.com/apple/container",
       "avatarUrl": "https://github.com/apple.png",
-      "stars": 42288,
-      "forks": 1244,
+      "stars": 42550,
+      "forks": 1250,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AI agent to evaluate and score resumes.",
       "url": "https://github.com/interviewstreet/hiring-agent",
       "avatarUrl": "https://github.com/interviewstreet.png",
-      "stars": 2232,
-      "forks": 601,
+      "stars": 2416,
+      "forks": 618,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 19370,
-      "forks": 2891,
+      "stars": 19592,
+      "forks": 2907,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A meta-skill that designs domain-specific agent teams, defines specialized agents, and generates the skills they use.",
       "url": "https://github.com/revfactory/harness",
       "avatarUrl": "https://github.com/revfactory.png",
-      "stars": 7760,
-      "forks": 1057,
+      "stars": 7835,
+      "forks": 1066,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop and mobile.",
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 6835,
-      "forks": 493,
+      "stars": 7000,
+      "forks": 503,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 17394,
-      "forks": 1569,
+      "stars": 17650,
+      "forks": 1580,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "The agent that grows with you",
       "url": "https://github.com/NousResearch/hermes-agent",
       "avatarUrl": "https://github.com/NousResearch.png",
-      "stars": 202112,
-      "forks": 36125,
+      "stars": 202322,
+      "forks": 36158,
       "todayStars": 0,
       "language": "Python",
       "topics": []
