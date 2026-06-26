@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-26T17:06:05.734Z",
+  "updated": "2026-06-26T19:01:08.612Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 20821,
-      "forks": 1701,
+      "stars": 20965,
+      "forks": 1712,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "url": "https://github.com/opendatalab/MinerU",
       "avatarUrl": "https://github.com/opendatalab.png",
-      "stars": 70232,
-      "forks": 5930,
+      "stars": 70289,
+      "forks": 5932,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 2998,
-      "forks": 440,
+      "stars": 3025,
+      "forks": 445,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "World's first open-source, agentic video production system. 12 pipelines, 52 tools, 500+ agent skills. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 23283,
-      "forks": 2586,
+      "stars": 23393,
+      "forks": 2596,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 1297,
-      "forks": 118,
+      "stars": 1307,
+      "forks": 119,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 116443,
-      "forks": 17263,
+      "stars": 116497,
+      "forks": 17282,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 21174,
-      "forks": 3077,
+      "stars": 21226,
+      "forks": 3085,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 42112,
-      "forks": 3341,
+      "stars": 42192,
+      "forks": 3346,
       "todayStars": 0,
       "language": "Python",
       "topics": []
