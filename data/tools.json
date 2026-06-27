@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-27T11:18:16.890Z",
+  "updated": "2026-06-27T12:48:06.069Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 3428,
-      "forks": 512,
+      "stars": 3527,
+      "forks": 518,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "avatarUrl": "https://github.com/ripienaar.png",
-      "stars": 123929,
-      "forks": 13060,
+      "stars": 123962,
+      "forks": 13064,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 116876,
-      "forks": 17345,
+      "stars": 116920,
+      "forks": 17357,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "avatarUrl": "https://github.com/Anil-matcha.png",
-      "stars": 21162,
-      "forks": 3617,
+      "stars": 21183,
+      "forks": 3621,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "url": "https://github.com/topoteretes/cognee",
       "avatarUrl": "https://github.com/topoteretes.png",
-      "stars": 23528,
-      "forks": 2228,
+      "stars": 23584,
+      "forks": 2234,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "url": "https://github.com/dbt-labs/dbt-core",
       "avatarUrl": "https://github.com/dbt-labs.png",
-      "stars": 13087,
-      "forks": 2432,
+      "stars": 13100,
+      "forks": 2434,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
