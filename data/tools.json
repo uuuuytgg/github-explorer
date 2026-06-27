@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-06-27T22:34:01.712Z",
+  "updated": "2026-06-27T23:39:04.830Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built on Claude Code. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 4051,
-      "forks": 573,
+      "stars": 4081,
+      "forks": 576,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "avatarUrl": "https://github.com/ripienaar.png",
-      "stars": 124145,
-      "forks": 13080,
+      "stars": 124160,
+      "forks": 13081,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 117205,
-      "forks": 17412,
+      "stars": 117225,
+      "forks": 17416,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -48,11 +48,11 @@
       "fullName": "Anil-matcha/Open-Generative-AI",
       "owner": "Anil-matcha",
       "name": "Open-Generative-AI",
-      "description": "Unrestricted Open-source alternative to AI video platforms — Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
+      "description": "Unrestricted Open-source alternative to AI video platforms ��� Free AI image &amp; video generation studio with 200+ models (Flux, Midjourney, Kling, Sora, Veo). No content filters. Self-hosted, MIT licensed.",
       "url": "https://github.com/Anil-matcha/Open-Generative-AI",
       "avatarUrl": "https://github.com/Anil-matcha.png",
-      "stars": 21353,
-      "forks": 3638,
+      "stars": 21367,
+      "forks": 3640,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Cognee is the open-source AI memory platform for agents. Give your AI agents persistent long-term memory across sessions with a self-hosted knowledge graph engine.",
       "url": "https://github.com/topoteretes/cognee",
       "avatarUrl": "https://github.com/topoteretes.png",
-      "stars": 23959,
-      "forks": 2252,
+      "stars": 23985,
+      "forks": 2253,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "dbt enables data analysts and engineers to transform their data using the same practices that software engineers use to build applications.",
       "url": "https://github.com/dbt-labs/dbt-core",
       "avatarUrl": "https://github.com/dbt-labs.png",
-      "stars": 13201,
-      "forks": 2437,
+      "stars": 13211,
+      "forks": 2439,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
