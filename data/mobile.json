@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-27T21:18:10.434Z",
+  "updated": "2026-06-27T22:34:01.712Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 13732,
-      "forks": 790,
+      "stars": 13776,
+      "forks": 792,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
