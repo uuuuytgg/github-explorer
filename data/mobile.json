@@ -2,8 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-27T09:49:36.521Z",
-  "count": 2,
+  "updated": "2026-06-27T11:18:16.890Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "simplex-chat/simplex-chat",
@@ -12,23 +12,10 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 13043,
-      "forks": 751,
+      "stars": 13132,
+      "forks": 756,
       "todayStars": 0,
       "language": "Haskell",
-      "topics": []
-    },
-    {
-      "fullName": "mauriceboe/TREK",
-      "owner": "mauriceboe",
-      "name": "TREK",
-      "description": "A self-hosted travel/trip planner with real-time collaboration, interactive maps, PWA support, SSO, budgets, packing lists, and more.",
-      "url": "https://github.com/mauriceboe/TREK",
-      "avatarUrl": "https://github.com/mauriceboe.png",
-      "stars": 7905,
-      "forks": 668,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
