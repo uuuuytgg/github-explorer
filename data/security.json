@@ -2,8 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-28T09:29:49.921Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-06-28T11:19:59.566Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "DeusData/codebase-memory-mcp",
+      "owner": "DeusData",
+      "name": "codebase-memory-mcp",
+      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
+      "url": "https://github.com/DeusData/codebase-memory-mcp",
+      "avatarUrl": "https://github.com/DeusData.png",
+      "stars": 18490,
+      "forks": 1346,
+      "todayStars": 0,
+      "language": "C",
+      "topics": []
+    }
+  ],
   "error": null
 }
