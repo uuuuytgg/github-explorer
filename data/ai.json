@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-28T14:30:28.061Z",
+  "updated": "2026-06-28T15:54:44.322Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 5042,
-      "forks": 693,
+      "stars": 5116,
+      "forks": 703,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
       "url": "https://github.com/DeusData/codebase-memory-mcp",
       "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 18812,
-      "forks": 1371,
+      "stars": 18964,
+      "forks": 1380,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 3360,
-      "forks": 222,
+      "stars": 3423,
+      "forks": 224,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Transforms complex documents like PDFs and Office docs into LLM-ready markdown/JSON for your Agentic workflows.",
       "url": "https://github.com/opendatalab/MinerU",
       "avatarUrl": "https://github.com/opendatalab.png",
-      "stars": 71289,
-      "forks": 5993,
+      "stars": 71351,
+      "forks": 5996,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 14052,
-      "forks": 2608,
+      "stars": 14109,
+      "forks": 2610,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Explain complex systems using visuals and simple terms. Help you prepare for system design interviews.",
       "url": "https://github.com/ByteByteGoHq/system-design-101",
       "avatarUrl": "https://github.com/ByteByteGoHq.png",
-      "stars": 84165,
-      "forks": 9331,
+      "stars": 84216,
+      "forks": 9338,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Open-source AI hackers to find and fix your app’s vulnerabilities.",
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://github.com/usestrix.png",
-      "stars": 26444,
-      "forks": 2970,
+      "stars": 26498,
+      "forks": 2972,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Edit videos with coding agents",
       "url": "https://github.com/browser-use/video-use",
       "avatarUrl": "https://github.com/browser-use.png",
-      "stars": 10712,
-      "forks": 1507,
+      "stars": 10764,
+      "forks": 1509,
       "todayStars": 0,
       "language": "Python",
       "topics": []
