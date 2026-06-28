@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-28T11:19:59.566Z",
+  "updated": "2026-06-28T12:50:15.241Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 14323,
-      "forks": 821,
+      "stars": 14403,
+      "forks": 827,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 3237,
-      "forks": 214,
+      "stars": 3282,
+      "forks": 217,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
