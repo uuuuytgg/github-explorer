@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-06-30T05:53:15.827Z",
+  "updated": "2026-06-30T08:52:06.915Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 119323,
-      "forks": 19530,
+      "stars": 119638,
+      "forks": 19569,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 4523,
-      "forks": 285,
+      "stars": 4622,
+      "forks": 287,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🕵️‍♂️ Collect a dossier on a person by username from 3000+ sites",
       "url": "https://github.com/soxoj/maigret",
       "avatarUrl": "https://github.com/soxoj.png",
-      "stars": 34515,
-      "forks": 2606,
+      "stars": 34622,
+      "forks": 2611,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "url": "https://github.com/logto-io/logto",
       "avatarUrl": "https://github.com/logto-io.png",
-      "stars": 12812,
-      "forks": 874,
+      "stars": 12915,
+      "forks": 883,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 6898,
-      "forks": 894,
+      "stars": 7090,
+      "forks": 915,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Edit videos with coding agents",
       "url": "https://github.com/browser-use/video-use",
       "avatarUrl": "https://github.com/browser-use.png",
-      "stars": 12084,
-      "forks": 1576,
+      "stars": 12210,
+      "forks": 1586,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "基于 AI Agent + MCP 工具链 + 渗透 Skill 编排， 配合大语言模型， 自然语言输入 → 自动完成「信息收集 → 漏洞发现 → 漏洞利用 → 报告生成」全流程。",
       "url": "https://github.com/Unclecheng-li/VulnClaw",
       "avatarUrl": "https://github.com/Unclecheng-li.png",
-      "stars": 1255,
-      "forks": 183,
+      "stars": 1322,
+      "forks": 186,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "avatarUrl": "https://github.com/0xNyk.png",
-      "stars": 2076,
-      "forks": 210,
+      "stars": 2192,
+      "forks": 216,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 15269,
-      "forks": 2700,
+      "stars": 15410,
+      "forks": 2709,
       "todayStars": 0,
       "language": "Python",
       "topics": []

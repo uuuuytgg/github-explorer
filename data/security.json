@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-06-30T05:53:15.827Z",
+  "updated": "2026-06-30T08:52:06.915Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 119323,
-      "forks": 19530,
+      "stars": 119638,
+      "forks": 19569,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "url": "https://github.com/logto-io/logto",
       "avatarUrl": "https://github.com/logto-io.png",
-      "stars": 12812,
-      "forks": 874,
+      "stars": 12915,
+      "forks": 883,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Disk encryption with strong security based on TrueCrypt",
       "url": "https://github.com/veracrypt/VeraCrypt",
       "avatarUrl": "https://github.com/veracrypt.png",
-      "stars": 10546,
-      "forks": 1233,
+      "stars": 10580,
+      "forks": 1232,
       "todayStars": 0,
       "language": "C",
       "topics": []
