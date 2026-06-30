@@ -2,22 +2,9 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-30T08:52:06.915Z",
-  "count": 2,
+  "updated": "2026-06-30T11:37:08.353Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "simplex-chat/simplex-chat",
-      "owner": "simplex-chat",
-      "name": "simplex-chat",
-      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
-      "url": "https://github.com/simplex-chat/simplex-chat",
-      "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17072,
-      "forks": 992,
-      "todayStars": 0,
-      "language": "Haskell",
-      "topics": []
-    },
     {
       "fullName": "altic-dev/FluidVoice",
       "owner": "altic-dev",
@@ -25,10 +12,36 @@
       "description": "FluidVoice - Fastest macOS Offline Dictation app - Voice to Text fully Local. One ⭐ takes us a long way :))",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 4622,
-      "forks": 287,
+      "stars": 4681,
+      "forks": 290,
       "todayStars": 0,
       "language": "Swift",
+      "topics": []
+    },
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "avatarUrl": "https://github.com/diegosouzapw.png",
+      "stars": 8072,
+      "forks": 1363,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "simplex-chat/simplex-chat",
+      "owner": "simplex-chat",
+      "name": "simplex-chat",
+      "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
+      "url": "https://github.com/simplex-chat/simplex-chat",
+      "avatarUrl": "https://github.com/simplex-chat.png",
+      "stars": 17201,
+      "forks": 998,
+      "todayStars": 0,
+      "language": "Haskell",
       "topics": []
     }
   ],
