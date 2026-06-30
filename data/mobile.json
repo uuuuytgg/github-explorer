@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-06-30T18:10:00.700Z",
+  "updated": "2026-06-30T20:16:00.492Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model - Local Wispr Flow alternative. One ⭐ takes us a long way :)) Windows, iOS and Linux coming soon.",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 4816,
+      "stars": 4845,
       "forks": 300,
       "todayStars": 0,
       "language": "Swift",
@@ -22,11 +22,11 @@
       "fullName": "diegosouzapw/OmniRoute",
       "owner": "diegosouzapw",
       "name": "OmniRoute",
-      "description": "Never stop coding. Free AI gateway: one endpoint, 160+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
+      "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 8336,
-      "forks": 1384,
+      "stars": 8382,
+      "forks": 1389,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17277,
-      "forks": 1004,
+      "stars": 17294,
+      "forks": 1006,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
