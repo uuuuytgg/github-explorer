@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-06-30T20:16:00.492Z",
+  "updated": "2026-06-30T21:51:28.867Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17294,
-      "forks": 1006,
+      "stars": 17305,
+      "forks": 1007,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 23666,
-      "forks": 1863,
+      "stars": 23679,
+      "forks": 1867,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 23926,
-      "forks": 3401,
+      "stars": 23937,
+      "forks": 3403,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 52429,
-      "forks": 45482,
+      "stars": 52443,
+      "forks": 45488,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 20774,
+      "stars": 20776,
       "forks": 1778,
       "todayStars": 0,
       "language": "TypeScript",
@@ -77,8 +77,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 1644,
-      "forks": 134,
+      "stars": 1646,
+      "forks": 135,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A framework for building agent-native applications.",
       "url": "https://github.com/BuilderIO/agent-native",
       "avatarUrl": "https://github.com/BuilderIO.png",
-      "stars": 3190,
-      "forks": 307,
+      "stars": 3195,
+      "forks": 309,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
