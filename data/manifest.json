@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-01T18:29:02.993Z",
+  "updated": "2026-07-01T20:24:02.210Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -9,7 +9,7 @@
     "newest": {
       "label": "本周新星",
       "icon": "🆕",
-      "count": 22
+      "count": 21
     },
     "ai": {
       "label": "AI & LLM",
