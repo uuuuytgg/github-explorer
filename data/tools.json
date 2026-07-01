@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-01T04:59:02.587Z",
+  "updated": "2026-07-01T08:48:37.507Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 121262,
-      "forks": 19804,
+      "stars": 121590,
+      "forks": 19859,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 8731,
-      "forks": 1406,
+      "stars": 8939,
+      "forks": 1422,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 7677,
-      "forks": 974,
+      "stars": 7878,
+      "forks": 1001,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Common User Passwords Profiler (CUPP)",
       "url": "https://github.com/Mebus/cupp",
       "avatarUrl": "https://github.com/Mebus.png",
-      "stars": 6133,
-      "forks": 2050,
+      "stars": 6167,
+      "forks": 2053,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A list of SaaS, PaaS and IaaS offerings that have free tiers of interest to devops and infradev",
       "url": "https://github.com/ripienaar/free-for-dev",
       "avatarUrl": "https://github.com/ripienaar.png",
-      "stars": 127399,
-      "forks": 13316,
+      "stars": 127471,
+      "forks": 13321,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The CLI and skills that turn any coding assistant into an expert at creating, evaluating, and deploying AI agents on Google Cloud.",
       "url": "https://github.com/google/agents-cli",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 4331,
-      "forks": 465,
+      "stars": 4430,
+      "forks": 469,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "agent multiplexer that lives in your terminal.",
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://github.com/ogulcancelik.png",
-      "stars": 9109,
-      "forks": 546,
+      "stars": 9223,
+      "forks": 550,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 1614,
-      "forks": 139,
+      "stars": 1702,
+      "forks": 146,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 242724,
-      "forks": 21538,
+      "stars": 242967,
+      "forks": 21552,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
