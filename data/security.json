@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-02T20:49:51.809Z",
+  "updated": "2026-07-02T21:56:35.490Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 80619,
-      "forks": 4516,
+      "stars": 80711,
+      "forks": 4518,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 125372,
+      "stars": 125397,
       "forks": 20338,
       "todayStars": 0,
       "language": "Shell",
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 225112,
-      "forks": 34452,
+      "stars": 225130,
+      "forks": 34453,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
