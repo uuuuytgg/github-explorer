@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-02T00:18:51.269Z",
+  "updated": "2026-07-02T04:35:58.001Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 123350,
-      "forks": 20073,
+      "stars": 123926,
+      "forks": 20148,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Never stop coding. Free AI gateway: one endpoint, 231+ providers (50+ free), connect Claude Code, Codex, Cursor, Cline &amp; Copilot to FREE Claude/GPT/Gemini. RTK+Caveman stacked compression saves 15-95% tokens, smart auto-fallback, MCP/A2A, multimodal APIs, Desktop/PWA.",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 9502,
-      "forks": 1465,
+      "stars": 9694,
+      "forks": 1484,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Japanese Input Method System for Linux, macOS, Neural Kana-Kanji Conversion Engine",
       "url": "https://github.com/togatoga/karukan",
       "avatarUrl": "https://github.com/togatoga.png",
-      "stars": 574,
-      "forks": 35,
+      "stars": 603,
+      "forks": 36,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Common User Passwords Profiler (CUPP)",
       "url": "https://github.com/Mebus/cupp",
       "avatarUrl": "https://github.com/Mebus.png",
-      "stars": 6242,
-      "forks": 2065,
+      "stars": 6266,
+      "forks": 2068,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "agent multiplexer that lives in your terminal.",
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://github.com/ogulcancelik.png",
-      "stars": 9586,
-      "forks": 565,
+      "stars": 9720,
+      "forks": 568,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "18 AI personas deliberate your hardest decisions across multiple LLM providers. Aristotle, Feynman, Kahneman, Torvalds &amp; more — structured multi-round deliberation with genuine model diversity. One command: /council",
       "url": "https://github.com/0xNyk/council-of-high-intelligence",
       "avatarUrl": "https://github.com/0xNyk.png",
-      "stars": 2612,
-      "forks": 243,
+      "stars": 2721,
+      "forks": 250,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Instatic is a modern self-hosted visual CMS - get it running in 1 minute",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 2003,
-      "forks": 167,
+      "stars": 2065,
+      "forks": 169,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
