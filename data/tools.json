@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-02T14:34:18.272Z",
+  "updated": "2026-07-02T16:24:22.452Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 125107,
-      "forks": 20304,
+      "stars": 125223,
+      "forks": 20319,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 244084,
-      "forks": 21666,
+      "stars": 244174,
+      "forks": 21668,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Langflow is a powerful tool for building and deploying AI-powered agents and workflows.",
       "url": "https://github.com/langflow-ai/langflow",
       "avatarUrl": "https://github.com/langflow-ai.png",
-      "stars": 150483,
-      "forks": 9386,
+      "stars": 150542,
+      "forks": 9388,
       "todayStars": 0,
       "language": "Python",
       "topics": []
