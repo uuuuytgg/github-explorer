@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-02T10:25:50.702Z",
-  "count": 8,
+  "updated": "2026-07-02T12:24:40.393Z",
+  "count": 7,
   "repos": [
     {
       "fullName": "xbtlin/ai-berkshire",
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 8460,
-      "forks": 1071,
+      "stars": 8503,
+      "forks": 1082,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17602,
+      "stars": 17609,
       "forks": 1025,
       "todayStars": 0,
       "language": "Haskell",
@@ -38,8 +38,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 24230,
-      "forks": 1890,
+      "stars": 24260,
+      "forks": 1892,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,10 +51,23 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 24676,
-      "forks": 3491,
+      "stars": 24704,
+      "forks": 3498,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://github.com/msitarzewski.png",
+      "stars": 124973,
+      "forks": 20279,
+      "todayStars": 0,
+      "language": "Shell",
       "topics": []
     },
     {
@@ -64,23 +77,10 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 20991,
+      "stars": 21018,
       "forks": 1786,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "ZhuLinsen/daily_stock_analysis",
-      "owner": "ZhuLinsen",
-      "name": "daily_stock_analysis",
-      "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
-      "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
-      "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 53356,
-      "forks": 46205,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -90,23 +90,10 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 1703,
+      "stars": 1704,
       "forks": 138,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "BuilderIO/agent-native",
-      "owner": "BuilderIO",
-      "name": "agent-native",
-      "description": "A framework for building agent-native applications.",
-      "url": "https://github.com/BuilderIO/agent-native",
-      "avatarUrl": "https://github.com/BuilderIO.png",
-      "stars": 3343,
-      "forks": 318,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
