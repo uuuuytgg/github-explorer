@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-02T23:59:38.303Z",
+  "updated": "2026-07-03T02:58:12.585Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 8642,
-      "forks": 1101,
+      "stars": 8724,
+      "forks": 1109,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17659,
-      "forks": 1033,
+      "stars": 17676,
+      "forks": 1036,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 24372,
-      "forks": 1899,
+      "stars": 24417,
+      "forks": 1902,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 24901,
-      "forks": 3517,
+      "stars": 24970,
+      "forks": 3521,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 125456,
-      "forks": 20352,
+      "stars": 125631,
+      "forks": 20384,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 21384,
-      "forks": 1824,
+      "stars": 21553,
+      "forks": 1842,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 1737,
-      "forks": 138,
+      "stars": 1745,
+      "forks": 139,
       "todayStars": 0,
       "language": "Python",
       "topics": []
