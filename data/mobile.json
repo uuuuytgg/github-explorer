@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-03T21:20:51.536Z",
+  "updated": "2026-07-03T22:30:25.042Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 105409,
-      "forks": 12966,
+      "stars": 105430,
+      "forks": 12967,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
