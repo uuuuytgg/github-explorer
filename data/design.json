@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-03T15:33:21.531Z",
+  "updated": "2026-07-03T17:02:15.607Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 9075,
-      "forks": 1148,
+      "stars": 9100,
+      "forks": 1149,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "SimpleX - the first messaging network operating without user identifiers of any kind - 100% private by design! iOS, Android and desktop apps 📱!",
       "url": "https://github.com/simplex-chat/simplex-chat",
       "avatarUrl": "https://github.com/simplex-chat.png",
-      "stars": 17734,
-      "forks": 1038,
+      "stars": 17743,
+      "forks": 1041,
       "todayStars": 0,
       "language": "Haskell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Clone any website with one command using AI coding agents",
       "url": "https://github.com/JCodesMore/ai-website-cloner-template",
       "avatarUrl": "https://github.com/JCodesMore.png",
-      "stars": 25201,
-      "forks": 3547,
+      "stars": 25230,
+      "forks": 3551,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A format specification for describing a visual identity to coding agents. DESIGN.md gives agents a persistent, structured understanding of a design system.",
       "url": "https://github.com/google-labs-code/design.md",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 24558,
-      "forks": 1909,
+      "stars": 24576,
+      "forks": 1912,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "🧑‍🚀 Authentication and authorization infrastructure for SaaS and AI apps, built on OIDC and OAuth 2.1 with multi-tenancy, SSO, and RBAC.",
       "url": "https://github.com/logto-io/logto",
       "avatarUrl": "https://github.com/logto-io.png",
-      "stars": 13572,
-      "forks": 934,
+      "stars": 13586,
+      "forks": 935,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 126268,
-      "forks": 20497,
+      "stars": 126325,
+      "forks": 20507,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 22128,
-      "forks": 1913,
+      "stars": 22197,
+      "forks": 1918,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
