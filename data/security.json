@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-03T09:41:15.765Z",
+  "updated": "2026-07-03T11:54:36.546Z",
   "count": 3,
   "repos": [
     {
@@ -12,10 +12,23 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 82140,
-      "forks": 4576,
+      "stars": 82362,
+      "forks": 4587,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "TencentCloud/CubeSandbox",
+      "owner": "TencentCloud",
+      "name": "CubeSandbox",
+      "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
+      "url": "https://github.com/TencentCloud/CubeSandbox",
+      "avatarUrl": "https://github.com/TencentCloud.png",
+      "stars": 7040,
+      "forks": 587,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 126030,
-      "forks": 20451,
+      "stars": 126129,
+      "forks": 20468,
       "todayStars": 0,
       "language": "Shell",
-      "topics": []
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 225436,
-      "forks": 34483,
-      "todayStars": 0,
-      "language": "JavaScript",
       "topics": []
     }
   ],

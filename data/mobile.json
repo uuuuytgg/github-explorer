@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-03T09:41:15.765Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-07-03T11:54:36.546Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "supabase/supabase",
+      "owner": "supabase",
+      "name": "supabase",
+      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
+      "url": "https://github.com/supabase/supabase",
+      "avatarUrl": "https://github.com/supabase.png",
+      "stars": 105232,
+      "forks": 12955,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ],
   "error": null
 }
