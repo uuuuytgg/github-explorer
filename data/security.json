@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-03T23:39:28.107Z",
+  "updated": "2026-07-04T01:13:43.219Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 82903,
-      "forks": 4625,
+      "stars": 82942,
+      "forks": 4629,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 7161,
-      "forks": 591,
+      "stars": 7175,
+      "forks": 592,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 126466,
-      "forks": 20526,
+      "stars": 126503,
+      "forks": 20534,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
