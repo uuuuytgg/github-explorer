@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-05T20:49:36.385Z",
+  "updated": "2026-07-05T21:47:26.341Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Show usage stats for OpenAI Codex and Claude Code, without having to login.",
       "url": "https://github.com/steipete/CodexBar",
       "avatarUrl": "https://github.com/steipete.png",
-      "stars": 16106,
+      "stars": 16123,
       "forks": 1347,
       "todayStars": 0,
       "language": "Swift",
