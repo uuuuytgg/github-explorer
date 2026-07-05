@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-05T19:56:48.473Z",
+  "updated": "2026-07-05T20:49:36.385Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 16630,
-      "forks": 1778,
+      "stars": 16689,
+      "forks": 1783,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "avatarUrl": "https://github.com/alirezarezvani.png",
-      "stars": 20461,
-      "forks": 2790,
+      "stars": 20481,
+      "forks": 2792,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 84737,
-      "forks": 4716,
+      "stars": 84761,
+      "forks": 4718,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 76646,
+      "stars": 76662,
       "forks": 10280,
       "todayStars": 0,
       "language": "Rust",
