@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-05T08:22:53.282Z",
+  "updated": "2026-07-05T10:33:04.740Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "agent multiplexer that lives in your terminal.",
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://github.com/ogulcancelik.png",
-      "stars": 11632,
-      "forks": 681,
+      "stars": 11686,
+      "forks": 685,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 156901,
-      "forks": 13499,
+      "stars": 156987,
+      "forks": 13505,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "avatarUrl": "https://github.com/alirezarezvani.png",
-      "stars": 20259,
-      "forks": 2768,
+      "stars": 20285,
+      "forks": 2774,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Lightweight (7MB) Terminal-first AI-native dev workspace",
       "url": "https://github.com/crynta/terax-ai",
       "avatarUrl": "https://github.com/crynta.png",
-      "stars": 8133,
-      "forks": 864,
+      "stars": 8158,
+      "forks": 865,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
