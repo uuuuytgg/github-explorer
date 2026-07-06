@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-06T11:09:42.497Z",
+  "updated": "2026-07-06T14:35:23.565Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 18259,
-      "forks": 1871,
+      "stars": 18601,
+      "forks": 1899,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 76944,
-      "forks": 10314,
+      "stars": 77090,
+      "forks": 10340,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "337 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "avatarUrl": "https://github.com/alirezarezvani.png",
-      "stars": 20889,
-      "forks": 2813,
+      "stars": 20969,
+      "forks": 2822,
       "todayStars": 0,
       "language": "Python",
       "topics": []
