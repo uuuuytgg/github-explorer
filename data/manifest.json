@@ -1,10 +1,10 @@
 {
-  "updated": "2026-07-06T06:16:11.824Z",
+  "updated": "2026-07-06T11:09:42.497Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
       "icon": "🔥",
-      "count": 21
+      "count": 16
     },
     "newest": {
       "label": "本周新星",
@@ -14,7 +14,7 @@
     "ai": {
       "label": "AI & LLM",
       "icon": "🤖",
-      "count": 17
+      "count": 13
     },
     "design": {
       "label": "设计系统",
@@ -34,7 +34,7 @@
     "security": {
       "label": "安全研究",
       "icon": "🔐",
-      "count": 4
+      "count": 3
     }
   }
 }
