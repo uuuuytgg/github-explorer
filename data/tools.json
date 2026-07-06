@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-06T22:12:52.319Z",
+  "updated": "2026-07-06T23:30:57.992Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 70718,
-      "forks": 7663,
+      "stars": 70753,
+      "forks": 7671,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 77450,
-      "forks": 10401,
+      "stars": 77485,
+      "forks": 10405,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "345 Claude Code skills &amp; agent skills &amp; plugins (30+ Agents, 70+ custom commands, 330+ skills, customizable references, scripts)for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory, research, business operations, commercial &amp; finance, and your daily productivity skills.",
       "url": "https://github.com/alirezarezvani/claude-skills",
       "avatarUrl": "https://github.com/alirezarezvani.png",
-      "stars": 21111,
-      "forks": 2838,
+      "stars": 21128,
+      "forks": 2839,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "agent multiplexer that lives in your terminal.",
       "url": "https://github.com/ogulcancelik/herdr",
       "avatarUrl": "https://github.com/ogulcancelik.png",
-      "stars": 12812,
-      "forks": 745,
+      "stars": 12836,
+      "forks": 746,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "The API to search, scrape, and interact with the web at scale. 🔥",
       "url": "https://github.com/firecrawl/firecrawl",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 146147,
-      "forks": 8406,
+      "stars": 146193,
+      "forks": 8407,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
