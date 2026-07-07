@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-07T21:48:31.552Z",
+  "updated": "2026-07-07T22:49:15.535Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 10446,
-      "forks": 3574,
+      "stars": 10606,
+      "forks": 3609,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 72035,
-      "forks": 7800,
+      "stars": 72066,
+      "forks": 7804,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 78436,
-      "forks": 10558,
+      "stars": 78462,
+      "forks": 10559,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 9810,
-      "forks": 671,
+      "stars": 9845,
+      "forks": 673,
       "todayStars": 0,
       "language": "C#",
       "topics": []

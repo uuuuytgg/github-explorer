@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-07T21:48:31.552Z",
+  "updated": "2026-07-07T22:49:15.535Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 20596,
-      "forks": 2071,
+      "stars": 20638,
+      "forks": 2073,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 78436,
-      "forks": 10558,
+      "stars": 78462,
+      "forks": 10559,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 8415,
-      "forks": 708,
+      "stars": 8426,
+      "forks": 709,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
