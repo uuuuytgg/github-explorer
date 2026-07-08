@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-08T12:58:31.935Z",
+  "updated": "2026-07-08T15:18:21.860Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 78860,
-      "forks": 10607,
+      "stars": 78914,
+      "forks": 10614,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A Patch for GIMP 3+ for Photoshop Users",
       "url": "https://github.com/Diolinux/PhotoGIMP",
       "avatarUrl": "https://github.com/Diolinux.png",
-      "stars": 14692,
-      "forks": 581,
+      "stars": 14805,
+      "forks": 586,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 8733,
-      "forks": 729,
+      "stars": 8788,
+      "forks": 730,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
