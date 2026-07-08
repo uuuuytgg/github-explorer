@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-08T01:10:34.730Z",
+  "updated": "2026-07-08T04:28:46.590Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 20737,
-      "forks": 2078,
+      "stars": 20954,
+      "forks": 2090,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A comprehensive dataset of 433 fitness exercises. Each entry includes name, category, target muscle group, equipment, instructions, thumbnail image, and animation video.",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "avatarUrl": "https://github.com/hasaneyldrm.png",
-      "stars": 10718,
-      "forks": 1204,
+      "stars": 10815,
+      "forks": 1219,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 24934,
-      "forks": 2134,
+      "stars": 24982,
+      "forks": 2140,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 10937,
-      "forks": 3674,
+      "stars": 11641,
+      "forks": 3806,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 6695,
-      "forks": 421,
+      "stars": 6729,
+      "forks": 424,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 11694,
-      "forks": 1513,
+      "stars": 11780,
+      "forks": 1526,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 128787,
-      "forks": 20939,
+      "stars": 128877,
+      "forks": 20957,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Build local voice agents with open-source models",
       "url": "https://github.com/huggingface/speech-to-speech",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 5586,
-      "forks": 677,
+      "stars": 5605,
+      "forks": 680,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 53009,
-      "forks": 8641,
+      "stars": 53215,
+      "forks": 8671,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
