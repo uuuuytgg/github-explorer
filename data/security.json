@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-08T09:33:20.853Z",
+  "updated": "2026-07-08T11:27:38.623Z",
   "count": 3,
   "repos": [
-    {
-      "fullName": "Zackriya-Solutions/meetily",
-      "owner": "Zackriya-Solutions",
-      "name": "meetily",
-      "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
-      "url": "https://github.com/Zackriya-Solutions/meetily",
-      "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 21262,
-      "forks": 2113,
-      "todayStars": 0,
-      "language": "Rust",
-      "topics": []
-    },
     {
       "fullName": "ruvnet/RuView",
       "owner": "ruvnet",
@@ -25,10 +12,23 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 78781,
-      "forks": 10595,
+      "stars": 78835,
+      "forks": 10601,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "Diolinux/PhotoGIMP",
+      "owner": "Diolinux",
+      "name": "PhotoGIMP",
+      "description": "A Patch for GIMP 3+ for Photoshop Users",
+      "url": "https://github.com/Diolinux/PhotoGIMP",
+      "avatarUrl": "https://github.com/Diolinux.png",
+      "stars": 14579,
+      "forks": 569,
+      "todayStars": 0,
+      "language": "CSS",
       "topics": []
     },
     {
@@ -38,8 +38,8 @@
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 8661,
-      "forks": 727,
+      "stars": 8708,
+      "forks": 729,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
