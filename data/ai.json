@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-09T03:21:46.203Z",
+  "updated": "2026-07-09T06:58:21.452Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 74410,
-      "forks": 8018,
+      "stars": 74836,
+      "forks": 8063,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 7743,
-      "forks": 715,
+      "stars": 7831,
+      "forks": 722,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "avatarUrl": "https://github.com/mvanhorn.png",
-      "stars": 50836,
-      "forks": 4245,
+      "stars": 50955,
+      "forks": 4254,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 12128,
-      "forks": 822,
+      "stars": 12458,
+      "forks": 838,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 54328,
-      "forks": 8840,
+      "stars": 54500,
+      "forks": 8870,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 249976,
-      "forks": 22177,
+      "stars": 250171,
+      "forks": 22199,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A lightweight, lightning-fast, in-process vector database",
       "url": "https://github.com/alibaba/zvec",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 14460,
-      "forks": 893,
+      "stars": 14535,
+      "forks": 897,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "avatarUrl": "https://github.com/wonderwhy-er.png",
-      "stars": 6404,
-      "forks": 750,
+      "stars": 6433,
+      "forks": 752,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "url": "https://github.com/bradautomates/claude-video",
       "avatarUrl": "https://github.com/bradautomates.png",
-      "stars": 6132,
-      "forks": 730,
+      "stars": 6237,
+      "forks": 736,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "Instant, Concurrent, Secure &amp; Lightweight Sandbox for AI Agents.",
       "url": "https://github.com/TencentCloud/CubeSandbox",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 8993,
-      "forks": 741,
+      "stars": 9074,
+      "forks": 747,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
