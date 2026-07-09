@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-09T19:12:21.049Z",
+  "updated": "2026-07-09T20:55:35.865Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "AI-powered job application framework built on Claude Code. Fork it, fill in your profile, and let Claude evaluate jobs, tailor CVs, write cover letters, and prepare you for interviews.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 18338,
-      "forks": 5348,
+      "stars": 18578,
+      "forks": 5396,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Source code for Unturned, a free open-world zombie survival sandbox game.",
       "url": "https://github.com/SmartlyDressedGames/U3-SDK",
       "avatarUrl": "https://github.com/SmartlyDressedGames.png",
-      "stars": 1933,
-      "forks": 247,
+      "stars": 1964,
+      "forks": 248,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 75710,
-      "forks": 8142,
+      "stars": 75756,
+      "forks": 8146,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 13241,
-      "forks": 902,
+      "stars": 13295,
+      "forks": 904,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "avatarUrl": "https://github.com/wonderwhy-er.png",
-      "stars": 6546,
-      "forks": 775,
+      "stars": 6557,
+      "forks": 780,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "An evolving how-to guide for securing a Linux server.",
       "url": "https://github.com/imthenachoman/How-To-Secure-A-Linux-Server",
       "avatarUrl": "https://github.com/imthenachoman.png",
-      "stars": 28990,
+      "stars": 29025,
       "forks": 1935,
       "todayStars": 0,
       "language": "",
@@ -90,8 +90,8 @@
       "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "url": "https://github.com/prisma/prisma",
       "avatarUrl": "https://github.com/prisma.png",
-      "stars": 46849,
-      "forks": 2323,
+      "stars": 46864,
+      "forks": 2328,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
