@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-08T23:59:57.833Z",
+  "updated": "2026-07-09T03:21:46.203Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 73984,
-      "forks": 7983,
+      "stars": 74410,
+      "forks": 8018,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 79122,
-      "forks": 10648,
+      "stars": 79212,
+      "forks": 10657,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "TencentDB Agent Memory delivers fully local long-term memory for AI Agents via a 4-tier progressive pipeline, with zero external API dependencies.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 7615,
-      "forks": 705,
+      "stars": 7743,
+      "forks": 715,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Next-generation ORM for Node.js &amp; TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, MongoDB and CockroachDB",
       "url": "https://github.com/prisma/prisma",
       "avatarUrl": "https://github.com/prisma.png",
-      "stars": 46540,
-      "forks": 2279,
+      "stars": 46610,
+      "forks": 2283,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Declarative Continuous Deployment for Kubernetes",
       "url": "https://github.com/argoproj/argo-cd",
       "avatarUrl": "https://github.com/argoproj.png",
-      "stars": 23423,
-      "forks": 7424,
+      "stars": 23454,
+      "forks": 7427,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 11740,
-      "forks": 799,
+      "stars": 12128,
+      "forks": 822,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 249795,
-      "forks": 22163,
+      "stars": 249976,
+      "forks": 22177,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "avatarUrl": "https://github.com/wonderwhy-er.png",
-      "stars": 6369,
-      "forks": 747,
+      "stars": 6404,
+      "forks": 750,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-08T23:59:57.833Z",
+  "updated": "2026-07-09T03:21:46.203Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 21632,
-      "forks": 2157,
+      "stars": 21704,
+      "forks": 2169,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/facebook/astryx",
       "avatarUrl": "https://github.com/facebook.png",
-      "stars": 7163,
-      "forks": 470,
+      "stars": 7215,
+      "forks": 481,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 25204,
-      "forks": 2161,
+      "stars": 25251,
+      "forks": 2168,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 54150,
-      "forks": 8820,
+      "stars": 54328,
+      "forks": 8840,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Build local voice agents with open-source models",
       "url": "https://github.com/huggingface/speech-to-speech",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 5701,
-      "forks": 687,
+      "stars": 5721,
+      "forks": 688,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "avatarUrl": "https://github.com/hasaneyldrm.png",
-      "stars": 11040,
-      "forks": 1247,
+      "stars": 11081,
+      "forks": 1256,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. ⭐ helps a ton :) Windows &amp; iOS waitlist open. Linux soon.",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 6887,
-      "forks": 430,
+      "stars": 6905,
+      "forks": 431,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 129296,
-      "forks": 21018,
+      "stars": 129384,
+      "forks": 21029,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 12024,
-      "forks": 1576,
+      "stars": 12086,
+      "forks": 1584,
       "todayStars": 0,
       "language": "Python",
       "topics": []
