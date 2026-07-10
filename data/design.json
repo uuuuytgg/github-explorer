@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-10T08:36:12.494Z",
-  "count": 7,
+  "updated": "2026-07-10T11:31:24.238Z",
+  "count": 8,
   "repos": [
     {
       "fullName": "Zackriya-Solutions/meetily",
@@ -12,23 +12,10 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows.",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 22412,
-      "forks": 2355,
+      "stars": 22454,
+      "forks": 2358,
       "todayStars": 0,
       "language": "Rust",
-      "topics": []
-    },
-    {
-      "fullName": "facebook/astryx",
-      "owner": "facebook",
-      "name": "astryx",
-      "description": "An open source design system that's fully customizable and agent ready",
-      "url": "https://github.com/facebook/astryx",
-      "avatarUrl": "https://github.com/facebook.png",
-      "stars": 7606,
-      "forks": 638,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     },
     {
@@ -38,10 +25,23 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT 5.5 Thinking, GPT 5.5 Instant, Codex. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 55493,
-      "forks": 9162,
+      "stars": 55596,
+      "forks": 9172,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "facebook/astryx",
+      "owner": "facebook",
+      "name": "astryx",
+      "description": "An open source design system that's fully customizable and agent ready",
+      "url": "https://github.com/facebook/astryx",
+      "avatarUrl": "https://github.com/facebook.png",
+      "stars": 7630,
+      "forks": 639,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -51,8 +51,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 25654,
-      "forks": 2354,
+      "stars": 25683,
+      "forks": 2359,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,10 +64,36 @@
       "description": "Build local voice agents with open-source models",
       "url": "https://github.com/huggingface/speech-to-speech",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 5941,
-      "forks": 834,
+      "stars": 5953,
+      "forks": 836,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "tt-a1i/archify",
+      "owner": "tt-a1i",
+      "name": "archify",
+      "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
+      "url": "https://github.com/tt-a1i/archify",
+      "avatarUrl": "https://github.com/tt-a1i.png",
+      "stars": 3324,
+      "forks": 354,
+      "todayStars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "iOfficeAI/OfficeCLI",
+      "owner": "iOfficeAI",
+      "name": "OfficeCLI",
+      "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
+      "url": "https://github.com/iOfficeAI/OfficeCLI",
+      "avatarUrl": "https://github.com/iOfficeAI.png",
+      "stars": 14043,
+      "forks": 952,
+      "todayStars": 0,
+      "language": "C#",
       "topics": []
     },
     {
@@ -77,23 +103,10 @@
       "description": "AI 时代的伯克希尔：基于 Claude Code / Codex 的价值投资研究框架。巴菲特·芒格·段永平·李录四大师方法论 + 多Agent并行研究。| AI-era Berkshire: a value investing research framework built for Claude Code / Codex. 4 masters' methodologies + multi-agent adversarial analysis.",
       "url": "https://github.com/xbtlin/ai-berkshire",
       "avatarUrl": "https://github.com/xbtlin.png",
-      "stars": 12515,
-      "forks": 1769,
+      "stars": 12557,
+      "forks": 1776,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "saadeghi/daisyui",
-      "owner": "saadeghi",
-      "name": "daisyui",
-      "description": "🌼 🌼 🌼 🌼 🌼 The most popular, free and open-source Tailwind CSS component library",
-      "url": "https://github.com/saadeghi/daisyui",
-      "avatarUrl": "https://github.com/saadeghi.png",
-      "stars": 41581,
-      "forks": 1649,
-      "todayStars": 0,
-      "language": "Svelte",
       "topics": []
     }
   ],
