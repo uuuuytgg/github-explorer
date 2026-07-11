@@ -2,8 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-11T10:51:37.264Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-07-11T11:41:35.072Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "home-assistant/core",
+      "owner": "home-assistant",
+      "name": "core",
+      "description": "🏡 Open source home automation that puts local control and privacy first.",
+      "url": "https://github.com/home-assistant/core",
+      "avatarUrl": "https://github.com/home-assistant.png",
+      "stars": 88445,
+      "forks": 38021,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  ],
   "error": null
 }
