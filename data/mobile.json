@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-11T21:05:05.233Z",
+  "updated": "2026-07-11T22:03:58.602Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.",
       "url": "https://github.com/dotnet/aspnetcore",
       "avatarUrl": "https://github.com/dotnet.png",
-      "stars": 38300,
+      "stars": 38301,
       "forks": 10887,
       "todayStars": 0,
       "language": "C#",
