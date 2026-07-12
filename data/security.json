@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-12T18:33:46.662Z",
+  "updated": "2026-07-12T19:47:10.052Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🏡 Open source home automation that puts local control and privacy first.",
       "url": "https://github.com/home-assistant/core",
       "avatarUrl": "https://github.com/home-assistant.png",
-      "stars": 88956,
-      "forks": 38073,
+      "stars": 88979,
+      "forks": 38076,
       "todayStars": 0,
       "language": "Python",
       "topics": []
