@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-12T20:33:16.642Z",
+  "updated": "2026-07-12T21:29:33.605Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A multi-platform proxy client based on ClashMeta,simple and easy to use, open-source and ad-free.",
       "url": "https://github.com/chen08209/FlClash",
       "avatarUrl": "https://github.com/chen08209.png",
-      "stars": 45190,
+      "stars": 45195,
       "forks": 2852,
       "todayStars": 0,
       "language": "Dart",
