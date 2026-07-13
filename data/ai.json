@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-13T06:42:38.669Z",
+  "updated": "2026-07-13T09:57:39.316Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 3271,
-      "forks": 122,
+      "stars": 3514,
+      "forks": 127,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "This is MCP server for Claude that gives it terminal control, file system search and diff file editing capabilities",
       "url": "https://github.com/wonderwhy-er/DesktopCommanderMCP",
       "avatarUrl": "https://github.com/wonderwhy-er.png",
-      "stars": 8060,
-      "forks": 992,
+      "stars": 8112,
+      "forks": 993,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 20882,
-      "forks": 3635,
+      "stars": 21085,
+      "forks": 3670,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://github.com/Shubhamsaboo.png",
-      "stars": 118871,
-      "forks": 17667,
+      "stars": 119099,
+      "forks": 17698,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 48593,
-      "forks": 5744,
+      "stars": 48679,
+      "forks": 5749,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Project N.O.M.A.D, is a self-contained, offline survival computer packed with critical tools, knowledge, and AI to keep you informed and empowered—anytime, anywhere.",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "avatarUrl": "https://github.com/Crosstalk-Solutions.png",
-      "stars": 33921,
-      "forks": 3402,
+      "stars": 33981,
+      "forks": 3406,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "An open-source background agents coding system",
       "url": "https://github.com/ColeMurray/background-agents",
       "avatarUrl": "https://github.com/ColeMurray.png",
-      "stars": 2328,
-      "forks": 345,
+      "stars": 2370,
+      "forks": 346,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "An AI Hedge Fund Team",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "avatarUrl": "https://github.com/virattt.png",
-      "stars": 61496,
-      "forks": 10872,
+      "stars": 61558,
+      "forks": 10877,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 29299,
-      "forks": 3209,
+      "stars": 29345,
+      "forks": 3212,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 4498,
-      "forks": 258,
+      "stars": 4654,
+      "forks": 260,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
