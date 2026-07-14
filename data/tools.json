@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-14T00:03:38.650Z",
+  "updated": "2026-07-14T03:28:50.862Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "url": "https://github.com/Raphire/Win11Debloat",
       "avatarUrl": "https://github.com/Raphire.png",
-      "stars": 50840,
-      "forks": 2047,
+      "stars": 50978,
+      "forks": 2081,
       "todayStars": 0,
       "language": "PowerShell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 84667,
-      "forks": 8340,
+      "stars": 84958,
+      "forks": 8376,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 38532,
-      "forks": 6160,
+      "stars": 38715,
+      "forks": 6201,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

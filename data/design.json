@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-14T00:03:38.650Z",
+  "updated": "2026-07-14T03:28:50.862Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 24159,
-      "forks": 2530,
+      "stars": 24245,
+      "forks": 2540,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 16101,
-      "forks": 1090,
+      "stars": 16231,
+      "forks": 1097,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Extracted system prompts from Anthropic - Claude Fable 5, Opus 4.8, Claude Code, Claude Design. OpenAI - ChatGPT GPT-5.6, Codex GPT-5.6, GPT-5.5. Google - Gemini 3.5 Flash, 3.1 Pro, Antigravity. xAI - Grok, Cursor, Copilot, VS Code, Perplexity, and more. Updated regularly.",
       "url": "https://github.com/asgeirtj/system_prompts_leaks",
       "avatarUrl": "https://github.com/asgeirtj.png",
-      "stars": 57290,
-      "forks": 9475,
+      "stars": 57367,
+      "forks": 9483,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 4207,
+      "stars": 4258,
       "forks": 390,
       "todayStars": 0,
       "language": "JavaScript",
@@ -64,8 +64,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/facebook/astryx",
       "avatarUrl": "https://github.com/facebook.png",
-      "stars": 8688,
-      "forks": 726,
+      "stars": 8738,
+      "forks": 728,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "JavaScript in-page GUI agent. Control web interfaces with natural language.",
       "url": "https://github.com/alibaba/page-agent",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 26434,
-      "forks": 2424,
+      "stars": 26472,
+      "forks": 2430,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 46345,
-      "forks": 2804,
+      "stars": 46408,
+      "forks": 2806,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
