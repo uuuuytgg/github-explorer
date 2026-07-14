@@ -2,9 +2,22 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-14T05:51:19.226Z",
-  "count": 3,
+  "updated": "2026-07-14T07:42:58.325Z",
+  "count": 4,
   "repos": [
+    {
+      "fullName": "Dicklesworthstone/destructive_command_guard",
+      "owner": "Dicklesworthstone",
+      "name": "destructive_command_guard",
+      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
+      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
+      "avatarUrl": "https://github.com/Dicklesworthstone.png",
+      "stars": 3951,
+      "forks": 145,
+      "todayStars": 0,
+      "language": "Rust",
+      "topics": []
+    },
     {
       "fullName": "Raphire/Win11Debloat",
       "owner": "Raphire",
@@ -12,8 +25,8 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "url": "https://github.com/Raphire/Win11Debloat",
       "avatarUrl": "https://github.com/Raphire.png",
-      "stars": 51049,
-      "forks": 2100,
+      "stars": 51115,
+      "forks": 2105,
       "todayStars": 0,
       "language": "PowerShell",
       "topics": []
@@ -25,8 +38,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 85120,
-      "forks": 8399,
+      "stars": 85275,
+      "forks": 8417,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +51,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 38812,
-      "forks": 6215,
+      "stars": 38914,
+      "forks": 6224,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
