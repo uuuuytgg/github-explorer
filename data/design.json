@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-14T14:19:50.275Z",
+  "updated": "2026-07-14T15:52:54.064Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 16500,
-      "forks": 1106,
+      "stars": 16568,
+      "forks": 1109,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 4416,
-      "forks": 402,
+      "stars": 4453,
+      "forks": 404,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 24485,
-      "forks": 2554,
+      "stars": 24520,
+      "forks": 2559,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 46573,
-      "forks": 2814,
+      "stars": 46607,
+      "forks": 2817,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/facebook/astryx",
       "avatarUrl": "https://github.com/facebook.png",
-      "stars": 8895,
-      "forks": 741,
+      "stars": 8913,
+      "forks": 744,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 5826,
-      "forks": 340,
+      "stars": 5891,
+      "forks": 342,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
