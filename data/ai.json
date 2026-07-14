@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-14T07:42:58.325Z",
+  "updated": "2026-07-14T09:29:06.274Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 3951,
-      "forks": 145,
+      "stars": 4004,
+      "forks": 149,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 22196,
-      "forks": 3827,
+      "stars": 22311,
+      "forks": 3838,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 42149,
-      "forks": 4232,
+      "stars": 42204,
+      "forks": 4236,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://github.com/Shubhamsaboo.png",
-      "stars": 120039,
-      "forks": 17806,
+      "stars": 120158,
+      "forks": 17814,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 5492,
-      "forks": 322,
+      "stars": 5583,
+      "forks": 325,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 85275,
-      "forks": 8417,
+      "stars": 85417,
+      "forks": 8428,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "avatarUrl": "https://github.com/hasaneyldrm.png",
-      "stars": 12920,
-      "forks": 1533,
+      "stars": 12991,
+      "forks": 1538,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 38914,
-      "forks": 6224,
+      "stars": 39006,
+      "forks": 6231,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-14T07:42:58.325Z",
+  "updated": "2026-07-14T09:29:06.274Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 3951,
-      "forks": 145,
+      "stars": 4004,
+      "forks": 149,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "url": "https://github.com/Raphire/Win11Debloat",
       "avatarUrl": "https://github.com/Raphire.png",
-      "stars": 51115,
+      "stars": 51181,
       "forks": 2105,
       "todayStars": 0,
       "language": "PowerShell",
@@ -38,8 +38,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 85275,
-      "forks": 8417,
+      "stars": 85417,
+      "forks": 8428,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 38914,
-      "forks": 6224,
+      "stars": 39006,
+      "forks": 6231,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
