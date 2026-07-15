@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-15T00:50:07.975Z",
+  "updated": "2026-07-15T03:51:01.827Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 170222,
-      "forks": 14645,
+      "stars": 170642,
+      "forks": 14678,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 4404,
-      "forks": 165,
+      "stars": 4471,
+      "forks": 167,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "url": "https://github.com/Raphire/Win11Debloat",
       "avatarUrl": "https://github.com/Raphire.png",
-      "stars": 51682,
-      "forks": 2129,
+      "stars": 51826,
+      "forks": 2139,
       "todayStars": 0,
       "language": "PowerShell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "url": "https://github.com/penpot/penpot",
       "avatarUrl": "https://github.com/penpot.png",
-      "stars": 56155,
-      "forks": 3693,
+      "stars": 56225,
+      "forks": 3694,
       "todayStars": 0,
       "language": "Clojure",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "url": "https://github.com/chenyme/grok2api",
       "avatarUrl": "https://github.com/chenyme.png",
-      "stars": 5849,
-      "forks": 1926,
+      "stars": 5900,
+      "forks": 1931,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 86367,
-      "forks": 8498,
+      "stars": 86590,
+      "forks": 8517,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 5230,
-      "forks": 701,
+      "stars": 5354,
+      "forks": 711,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
