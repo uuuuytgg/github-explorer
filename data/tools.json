@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-15T17:51:51.063Z",
+  "updated": "2026-07-15T18:51:01.325Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 171959,
-      "forks": 14767,
+      "stars": 172008,
+      "forks": 14770,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 4665,
+      "stars": 4677,
       "forks": 176,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 5771,
-      "forks": 738,
+      "stars": 5794,
+      "forks": 739,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 39576,
-      "forks": 6305,
+      "stars": 39602,
+      "forks": 6307,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
