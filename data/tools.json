@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-15T08:32:56.631Z",
+  "updated": "2026-07-15T10:26:49.657Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 171150,
-      "forks": 14711,
+      "stars": 171350,
+      "forks": 14724,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A simple, lightweight PowerShell script that allows you to remove pre-installed apps, disable telemetry, as well as perform various other changes to declutter and customize your Windows experience. Win11Debloat works for both Windows 10 and Windows 11.",
       "url": "https://github.com/Raphire/Win11Debloat",
       "avatarUrl": "https://github.com/Raphire.png",
-      "stars": 52023,
-      "forks": 2146,
+      "stars": 52096,
+      "forks": 2147,
       "todayStars": 0,
       "language": "PowerShell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Penpot: The open-source design platform for Product teams that need scalable collaboration.",
       "url": "https://github.com/penpot/penpot",
       "avatarUrl": "https://github.com/penpot.png",
-      "stars": 56349,
-      "forks": 3697,
+      "stars": 56385,
+      "forks": 3698,
       "todayStars": 0,
       "language": "Clojure",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "面向 Grok Build、Grok Web 与 Grok Console 的多账号 API 网关",
       "url": "https://github.com/chenyme/grok2api",
       "avatarUrl": "https://github.com/chenyme.png",
-      "stars": 5965,
-      "forks": 1938,
+      "stars": 5991,
+      "forks": 1941,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 86981,
-      "forks": 8549,
+      "stars": 87124,
+      "forks": 8557,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 5513,
-      "forks": 720,
+      "stars": 5586,
+      "forks": 726,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
