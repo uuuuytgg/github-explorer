@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-14T23:30:06.304Z",
+  "updated": "2026-07-15T00:50:07.975Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 22469,
-      "forks": 6960,
+      "stars": 22494,
+      "forks": 6980,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 16709,
-      "forks": 1116,
+      "stars": 16755,
+      "forks": 1118,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 4535,
-      "forks": 408,
+      "stars": 4560,
+      "forks": 410,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Privacy first, AI meeting assistant with 4x faster Parakeet/Whisper live transcription, speaker diarization, and Ollama summarization built on Rust. 100% local processing. no cloud required. Meetily (Meetly Ai - https://meetily.ai) is the #1 Self-hosted, Open-source Ai meeting note taker for macOS &amp; Windows. Understand How to write meeting minutes",
       "url": "https://github.com/Zackriya-Solutions/meetily",
       "avatarUrl": "https://github.com/Zackriya-Solutions.png",
-      "stars": 24623,
-      "forks": 2565,
+      "stars": 24643,
+      "forks": 2566,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 46700,
+      "stars": 46715,
       "forks": 2814,
       "todayStars": 0,
       "language": "JavaScript",
@@ -77,8 +77,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/facebook/astryx",
       "avatarUrl": "https://github.com/facebook.png",
-      "stars": 8956,
-      "forks": 742,
+      "stars": 8963,
+      "forks": 743,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 6102,
-      "forks": 349,
+      "stars": 6138,
+      "forks": 351,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
