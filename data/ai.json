@@ -2,8 +2,8 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-15T03:51:01.827Z",
-  "count": 9,
+  "updated": "2026-07-15T06:04:39.492Z",
+  "count": 8,
   "repos": [
     {
       "fullName": "Shubhamsaboo/awesome-llm-apps",
@@ -12,8 +12,8 @@
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://github.com/Shubhamsaboo.png",
-      "stars": 121028,
-      "forks": 17903,
+      "stars": 121155,
+      "forks": 17917,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,23 +25,10 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 170642,
-      "forks": 14678,
+      "stars": 170803,
+      "forks": 14697,
       "todayStars": 0,
       "language": "Shell",
-      "topics": []
-    },
-    {
-      "fullName": "Dicklesworthstone/destructive_command_guard",
-      "owner": "Dicklesworthstone",
-      "name": "destructive_command_guard",
-      "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
-      "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
-      "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 4471,
-      "forks": 167,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     },
     {
@@ -51,8 +38,8 @@
       "description": "An AI Hedge Fund Team",
       "url": "https://github.com/virattt/ai-hedge-fund",
       "avatarUrl": "https://github.com/virattt.png",
-      "stars": 61934,
-      "forks": 10917,
+      "stars": 61994,
+      "forks": 10919,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +51,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 6287,
-      "forks": 357,
+      "stars": 6357,
+      "forks": 358,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -77,8 +64,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 23005,
-      "forks": 3948,
+      "stars": 23095,
+      "forks": 3961,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +77,8 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "avatarUrl": "https://github.com/hasaneyldrm.png",
-      "stars": 13681,
-      "forks": 1635,
+      "stars": 13773,
+      "forks": 1649,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -103,8 +90,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 86590,
-      "forks": 8517,
+      "stars": 86747,
+      "forks": 8529,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +103,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 5354,
-      "forks": 711,
+      "stars": 5417,
+      "forks": 714,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
