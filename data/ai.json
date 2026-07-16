@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-16T07:13:17.684Z",
+  "updated": "2026-07-16T09:26:40.881Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 9426,
-      "forks": 477,
+      "stars": 9812,
+      "forks": 493,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 172912,
-      "forks": 14844,
+      "stars": 173226,
+      "forks": 14863,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 42654,
-      "forks": 4257,
+      "stars": 42712,
+      "forks": 4266,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The Destructive Command Guard (dcg) is for blocking dangerous git and shell commands from being executed by agents.",
       "url": "https://github.com/Dicklesworthstone/destructive_command_guard",
       "avatarUrl": "https://github.com/Dicklesworthstone.png",
-      "stars": 4875,
-      "forks": 183,
+      "stars": 4931,
+      "forks": 184,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "\"Vibe-Trading: Your Personal Trading Agent\"",
       "url": "https://github.com/HKUDS/Vibe-Trading",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 23944,
-      "forks": 4063,
+      "stars": 24051,
+      "forks": 4080,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A coding agent for low-cost models",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "avatarUrl": "https://github.com/openinterpreter.png",
-      "stars": 65656,
-      "forks": 5659,
+      "stars": 65724,
+      "forks": 5664,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 6076,
-      "forks": 754,
+      "stars": 6140,
+      "forks": 763,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "100+ AI Agent &amp; RAG apps you can actually run — clone, customize, ship.",
       "url": "https://github.com/Shubhamsaboo/awesome-llm-apps",
       "avatarUrl": "https://github.com/Shubhamsaboo.png",
-      "stars": 122185,
-      "forks": 18025,
+      "stars": 122308,
+      "forks": 18039,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 39961,
-      "forks": 6330,
+      "stars": 40040,
+      "forks": 6335,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "1,324-exercise fitness dataset — animation GIFs, 180×180 thumbnails, muscle-group &amp; equipment data, and step-by-step instructions in 6 languages. The exercise data layer behind the LogPress app.",
       "url": "https://github.com/hasaneyldrm/exercises-dataset",
       "avatarUrl": "https://github.com/hasaneyldrm.png",
-      "stars": 14565,
-      "forks": 1747,
+      "stars": 14644,
+      "forks": 1756,
       "todayStars": 0,
       "language": "HTML",
       "topics": []

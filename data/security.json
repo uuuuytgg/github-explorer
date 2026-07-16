@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-16T07:13:17.684Z",
+  "updated": "2026-07-16T09:26:40.881Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 42654,
-      "forks": 4257,
+      "stars": 42712,
+      "forks": 4266,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
