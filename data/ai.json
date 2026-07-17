@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-17T12:58:01.754Z",
+  "updated": "2026-07-17T14:38:58.187Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 36050,
-      "forks": 3004,
+      "stars": 36067,
+      "forks": 3007,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 6407,
-      "forks": 795,
+      "stars": 6439,
+      "forks": 797,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 11635,
-      "forks": 578,
+      "stars": 11698,
+      "forks": 582,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 9747,
-      "forks": 1324,
+      "stars": 9754,
+      "forks": 1325,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Bonsai Demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "avatarUrl": "https://github.com/PrismML-Eng.png",
-      "stars": 1654,
-      "forks": 161,
+      "stars": 1668,
+      "forks": 162,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 19613,
-      "forks": 2100,
+      "stars": 19638,
+      "forks": 2103,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A coding agent for open models like Kimi K3",
       "url": "https://github.com/openinterpreter/openinterpreter",
       "avatarUrl": "https://github.com/openinterpreter.png",
-      "stars": 66208,
-      "forks": 5690,
+      "stars": 66230,
+      "forks": 5694,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A vector index built on TurboQuant, written in Rust with Python bindings",
       "url": "https://github.com/RyanCodrai/turbovec",
       "avatarUrl": "https://github.com/RyanCodrai.png",
-      "stars": 13171,
-      "forks": 1166,
+      "stars": 13184,
+      "forks": 1170,
       "todayStars": 0,
       "language": "Python",
       "topics": []
