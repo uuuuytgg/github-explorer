@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-17T04:20:19.059Z",
+  "updated": "2026-07-17T06:33:12.389Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Apache Ossie, industry wide specification effort to standardize how we exchange semantic metadata across analytics, AI and BI platforms, providing a vendor neutral, single source of truth for semantic data",
       "url": "https://github.com/apache/ossie",
       "avatarUrl": "https://github.com/apache.png",
-      "stars": 974,
-      "forks": 138,
+      "stars": 1014,
+      "forks": 140,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 35913,
+      "stars": 35948,
       "forks": 2996,
       "todayStars": 0,
       "language": "Python",
@@ -38,8 +38,8 @@
       "description": "Bonsai Demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "avatarUrl": "https://github.com/PrismML-Eng.png",
-      "stars": 1564,
-      "forks": 156,
+      "stars": 1596,
+      "forks": 158,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .claude directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 174500,
-      "forks": 14969,
+      "stars": 174679,
+      "forks": 14985,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 9683,
-      "forks": 1319,
+      "stars": 9700,
+      "forks": 1320,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 4378,
-      "forks": 186,
+      "stars": 4443,
+      "forks": 188,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "AI coding assistant skill (Claude Code, Codex, OpenCode, Cursor, Gemini CLI, and more). Turn any folder of code, SQL schemas, R scripts, shell scripts, docs, papers, images, or videos into a queryable knowledge graph. App code + database schema + infrastructure in one graph.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 89280,
-      "forks": 8714,
+      "stars": 89420,
+      "forks": 8730,
       "todayStars": 0,
       "language": "Python",
       "topics": []
