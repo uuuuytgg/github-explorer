@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-18T18:04:37.697Z",
+  "updated": "2026-07-18T19:21:00.117Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 12719,
-      "forks": 633,
+      "stars": 12753,
+      "forks": 634,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 19216,
+      "stars": 19232,
       "forks": 1294,
       "todayStars": 0,
       "language": "C#",
@@ -38,8 +38,8 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 4867,
-      "forks": 204,
+      "stars": 4890,
+      "forks": 205,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
