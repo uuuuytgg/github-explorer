@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-18T07:16:41.102Z",
+  "updated": "2026-07-18T09:06:36.062Z",
   "count": 6,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 36285,
+      "stars": 36319,
       "forks": 3012,
       "todayStars": 0,
       "language": "Python",
@@ -25,8 +25,8 @@
       "description": "Become a cracked AI/ML Research Engineer",
       "url": "https://github.com/HenryNdubuaku/maths-cs-ai-compendium",
       "avatarUrl": "https://github.com/HenryNdubuaku.png",
-      "stars": 6760,
-      "forks": 816,
+      "stars": 6803,
+      "forks": 820,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Multi-platform SDK for integrating GitHub Copilot Agent into apps and services",
       "url": "https://github.com/github/copilot-sdk",
       "avatarUrl": "https://github.com/github.png",
-      "stars": 9835,
-      "forks": 1335,
+      "stars": 9845,
+      "forks": 1336,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Bonsai Demo",
       "url": "https://github.com/PrismML-Eng/Bonsai-demo",
       "avatarUrl": "https://github.com/PrismML-Eng.png",
-      "stars": 1754,
-      "forks": 169,
+      "stars": 1768,
+      "forks": 170,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 19870,
-      "forks": 2112,
+      "stars": 19905,
+      "forks": 2113,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Open source DocuSign alternative. Create, fill, and sign digital documents ✍️",
       "url": "https://github.com/docusealco/docuseal",
       "avatarUrl": "https://github.com/docusealco.png",
-      "stars": 17931,
-      "forks": 1773,
+      "stars": 17955,
+      "forks": 1774,
       "todayStars": 0,
       "language": "Ruby",
       "topics": []
