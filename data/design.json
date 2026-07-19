@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-19T10:12:11.241Z",
-  "count": 3,
+  "updated": "2026-07-19T11:21:49.510Z",
+  "count": 5,
   "repos": [
     {
       "fullName": "Nutlope/hallmark",
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 13028,
-      "forks": 658,
+      "stars": 13058,
+      "forks": 662,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 19447,
-      "forks": 1310,
+      "stars": 19464,
+      "forks": 1312,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -38,8 +38,34 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 5267,
+      "stars": 5298,
       "forks": 226,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "tirth8205/code-review-graph",
+      "owner": "tirth8205",
+      "name": "code-review-graph",
+      "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
+      "url": "https://github.com/tirth8205/code-review-graph",
+      "avatarUrl": "https://github.com/tirth8205.png",
+      "stars": 20442,
+      "forks": 2135,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "earendil-works/pi",
+      "owner": "earendil-works",
+      "name": "pi",
+      "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
+      "url": "https://github.com/earendil-works/pi",
+      "avatarUrl": "https://github.com/earendil-works.png",
+      "stars": 72568,
+      "forks": 8962,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
