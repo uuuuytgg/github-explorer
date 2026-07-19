@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-19T20:35:30.424Z",
+  "updated": "2026-07-19T21:31:13.578Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 13291,
-      "forks": 674,
+      "stars": 13305,
+      "forks": 675,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 19603,
-      "forks": 1322,
+      "stars": 19619,
+      "forks": 1323,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 5399,
+      "stars": 5403,
       "forks": 232,
       "todayStars": 0,
       "language": "TypeScript",
@@ -51,8 +51,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 21028,
-      "forks": 2166,
+      "stars": 21054,
+      "forks": 2170,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 72735,
-      "forks": 8983,
+      "stars": 72744,
+      "forks": 8985,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
