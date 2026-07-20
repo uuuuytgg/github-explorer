@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-20T16:18:29.789Z",
+  "updated": "2026-07-20T18:25:54.359Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 21151,
-      "forks": 2899,
+      "stars": 21345,
+      "forks": 2924,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 1619,
-      "forks": 224,
+      "stars": 1650,
+      "forks": 225,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
