@@ -2,8 +2,35 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-20T10:37:33.762Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-07-20T12:37:57.322Z",
+  "count": 2,
+  "repos": [
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "avatarUrl": "https://github.com/diegosouzapw.png",
+      "stars": 20748,
+      "forks": 2853,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://github.com/msitarzewski.png",
+      "stars": 134382,
+      "forks": 21927,
+      "todayStars": 0,
+      "language": "Shell",
+      "topics": []
+    }
+  ],
   "error": null
 }
