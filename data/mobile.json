@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-21T12:48:51.377Z",
+  "updated": "2026-07-21T14:52:45.182Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "url": "https://github.com/DioxusLabs/dioxus",
       "avatarUrl": "https://github.com/DioxusLabs.png",
-      "stars": 37464,
-      "forks": 1763,
+      "stars": 37498,
+      "forks": 1767,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Claude, GPT, Gemini, Kimi K3, GLM, DeepSeek. Works with Claude Code, Codex, Cursor, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, multimodal, Desktop/PWA. Built by 500+ contributors.",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 22785,
-      "forks": 3059,
+      "stars": 22933,
+      "forks": 3075,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Free, open-source web app for learning about ontologies and Microsoft Fabric IQ. Explore a catalogue of pre-built ontologies, design your own visually, export as RDF/XML, and share interactive diagrams. Zero backend, fully static.",
       "url": "https://github.com/microsoft/Ontology-Playground",
       "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 1893,
+      "stars": 1917,
       "forks": 240,
       "todayStars": 0,
       "language": "TypeScript",
