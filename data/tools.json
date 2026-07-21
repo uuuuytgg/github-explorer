@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-21T21:30:53.549Z",
+  "updated": "2026-07-21T22:32:51.704Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 65037,
-      "forks": 10144,
+      "stars": 65149,
+      "forks": 10166,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 24472,
-      "forks": 2346,
+      "stars": 24486,
+      "forks": 2347,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Self-hosted deployment platform",
       "url": "https://github.com/oblien/openship",
       "avatarUrl": "https://github.com/oblien.png",
-      "stars": 6070,
-      "forks": 436,
+      "stars": 6125,
+      "forks": 442,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AI Agent Assistant &amp; development framework that integrates lots of IM platforms, LLMs, plugins and AI feature, and can be your openclaw alternative. ✨",
       "url": "https://github.com/AstrBotDevs/AstrBot",
       "avatarUrl": "https://github.com/AstrBotDevs.png",
-      "stars": 37432,
-      "forks": 2607,
+      "stars": 37438,
+      "forks": 2608,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI-assisted TradingView chart analysis — connect Claude Code to your TradingView Desktop for personal workflow automation",
       "url": "https://github.com/tradesdontlie/tradingview-mcp",
       "avatarUrl": "https://github.com/tradesdontlie.png",
-      "stars": 4800,
-      "forks": 2170,
+      "stars": 4813,
+      "forks": 2172,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "url": "https://github.com/DioxusLabs/dioxus",
       "avatarUrl": "https://github.com/DioxusLabs.png",
-      "stars": 37606,
-      "forks": 1772,
+      "stars": 37618,
+      "forks": 1773,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 23404,
-      "forks": 3133,
+      "stars": 23476,
+      "forks": 3140,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "The go-to web for your AI coding agent — local-first search, fetch, crawl &amp; research over MCP. No API keys, no cloud, $0/query. Public beta.",
       "url": "https://github.com/KnockOutEZ/wigolo",
       "avatarUrl": "https://github.com/KnockOutEZ.png",
-      "stars": 3092,
-      "forks": 187,
+      "stars": 3106,
+      "forks": 188,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-21T21:30:53.549Z",
+  "updated": "2026-07-21T22:32:51.704Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 23404,
-      "forks": 3133,
+      "stars": 23476,
+      "forks": 3140,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
