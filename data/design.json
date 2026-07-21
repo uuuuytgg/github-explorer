@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-21T00:57:21.522Z",
+  "updated": "2026-07-21T04:11:31.043Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 14204,
-      "forks": 706,
+      "stars": 14338,
+      "forks": 712,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 23171,
-      "forks": 2276,
+      "stars": 23537,
+      "forks": 2288,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 5648,
-      "forks": 238,
+      "stars": 5686,
+      "forks": 240,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 20169,
-      "forks": 1351,
+      "stars": 20243,
+      "forks": 1358,
       "todayStars": 0,
       "language": "C#",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Any agent Skill: generate beautiful architecture diagrams with dark/light theme toggle and PNG/JPEG/WebP/SVG export",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 6242,
-      "forks": 416,
+      "stars": 6313,
+      "forks": 422,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 73522,
-      "forks": 9067,
+      "stars": 73841,
+      "forks": 9098,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Master programming by recreating your favorite technologies from scratch.",
       "url": "https://github.com/codecrafters-io/build-your-own-x",
       "avatarUrl": "https://github.com/codecrafters-io.png",
-      "stars": 529458,
-      "forks": 50085,
+      "stars": 529522,
+      "forks": 50090,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
