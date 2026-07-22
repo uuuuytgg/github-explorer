@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-22T12:55:56.938Z",
+  "updated": "2026-07-22T14:55:21.621Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 67568,
-      "forks": 10395,
+      "stars": 67933,
+      "forks": 10434,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 83039,
-      "forks": 11179,
+      "stars": 83224,
+      "forks": 11194,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 268+ providers (50+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 24405,
-      "forks": 3258,
+      "stars": 24583,
+      "forks": 3284,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 68521,
-      "forks": 7784,
+      "stars": 68571,
+      "forks": 7789,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Self-hosted deployment platform",
       "url": "https://github.com/oblien/openship",
       "avatarUrl": "https://github.com/oblien.png",
-      "stars": 6852,
-      "forks": 496,
+      "stars": 6964,
+      "forks": 508,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 41856,
-      "forks": 6972,
+      "stars": 41954,
+      "forks": 6983,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 25075,
-      "forks": 2377,
+      "stars": 25119,
+      "forks": 2381,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Fullstack app framework for web, desktop, and mobile.",
       "url": "https://github.com/DioxusLabs/dioxus",
       "avatarUrl": "https://github.com/DioxusLabs.png",
-      "stars": 37877,
-      "forks": 1780,
+      "stars": 37907,
+      "forks": 1781,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "avatarUrl": "https://github.com/Pumpkin-MC.png",
-      "stars": 8140,
-      "forks": 577,
+      "stars": 8195,
+      "forks": 580,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
