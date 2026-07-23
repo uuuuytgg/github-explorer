@@ -2,8 +2,8 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-23T12:58:13.230Z",
-  "count": 8,
+  "updated": "2026-07-23T15:05:11.329Z",
+  "count": 7,
   "repos": [
     {
       "fullName": "koala73/worldmonitor",
@@ -12,23 +12,10 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 70654,
-      "forks": 10700,
+      "stars": 70887,
+      "forks": 10729,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "ayghri/i-have-adhd",
-      "owner": "ayghri",
-      "name": "i-have-adhd",
-      "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
-      "url": "https://github.com/ayghri/i-have-adhd",
-      "avatarUrl": "https://github.com/ayghri.png",
-      "stars": 8973,
-      "forks": 416,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -38,8 +25,8 @@
       "description": "The best browser for both you and your AI agents work in parallel.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 1280,
-      "forks": 74,
+      "stars": 1376,
+      "forks": 81,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 26323,
-      "forks": 3458,
+      "stars": 26533,
+      "forks": 3479,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +51,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 69153,
-      "forks": 7827,
+      "stars": 69211,
+      "forks": 7833,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +64,8 @@
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "url": "https://github.com/earthtojake/text-to-cad",
       "avatarUrl": "https://github.com/earthtojake.png",
-      "stars": 9756,
-      "forks": 1078,
+      "stars": 9805,
+      "forks": 1083,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,8 +77,8 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 2244,
-      "forks": 319,
+      "stars": 2273,
+      "forks": 320,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +90,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 11116,
-      "forks": 772,
+      "stars": 11194,
+      "forks": 779,
       "todayStars": 0,
       "language": "Go",
       "topics": []
