@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-23T04:28:35.980Z",
-  "count": 8,
+  "updated": "2026-07-23T07:03:52.351Z",
+  "count": 7,
   "repos": [
     {
       "fullName": "Nutlope/hallmark",
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 15736,
-      "forks": 795,
+      "stars": 15819,
+      "forks": 799,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 25444,
-      "forks": 2401,
+      "stars": 25530,
+      "forks": 2404,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 6031,
-      "forks": 260,
+      "stars": 6054,
+      "forks": 262,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 75717,
-      "forks": 9313,
+      "stars": 75822,
+      "forks": 9323,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,23 +64,10 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 69459,
-      "forks": 10597,
+      "stars": 69836,
+      "forks": 10630,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "chenyme/grok2api",
-      "owner": "chenyme",
-      "name": "grok2api",
-      "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
-      "url": "https://github.com/chenyme/grok2api",
-      "avatarUrl": "https://github.com/chenyme.png",
-      "stars": 6581,
-      "forks": 2080,
-      "todayStars": 0,
-      "language": "Go",
       "topics": []
     },
     {
@@ -90,8 +77,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 25596,
-      "forks": 3380,
+      "stars": 25833,
+      "forks": 3402,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +90,8 @@
       "description": "OfficeCLI is the first and best Office suite purpose-built for AI agents to read, edit, and automate Word, Excel, and PowerPoint files. Free, open-source, single binary, no Office installation required.",
       "url": "https://github.com/iOfficeAI/OfficeCLI",
       "avatarUrl": "https://github.com/iOfficeAI.png",
-      "stars": 21182,
-      "forks": 1417,
+      "stars": 21275,
+      "forks": 1420,
       "todayStars": 0,
       "language": "C#",
       "topics": []
