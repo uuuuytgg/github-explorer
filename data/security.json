@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-23T09:32:19.125Z",
-  "count": 2,
+  "updated": "2026-07-23T11:29:13.321Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "ruvnet/RuView",
-      "owner": "ruvnet",
-      "name": "RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "url": "https://github.com/ruvnet/RuView",
-      "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 84460,
-      "forks": 11285,
-      "todayStars": 0,
-      "language": "Rust",
-      "topics": []
-    },
     {
       "fullName": "diegosouzapw/OmniRoute",
       "owner": "diegosouzapw",
@@ -25,10 +12,36 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 26059,
-      "forks": 3425,
+      "stars": 26207,
+      "forks": 3440,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatarUrl": "https://github.com/ruvnet.png",
+      "stars": 84597,
+      "forks": 11294,
+      "todayStars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "Automattic/harper",
+      "owner": "Automattic",
+      "name": "harper",
+      "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
+      "url": "https://github.com/Automattic/harper",
+      "avatarUrl": "https://github.com/Automattic.png",
+      "stars": 11800,
+      "forks": 437,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],

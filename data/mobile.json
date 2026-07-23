@@ -2,8 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-23T09:32:19.125Z",
-  "count": 2,
+  "updated": "2026-07-23T11:29:13.321Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "diegosouzapw/OmniRoute",
@@ -12,23 +12,10 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 26059,
-      "forks": 3425,
+      "stars": 26207,
+      "forks": 3440,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "DioxusLabs/dioxus",
-      "owner": "DioxusLabs",
-      "name": "dioxus",
-      "description": "Fullstack app framework for web, desktop, and mobile.",
-      "url": "https://github.com/DioxusLabs/dioxus",
-      "avatarUrl": "https://github.com/DioxusLabs.png",
-      "stars": 38166,
-      "forks": 1798,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     }
   ],
