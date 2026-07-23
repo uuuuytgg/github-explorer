@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-23T07:03:52.351Z",
+  "updated": "2026-07-23T09:32:19.125Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 69836,
-      "forks": 10630,
+      "stars": 70242,
+      "forks": 10661,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A skill for your coding agent to stop it from burying the answer. ADHD-friendly output.",
       "url": "https://github.com/ayghri/i-have-adhd",
       "avatarUrl": "https://github.com/ayghri.png",
-      "stars": 8634,
-      "forks": 397,
+      "stars": 8796,
+      "forks": 406,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The open-source AI voice studio. Clone, dictate, create.",
       "url": "https://github.com/jamiepine/voicebox",
       "avatarUrl": "https://github.com/jamiepine.png",
-      "stars": 45992,
-      "forks": 5612,
+      "stars": 46078,
+      "forks": 5624,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 278+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 25833,
-      "forks": 3402,
+      "stars": 26059,
+      "forks": 3425,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 68978,
-      "forks": 7823,
+      "stars": 69060,
+      "forks": 7825,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 2151,
-      "forks": 314,
+      "stars": 2196,
+      "forks": 317,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 42513,
-      "forks": 7081,
+      "stars": 42642,
+      "forks": 7097,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 25530,
-      "forks": 2404,
+      "stars": 25618,
+      "forks": 2411,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "CloudFlare free temp domain email 免费收发 临时域名邮箱 支持附件 IMAP SMTP TelegramBot",
       "url": "https://github.com/dreamhunter2333/cloudflare_temp_email",
       "avatarUrl": "https://github.com/dreamhunter2333.png",
-      "stars": 10894,
-      "forks": 7315,
+      "stars": 10937,
+      "forks": 7322,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
