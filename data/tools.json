@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-23T22:35:15.325Z",
+  "updated": "2026-07-23T23:33:52.607Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A hive mind communication platform",
       "url": "https://github.com/block/buzz",
       "avatarUrl": "https://github.com/block.png",
-      "stars": 6701,
-      "forks": 542,
+      "stars": 6793,
+      "forks": 547,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 71455,
-      "forks": 10788,
+      "stars": 71509,
+      "forks": 10793,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Empowering everyone to host fast and efficient Minecraft servers.",
       "url": "https://github.com/Pumpkin-MC/Pumpkin",
       "avatarUrl": "https://github.com/Pumpkin-MC.png",
-      "stars": 8869,
-      "forks": 612,
+      "stars": 8890,
+      "forks": 613,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 27055,
-      "forks": 3549,
+      "stars": 27112,
+      "forks": 3554,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 69384,
-      "forks": 7849,
+      "stars": 69401,
+      "forks": 7850,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 11449,
-      "forks": 792,
+      "stars": 11475,
+      "forks": 794,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 85153,
-      "forks": 11366,
+      "stars": 85183,
+      "forks": 11369,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "The Free Software Media System - Server Backend &amp; API",
       "url": "https://github.com/jellyfin/jellyfin",
       "avatarUrl": "https://github.com/jellyfin.png",
-      "stars": 54714,
-      "forks": 5164,
+      "stars": 54721,
+      "forks": 5163,
       "todayStars": 0,
       "language": "C#",
       "topics": []
