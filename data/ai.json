@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-24T04:27:47.070Z",
+  "updated": "2026-07-24T07:04:05.494Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 71943,
-      "forks": 10823,
+      "stars": 72178,
+      "forks": 10850,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The best browser for both you and your AI agents work in parallel.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 1804,
-      "forks": 99,
+      "stars": 1928,
+      "forks": 103,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 27481,
-      "forks": 3599,
+      "stars": 27687,
+      "forks": 3638,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 69547,
-      "forks": 7861,
+      "stars": 69613,
+      "forks": 7863,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A collection of agent skills for CAD, robotics and hardware design",
       "url": "https://github.com/earthtojake/text-to-cad",
       "avatarUrl": "https://github.com/earthtojake.png",
-      "stars": 10089,
-      "forks": 1108,
+      "stars": 10175,
+      "forks": 1112,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 2439,
-      "forks": 334,
+      "stars": 2483,
+      "forks": 335,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 11732,
-      "forks": 810,
+      "stars": 11878,
+      "forks": 814,
       "todayStars": 0,
       "language": "Go",
       "topics": []
