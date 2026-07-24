@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-24T14:41:04.392Z",
+  "updated": "2026-07-24T17:47:42.268Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 72871,
-      "forks": 10935,
+      "stars": 73028,
+      "forks": 10964,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 69838,
-      "forks": 7876,
+      "stars": 69918,
+      "forks": 7886,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 2221,
-      "forks": 108,
+      "stars": 2348,
+      "forks": 112,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 4093,
-      "forks": 391,
+      "stars": 4154,
+      "forks": 400,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 186140,
-      "forks": 15972,
+      "stars": 186389,
+      "forks": 15986,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "《动手学大模型Dive into LLMs》系列编程实践教程",
       "url": "https://github.com/Lordog/dive-into-llms",
       "avatarUrl": "https://github.com/Lordog.png",
-      "stars": 44897,
-      "forks": 5378,
+      "stars": 44945,
+      "forks": 5383,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 28249,
-      "forks": 3712,
+      "stars": 28476,
+      "forks": 3740,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "url": "https://github.com/OtterMind/Chat2DB",
       "avatarUrl": "https://github.com/OtterMind.png",
-      "stars": 26190,
-      "forks": 2875,
+      "stars": 26237,
+      "forks": 2878,
       "todayStars": 0,
       "language": "Java",
       "topics": []

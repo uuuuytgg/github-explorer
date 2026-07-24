@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-24T14:41:04.392Z",
+  "updated": "2026-07-24T17:47:42.268Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "url": "https://github.com/Automattic/harper",
       "avatarUrl": "https://github.com/Automattic.png",
-      "stars": 12791,
-      "forks": 473,
+      "stars": 12886,
+      "forks": 479,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 85697,
-      "forks": 11422,
+      "stars": 85782,
+      "forks": 11431,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 28249,
-      "forks": 3712,
+      "stars": 28476,
+      "forks": 3740,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
