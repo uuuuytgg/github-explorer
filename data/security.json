@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-25T18:34:56.805Z",
+  "updated": "2026-07-25T19:51:23.584Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Offline, privacy-first grammar checker. Fast, open-source, Rust-powered",
       "url": "https://github.com/Automattic/harper",
       "avatarUrl": "https://github.com/Automattic.png",
-      "stars": 13322,
-      "forks": 502,
+      "stars": 13345,
+      "forks": 504,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 233201,
+      "stars": 233224,
       "forks": 35555,
       "todayStars": 0,
       "language": "JavaScript",

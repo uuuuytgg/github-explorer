@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-25T18:34:56.805Z",
+  "updated": "2026-07-25T19:51:23.584Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "url": "https://github.com/permissionlesstech/bitchat",
       "avatarUrl": "https://github.com/permissionlesstech.png",
-      "stars": 28472,
-      "forks": 4182,
+      "stars": 28555,
+      "forks": 4219,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "macOS video editor built for AI",
       "url": "https://github.com/palmier-io/palmier-pro",
       "avatarUrl": "https://github.com/palmier-io.png",
-      "stars": 12127,
+      "stars": 12148,
       "forks": 892,
       "todayStars": 0,
       "language": "Swift",
