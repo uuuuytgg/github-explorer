@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-25T08:35:41.065Z",
+  "updated": "2026-07-25T10:14:11.686Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 73674,
-      "forks": 11049,
+      "stars": 73752,
+      "forks": 11066,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 26300,
-      "forks": 2458,
+      "stars": 26309,
+      "forks": 2460,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 29309,
-      "forks": 3822,
+      "stars": 29405,
+      "forks": 3834,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 2662,
-      "forks": 352,
+      "stars": 2675,
+      "forks": 354,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 77240,
-      "forks": 9496,
+      "stars": 77295,
+      "forks": 9503,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 43275,
-      "forks": 7242,
+      "stars": 43300,
+      "forks": 7245,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Skills for Design Engineers",
       "url": "https://github.com/ibelick/ui-skills",
       "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 6346,
-      "forks": 279,
+      "stars": 6351,
+      "forks": 280,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 17286,
-      "forks": 865,
+      "stars": 17328,
+      "forks": 869,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
