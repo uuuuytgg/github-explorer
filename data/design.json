@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-25T10:14:11.686Z",
+  "updated": "2026-07-25T11:33:45.521Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 73752,
-      "forks": 11066,
+      "stars": 73821,
+      "forks": 11075,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,23 +25,10 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 26309,
-      "forks": 2460,
+      "stars": 26318,
+      "forks": 2461,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 29405,
-      "forks": 3834,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     },
     {
@@ -51,8 +38,21 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 2675,
+      "stars": 2682,
       "forks": 354,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "diegosouzapw/OmniRoute",
+      "owner": "diegosouzapw",
+      "name": "OmniRoute",
+      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
+      "url": "https://github.com/diegosouzapw/OmniRoute",
+      "avatarUrl": "https://github.com/diegosouzapw.png",
+      "stars": 29473,
+      "forks": 3843,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 77295,
-      "forks": 9503,
+      "stars": 77319,
+      "forks": 9513,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,23 +77,10 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 43300,
-      "forks": 7245,
+      "stars": 43317,
+      "forks": 7248,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "ibelick/ui-skills",
-      "owner": "ibelick",
-      "name": "ui-skills",
-      "description": "Skills for Design Engineers",
-      "url": "https://github.com/ibelick/ui-skills",
-      "avatarUrl": "https://github.com/ibelick.png",
-      "stars": 6351,
-      "forks": 280,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     },
     {
@@ -103,10 +90,23 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 17328,
-      "forks": 869,
+      "stars": 17350,
+      "forks": 873,
       "todayStars": 0,
       "language": "CSS",
+      "topics": []
+    },
+    {
+      "fullName": "ibelick/ui-skills",
+      "owner": "ibelick",
+      "name": "ui-skills",
+      "description": "Skills for Design Engineers",
+      "url": "https://github.com/ibelick/ui-skills",
+      "avatarUrl": "https://github.com/ibelick.png",
+      "stars": 6360,
+      "forks": 280,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],
