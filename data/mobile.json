@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-26T16:43:11.161Z",
+  "updated": "2026-07-26T17:42:36.692Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "url": "https://github.com/permissionlesstech/bitchat",
       "avatarUrl": "https://github.com/permissionlesstech.png",
-      "stars": 29737,
-      "forks": 4608,
+      "stars": 29839,
+      "forks": 4627,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "url": "https://github.com/permissionlesstech/bitchat-android",
       "avatarUrl": "https://github.com/permissionlesstech.png",
-      "stars": 6519,
-      "forks": 1559,
+      "stars": 6562,
+      "forks": 1565,
       "todayStars": 0,
       "language": "Kotlin",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "avatarUrl": "https://github.com/amnezia-vpn.png",
-      "stars": 13163,
-      "forks": 1002,
+      "stars": 13192,
+      "forks": 1004,
       "todayStars": 0,
       "language": "C++",
       "topics": []
