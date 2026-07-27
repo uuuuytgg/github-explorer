@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-27T14:05:57.420Z",
+  "updated": "2026-07-27T16:32:55.794Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "avatarUrl": "https://github.com/amnezia-vpn.png",
-      "stars": 13611,
-      "forks": 1018,
+      "stars": 13667,
+      "forks": 1024,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Pretty fancy and modern terminal file manager",
       "url": "https://github.com/yorukot/superfile",
       "avatarUrl": "https://github.com/yorukot.png",
-      "stars": 20615,
-      "forks": 654,
+      "stars": 20710,
+      "forks": 667,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 14456,
-      "forks": 978,
+      "stars": 14545,
+      "forks": 986,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Jenkins automation server",
       "url": "https://github.com/jenkinsci/jenkins",
       "avatarUrl": "https://github.com/jenkinsci.png",
-      "stars": 25815,
-      "forks": 9665,
+      "stars": 25833,
+      "forks": 9678,
       "todayStars": 0,
       "language": "Java",
       "topics": []
