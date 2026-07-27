@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-27T20:58:53.982Z",
+  "updated": "2026-07-27T22:04:15.869Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "bluetooth mesh chat, IRC vibes",
       "url": "https://github.com/permissionlesstech/bitchat",
       "avatarUrl": "https://github.com/permissionlesstech.png",
-      "stars": 32104,
-      "forks": 5046,
+      "stars": 32161,
+      "forks": 5050,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "avatarUrl": "https://github.com/amnezia-vpn.png",
-      "stars": 13744,
+      "stars": 13765,
       "forks": 1028,
       "todayStars": 0,
       "language": "C++",
@@ -38,8 +38,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 2578,
-      "forks": 346,
+      "stars": 2613,
+      "forks": 348,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
