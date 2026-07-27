@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-27T11:51:00.017Z",
+  "updated": "2026-07-27T14:05:57.420Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 43699,
-      "forks": 4371,
+      "stars": 43770,
+      "forks": 4382,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 51093,
-      "forks": 3006,
+      "stars": 51197,
+      "forks": 3010,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 14363,
-      "forks": 970,
+      "stars": 14456,
+      "forks": 978,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "url": "https://github.com/bradautomates/claude-video",
       "avatarUrl": "https://github.com/bradautomates.png",
-      "stars": 10627,
-      "forks": 1112,
+      "stars": 10742,
+      "forks": 1115,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "url": "https://github.com/mvanhorn/last30days-skill",
       "avatarUrl": "https://github.com/mvanhorn.png",
-      "stars": 53943,
+      "stars": 53973,
       "forks": 4685,
       "todayStars": 0,
       "language": "Python",
