@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-27T01:15:23.860Z",
+  "updated": "2026-07-27T04:59:41.079Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The fastest browser for AI agents to run web automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 4539,
-      "forks": 223,
+      "stars": 4859,
+      "forks": 233,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 5673,
-      "forks": 520,
+      "stars": 5797,
+      "forks": 524,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🔥🔥🔥 AI-driven database tool and SQL client, The hottest GUI client, supporting MySQL, Oracle, PostgreSQL, DB2, SQL Server, DB2, SQLite, H2, ClickHouse, and more.",
       "url": "https://github.com/OtterMind/Chat2DB",
       "avatarUrl": "https://github.com/OtterMind.png",
-      "stars": 27114,
-      "forks": 2941,
+      "stars": 27234,
+      "forks": 2947,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 50682,
-      "forks": 2987,
+      "stars": 50833,
+      "forks": 2996,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 13830,
-      "forks": 939,
+      "stars": 14048,
+      "forks": 950,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 15402,
-      "forks": 1629,
+      "stars": 15443,
+      "forks": 1635,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A collection of notebooks/recipes showcasing some fun and effective ways of using Claude.",
       "url": "https://github.com/anthropics/claude-cookbooks",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 50231,
-      "forks": 5919,
+      "stars": 50317,
+      "forks": 5924,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
