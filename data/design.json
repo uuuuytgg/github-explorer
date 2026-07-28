@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-28T13:00:30.352Z",
+  "updated": "2026-07-28T15:30:21.904Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 75676,
-      "forks": 11325,
+      "stars": 75757,
+      "forks": 11338,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 32700,
-      "forks": 4233,
+      "stars": 32801,
+      "forks": 4253,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "ADHD — a skill for coding agents. Tree-of-thought with pruning, built on the Claude &amp; Codex Agent SDK. Fans out parallel divergent thoughts under different cognitive frames, scores, prunes traps, deepens the survivors. The no-brainer skill for creative and interdisciplinary work.",
       "url": "https://github.com/UditAkhourii/adhd",
       "avatarUrl": "https://github.com/UditAkhourii.png",
-      "stars": 2490,
-      "forks": 203,
+      "stars": 2518,
+      "forks": 204,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Web UI for the pi coding agent",
       "url": "https://github.com/agegr/pi-web",
       "avatarUrl": "https://github.com/agegr.png",
-      "stars": 3078,
-      "forks": 404,
+      "stars": 3089,
+      "forks": 405,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 79493,
-      "forks": 9775,
+      "stars": 79554,
+      "forks": 9785,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 6360,
-      "forks": 561,
+      "stars": 6385,
+      "forks": 562,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 44468,
-      "forks": 7507,
+      "stars": 44513,
+      "forks": 7521,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Local-first code intelligence graph for MCP and CLI. Builds a persistent map of your codebase so AI coding tools read only what matters, with benchmarked context reductions on reviews and large-repo workflows.",
       "url": "https://github.com/tirth8205/code-review-graph",
       "avatarUrl": "https://github.com/tirth8205.png",
-      "stars": 27212,
-      "forks": 2520,
+      "stars": 27235,
+      "forks": 2523,
       "todayStars": 0,
       "language": "Python",
       "topics": []
