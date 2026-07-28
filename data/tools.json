@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-28T06:12:45.515Z",
+  "updated": "2026-07-28T08:49:06.944Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Amnezia VPN Client (Desktop+Mobile)",
       "url": "https://github.com/amnezia-vpn/amnezia-client",
       "avatarUrl": "https://github.com/amnezia-vpn.png",
-      "stars": 13974,
-      "forks": 1039,
+      "stars": 14045,
+      "forks": 1042,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 2885,
-      "forks": 365,
+      "stars": 2971,
+      "forks": 369,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Pretty fancy and modern terminal file manager",
       "url": "https://github.com/yorukot/superfile",
       "avatarUrl": "https://github.com/yorukot.png",
-      "stars": 21050,
-      "forks": 673,
+      "stars": 21102,
+      "forks": 675,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 15106,
-      "forks": 1019,
+      "stars": 15233,
+      "forks": 1024,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Jenkins automation server",
       "url": "https://github.com/jenkinsci/jenkins",
       "avatarUrl": "https://github.com/jenkinsci.png",
-      "stars": 25927,
-      "forks": 9677,
+      "stars": 25946,
+      "forks": 9678,
       "todayStars": 0,
       "language": "Java",
       "topics": []
