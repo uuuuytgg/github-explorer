@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-28T18:41:04.635Z",
+  "updated": "2026-07-28T20:04:43.726Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Jenkins automation server",
       "url": "https://github.com/jenkinsci/jenkins",
       "avatarUrl": "https://github.com/jenkinsci.png",
-      "stars": 26034,
+      "stars": 26047,
       "forks": 9685,
       "todayStars": 0,
       "language": "Java",
@@ -25,8 +25,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 3257,
-      "forks": 383,
+      "stars": 3295,
+      "forks": 385,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 5095,
+      "stars": 5124,
       "forks": 831,
       "todayStars": 0,
       "language": "Python",
@@ -51,8 +51,8 @@
       "description": "Pretty fancy and modern terminal file manager",
       "url": "https://github.com/yorukot/superfile",
       "avatarUrl": "https://github.com/yorukot.png",
-      "stars": 21355,
-      "forks": 690,
+      "stars": 21386,
+      "forks": 692,
       "todayStars": 0,
       "language": "Go",
       "topics": []
