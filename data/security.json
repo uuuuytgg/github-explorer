@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-28T08:49:06.944Z",
-  "count": 1,
+  "updated": "2026-07-28T11:07:14.495Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "moeru-ai/airi",
@@ -12,10 +12,36 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 44367,
-      "forks": 4417,
+      "stars": 44454,
+      "forks": 4424,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://github.com/affaan-m.png",
+      "stars": 234403,
+      "forks": 35731,
+      "todayStars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "microsoft/agent-governance-toolkit",
+      "owner": "microsoft",
+      "name": "agent-governance-toolkit",
+      "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
+      "url": "https://github.com/microsoft/agent-governance-toolkit",
+      "avatarUrl": "https://github.com/microsoft.png",
+      "stars": 4959,
+      "forks": 826,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
