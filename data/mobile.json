@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-07-29T09:48:23.001Z",
+  "updated": "2026-07-29T11:52:01.283Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 3655,
-      "forks": 409,
+      "stars": 3696,
+      "forks": 411,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
