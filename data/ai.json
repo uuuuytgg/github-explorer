@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-07-29T07:13:39.293Z",
+  "updated": "2026-07-29T09:48:23.001Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 44997,
-      "forks": 4459,
+      "stars": 45086,
+      "forks": 4464,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 15764,
-      "forks": 1658,
+      "stars": 15785,
+      "forks": 1663,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 235079,
-      "forks": 35813,
+      "stars": 235177,
+      "forks": 35822,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Build local voice agents with open-source models",
       "url": "https://github.com/huggingface/speech-to-speech",
       "avatarUrl": "https://github.com/huggingface.png",
-      "stars": 7470,
-      "forks": 971,
+      "stars": 7540,
+      "forks": 978,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Turn any technical book PDF into a Claude Code skill — ready to study, reference, and use while you work.",
       "url": "https://github.com/virgiliojr94/book-to-skill",
       "avatarUrl": "https://github.com/virgiliojr94.png",
-      "stars": 11853,
-      "forks": 1369,
+      "stars": 12040,
+      "forks": 1376,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 3589,
-      "forks": 404,
+      "stars": 3655,
+      "forks": 409,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "AI Agent Governance Toolkit — Policy enforcement, zero-trust identity, execution sandboxing, and reliability engineering for autonomous AI agents. Covers 10/10 OWASP Agentic Top 10.",
       "url": "https://github.com/microsoft/agent-governance-toolkit",
       "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 5357,
-      "forks": 846,
+      "stars": 5390,
+      "forks": 854,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Give Claude the ability to watch any video. /watch downloads, extracts frames, transcribes, hands it all to Claude.",
       "url": "https://github.com/bradautomates/claude-video",
       "avatarUrl": "https://github.com/bradautomates.png",
-      "stars": 12349,
-      "forks": 1231,
+      "stars": 12440,
+      "forks": 1236,
       "todayStars": 0,
       "language": "Python",
       "topics": []
