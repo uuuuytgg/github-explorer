@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-29T22:26:20.465Z",
+  "updated": "2026-07-29T23:28:16.175Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "💖🧸 Self hosted, you-owned Grok Companion, a container of souls of waifu, cyber livings to bring them into our worlds, wishing to achieve Neuro-sama's altitude. Capable of realtime voice chat, Minecraft, Factorio playing. Web / macOS / Windows supported.",
       "url": "https://github.com/moeru-ai/airi",
       "avatarUrl": "https://github.com/moeru-ai.png",
-      "stars": 45348,
-      "forks": 4483,
+      "stars": 45358,
+      "forks": 4486,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 235512,
-      "forks": 35863,
+      "stars": 235531,
+      "forks": 35866,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
