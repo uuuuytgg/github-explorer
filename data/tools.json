@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-29T11:52:01.283Z",
+  "updated": "2026-07-29T13:40:10.057Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 3696,
-      "forks": 411,
+      "stars": 3757,
+      "forks": 414,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 263031,
-      "forks": 23488,
+      "stars": 262986,
+      "forks": 23490,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 15691,
-      "forks": 1065,
+      "stars": 15741,
+      "forks": 1066,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
       "url": "https://github.com/maderix/ANE",
       "avatarUrl": "https://github.com/maderix.png",
-      "stars": 7069,
-      "forks": 955,
+      "stars": 7080,
+      "forks": 956,
       "todayStars": 0,
       "language": "Objective-C",
       "topics": []
