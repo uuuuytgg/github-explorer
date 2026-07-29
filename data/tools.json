@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-07-29T19:17:46.079Z",
+  "updated": "2026-07-29T20:27:45.828Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A lightweight, cloud-native GIS platform for visualizing, exploring, and analyzing geospatial data. It runs in the web browser, on the desktop, on mobile, and inside Jupyter notebooks.",
       "url": "https://github.com/opengeos/GeoLibre",
       "avatarUrl": "https://github.com/opengeos.png",
-      "stars": 3942,
+      "stars": 3959,
       "forks": 427,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 263182,
-      "forks": 23497,
+      "stars": 263203,
+      "forks": 23505,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 15892,
-      "forks": 1074,
+      "stars": 15913,
+      "forks": 1077,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Training neural networks on Apple Neural Engine via reverse-engineered private APIs",
       "url": "https://github.com/maderix/ANE",
       "avatarUrl": "https://github.com/maderix.png",
-      "stars": 7117,
+      "stars": 7125,
       "forks": 957,
       "todayStars": 0,
       "language": "Objective-C",
