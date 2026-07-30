@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-07-30T20:32:43.468Z",
+  "updated": "2026-07-30T21:47:01.890Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 236158,
-      "forks": 35923,
+      "stars": 236169,
+      "forks": 35925,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
