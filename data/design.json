@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-07-31T12:23:41.827Z",
-  "count": 7,
+  "updated": "2026-07-31T14:43:50.272Z",
+  "count": 6,
   "repos": [
     {
       "fullName": "citrolabs/ego-lite",
@@ -12,7 +12,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 6839,
+      "stars": 6893,
       "forks": 326,
       "todayStars": 0,
       "language": "JavaScript",
@@ -25,8 +25,8 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in fine-tuned ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 16854,
-      "forks": 1147,
+      "stars": 16889,
+      "forks": 1150,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Real-time global intelligence dashboard. AI-powered news aggregation, geopolitical monitoring, and infrastructure tracking in a unified situational awareness interface",
       "url": "https://github.com/koala73/worldmonitor",
       "avatarUrl": "https://github.com/koala73.png",
-      "stars": 77257,
-      "forks": 11536,
+      "stars": 77308,
+      "forks": 11546,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 35624,
-      "forks": 4587,
+      "stars": 35748,
+      "forks": 4600,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,23 +64,10 @@
       "description": "The open-source alternative to Webflow, Framer and WordPress. Agentic self-hosted visual CMS outputting clean static pages. Users, roles, plugins, content, database, it's all there.",
       "url": "https://github.com/CoreBunch/Instatic",
       "avatarUrl": "https://github.com/CoreBunch.png",
-      "stars": 6883,
+      "stars": 6905,
       "forks": 602,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "earthtojake/text-to-cad",
-      "owner": "earthtojake",
-      "name": "text-to-cad",
-      "description": "A collection of agent skills for CAD, robotics and hardware design",
-      "url": "https://github.com/earthtojake/text-to-cad",
-      "avatarUrl": "https://github.com/earthtojake.png",
-      "stars": 12146,
-      "forks": 1297,
-      "todayStars": 0,
-      "language": "JavaScript",
       "topics": []
     },
     {
@@ -90,8 +77,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 81278,
-      "forks": 10033,
+      "stars": 81337,
+      "forks": 10038,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
