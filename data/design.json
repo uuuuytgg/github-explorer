@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-02T22:35:22.005Z",
+  "updated": "2026-08-02T23:37:30.648Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Open-source &amp; free — Battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 17857,
+      "stars": 17865,
       "forks": 1207,
       "todayStars": 0,
       "language": "Go",
@@ -25,8 +25,8 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 15897,
-      "forks": 1683,
+      "stars": 15899,
+      "forks": 1685,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 7648,
-      "forks": 380,
+      "stars": 7655,
+      "forks": 381,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 37830,
-      "forks": 4925,
+      "stars": 37860,
+      "forks": 4931,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
