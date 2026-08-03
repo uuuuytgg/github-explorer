@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-03T21:18:07.356Z",
+  "updated": "2026-08-03T22:31:18.221Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 15956,
+      "stars": 15957,
       "forks": 1684,
       "todayStars": 0,
       "language": "Python",
@@ -25,7 +25,7 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 18385,
+      "stars": 18397,
       "forks": 1241,
       "todayStars": 0,
       "language": "Go",
@@ -38,8 +38,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 7991,
-      "forks": 394,
+      "stars": 8006,
+      "forks": 395,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
