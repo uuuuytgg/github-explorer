@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-03T08:03:19.115Z",
-  "count": 4,
+  "updated": "2026-08-03T11:40:51.183Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 18140,
-      "forks": 1219,
-      "todayStars": 0,
-      "language": "Go",
-      "topics": []
-    },
     {
       "fullName": "andrewyng/aisuite",
       "owner": "andrewyng",
@@ -25,10 +12,23 @@
       "description": "Simple, unified interface to multiple Generative AI providers",
       "url": "https://github.com/andrewyng/aisuite",
       "avatarUrl": "https://github.com/andrewyng.png",
-      "stars": 15928,
+      "stars": 15937,
       "forks": 1684,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://github.com/alibaba.png",
+      "stars": 18229,
+      "forks": 1227,
+      "todayStars": 0,
+      "language": "Go",
       "topics": []
     },
     {
@@ -38,23 +38,10 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 7815,
-      "forks": 387,
+      "stars": 7878,
+      "forks": 391,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "diegosouzapw/OmniRoute",
-      "owner": "diegosouzapw",
-      "name": "OmniRoute",
-      "description": "Never stop coding. Free MIT AI gateway: one endpoint, 290+ providers (90+ free), 500+ models — Kimi, Claude, GPT, OpenAI, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 500+ contributors",
-      "url": "https://github.com/diegosouzapw/OmniRoute",
-      "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 38173,
-      "forks": 5010,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
