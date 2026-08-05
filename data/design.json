@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-05T09:14:45.356Z",
-  "count": 3,
+  "updated": "2026-08-05T11:29:02.972Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -12,23 +12,10 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 14451,
-      "forks": 1319,
+      "stars": 14619,
+      "forks": 1326,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 18952,
-      "forks": 1286,
-      "todayStars": 0,
-      "language": "Go",
       "topics": []
     },
     {
@@ -38,8 +25,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 8484,
-      "forks": 410,
+      "stars": 8511,
+      "forks": 409,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
