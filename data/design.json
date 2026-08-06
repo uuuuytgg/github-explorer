@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-06T00:14:32.442Z",
+  "updated": "2026-08-06T03:35:26.629Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 15040,
-      "forks": 1369,
+      "stars": 15217,
+      "forks": 1384,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 8712,
-      "forks": 412,
+      "stars": 8808,
+      "forks": 419,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

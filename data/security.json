@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-06T00:14:32.442Z",
+  "updated": "2026-08-06T03:35:26.629Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 11427,
-      "forks": 760,
+      "stars": 11593,
+      "forks": 780,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "ADR secures enterprise AI agents through observability, security benchmarking, and threat detection. Deployed at Uber.",
       "url": "https://github.com/uber/ADR",
       "avatarUrl": "https://github.com/uber.png",
-      "stars": 1030,
-      "forks": 85,
+      "stars": 1083,
+      "forks": 87,
       "todayStars": 0,
       "language": "Python",
       "topics": []
