@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-06T13:15:32.975Z",
+  "updated": "2026-08-06T15:35:38.090Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 15775,
-      "forks": 1420,
+      "stars": 15985,
+      "forks": 1438,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "a code review TUI with vim keybindings",
       "url": "https://github.com/agavra/tuicr",
       "avatarUrl": "https://github.com/agavra.png",
-      "stars": 2459,
+      "stars": 2467,
       "forks": 188,
       "todayStars": 0,
       "language": "Rust",
