@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-07T11:28:52.555Z",
-  "count": 2,
+  "updated": "2026-08-07T12:07:30.973Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "goauthentik/authentik",
@@ -12,23 +12,10 @@
       "description": "The authentication glue you need.",
       "url": "https://github.com/goauthentik/authentik",
       "avatarUrl": "https://github.com/goauthentik.png",
-      "stars": 23342,
+      "stars": 23349,
       "forks": 1784,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "firecrawl/pdf-inspector",
-      "owner": "firecrawl",
-      "name": "pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 12871,
-      "forks": 865,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     }
   ],
