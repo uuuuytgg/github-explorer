@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-07T19:12:32.415Z",
+  "updated": "2026-08-07T19:57:41.345Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 17412,
+      "stars": 17428,
       "forks": 1563,
       "todayStars": 0,
       "language": "TypeScript",
