@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-07T18:11:42.267Z",
+  "updated": "2026-08-07T19:12:32.415Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 17393,
+      "stars": 17412,
       "forks": 1563,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,7 +25,7 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "avatarUrl": "https://github.com/tailwindlabs.png",
-      "stars": 97071,
+      "stars": 97074,
       "forks": 5568,
       "todayStars": 0,
       "language": "TypeScript",
