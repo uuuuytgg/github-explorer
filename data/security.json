@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-08T08:55:57.086Z",
+  "updated": "2026-08-08T09:26:45.942Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The authentication glue you need.",
       "url": "https://github.com/goauthentik/authentik",
       "avatarUrl": "https://github.com/goauthentik.png",
-      "stars": 23744,
-      "forks": 1819,
+      "stars": 23758,
+      "forks": 1821,
       "todayStars": 0,
       "language": "Python",
       "topics": []
