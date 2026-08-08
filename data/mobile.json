@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-08T16:17:04.987Z",
+  "updated": "2026-08-08T16:58:46.748Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "翻墙-科学上网",
       "url": "https://github.com/bannedbook/fanqiang",
       "avatarUrl": "https://github.com/bannedbook.png",
-      "stars": 49798,
-      "forks": 8246,
+      "stars": 49815,
+      "forks": 8250,
       "todayStars": 0,
       "language": "Kotlin",
       "topics": []
