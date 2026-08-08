@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-08T08:04:42.748Z",
+  "updated": "2026-08-08T08:55:57.086Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "avatarUrl": "https://github.com/PrimeIntellect-ai.png",
-      "stars": 7173,
-      "forks": 590,
+      "stars": 7250,
+      "forks": 598,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 84095,
-      "forks": 8980,
+      "stars": 84113,
+      "forks": 8981,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 209208,
-      "forks": 18073,
+      "stars": 209265,
+      "forks": 18080,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 268923,
-      "forks": 24017,
+      "stars": 268947,
+      "forks": 24020,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "url": "https://github.com/666ghj/MiroFish",
       "avatarUrl": "https://github.com/666ghj.png",
-      "stars": 70651,
-      "forks": 10999,
+      "stars": 70664,
+      "forks": 11002,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Multi-account API gateway for Grok Build, Grok Web, and Grok Console",
       "url": "https://github.com/chenyme/grok2api",
       "avatarUrl": "https://github.com/chenyme.png",
-      "stars": 7172,
-      "forks": 2171,
+      "stars": 7178,
+      "forks": 2172,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "url": "https://github.com/pranshuparmar/witr",
       "avatarUrl": "https://github.com/pranshuparmar.png",
-      "stars": 19929,
-      "forks": 648,
+      "stars": 19957,
+      "forks": 650,
       "todayStars": 0,
       "language": "Go",
       "topics": []
