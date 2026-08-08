@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-08-08T17:26:11.645Z",
+  "updated": "2026-08-08T17:53:42.200Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "avatarUrl": "https://github.com/PrimeIntellect-ai.png",
-      "stars": 8256,
-      "forks": 701,
+      "stars": 8312,
+      "forks": 708,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 84349,
-      "forks": 9002,
+      "stars": 84361,
+      "forks": 9003,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Agent Skills for Google products and technologies",
       "url": "https://github.com/google/skills",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 16578,
+      "stars": 16588,
       "forks": 1306,
       "todayStars": 0,
       "language": "Python",
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 209746,
-      "forks": 18126,
+      "stars": 209762,
+      "forks": 18127,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 96291,
-      "forks": 18633,
+      "stars": 96308,
+      "forks": 18634,
       "todayStars": 0,
       "language": "Python",
       "topics": []
