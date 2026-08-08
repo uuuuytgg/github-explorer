@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-08T23:16:02.816Z",
+  "updated": "2026-08-08T23:49:59.815Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "avatarUrl": "https://github.com/PrimeIntellect-ai.png",
-      "stars": 8816,
-      "forks": 822,
+      "stars": 8859,
+      "forks": 833,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 84524,
-      "forks": 9084,
+      "stars": 84539,
+      "forks": 9093,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 209964,
-      "forks": 18140,
+      "stars": 209985,
+      "forks": 18142,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 96450,
+      "stars": 96461,
       "forks": 18650,
       "todayStars": 0,
       "language": "Python",
@@ -64,8 +64,8 @@
       "description": "DevOps Interview Guide",
       "url": "https://github.com/litu54/DevOps-Interview-Guide",
       "avatarUrl": "https://github.com/litu54.png",
-      "stars": 693,
-      "forks": 880,
+      "stars": 701,
+      "forks": 882,
       "todayStars": 0,
       "language": "",
       "topics": []
