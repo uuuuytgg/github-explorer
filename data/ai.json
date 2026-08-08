@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-08-08T00:42:05.409Z",
+  "updated": "2026-08-08T02:34:14.284Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "avatarUrl": "https://github.com/PrimeIntellect-ai.png",
-      "stars": 6515,
-      "forks": 519,
+      "stars": 6693,
+      "forks": 533,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 83895,
-      "forks": 8966,
+      "stars": 83944,
+      "forks": 8972,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Give your agent a computer 👾",
       "url": "https://github.com/cloudflare/computer",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 5708,
-      "forks": 288,
+      "stars": 5801,
+      "forks": 292,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 208810,
-      "forks": 18022,
+      "stars": 208911,
+      "forks": 18035,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 268743,
-      "forks": 23998,
+      "stars": 268777,
+      "forks": 24001,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Graph-Native Infrastructure for Context and Accountable AI Systems",
       "url": "https://github.com/semantica-agi/semantica",
       "avatarUrl": "https://github.com/semantica-agi.png",
-      "stars": 2345,
-      "forks": 305,
+      "stars": 2372,
+      "forks": 308,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
       "url": "https://github.com/Significant-Gravitas/AutoGPT",
       "avatarUrl": "https://github.com/Significant-Gravitas.png",
-      "stars": 186319,
-      "forks": 46061,
+      "stars": 186344,
+      "forks": 46059,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A simple tool for coordinating several AI agents.",
       "url": "https://github.com/unclebob/swarm-forge",
       "avatarUrl": "https://github.com/unclebob.png",
-      "stars": 1828,
-      "forks": 201,
+      "stars": 1847,
+      "forks": 202,
       "todayStars": 0,
       "language": "Clojure",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Why is this running? Trace any process, port, container, or file back to what started it - CLI + TUI.",
       "url": "https://github.com/pranshuparmar/witr",
       "avatarUrl": "https://github.com/pranshuparmar.png",
-      "stars": 19741,
-      "forks": 639,
+      "stars": 19790,
+      "forks": 641,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "Agent Skills for Google products and technologies",
       "url": "https://github.com/google/skills",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 16248,
-      "forks": 1289,
+      "stars": 16278,
+      "forks": 1292,
       "todayStars": 0,
       "language": "Python",
       "topics": []
