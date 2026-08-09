@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-09T19:27:47.201Z",
+  "updated": "2026-08-09T19:55:24.732Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 140519,
+      "stars": 140534,
       "forks": 22968,
       "todayStars": 0,
       "language": "Shell",
@@ -25,7 +25,7 @@
       "description": "The authentication glue you need.",
       "url": "https://github.com/goauthentik/authentik",
       "avatarUrl": "https://github.com/goauthentik.png",
-      "stars": 24208,
+      "stars": 24214,
       "forks": 1853,
       "todayStars": 0,
       "language": "Python",
