@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-09T20:17:39.475Z",
+  "updated": "2026-08-09T20:58:15.581Z",
   "count": 5,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 18701,
+      "stars": 18706,
       "forks": 1687,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,8 +25,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 125389,
-      "forks": 14831,
+      "stars": 125404,
+      "forks": 14829,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "url": "https://github.com/drawdb-io/drawdb",
       "avatarUrl": "https://github.com/drawdb-io.png",
-      "stars": 38596,
+      "stars": 38599,
       "forks": 3157,
       "todayStars": 0,
       "language": "JavaScript",
