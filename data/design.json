@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-09T07:12:29.263Z",
+  "updated": "2026-08-09T07:59:32.868Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 18400,
-      "forks": 1656,
+      "stars": 18415,
+      "forks": 1660,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 124991,
+      "stars": 125010,
       "forks": 14811,
       "todayStars": 0,
       "language": "Python",
@@ -38,8 +38,8 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "url": "https://github.com/donnemartin/system-design-primer",
       "avatarUrl": "https://github.com/donnemartin.png",
-      "stars": 362531,
-      "forks": 57721,
+      "stars": 362539,
+      "forks": 57722,
       "todayStars": 0,
       "language": "Python",
       "topics": []
