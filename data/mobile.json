@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-10T10:46:47.539Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-08-10T11:39:42.123Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "opa334/Dopamine",
+      "owner": "opa334",
+      "name": "Dopamine",
+      "description": "Dopamine is a semi-untethered jailbreak for iOS 15 to 26(.0.1)",
+      "url": "https://github.com/opa334/Dopamine",
+      "avatarUrl": "https://github.com/opa334.png",
+      "stars": 5894,
+      "forks": 6185,
+      "todayStars": 0,
+      "language": "C",
+      "topics": []
+    }
+  ],
   "error": null
 }
