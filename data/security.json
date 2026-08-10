@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-10T14:48:16.181Z",
+  "updated": "2026-08-10T15:46:25.030Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 141510,
-      "forks": 23084,
+      "stars": 141552,
+      "forks": 23096,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 89221,
-      "forks": 11874,
+      "stars": 89234,
+      "forks": 11876,
       "todayStars": 0,
       "language": "Rust",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-10T14:48:16.181Z",
+  "updated": "2026-08-10T15:46:25.030Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 141510,
-      "forks": 23084,
+      "stars": 141552,
+      "forks": 23096,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 85560,
-      "forks": 9203,
+      "stars": 85588,
+      "forks": 9209,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 76251,
-      "forks": 14182,
+      "stars": 76278,
+      "forks": 14185,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A self-improving RLM agent for coding workflows and long-running autonomous tasks.",
       "url": "https://github.com/PrimeIntellect-ai/prime-agent",
       "avatarUrl": "https://github.com/PrimeIntellect-ai.png",
-      "stars": 12664,
-      "forks": 1274,
+      "stars": 12728,
+      "forks": 1286,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 89221,
-      "forks": 11874,
+      "stars": 89234,
+      "forks": 11876,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "⛰️A General Hill-climbing AI harness that helps you move from Current State to Ideal State in both Life and Work.",
       "url": "https://github.com/danielmiessler/LifeOS",
       "avatarUrl": "https://github.com/danielmiessler.png",
-      "stars": 17718,
-      "forks": 2360,
+      "stars": 17737,
+      "forks": 2359,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The context API to search, scrape, and interact with the web at scale. 🔥",
       "url": "https://github.com/firecrawl/firecrawl",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 164723,
-      "forks": 9269,
+      "stars": 164772,
+      "forks": 9270,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 97018,
-      "forks": 18717,
+      "stars": 97042,
+      "forks": 18720,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 126086,
-      "forks": 14883,
+      "stars": 126111,
+      "forks": 14882,
       "todayStars": 0,
       "language": "Python",
       "topics": []
