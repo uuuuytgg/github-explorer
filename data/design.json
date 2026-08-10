@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-10T03:03:57.586Z",
+  "updated": "2026-08-10T04:50:04.209Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 18863,
-      "forks": 1701,
+      "stars": 18933,
+      "forks": 1706,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 125627,
-      "forks": 14848,
+      "stars": 125699,
+      "forks": 14852,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "url": "https://github.com/drawdb-io/drawdb",
       "avatarUrl": "https://github.com/drawdb-io.png",
-      "stars": 38656,
-      "forks": 3160,
+      "stars": 38662,
+      "forks": 3161,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "url": "https://github.com/livekit/agents",
       "avatarUrl": "https://github.com/livekit.png",
-      "stars": 12840,
+      "stars": 12849,
       "forks": 3529,
       "todayStars": 0,
       "language": "Python",
@@ -64,8 +64,8 @@
       "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
       "url": "https://github.com/donnemartin/system-design-primer",
       "avatarUrl": "https://github.com/donnemartin.png",
-      "stars": 362741,
-      "forks": 57752,
+      "stars": 362777,
+      "forks": 57755,
       "todayStars": 0,
       "language": "Python",
       "topics": []
