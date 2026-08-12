@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-12T11:37:00.126Z",
+  "updated": "2026-08-12T12:29:00.225Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 43328,
-      "forks": 3023,
+      "stars": 43387,
+      "forks": 3030,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 144208,
-      "forks": 23385,
+      "stars": 144235,
+      "forks": 23386,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "url": "https://github.com/infiniflow/ragflow",
       "avatarUrl": "https://github.com/infiniflow.png",
-      "stars": 87363,
-      "forks": 10293,
+      "stars": 87374,
+      "forks": 10297,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 77441,
-      "forks": 14276,
+      "stars": 77467,
+      "forks": 14279,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
       "avatarUrl": "https://github.com/localsend.png",
-      "stars": 87474,
-      "forks": 4855,
+      "stars": 87501,
+      "forks": 4857,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "url": "https://github.com/embabel/embabel-agent",
       "avatarUrl": "https://github.com/embabel.png",
-      "stars": 4161,
+      "stars": 4165,
       "forks": 410,
       "todayStars": 0,
       "language": "Kotlin",
