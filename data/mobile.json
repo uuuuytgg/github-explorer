@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-13T09:45:08.001Z",
+  "updated": "2026-08-13T10:44:36.818Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
       "url": "https://github.com/stablyai/orca",
       "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 44450,
-      "forks": 3098,
+      "stars": 44494,
+      "forks": 3100,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "An open-source cross-platform alternative to AirDrop",
       "url": "https://github.com/localsend/localsend",
       "avatarUrl": "https://github.com/localsend.png",
-      "stars": 88106,
+      "stars": 88140,
       "forks": 4888,
       "todayStars": 0,
       "language": "Dart",
@@ -38,7 +38,7 @@
       "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
       "url": "https://github.com/embabel/embabel-agent",
       "avatarUrl": "https://github.com/embabel.png",
-      "stars": 4272,
+      "stars": 4275,
       "forks": 414,
       "todayStars": 0,
       "language": "Kotlin",
@@ -51,8 +51,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://github.com/cactus-compute.png",
-      "stars": 4551,
-      "forks": 318,
+      "stars": 4579,
+      "forks": 319,
       "todayStars": 0,
       "language": "Python",
       "topics": []
