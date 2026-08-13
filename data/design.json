@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-13T10:44:36.818Z",
-  "count": 3,
+  "updated": "2026-08-13T11:27:51.532Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 20974,
-      "forks": 1907,
+      "stars": 20991,
+      "forks": 1909,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "url": "https://github.com/drawdb-io/drawdb",
       "avatarUrl": "https://github.com/drawdb-io.png",
-      "stars": 38975,
-      "forks": 3177,
+      "stars": 38979,
+      "forks": 3178,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "3b1b/manim",
+      "owner": "3b1b",
+      "name": "manim",
+      "description": "Animation engine for explanatory math videos",
+      "url": "https://github.com/3b1b/manim",
+      "avatarUrl": "https://github.com/3b1b.png",
+      "stars": 90646,
+      "forks": 7516,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -38,8 +51,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 127219,
-      "forks": 14981,
+      "stars": 127224,
+      "forks": 14982,
       "todayStars": 0,
       "language": "Python",
       "topics": []
