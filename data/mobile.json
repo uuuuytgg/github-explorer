@@ -2,8 +2,61 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-13T05:55:14.420Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-08-13T07:07:25.943Z",
+  "count": 4,
+  "repos": [
+    {
+      "fullName": "stablyai/orca",
+      "owner": "stablyai",
+      "name": "orca",
+      "description": "Orca is the ADE for working with a fleet of parallel agents. Run any coding agent with your own subscription. Available on desktop, mobile and VPS.",
+      "url": "https://github.com/stablyai/orca",
+      "avatarUrl": "https://github.com/stablyai.png",
+      "stars": 44277,
+      "forks": 3085,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "localsend/localsend",
+      "owner": "localsend",
+      "name": "localsend",
+      "description": "An open-source cross-platform alternative to AirDrop",
+      "url": "https://github.com/localsend/localsend",
+      "avatarUrl": "https://github.com/localsend.png",
+      "stars": 88010,
+      "forks": 4882,
+      "todayStars": 0,
+      "language": "Dart",
+      "topics": []
+    },
+    {
+      "fullName": "embabel/embabel-agent",
+      "owner": "embabel",
+      "name": "embabel-agent",
+      "description": "Agent framework for the JVM. Pronounced Em-BAY-bel /ɛmˈbeɪbəl/",
+      "url": "https://github.com/embabel/embabel-agent",
+      "avatarUrl": "https://github.com/embabel.png",
+      "stars": 4262,
+      "forks": 412,
+      "todayStars": 0,
+      "language": "Kotlin",
+      "topics": []
+    },
+    {
+      "fullName": "cactus-compute/needle",
+      "owner": "cactus-compute",
+      "name": "needle",
+      "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
+      "url": "https://github.com/cactus-compute/needle",
+      "avatarUrl": "https://github.com/cactus-compute.png",
+      "stars": 4465,
+      "forks": 313,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  ],
   "error": null
 }
