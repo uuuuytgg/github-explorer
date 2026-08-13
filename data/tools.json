@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-13T11:27:51.532Z",
+  "updated": "2026-08-13T12:07:11.747Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "url": "https://github.com/kepano/obsidian-skills",
       "avatarUrl": "https://github.com/kepano.png",
-      "stars": 45288,
-      "forks": 3278,
+      "stars": 45307,
+      "forks": 3279,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 90646,
-      "forks": 7516,
+      "stars": 90659,
+      "forks": 7517,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 144955,
-      "forks": 23453,
+      "stars": 144974,
+      "forks": 23457,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "url": "https://github.com/infiniflow/ragflow",
       "avatarUrl": "https://github.com/infiniflow.png",
-      "stars": 87805,
+      "stars": 87823,
       "forks": 10340,
       "todayStars": 0,
       "language": "Go",
