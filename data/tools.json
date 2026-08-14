@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-14T21:13:32.962Z",
+  "updated": "2026-08-14T21:39:14.032Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 10308,
+      "stars": 10310,
       "forks": 526,
       "todayStars": 0,
       "language": "JavaScript",
@@ -26,7 +26,7 @@
       "url": "https://github.com/infiniflow/ragflow",
       "avatarUrl": "https://github.com/infiniflow.png",
       "stars": 88377,
-      "forks": 10380,
+      "forks": 10381,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39012,
+      "stars": 39017,
       "forks": 5259,
       "todayStars": 0,
       "language": "JavaScript",
