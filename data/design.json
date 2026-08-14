@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-14T09:40:30.529Z",
+  "updated": "2026-08-14T10:37:33.948Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 21506,
-      "forks": 1963,
+      "stars": 21524,
+      "forks": 1964,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
       "url": "https://github.com/drawdb-io/drawdb",
       "avatarUrl": "https://github.com/drawdb-io.png",
-      "stars": 39077,
+      "stars": 39079,
       "forks": 3185,
       "todayStars": 0,
       "language": "JavaScript",
@@ -38,8 +38,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91045,
-      "forks": 7543,
+      "stars": 91054,
+      "forks": 7546,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
       "url": "https://github.com/Comfy-Org/ComfyUI",
       "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 127497,
-      "forks": 15007,
+      "stars": 127513,
+      "forks": 15009,
       "todayStars": 0,
       "language": "Python",
       "topics": []

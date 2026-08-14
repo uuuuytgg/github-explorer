@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-14T09:40:30.529Z",
+  "updated": "2026-08-14T10:37:33.948Z",
   "count": 5,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Switchyard lets LLM applications route traffic across models and providers while preserving native OpenAI and Anthropic API compatibility - enabling flexible model selection, benchmarking, and cost/performance optimization.",
       "url": "https://github.com/NVIDIA-NeMo/Switchyard",
       "avatarUrl": "https://github.com/NVIDIA-NeMo.png",
-      "stars": 1359,
+      "stars": 1368,
       "forks": 121,
       "todayStars": 0,
       "language": "Rust",
@@ -25,8 +25,8 @@
       "description": "Agent skills for Obsidian. Teach your agent to use Obsidian CLI and open formats including Markdown, Bases, JSON Canvas.",
       "url": "https://github.com/kepano/obsidian-skills",
       "avatarUrl": "https://github.com/kepano.png",
-      "stars": 46127,
-      "forks": 3307,
+      "stars": 46155,
+      "forks": 3308,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91045,
-      "forks": 7543,
+      "stars": 91054,
+      "forks": 7546,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 145385,
-      "forks": 23516,
+      "stars": 145397,
+      "forks": 23518,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "url": "https://github.com/infiniflow/ragflow",
       "avatarUrl": "https://github.com/infiniflow.png",
-      "stars": 88237,
-      "forks": 10364,
+      "stars": 88257,
+      "forks": 10365,
       "todayStars": 0,
       "language": "Go",
       "topics": []
