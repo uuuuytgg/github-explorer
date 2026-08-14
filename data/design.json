@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-14T10:37:33.948Z",
-  "count": 4,
+  "updated": "2026-08-14T11:24:25.290Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "TencentCloud/TencentDB-Agent-Memory",
@@ -12,23 +12,10 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 21524,
-      "forks": 1964,
+      "stars": 21540,
+      "forks": 1967,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "drawdb-io/drawdb",
-      "owner": "drawdb-io",
-      "name": "drawdb",
-      "description": "Free, simple, and intuitive online database diagram editor and SQL generator.",
-      "url": "https://github.com/drawdb-io/drawdb",
-      "avatarUrl": "https://github.com/drawdb-io.png",
-      "stars": 39079,
-      "forks": 3185,
-      "todayStars": 0,
-      "language": "JavaScript",
       "topics": []
     },
     {
@@ -38,21 +25,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91054,
+      "stars": 91059,
       "forks": 7546,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "Comfy-Org/ComfyUI",
-      "owner": "Comfy-Org",
-      "name": "ComfyUI",
-      "description": "The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.",
-      "url": "https://github.com/Comfy-Org/ComfyUI",
-      "avatarUrl": "https://github.com/Comfy-Org.png",
-      "stars": 127513,
-      "forks": 15009,
       "todayStars": 0,
       "language": "Python",
       "topics": []
