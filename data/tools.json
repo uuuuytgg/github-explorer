@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-14T23:13:11.739Z",
+  "updated": "2026-08-14T23:35:13.318Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 10337,
-      "forks": 526,
+      "stars": 10345,
+      "forks": 527,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "RAGFlow is a leading open-source Retrieval-Augmented Generation (RAG) engine that fuses cutting-edge RAG with Agent capabilities to create a superior context layer for LLMs",
       "url": "https://github.com/infiniflow/ragflow",
       "avatarUrl": "https://github.com/infiniflow.png",
-      "stars": 88387,
-      "forks": 10381,
+      "stars": 88393,
+      "forks": 10378,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39047,
+      "stars": 39059,
       "forks": 5262,
       "todayStars": 0,
       "language": "JavaScript",
