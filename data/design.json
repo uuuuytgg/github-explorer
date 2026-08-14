@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-14T22:37:26.096Z",
+  "updated": "2026-08-14T22:56:37.486Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 21691,
+      "stars": 21694,
       "forks": 1982,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,7 +25,7 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91116,
+      "stars": 91117,
       "forks": 7546,
       "todayStars": 0,
       "language": "Python",
