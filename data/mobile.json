@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-15T03:50:44.907Z",
+  "updated": "2026-08-15T04:17:49.800Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://github.com/cactus-compute.png",
-      "stars": 5666,
+      "stars": 5677,
       "forks": 375,
       "todayStars": 0,
       "language": "Python",
