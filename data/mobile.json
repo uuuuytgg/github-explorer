@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-16T02:09:00.918Z",
+  "updated": "2026-08-16T03:10:06.691Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://github.com/cactus-compute.png",
-      "stars": 6084,
-      "forks": 406,
+      "stars": 6099,
+      "forks": 407,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Fastest and only macOS Dictation app with on-device STT and custom trained AI enhancement model. A local Wispr Flow alternative. DM us on X for an easter egg 😉 - https://x.com/fluidvoiceapp",
       "url": "https://github.com/altic-dev/FluidVoice",
       "avatarUrl": "https://github.com/altic-dev.png",
-      "stars": 10342,
-      "forks": 699,
+      "stars": 10350,
+      "forks": 700,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
