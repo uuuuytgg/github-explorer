@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-16T07:58:24.492Z",
+  "updated": "2026-08-16T08:23:45.285Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 18956,
-      "forks": 1150,
+      "stars": 18978,
+      "forks": 1151,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39670,
+      "stars": 39675,
       "forks": 5307,
       "todayStars": 0,
       "language": "JavaScript",
@@ -38,8 +38,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 22047,
-      "forks": 2021,
+      "stars": 22052,
+      "forks": 2023,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91269,
+      "stars": 91270,
       "forks": 7549,
       "todayStars": 0,
       "language": "Python",
