@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-16T15:12:55.976Z",
+  "updated": "2026-08-16T15:34:10.759Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/cordis",
       "avatarUrl": "https://github.com/cordiverse.png",
-      "stars": 4526,
-      "forks": 231,
+      "stars": 4535,
+      "forks": 233,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 25174,
-      "forks": 2566,
+      "stars": 25184,
+      "forks": 2567,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "avatarUrl": "https://github.com/akitaonrails.png",
-      "stars": 1630,
+      "stars": 1638,
       "forks": 168,
       "todayStars": 0,
       "language": "Rust",
@@ -51,8 +51,8 @@
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
       "avatarUrl": "https://github.com/public-apis.png",
-      "stars": 461077,
-      "forks": 50941,
+      "stars": 461114,
+      "forks": 50949,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39819,
-      "forks": 5317,
+      "stars": 39824,
+      "forks": 5318,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
