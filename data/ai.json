@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-08-16T14:56:41.234Z",
+  "updated": "2026-08-16T15:12:55.976Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 72326,
-      "forks": 6515,
+      "stars": 72336,
+      "forks": 6518,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "avatarUrl": "https://github.com/akitaonrails.png",
-      "stars": 1620,
+      "stars": 1630,
       "forks": 168,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39817,
-      "forks": 5316,
+      "stars": 39819,
+      "forks": 5317,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
