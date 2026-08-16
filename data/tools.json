@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-16T00:32:23.966Z",
+  "updated": "2026-08-16T02:09:00.918Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/cordis",
       "avatarUrl": "https://github.com/cordiverse.png",
-      "stars": 4063,
-      "forks": 198,
+      "stars": 4094,
+      "forks": 202,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
       "avatarUrl": "https://github.com/public-apis.png",
-      "stars": 460166,
-      "forks": 50853,
+      "stars": 460228,
+      "forks": 50855,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39534,
-      "forks": 5295,
+      "stars": 39558,
+      "forks": 5297,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 47349,
-      "forks": 4393,
+      "stars": 47373,
+      "forks": 4392,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "The fastest browser for AI agents to run browser automation, built for sharing your logged-in browser state with your AI agents, like Codex or Claude Code, without disturbing you. Zero cost, zero config.",
       "url": "https://github.com/citrolabs/ego-lite",
       "avatarUrl": "https://github.com/citrolabs.png",
-      "stars": 10957,
-      "forks": 559,
+      "stars": 10993,
+      "forks": 561,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
