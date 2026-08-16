@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-08-16T22:54:17.541Z",
+  "updated": "2026-08-16T23:08:07.097Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 72530,
+      "stars": 72533,
       "forks": 6541,
       "todayStars": 0,
       "language": "Python",
@@ -25,8 +25,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 39995,
-      "forks": 5328,
+      "stars": 39997,
+      "forks": 5329,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
