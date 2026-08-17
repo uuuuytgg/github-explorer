@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-17T05:19:14.674Z",
+  "updated": "2026-08-17T05:55:40.045Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/cordis",
       "avatarUrl": "https://github.com/cordiverse.png",
-      "stars": 5042,
+      "stars": 5068,
       "forks": 273,
       "todayStars": 0,
       "language": "TypeScript",
@@ -25,8 +25,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 25559,
-      "forks": 2606,
+      "stars": 25577,
+      "forks": 2608,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
       "avatarUrl": "https://github.com/public-apis.png",
-      "stars": 462143,
-      "forks": 51043,
+      "stars": 462193,
+      "forks": 51046,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 40176,
-      "forks": 5337,
+      "stars": 40204,
+      "forks": 5338,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
