@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-17T11:14:06.422Z",
+  "updated": "2026-08-17T11:39:21.149Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "29 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 20137,
-      "forks": 1228,
+      "stars": 20162,
+      "forks": 1233,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 73006,
+      "stars": 73013,
       "forks": 6577,
       "todayStars": 0,
       "language": "Python",
@@ -38,8 +38,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91428,
-      "forks": 7560,
+      "stars": 91433,
+      "forks": 7561,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 25813,
-      "forks": 2618,
+      "stars": 25820,
+      "forks": 2619,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
       "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
       "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 22488,
-      "forks": 2052,
+      "stars": 22491,
+      "forks": 2051,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
