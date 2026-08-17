@@ -2,7 +2,7 @@
   "category": "trending",
   "label": "热门趋势",
   "icon": "🔥",
-  "updated": "2026-08-17T02:07:03.369Z",
+  "updated": "2026-08-17T03:09:45.012Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/cordis",
       "avatarUrl": "https://github.com/cordiverse.png",
-      "stars": 4824,
-      "forks": 262,
+      "stars": 4941,
+      "forks": 270,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 25438,
-      "forks": 2596,
+      "stars": 25488,
+      "forks": 2598,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 72640,
-      "forks": 6551,
+      "stars": 72698,
+      "forks": 6553,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The open-source CapCut alternative",
       "url": "https://github.com/OpenCut-app/OpenCut",
       "avatarUrl": "https://github.com/OpenCut-app.png",
-      "stars": 83941,
-      "forks": 8290,
+      "stars": 83998,
+      "forks": 8296,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
       "avatarUrl": "https://github.com/public-apis.png",
-      "stars": 461868,
-      "forks": 51018,
+      "stars": 461975,
+      "forks": 51027,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "ToolJet is the open-source foundation of ToolJet AI - the enterprise app generation platform for building internal tools, dashboard, business applications, workflows and AI agents 🚀",
       "url": "https://github.com/ToolJet/ToolJet",
       "avatarUrl": "https://github.com/ToolJet.png",
-      "stars": 40079,
-      "forks": 5331,
+      "stars": 40118,
+      "forks": 5334,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,7 +90,7 @@
       "description": "14MB foundation model for tiny devices; phones, wearables, smart home, and robots.",
       "url": "https://github.com/cactus-compute/needle",
       "avatarUrl": "https://github.com/cactus-compute.png",
-      "stars": 6628,
+      "stars": 6676,
       "forks": 435,
       "todayStars": 0,
       "language": "Python",
