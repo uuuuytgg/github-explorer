@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-18T02:03:46.484Z",
+  "updated": "2026-08-18T03:05:59.788Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 106198,
-      "forks": 16131,
+      "stars": 106382,
+      "forks": 16151,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "avatarUrl": "https://github.com/nautechsystems.png",
-      "stars": 25961,
-      "forks": 3374,
+      "stars": 25992,
+      "forks": 3377,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "avatarUrl": "https://github.com/akitaonrails.png",
-      "stars": 2122,
-      "forks": 197,
+      "stars": 2189,
+      "forks": 200,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 28476,
-      "forks": 3451,
+      "stars": 28520,
+      "forks": 3452,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 64730,
-      "forks": 12653,
+      "stars": 64812,
+      "forks": 12659,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 19016,
+      "stars": 19042,
       "forks": 1645,
       "todayStars": 0,
       "language": "Python",
@@ -90,8 +90,8 @@
       "description": "Meta-Framework of Spatiotemporal Composability",
       "url": "https://github.com/cordiverse/cordis",
       "avatarUrl": "https://github.com/cordiverse.png",
-      "stars": 5640,
-      "forks": 301,
+      "stars": 5693,
+      "forks": 305,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
