@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-18T10:43:29.220Z",
-  "count": 5,
+  "updated": "2026-08-18T11:01:10.438Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "cathrynlavery/diagram-design",
@@ -12,10 +12,23 @@
       "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 21223,
-      "forks": 1310,
+      "stars": 21235,
+      "forks": 1311,
       "todayStars": 0,
       "language": "HTML",
+      "topics": []
+    },
+    {
+      "fullName": "basecamp/omarchy",
+      "owner": "basecamp",
+      "name": "omarchy",
+      "description": "Beautiful, Modern &amp; Opinionated Linux",
+      "url": "https://github.com/basecamp/omarchy",
+      "avatarUrl": "https://github.com/basecamp.png",
+      "stars": 26162,
+      "forks": 2666,
+      "todayStars": 0,
+      "language": "Shell",
       "topics": []
     },
     {
@@ -25,7 +38,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 73417,
+      "stars": 73420,
       "forks": 6624,
       "todayStars": 0,
       "language": "Python",
@@ -42,32 +55,6 @@
       "forks": 7561,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "basecamp/omarchy",
-      "owner": "basecamp",
-      "name": "omarchy",
-      "description": "Beautiful, Modern &amp; Opinionated Linux",
-      "url": "https://github.com/basecamp/omarchy",
-      "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 26154,
-      "forks": 2666,
-      "todayStars": 0,
-      "language": "Shell",
-      "topics": []
-    },
-    {
-      "fullName": "TencentCloud/TencentDB-Agent-Memory",
-      "owner": "TencentCloud",
-      "name": "TencentDB-Agent-Memory",
-      "description": "TencentDB Agent Memory is a team-level memory hub for AI Agents — turning conversations, docs, and code into four reusable memory assets (Chat Memory, Skill, LLM-Wiki, Code-Graph) that are governed, shared, and equipped across agents and frameworks.",
-      "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
-      "avatarUrl": "https://github.com/TencentCloud.png",
-      "stars": 22836,
-      "forks": 2083,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
