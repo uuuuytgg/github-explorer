@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-08-18T08:59:33.500Z",
+  "updated": "2026-08-18T09:31:58.762Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 107096,
-      "forks": 16243,
+      "stars": 107184,
+      "forks": 16250,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Open-source AI penetration testing tool to find and fix your app’s vulnerabilities.",
       "url": "https://github.com/usestrix/strix",
       "avatarUrl": "https://github.com/usestrix.png",
-      "stars": 54683,
-      "forks": 5838,
+      "stars": 54714,
+      "forks": 5842,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "avatarUrl": "https://github.com/akitaonrails.png",
-      "stars": 2369,
+      "stars": 2383,
       "forks": 212,
       "todayStars": 0,
       "language": "Rust",
@@ -51,8 +51,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 28700,
-      "forks": 3462,
+      "stars": 28720,
+      "forks": 3463,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Hundreds of models &amp; providers. One command to find what runs on your hardware.",
       "url": "https://github.com/AlexsJones/llmfit",
       "avatarUrl": "https://github.com/AlexsJones.png",
-      "stars": 32540,
-      "forks": 2010,
+      "stars": 32557,
+      "forks": 2011,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 65149,
-      "forks": 12674,
+      "stars": 65179,
+      "forks": 12677,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 19145,
-      "forks": 1647,
+      "stars": 19154,
+      "forks": 1648,
       "todayStars": 0,
       "language": "Python",
       "topics": []
