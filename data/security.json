@@ -2,18 +2,18 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-19T03:55:30.102Z",
+  "updated": "2026-08-19T04:25:10.962Z",
   "count": 1,
   "repos": [
     {
       "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
       "owner": "mukul975",
       "name": "Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
+      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) �� agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 29297,
-      "forks": 3499,
+      "stars": 29317,
+      "forks": 3500,
       "todayStars": 0,
       "language": "Python",
       "topics": []

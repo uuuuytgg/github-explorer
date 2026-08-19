@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-19T03:55:30.102Z",
+  "updated": "2026-08-19T04:25:10.962Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 22046,
-      "forks": 1349,
+      "stars": 22074,
+      "forks": 1352,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 26490,
+      "stars": 26495,
       "forks": 2694,
       "todayStars": 0,
       "language": "Shell",
@@ -38,7 +38,7 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 73632,
+      "stars": 73636,
       "forks": 6652,
       "todayStars": 0,
       "language": "Python",
@@ -51,8 +51,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 91647,
-      "forks": 7565,
+      "stars": 91650,
+      "forks": 7566,
       "todayStars": 0,
       "language": "Python",
       "topics": []
