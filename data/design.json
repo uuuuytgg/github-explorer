@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-19T16:52:15.148Z",
+  "updated": "2026-08-19T17:15:17.268Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "27 editorial diagram types for Claude Code. Self-contained HTML + SVG. No shadows, no Mermaid-slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 23035,
-      "forks": 1413,
+      "stars": 23058,
+      "forks": 1414,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 26714,
+      "stars": 26717,
       "forks": 2716,
       "todayStars": 0,
       "language": "Shell",
@@ -38,8 +38,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 73781,
-      "forks": 6664,
+      "stars": 73787,
+      "forks": 6665,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 19737,
+      "stars": 19743,
       "forks": 1685,
       "todayStars": 0,
       "language": "Python",
