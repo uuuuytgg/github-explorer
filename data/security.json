@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-20T10:17:20.598Z",
-  "count": 2,
+  "updated": "2026-08-20T10:53:20.997Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "mukul975/Anthropic-Cybersecurity-Skills",
-      "owner": "mukul975",
-      "name": "Anthropic-Cybersecurity-Skills",
-      "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
-      "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
-      "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 30170,
-      "forks": 3579,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    },
     {
       "fullName": "santifer/career-ops",
       "owner": "santifer",
@@ -25,10 +12,36 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 66156,
-      "forks": 12776,
+      "stars": 66185,
+      "forks": 12777,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatarUrl": "https://github.com/JuliusBrussee.png",
+      "stars": 99331,
+      "forks": 5760,
+      "todayStars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "fullName": "Tencent/AI-Infra-Guard",
+      "owner": "Tencent",
+      "name": "AI-Infra-Guard",
+      "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
+      "url": "https://github.com/Tencent/AI-Infra-Guard",
+      "avatarUrl": "https://github.com/Tencent.png",
+      "stars": 4744,
+      "forks": 471,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
