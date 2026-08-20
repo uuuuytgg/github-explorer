@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-20T00:34:35.528Z",
+  "updated": "2026-08-20T02:04:58.441Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 110624,
-      "forks": 16784,
+      "stars": 110864,
+      "forks": 16802,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 29835,
-      "forks": 3536,
+      "stars": 29872,
+      "forks": 3541,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Production-grade Rust-native trading engine with deterministic event-driven architecture",
       "url": "https://github.com/nautechsystems/nautilus_trader",
       "avatarUrl": "https://github.com/nautechsystems.png",
-      "stars": 26441,
-      "forks": 3419,
+      "stars": 26460,
+      "forks": 3422,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 223787,
-      "forks": 19253,
+      "stars": 223904,
+      "forks": 19257,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 274262,
-      "forks": 24556,
+      "stars": 274312,
+      "forks": 24558,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 19833,
-      "forks": 1690,
+      "stars": 19854,
+      "forks": 1693,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 65781,
-      "forks": 12739,
+      "stars": 65831,
+      "forks": 12745,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
