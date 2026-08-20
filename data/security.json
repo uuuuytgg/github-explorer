@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-20T06:24:07.400Z",
+  "updated": "2026-08-20T07:13:29.821Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "817 structured cybersecurity skills for AI agents · Mapped to 6 frameworks: MITRE ATT&amp;CK, NIST CSF 2.0, MITRE ATLAS, D3FEND, NIST AI RMF &amp; MITRE F3 (Fight Fraud) · agentskills.io standard · Works with Claude Code, GitHub Copilot, Codex CLI, Cursor, Gemini CLI &amp; 20+ platforms · 29 security domains · Apache 2.0",
       "url": "https://github.com/mukul975/Anthropic-Cybersecurity-Skills",
       "avatarUrl": "https://github.com/mukul975.png",
-      "stars": 30029,
-      "forks": 3557,
+      "stars": 30056,
+      "forks": 3565,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 65990,
-      "forks": 12762,
+      "stars": 66042,
+      "forks": 12768,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
