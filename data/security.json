@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-21T16:48:25.298Z",
+  "updated": "2026-08-21T17:17:25.600Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 67274,
+      "stars": 67280,
       "forks": 12858,
       "todayStars": 0,
       "language": "JavaScript",
@@ -25,8 +25,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 100022,
-      "forks": 5793,
+      "stars": 100035,
+      "forks": 5795,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "avatarUrl": "https://github.com/Tencent.png",
-      "stars": 5267,
-      "forks": 505,
+      "stars": 5274,
+      "forks": 506,
       "todayStars": 0,
       "language": "Python",
       "topics": []
