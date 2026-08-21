@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-20T23:56:48.388Z",
+  "updated": "2026-08-21T00:49:52.698Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Visualize your year in travel using your Google Location History (Timeline) data",
       "url": "https://github.com/mahlernim/google-timeline-visualizer",
       "avatarUrl": "https://github.com/mahlernim.png",
-      "stars": 1521,
-      "forks": 173,
+      "stars": 1556,
+      "forks": 174,
       "todayStars": 0,
       "language": "Kotlin",
       "topics": []
