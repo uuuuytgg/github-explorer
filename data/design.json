@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-22T22:55:38.286Z",
+  "updated": "2026-08-22T23:10:00.809Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 28250,
+      "stars": 28255,
       "forks": 2879,
       "todayStars": 0,
       "language": "Shell",
@@ -25,8 +25,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 25449,
-      "forks": 1560,
+      "stars": 25451,
+      "forks": 1561,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
