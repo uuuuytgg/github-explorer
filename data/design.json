@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-22T17:13:56.218Z",
+  "updated": "2026-08-22T17:34:57.086Z",
   "count": 4,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 28084,
+      "stars": 28096,
       "forks": 2862,
       "todayStars": 0,
       "language": "Shell",
@@ -25,8 +25,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 25365,
-      "forks": 1557,
+      "stars": 25371,
+      "forks": 1558,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20313,
+      "stars": 20316,
       "forks": 1720,
       "todayStars": 0,
       "language": "Python",
