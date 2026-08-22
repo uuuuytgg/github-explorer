@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-22T12:14:09.855Z",
+  "updated": "2026-08-22T12:59:47.245Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 67709,
-      "forks": 12887,
+      "stars": 67725,
+      "forks": 12888,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 241975,
-      "forks": 36676,
+      "stars": 241983,
+      "forks": 36677,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "url": "https://github.com/TryGhost/Ghost",
       "avatarUrl": "https://github.com/TryGhost.png",
-      "stars": 55022,
+      "stars": 55033,
       "forks": 11909,
       "todayStars": 0,
       "language": "JavaScript",
