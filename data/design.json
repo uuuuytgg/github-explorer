@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-22T07:42:04.923Z",
+  "updated": "2026-08-22T07:59:08.742Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 25145,
-      "forks": 1538,
+      "stars": 25152,
+      "forks": 1539,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 27732,
+      "stars": 27740,
       "forks": 2835,
       "todayStars": 0,
       "language": "Shell",
@@ -38,8 +38,8 @@
       "description": "Local UI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4, FLUX and more.",
       "url": "https://github.com/unslothai/unsloth",
       "avatarUrl": "https://github.com/unslothai.png",
-      "stars": 74316,
-      "forks": 6719,
+      "stars": 74318,
+      "forks": 6720,
       "todayStars": 0,
       "language": "Python",
       "topics": []
