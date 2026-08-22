@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-22T00:42:53.076Z",
+  "updated": "2026-08-22T02:04:32.056Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 229488,
-      "forks": 19614,
+      "stars": 229603,
+      "forks": 19627,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "利用 AI 大模型和自动化工作流，根据主题或关键词一键生成高清短视频。Generate HD short videos from a topic or keyword with an automated AI workflow.",
       "url": "https://github.com/harry0703/MoneyPrinterTurbo",
       "avatarUrl": "https://github.com/harry0703.png",
-      "stars": 113905,
-      "forks": 17285,
+      "stars": 113964,
+      "forks": 17290,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "⚡️A native, local-first alternative to Logitech Options+, written in Rust 🦀 — remap buttons, DPI, and SmartShift over HID++. No account, no telemetry.",
       "url": "https://github.com/AprilNEA/OpenLogi",
       "avatarUrl": "https://github.com/AprilNEA.png",
-      "stars": 12930,
-      "forks": 351,
+      "stars": 12984,
+      "forks": 352,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 38289,
-      "forks": 3232,
+      "stars": 38302,
+      "forks": 3233,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 275656,
-      "forks": 24645,
+      "stars": 275672,
+      "forks": 24646,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Open-source AI job search: scan job portals, evaluate listings with a structured A-F rubric into a 1.0-5.0 score, tailor your CV, track applications — runs locally in your AI coding CLI (Claude Code, Codex, OpenCode, Antigravity…)",
       "url": "https://github.com/santifer/career-ops",
       "avatarUrl": "https://github.com/santifer.png",
-      "stars": 67443,
-      "forks": 12869,
+      "stars": 67472,
+      "forks": 12872,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The Modular Platform (includes MAX &amp; Mojo)",
       "url": "https://github.com/modular/modular",
       "avatarUrl": "https://github.com/modular.png",
-      "stars": 28684,
-      "forks": 3053,
+      "stars": 28696,
+      "forks": 3054,
       "todayStars": 0,
       "language": "Mojo",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Independent technology for modern publishing, memberships, subscriptions and newsletters.",
       "url": "https://github.com/TryGhost/Ghost",
       "avatarUrl": "https://github.com/TryGhost.png",
-      "stars": 54882,
-      "forks": 11903,
+      "stars": 54899,
+      "forks": 11904,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 68644,
-      "forks": 8244,
+      "stars": 68661,
+      "forks": 8247,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "ONNX Runtime: cross-platform, high performance ML inferencing and training accelerator",
       "url": "https://github.com/microsoft/onnxruntime",
       "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 21445,
-      "forks": 4148,
+      "stars": 21466,
+      "forks": 4151,
       "todayStars": 0,
       "language": "C++",
       "topics": []
