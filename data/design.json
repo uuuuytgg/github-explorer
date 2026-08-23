@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-22T23:54:10.242Z",
+  "updated": "2026-08-23T00:32:52.063Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 28269,
-      "forks": 2882,
+      "stars": 28282,
+      "forks": 2883,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 25461,
+      "stars": 25469,
       "forks": 1561,
       "todayStars": 0,
       "language": "HTML",
@@ -38,8 +38,8 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20341,
-      "forks": 1721,
+      "stars": 20344,
+      "forks": 1722,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "url": "https://github.com/eneskirca/nodeterm",
       "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1048,
+      "stars": 1050,
       "forks": 112,
       "todayStars": 0,
       "language": "TypeScript",
