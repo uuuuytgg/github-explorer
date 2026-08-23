@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-23T20:35:43.942Z",
+  "updated": "2026-08-23T20:56:04.198Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 29001,
+      "stars": 29011,
       "forks": 2953,
       "todayStars": 0,
       "language": "Shell",
@@ -26,7 +26,7 @@
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
       "stars": 20441,
-      "forks": 1729,
+      "forks": 1730,
       "todayStars": 0,
       "language": "Python",
       "topics": []
