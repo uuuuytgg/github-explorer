@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-23T13:42:36.659Z",
+  "updated": "2026-08-23T13:58:12.759Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 68937,
+      "stars": 68938,
       "forks": 8266,
       "todayStars": 0,
       "language": "TypeScript",
