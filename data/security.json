@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-23T06:40:12.968Z",
+  "updated": "2026-08-23T07:18:56.404Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 242261,
-      "forks": 36708,
+      "stars": 242268,
+      "forks": 36707,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A full-stack AI Red Teaming platform securing AI ecosystems via Agent Scan, Skills Scan, MCP scan, AI Infra scan and LLM jailbreak evaluation.",
       "url": "https://github.com/Tencent/AI-Infra-Guard",
       "avatarUrl": "https://github.com/Tencent.png",
-      "stars": 5581,
-      "forks": 525,
+      "stars": 5592,
+      "forks": 526,
       "todayStars": 0,
       "language": "Python",
       "topics": []
