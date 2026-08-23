@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-23T10:56:37.887Z",
-  "count": 4,
+  "updated": "2026-08-23T11:13:21.556Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "basecamp/omarchy",
@@ -12,23 +12,10 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 28585,
-      "forks": 2909,
+      "stars": 28593,
+      "forks": 2911,
       "todayStars": 0,
       "language": "Shell",
-      "topics": []
-    },
-    {
-      "fullName": "cathrynlavery/diagram-design",
-      "owner": "cathrynlavery",
-      "name": "diagram-design",
-      "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
-      "url": "https://github.com/cathrynlavery/diagram-design",
-      "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 25641,
-      "forks": 1575,
-      "todayStars": 0,
-      "language": "HTML",
       "topics": []
     },
     {
@@ -38,23 +25,10 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20388,
+      "stars": 20390,
       "forks": 1726,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "eneskirca/nodeterm",
-      "owner": "eneskirca",
-      "name": "nodeterm",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "url": "https://github.com/eneskirca/nodeterm",
-      "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1088,
-      "forks": 113,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
