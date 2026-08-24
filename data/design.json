@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-24T23:00:29.076Z",
+  "updated": "2026-08-24T23:32:01.722Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 30062,
-      "forks": 3054,
+      "stars": 30078,
+      "forks": 3058,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "url": "https://github.com/eneskirca/nodeterm",
       "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1179,
+      "stars": 1182,
       "forks": 122,
       "todayStars": 0,
       "language": "TypeScript",
