@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-24T13:40:02.710Z",
+  "updated": "2026-08-24T14:22:51.217Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Free and open-source macOS menu bar toolkit.",
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "avatarUrl": "https://github.com/vorssaint.png",
-      "stars": 10103,
-      "forks": 330,
+      "stars": 10189,
+      "forks": 335,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
