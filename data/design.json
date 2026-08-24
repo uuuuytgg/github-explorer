@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-24T17:42:48.876Z",
+  "updated": "2026-08-24T18:03:29.848Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 29910,
-      "forks": 3026,
+      "stars": 29921,
+      "forks": 3030,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
