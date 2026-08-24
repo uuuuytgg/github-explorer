@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-24T06:07:18.393Z",
+  "updated": "2026-08-24T07:17:01.154Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 48161,
-      "forks": 7905,
+      "stars": 48213,
+      "forks": 7909,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 242658,
-      "forks": 36727,
+      "stars": 242677,
+      "forks": 36730,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
