@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-24T22:42:40.787Z",
+  "updated": "2026-08-24T23:00:29.076Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 30056,
+      "stars": 30062,
       "forks": 3054,
       "todayStars": 0,
       "language": "Shell",
@@ -25,7 +25,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20545,
+      "stars": 20546,
       "forks": 1737,
       "todayStars": 0,
       "language": "Python",
