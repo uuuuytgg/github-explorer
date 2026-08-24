@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-24T10:36:39.375Z",
+  "updated": "2026-08-24T11:05:11.321Z",
   "count": 2,
   "repos": [
     {
@@ -12,23 +12,23 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 48364,
-      "forks": 7922,
+      "stars": 48378,
+      "forks": 7923,
       "todayStars": 0,
       "language": "Python",
       "topics": []
     },
     {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 242754,
-      "forks": 36740,
+      "fullName": "tashfeenahmed/freellmapi",
+      "owner": "tashfeenahmed",
+      "name": "freellmapi",
+      "description": "OpenAI-compatible proxy that stacks the free tiers of 28 LLM providers (~4B tokens/month) behind one /v1 endpoint — plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
+      "url": "https://github.com/tashfeenahmed/freellmapi",
+      "avatarUrl": "https://github.com/tashfeenahmed.png",
+      "stars": 19566,
+      "forks": 2854,
       "todayStars": 0,
-      "language": "JavaScript",
+      "language": "TypeScript",
       "topics": []
     }
   ],

@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-24T10:36:39.375Z",
-  "count": 2,
+  "updated": "2026-08-24T11:05:11.321Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "basecamp/omarchy",
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 29593,
-      "forks": 2996,
+      "stars": 29611,
+      "forks": 2997,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20499,
+      "stars": 20501,
       "forks": 1736,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "eneskirca/nodeterm",
+      "owner": "eneskirca",
+      "name": "nodeterm",
+      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
+      "url": "https://github.com/eneskirca/nodeterm",
+      "avatarUrl": "https://github.com/eneskirca.png",
+      "stars": 1143,
+      "forks": 117,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],
