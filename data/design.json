@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-25T11:17:44.592Z",
+  "updated": "2026-08-25T11:50:19.493Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 30678,
-      "forks": 3112,
+      "stars": 30703,
+      "forks": 3117,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20591,
+      "stars": 20594,
       "forks": 1741,
       "todayStars": 0,
       "language": "Python",
@@ -51,7 +51,7 @@
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "url": "https://github.com/eneskirca/nodeterm",
       "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1212,
+      "stars": 1214,
       "forks": 125,
       "todayStars": 0,
       "language": "TypeScript",
