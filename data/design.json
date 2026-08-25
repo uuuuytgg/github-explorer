@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-25T04:29:21.693Z",
+  "updated": "2026-08-25T05:04:37.619Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 30339,
-      "forks": 3076,
+      "stars": 30363,
+      "forks": 3077,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20565,
+      "stars": 20567,
       "forks": 1738,
       "todayStars": 0,
       "language": "Python",
@@ -38,7 +38,7 @@
       "description": "The first vision plugin for DeepSeek Harness, and the vision bridge for every text-only coding agent. Paste an image, get structured JSON evidence (OCR, layout, semantics). | 全网最强 DeepSeek Harness 外挂视觉插件，为 DeepSeek、GLM 等纯文本模型外挂视觉能力，粘贴图片即得结构化 JSON 证据（OCR、版面、语义）。",
       "url": "https://github.com/liustack/modlens",
       "avatarUrl": "https://github.com/liustack.png",
-      "stars": 3619,
+      "stars": 3622,
       "forks": 105,
       "todayStars": 0,
       "language": "TypeScript",
