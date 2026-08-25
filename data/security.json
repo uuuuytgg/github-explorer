@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-25T07:54:56.887Z",
+  "updated": "2026-08-25T08:26:53.864Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 49365,
-      "forks": 8043,
+      "stars": 49397,
+      "forks": 8046,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "avatarUrl": "https://github.com/tashfeenahmed.png",
-      "stars": 19979,
-      "forks": 2892,
+      "stars": 19995,
+      "forks": 2893,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
