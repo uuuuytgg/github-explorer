@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-25T14:10:32.154Z",
+  "updated": "2026-08-25T15:00:16.030Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 30824,
-      "forks": 3132,
+      "stars": 30879,
+      "forks": 3138,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
       "url": "https://github.com/jundot/omlx",
       "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20606,
+      "stars": 20610,
       "forks": 1743,
       "todayStars": 0,
       "language": "Python",
@@ -38,8 +38,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 39125,
-      "forks": 3284,
+      "stars": 39127,
+      "forks": 3285,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
       "url": "https://github.com/eneskirca/nodeterm",
       "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1219,
+      "stars": 1224,
       "forks": 125,
       "todayStars": 0,
       "language": "TypeScript",
