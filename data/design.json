@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-26T11:52:18.029Z",
-  "count": 4,
+  "updated": "2026-08-26T12:23:34.325Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "basecamp/omarchy",
@@ -12,23 +12,10 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 31671,
-      "forks": 3216,
+      "stars": 31686,
+      "forks": 3217,
       "todayStars": 0,
       "language": "Shell",
-      "topics": []
-    },
-    {
-      "fullName": "jundot/omlx",
-      "owner": "jundot",
-      "name": "omlx",
-      "description": "LLM inference server with continuous batching &amp; SSD caching for Apple Silicon — managed from the macOS menu bar",
-      "url": "https://github.com/jundot/omlx",
-      "avatarUrl": "https://github.com/jundot.png",
-      "stars": 20716,
-      "forks": 1742,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -39,22 +26,9 @@
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
       "stars": 39206,
-      "forks": 3287,
+      "forks": 3288,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "eneskirca/nodeterm",
-      "owner": "eneskirca",
-      "name": "nodeterm",
-      "description": "Node-based terminal manager for AI coding agents — tmux-backed terminals and parallel agent sessions as draggable nodes on an infinite pan/zoom canvas. macOS, Linux, and a browser Server Edition.",
-      "url": "https://github.com/eneskirca/nodeterm",
-      "avatarUrl": "https://github.com/eneskirca.png",
-      "stars": 1312,
-      "forks": 130,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
