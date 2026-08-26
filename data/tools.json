@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-26T20:17:36.478Z",
+  "updated": "2026-08-26T23:48:04.436Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 17592,
-      "forks": 1226,
+      "stars": 17852,
+      "forks": 1236,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 50289,
-      "forks": 8145,
+      "stars": 50362,
+      "forks": 8160,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 36327,
-      "forks": 12387,
+      "stars": 36443,
+      "forks": 12409,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 31916,
-      "forks": 3250,
+      "stars": 31980,
+      "forks": 3262,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 49535,
-      "forks": 8625,
+      "stars": 49566,
+      "forks": 8628,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "url": "https://github.com/tinyhumansai/openhuman",
       "avatarUrl": "https://github.com/tinyhumansai.png",
-      "stars": 38147,
-      "forks": 3754,
+      "stars": 38198,
+      "forks": 3760,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "url": "https://github.com/marin-community/marin",
       "avatarUrl": "https://github.com/marin-community.png",
-      "stars": 2423,
-      "forks": 211,
+      "stars": 2450,
+      "forks": 213,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A curated collection of 1000+ agent skills from official dev teams and the community, compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
       "url": "https://github.com/VoltAgent/awesome-agent-skills",
       "avatarUrl": "https://github.com/VoltAgent.png",
-      "stars": 32575,
-      "forks": 3455,
+      "stars": 32621,
+      "forks": 3457,
       "todayStars": 0,
       "language": "",
       "topics": []
