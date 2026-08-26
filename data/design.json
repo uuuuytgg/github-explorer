@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-26T16:41:17.235Z",
+  "updated": "2026-08-26T18:22:16.827Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 31825,
-      "forks": 3238,
+      "stars": 31875,
+      "forks": 3242,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,10 +25,10 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 39225,
-      "forks": 3289,
+      "stars": 39230,
+      "forks": 3291,
       "todayStars": 0,
-      "language": "Python",
+      "language": "",
       "topics": []
     }
   ],
