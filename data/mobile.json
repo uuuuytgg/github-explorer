@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-26T14:23:03.217Z",
+  "updated": "2026-08-26T15:56:31.486Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 17058,
-      "forks": 1187,
+      "stars": 17243,
+      "forks": 1201,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
