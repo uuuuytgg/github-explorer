@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-27T05:23:56.585Z",
-  "count": 2,
+  "updated": "2026-08-27T16:35:52.615Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "basecamp/omarchy",
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 32150,
-      "forks": 3282,
+      "stars": 32467,
+      "forks": 3334,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 39273,
-      "forks": 3291,
+      "stars": 39318,
+      "forks": 3294,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "tinyhumansai/openhuman",
+      "owner": "tinyhumansai",
+      "name": "openhuman",
+      "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
+      "url": "https://github.com/tinyhumansai/openhuman",
+      "avatarUrl": "https://github.com/tinyhumansai.png",
+      "stars": 38488,
+      "forks": 3784,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],

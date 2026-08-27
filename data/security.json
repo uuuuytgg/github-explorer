@@ -2,22 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-27T05:23:56.585Z",
-  "count": 1,
-  "repos": [
-    {
-      "fullName": "Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "description": "Use Claude Code, Codex, Pi, and OpenCode for free (1.3B+ free tokens) from your terminal, app, IDE, or phone like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 50517,
-      "forks": 8177,
-      "todayStars": 0,
-      "language": "Python",
-      "topics": []
-    }
-  ],
+  "updated": "2026-08-27T16:35:52.615Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }
