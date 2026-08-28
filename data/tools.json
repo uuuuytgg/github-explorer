@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-27T16:35:52.615Z",
+  "updated": "2026-08-28T01:07:01.017Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 22157,
-      "forks": 1439,
+      "stars": 23298,
+      "forks": 1497,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 52081,
-      "forks": 6534,
+      "stars": 52376,
+      "forks": 6562,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 49999,
-      "forks": 8696,
+      "stars": 50173,
+      "forks": 8721,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "url": "https://github.com/google/googletest",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 38998,
-      "forks": 10862,
+      "stars": 39046,
+      "forks": 10865,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "url": "https://github.com/marin-community/marin",
       "avatarUrl": "https://github.com/marin-community.png",
-      "stars": 2636,
-      "forks": 225,
+      "stars": 2697,
+      "forks": 229,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A curated list of awesome Claude Skills, resources, and tools for customizing Claude AI workflows",
       "url": "https://github.com/ComposioHQ/awesome-claude-skills",
       "avatarUrl": "https://github.com/ComposioHQ.png",
-      "stars": 73494,
-      "forks": 8429,
+      "stars": 73611,
+      "forks": 8438,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 101002,
-      "forks": 19451,
+      "stars": 101233,
+      "forks": 19469,
       "todayStars": 0,
       "language": "Python",
       "topics": []
