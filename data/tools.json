@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-28T12:43:36.543Z",
+  "updated": "2026-08-28T22:39:48.981Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 25545,
-      "forks": 1640,
+      "stars": 27167,
+      "forks": 1721,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "avatarUrl": "https://github.com/abhigyanpatwari.png",
-      "stars": 46027,
-      "forks": 5089,
+      "stars": 46145,
+      "forks": 5100,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 52919,
-      "forks": 6604,
+      "stars": 53252,
+      "forks": 6642,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "avatarUrl": "https://github.com/NationalSecurityAgency.png",
-      "stars": 73130,
-      "forks": 8004,
+      "stars": 73309,
+      "forks": 8012,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Open-source framework for the research and development of foundation models.",
       "url": "https://github.com/marin-community/marin",
       "avatarUrl": "https://github.com/marin-community.png",
-      "stars": 2802,
-      "forks": 234,
+      "stars": 2883,
+      "forks": 239,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "avatarUrl": "https://github.com/tashfeenahmed.png",
-      "stars": 21324,
-      "forks": 3036,
+      "stars": 21586,
+      "forks": 3057,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 50458,
-      "forks": 8761,
+      "stars": 50599,
+      "forks": 8779,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "GoogleTest - Google Testing and Mocking Framework",
       "url": "https://github.com/google/googletest",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 39113,
-      "forks": 10869,
+      "stars": 39166,
+      "forks": 10871,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "url": "https://github.com/livekit/agents",
       "avatarUrl": "https://github.com/livekit.png",
-      "stars": 13215,
-      "forks": 3625,
+      "stars": 13316,
+      "forks": 3630,
       "todayStars": 0,
       "language": "Python",
       "topics": []

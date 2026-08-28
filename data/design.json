@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-28T12:43:36.543Z",
+  "updated": "2026-08-28T22:39:48.981Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/basecamp/omarchy",
       "avatarUrl": "https://github.com/basecamp.png",
-      "stars": 32921,
-      "forks": 3403,
+      "stars": 33326,
+      "forks": 3456,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 25545,
-      "forks": 1640,
+      "stars": 27169,
+      "forks": 1721,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 37442,
-      "forks": 12681,
+      "stars": 37687,
+      "forks": 12749,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "url": "https://github.com/tinyhumansai/openhuman",
       "avatarUrl": "https://github.com/tinyhumansai.png",
-      "stars": 38652,
-      "forks": 3794,
+      "stars": 38717,
+      "forks": 3800,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "🦔 PostHog is the leading platform for building self-driving products. Our developer tools – AI observability, analytics, session replay, flags, experiments, error tracking, logs, and more – capture all the context agents need to diagnose problems, uncover opportunities, and ship fixes. Steer it all from Slack, web, desktop, or the MCP.",
       "url": "https://github.com/PostHog/posthog",
       "avatarUrl": "https://github.com/PostHog.png",
-      "stars": 39392,
-      "forks": 3303,
+      "stars": 39422,
+      "forks": 3308,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 50458,
-      "forks": 8761,
+      "stars": 50599,
+      "forks": 8779,
       "todayStars": 0,
       "language": "Python",
       "topics": []
