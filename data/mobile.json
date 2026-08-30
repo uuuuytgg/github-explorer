@@ -2,9 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-30T06:52:00.892Z",
-  "count": 1,
+  "updated": "2026-08-30T12:21:11.798Z",
+  "count": 3,
   "repos": [
+    {
+      "fullName": "Lakr233/vphone-cli",
+      "owner": "Lakr233",
+      "name": "vphone-cli",
+      "description": "",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "avatarUrl": "https://github.com/Lakr233.png",
+      "stars": 9371,
+      "forks": 1274,
+      "todayStars": 0,
+      "language": "Swift",
+      "topics": []
+    },
     {
       "fullName": "tt-a1i/archify",
       "owner": "tt-a1i",
@@ -12,10 +25,23 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 31907,
-      "forks": 1996,
+      "stars": 32946,
+      "forks": 2073,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "majd/ipatool",
+      "owner": "majd",
+      "name": "ipatool",
+      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
+      "url": "https://github.com/majd/ipatool",
+      "avatarUrl": "https://github.com/majd.png",
+      "stars": 10037,
+      "forks": 869,
+      "todayStars": 0,
+      "language": "Go",
       "topics": []
     }
   ],
