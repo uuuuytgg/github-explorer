@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-08-30T19:32:08.799Z",
+  "updated": "2026-08-30T22:03:00.148Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "avatarUrl": "https://github.com/tashfeenahmed.png",
-      "stars": 22649,
-      "forks": 3144,
+      "stars": 22716,
+      "forks": 3148,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
