@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-08-30T12:21:11.798Z",
+  "updated": "2026-08-30T16:50:19.517Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "avatarUrl": "https://github.com/THU-MAIC.png",
-      "stars": 22946,
-      "forks": 4394,
+      "stars": 23473,
+      "forks": 4447,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "",
       "url": "https://github.com/Lakr233/vphone-cli",
       "avatarUrl": "https://github.com/Lakr233.png",
-      "stars": 9371,
-      "forks": 1274,
+      "stars": 9471,
+      "forks": 1278,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 32946,
-      "forks": 2073,
+      "stars": 33715,
+      "forks": 2139,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of MCP servers.",
       "url": "https://github.com/punkpeye/awesome-mcp-servers",
       "avatarUrl": "https://github.com/punkpeye.png",
-      "stars": 93112,
-      "forks": 15270,
+      "stars": 93197,
+      "forks": 15289,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "url": "https://github.com/checkstyle/checkstyle",
       "avatarUrl": "https://github.com/checkstyle.png",
-      "stars": 9110,
-      "forks": 4190,
+      "stars": 9148,
+      "forks": 4193,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "avatarUrl": "https://github.com/NationalSecurityAgency.png",
-      "stars": 73681,
-      "forks": 8041,
+      "stars": 73763,
+      "forks": 8056,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "7.4 billion tokens per month. 34 free LLM providers. 635 free model endpoints. All behind one /v1 endpoint, plus any custom OpenAI-compatible endpoint. Smart routing, automatic failover, encrypted keys. Personal experimentation only.",
       "url": "https://github.com/tashfeenahmed/freellmapi",
       "avatarUrl": "https://github.com/tashfeenahmed.png",
-      "stars": 22410,
-      "forks": 3128,
+      "stars": 22574,
+      "forks": 3133,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "A framework for building realtime voice AI agents 🤖🎙️📹",
       "url": "https://github.com/livekit/agents",
       "avatarUrl": "https://github.com/livekit.png",
-      "stars": 13588,
-      "forks": 3646,
+      "stars": 13656,
+      "forks": 3651,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "GitNexus: The Zero-Server Code Intelligence Engine - GitNexus is a client-side knowledge graph creator that runs entirely in your browser. Drop in a git repository (Github, Gitlab, Azure, Local) or ZIP file, and get an interactive knowledge graph with a built in Graph RAG Agent. Perfect for code exploration",
       "url": "https://github.com/abhigyanpatwari/GitNexus",
       "avatarUrl": "https://github.com/abhigyanpatwari.png",
-      "stars": 46436,
-      "forks": 5120,
+      "stars": 46492,
+      "forks": 5121,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
