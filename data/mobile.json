@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-08-30T22:03:00.148Z",
+  "updated": "2026-08-31T00:32:28.922Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "",
       "url": "https://github.com/Lakr233/vphone-cli",
       "avatarUrl": "https://github.com/Lakr233.png",
-      "stars": 9563,
-      "forks": 1285,
+      "stars": 9602,
+      "forks": 1290,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 34267,
-      "forks": 2180,
+      "stars": 34526,
+      "forks": 2193,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
       "url": "https://github.com/majd/ipatool",
       "avatarUrl": "https://github.com/majd.png",
-      "stars": 10179,
-      "forks": 878,
+      "stars": 10202,
+      "forks": 880,
       "todayStars": 0,
       "language": "Go",
       "topics": []
