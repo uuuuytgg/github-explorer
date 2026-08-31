@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-08-31T00:32:28.922Z",
+  "updated": "2026-08-31T06:06:31.452Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 34526,
-      "forks": 2193,
+      "stars": 35723,
+      "forks": 2293,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/omacom/omarchy",
       "avatarUrl": "https://github.com/omacom.png",
-      "stars": 35532,
-      "forks": 3663,
+      "stars": 35670,
+      "forks": 3679,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 38521,
-      "forks": 13083,
+      "stars": 38653,
+      "forks": 13117,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 51271,
-      "forks": 8882,
+      "stars": 51373,
+      "forks": 8897,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "ConardLi's open-source Skills collection, featuring web design, knowledge retrieval, image generation, and more.",
       "url": "https://github.com/ConardLi/garden-skills",
       "avatarUrl": "https://github.com/ConardLi.png",
-      "stars": 11769,
-      "forks": 1453,
+      "stars": 11814,
+      "forks": 1456,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "url": "https://github.com/abi/screenshot-to-code",
       "avatarUrl": "https://github.com/abi.png",
-      "stars": 76387,
-      "forks": 9296,
+      "stars": 76485,
+      "forks": 9309,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Your Personal AI super intelligence. A brain that builds a local-first memory of your life, a fantastic orchestrator of agent fleets and workflows, and a deep researcher.",
       "url": "https://github.com/tinyhumansai/openhuman",
       "avatarUrl": "https://github.com/tinyhumansai.png",
-      "stars": 39014,
-      "forks": 3833,
+      "stars": 39054,
+      "forks": 3837,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
