@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-01T21:59:33.628Z",
+  "updated": "2026-09-01T23:48:53.658Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 17874,
-      "forks": 1218,
+      "stars": 17903,
+      "forks": 1220,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 245720,
-      "forks": 37083,
+      "stars": 245749,
+      "forks": 37087,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
