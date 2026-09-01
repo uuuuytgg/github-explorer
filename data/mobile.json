@@ -2,35 +2,8 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-01T06:53:53.470Z",
-  "count": 2,
-  "repos": [
-    {
-      "fullName": "tt-a1i/archify",
-      "owner": "tt-a1i",
-      "name": "archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "url": "https://github.com/tt-a1i/archify",
-      "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 39906,
-      "forks": 2535,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "majd/ipatool",
-      "owner": "majd",
-      "name": "ipatool",
-      "description": "Command-line tool that allows searching and downloading app packages (known as ipa files) for iOS, iPadOS, tvOS, and visionOS from the App Store.",
-      "url": "https://github.com/majd/ipatool",
-      "avatarUrl": "https://github.com/majd.png",
-      "stars": 10642,
-      "forks": 898,
-      "todayStars": 0,
-      "language": "Go",
-      "topics": []
-    }
-  ],
+  "updated": "2026-09-01T12:10:53.504Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }
