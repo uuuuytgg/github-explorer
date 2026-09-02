@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-02T11:30:51.714Z",
-  "count": 2,
+  "updated": "2026-09-02T15:16:31.087Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "firecrawl/pdf-inspector",
-      "owner": "firecrawl",
-      "name": "pdf-inspector",
-      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
-      "url": "https://github.com/firecrawl/pdf-inspector",
-      "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 18236,
-      "forks": 1237,
-      "todayStars": 0,
-      "language": "Rust",
-      "topics": []
-    },
     {
       "fullName": "affaan-m/ECC",
       "owner": "affaan-m",
@@ -25,10 +12,36 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 245983,
-      "forks": 37109,
+      "stars": 246083,
+      "forks": 37115,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatarUrl": "https://github.com/JuliusBrussee.png",
+      "stars": 102445,
+      "forks": 5966,
+      "todayStars": 0,
+      "language": "Go",
+      "topics": []
+    },
+    {
+      "fullName": "firecrawl/pdf-inspector",
+      "owner": "firecrawl",
+      "name": "pdf-inspector",
+      "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
+      "url": "https://github.com/firecrawl/pdf-inspector",
+      "avatarUrl": "https://github.com/firecrawl.png",
+      "stars": 18330,
+      "forks": 1241,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],
