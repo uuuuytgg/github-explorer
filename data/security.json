@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-02T15:16:31.087Z",
+  "updated": "2026-09-02T18:48:49.897Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 246083,
-      "forks": 37115,
+      "stars": 246160,
+      "forks": 37132,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 102445,
-      "forks": 5966,
+      "stars": 102533,
+      "forks": 5967,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Fast Rust library for PDF inspection, classification, and text extraction. Intelligently detects scanned vs text-based PDFs to enable smart routing decisions.",
       "url": "https://github.com/firecrawl/pdf-inspector",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 18330,
-      "forks": 1241,
+      "stars": 18400,
+      "forks": 1243,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
