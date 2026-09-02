@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-09-02T06:24:28.398Z",
+  "updated": "2026-09-02T11:30:51.714Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "runs anywhere. uses anything",
       "url": "https://github.com/Gitlawb/openclaude",
       "avatarUrl": "https://github.com/Gitlawb.png",
-      "stars": 31535,
-      "forks": 8968,
+      "stars": 31738,
+      "forks": 8984,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Academic Research Skills for Claude Code: research → write → review → revise → finalize",
       "url": "https://github.com/Imbad0202/academic-research-skills",
       "avatarUrl": "https://github.com/Imbad0202.png",
-      "stars": 45136,
-      "forks": 3558,
+      "stars": 45338,
+      "forks": 3571,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "avatarUrl": "https://github.com/THU-MAIC.png",
-      "stars": 29850,
-      "forks": 5004,
+      "stars": 30205,
+      "forks": 5047,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "🧠 Train a 64M-parameter LLM from scratch in just 2h!",
       "url": "https://github.com/jingyaogong/minimind",
       "avatarUrl": "https://github.com/jingyaogong.png",
-      "stars": 57339,
-      "forks": 7456,
+      "stars": 57590,
+      "forks": 7489,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Edit videos with coding agents",
       "url": "https://github.com/browser-use/video-use",
       "avatarUrl": "https://github.com/browser-use.png",
-      "stars": 23153,
-      "forks": 2823,
+      "stars": 23351,
+      "forks": 2835,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 190,000+ scientists worldwide. 165 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "avatarUrl": "https://github.com/K-Dense-AI.png",
-      "stars": 41745,
-      "forks": 3838,
+      "stars": 41967,
+      "forks": 3862,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A collection of DESIGN.md files analysis by popular brand design systems. Drop one into your project and let coding agents generate a matching UI.",
       "url": "https://github.com/VoltAgent/awesome-design-md",
       "avatarUrl": "https://github.com/VoltAgent.png",
-      "stars": 113114,
-      "forks": 12803,
+      "stars": 113417,
+      "forks": 12821,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 245861,
-      "forks": 37103,
+      "stars": 245983,
+      "forks": 37109,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "🚀🤖 Crawl4AI: Open-source LLM Friendly Web Crawler &amp; Scraper. Don't be shy, join here: https://discord.gg/jP8KfhDhyN",
       "url": "https://github.com/unclecode/crawl4ai",
       "avatarUrl": "https://github.com/unclecode.png",
-      "stars": 80960,
-      "forks": 8364,
+      "stars": 81065,
+      "forks": 8370,
       "todayStars": 0,
       "language": "Python",
       "topics": []
