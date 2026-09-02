@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-01T23:48:53.658Z",
+  "updated": "2026-09-02T01:40:31.429Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "avatarUrl": "https://github.com/THU-MAIC.png",
-      "stars": 29443,
-      "forks": 4964,
+      "stars": 29536,
+      "forks": 4978,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Animation engine for explanatory math videos",
       "url": "https://github.com/3b1b/manim",
       "avatarUrl": "https://github.com/3b1b.png",
-      "stars": 92540,
-      "forks": 7615,
+      "stars": 92574,
+      "forks": 7618,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "url": "https://github.com/averygan/reclip",
       "avatarUrl": "https://github.com/averygan.png",
-      "stars": 7630,
-      "forks": 1314,
+      "stars": 7684,
+      "forks": 1317,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
