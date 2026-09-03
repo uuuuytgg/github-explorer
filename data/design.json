@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-03T20:58:01.303Z",
+  "updated": "2026-09-03T22:56:38.320Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 45611,
-      "forks": 2922,
+      "stars": 45698,
+      "forks": 2930,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Help AI coding agents write modern Go",
       "url": "https://github.com/JetBrains/go-modern-guidelines",
       "avatarUrl": "https://github.com/JetBrains.png",
-      "stars": 3100,
+      "stars": 3104,
       "forks": 86,
       "todayStars": 0,
       "language": "Go",
@@ -38,8 +38,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/omacom/omarchy",
       "avatarUrl": "https://github.com/omacom.png",
-      "stars": 37681,
-      "forks": 3964,
+      "stars": 37700,
+      "forks": 3974,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "url": "https://github.com/abi/screenshot-to-code",
       "avatarUrl": "https://github.com/abi.png",
-      "stars": 77399,
-      "forks": 9430,
+      "stars": 77414,
+      "forks": 9431,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 16105,
-      "forks": 2193,
+      "stars": 16187,
+      "forks": 2199,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 52263,
-      "forks": 9051,
+      "stars": 52268,
+      "forks": 9050,
       "todayStars": 0,
       "language": "Python",
       "topics": []
