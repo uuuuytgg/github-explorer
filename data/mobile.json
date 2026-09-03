@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-03T10:13:54.968Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-09-03T14:33:44.935Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "bannedbook/fanqiang",
+      "owner": "bannedbook",
+      "name": "fanqiang",
+      "description": "翻墙-科学上网",
+      "url": "https://github.com/bannedbook/fanqiang",
+      "avatarUrl": "https://github.com/bannedbook.png",
+      "stars": 51966,
+      "forks": 8445,
+      "todayStars": 0,
+      "language": "Kotlin",
+      "topics": []
+    }
+  ],
   "error": null
 }
