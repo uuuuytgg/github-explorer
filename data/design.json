@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-03T01:14:31.851Z",
+  "updated": "2026-09-03T05:47:53.860Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 43889,
-      "forks": 2812,
+      "stars": 44312,
+      "forks": 2840,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Beautiful, Modern &amp; Opinionated Linux",
       "url": "https://github.com/omacom/omarchy",
       "avatarUrl": "https://github.com/omacom.png",
-      "stars": 37343,
-      "forks": 3915,
+      "stars": 37419,
+      "forks": 3923,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 52084,
-      "forks": 9018,
+      "stars": 52122,
+      "forks": 9028,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "url": "https://github.com/abi/screenshot-to-code",
       "avatarUrl": "https://github.com/abi.png",
-      "stars": 77193,
-      "forks": 9408,
+      "stars": 77233,
+      "forks": 9409,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 40296,
-      "forks": 13682,
+      "stars": 40373,
+      "forks": 13708,
       "todayStars": 0,
       "language": "Python",
       "topics": []
