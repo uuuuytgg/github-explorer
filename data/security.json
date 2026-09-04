@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-03T22:56:38.320Z",
+  "updated": "2026-09-04T00:33:15.937Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 247116,
-      "forks": 37237,
+      "stars": 247179,
+      "forks": 37250,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 65% of tokens by talking like caveman",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 103067,
+      "stars": 103093,
       "forks": 5994,
       "todayStars": 0,
       "language": "Go",
@@ -38,8 +38,8 @@
       "description": "f.k.a. Awesome ChatGPT Prompts. Share, discover, and collect prompts from the community. Free and open source — self-host for your organization with complete privacy.",
       "url": "https://github.com/f/prompts.chat",
       "avatarUrl": "https://github.com/f.png",
-      "stars": 168953,
-      "forks": 21760,
+      "stars": 168981,
+      "forks": 21761,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
