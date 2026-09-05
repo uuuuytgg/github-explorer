@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-05T13:01:03.991Z",
+  "updated": "2026-09-05T16:00:59.094Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 249140,
-      "forks": 37545,
+      "stars": 249371,
+      "forks": 37568,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
       "url": "https://github.com/bikini/exploitarium",
       "avatarUrl": "https://github.com/bikini.png",
-      "stars": 4611,
-      "forks": 1250,
+      "stars": 4639,
+      "forks": 1251,
       "todayStars": 0,
       "language": "Python",
       "topics": []
