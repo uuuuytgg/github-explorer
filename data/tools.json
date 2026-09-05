@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-05T01:14:48.301Z",
+  "updated": "2026-09-05T05:45:38.672Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 250424,
-      "forks": 21161,
+      "stars": 250762,
+      "forks": 21190,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "url": "https://github.com/magnitudedev/magnitude",
       "avatarUrl": "https://github.com/magnitudedev.png",
-      "stars": 2486,
-      "forks": 179,
+      "stars": 2632,
+      "forks": 189,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Miles is an enterprise-facing reinforcement learning framework for LLM and VLM post-training, forked from and co-evolving with slime.",
       "url": "https://github.com/radixark/miles",
       "avatarUrl": "https://github.com/radixark.png",
-      "stars": 2553,
-      "forks": 445,
+      "stars": 2588,
+      "forks": 446,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Renovation Engine for DirectX Games",
       "url": "https://github.com/clshortfuse/renodx",
       "avatarUrl": "https://github.com/clshortfuse.png",
-      "stars": 3528,
-      "forks": 138,
+      "stars": 3563,
+      "forks": 140,
       "todayStars": 0,
       "language": "HLSL",
       "topics": []
