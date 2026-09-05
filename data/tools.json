@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-05T18:13:22.439Z",
+  "updated": "2026-09-05T20:18:55.903Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 252102,
-      "forks": 21288,
+      "stars": 252302,
+      "forks": 21304,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 70627,
-      "forks": 8409,
+      "stars": 70655,
+      "forks": 8410,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "url": "https://github.com/magnitudedev/magnitude",
       "avatarUrl": "https://github.com/magnitudedev.png",
-      "stars": 3057,
-      "forks": 221,
+      "stars": 3119,
+      "forks": 224,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "url": "https://github.com/nvm-sh/nvm",
       "avatarUrl": "https://github.com/nvm-sh.png",
-      "stars": 94877,
-      "forks": 10421,
+      "stars": 94895,
+      "forks": 10422,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
