@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-06T20:54:31.148Z",
+  "updated": "2026-09-06T22:30:06.184Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 251099,
-      "forks": 37753,
+      "stars": 251209,
+      "forks": 37766,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "url": "https://github.com/OpenWhispr/openwhispr",
       "avatarUrl": "https://github.com/OpenWhispr.png",
-      "stars": 7266,
-      "forks": 928,
+      "stars": 7300,
+      "forks": 929,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "avatarUrl": "https://github.com/The-Swarm-Corporation.png",
-      "stars": 4644,
-      "forks": 772,
+      "stars": 4676,
+      "forks": 773,
       "todayStars": 0,
       "language": "Python",
       "topics": []
