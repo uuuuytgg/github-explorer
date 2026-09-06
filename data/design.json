@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-06T06:28:52.044Z",
+  "updated": "2026-09-06T11:12:52.238Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 49754,
-      "forks": 3227,
+      "stars": 50092,
+      "forks": 3252,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 19151,
-      "forks": 2451,
+      "stars": 19343,
+      "forks": 2468,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -39,7 +39,7 @@
       "url": "https://github.com/checkstyle/checkstyle",
       "avatarUrl": "https://github.com/checkstyle.png",
       "stars": 9548,
-      "forks": 4219,
+      "forks": 4220,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "url": "https://github.com/abi/screenshot-to-code",
       "avatarUrl": "https://github.com/abi.png",
-      "stars": 77941,
-      "forks": 9480,
+      "stars": 77982,
+      "forks": 9485,
       "todayStars": 0,
       "language": "Python",
       "topics": []
