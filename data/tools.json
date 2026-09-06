@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-05T23:51:17.816Z",
+  "updated": "2026-09-06T01:34:45.333Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 252577,
-      "forks": 21317,
+      "stars": 252680,
+      "forks": 21324,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 70687,
-      "forks": 8414,
+      "stars": 70702,
+      "forks": 8417,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "url": "https://github.com/magnitudedev/magnitude",
       "avatarUrl": "https://github.com/magnitudedev.png",
-      "stars": 3185,
-      "forks": 228,
+      "stars": 3223,
+      "forks": 231,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions. $nvm: 3ArcxqLtXMmBnWbbtfwQgVL3MNnDsggzgGDtXMnjpump",
       "url": "https://github.com/nvm-sh/nvm",
       "avatarUrl": "https://github.com/nvm-sh.png",
-      "stars": 94910,
+      "stars": 94922,
       "forks": 10424,
       "todayStars": 0,
       "language": "Shell",

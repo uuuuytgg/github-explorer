@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-05T23:51:17.816Z",
+  "updated": "2026-09-06T01:34:45.333Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 49393,
-      "forks": 3204,
+      "stars": 49457,
+      "forks": 3209,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 18949,
-      "forks": 2433,
+      "stars": 19000,
+      "forks": 2435,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard. By default it supports the Google Java Style Guide and Sun Code Conventions, but is highly configurable. It can be invoked with an ANT task and a command line program.",
       "url": "https://github.com/checkstyle/checkstyle",
       "avatarUrl": "https://github.com/checkstyle.png",
-      "stars": 9542,
+      "stars": 9543,
       "forks": 4218,
       "todayStars": 0,
       "language": "Java",
@@ -51,8 +51,8 @@
       "description": "Drop in a screenshot and convert it to clean code (HTML/Tailwind/React/Vue)",
       "url": "https://github.com/abi/screenshot-to-code",
       "avatarUrl": "https://github.com/abi.png",
-      "stars": 77896,
-      "forks": 9473,
+      "stars": 77909,
+      "forks": 9476,
       "todayStars": 0,
       "language": "Python",
       "topics": []
