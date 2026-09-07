@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-07T04:34:25.603Z",
+  "updated": "2026-09-07T09:41:34.390Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 254960,
-      "forks": 21492,
+      "stars": 255521,
+      "forks": 21527,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The LLVM Project is a collection of modular and reusable compiler and toolchain technologies.",
       "url": "https://github.com/llvm/llvm-project",
       "avatarUrl": "https://github.com/llvm.png",
-      "stars": 40252,
-      "forks": 18562,
+      "stars": 40289,
+      "forks": 18566,
       "todayStars": 0,
       "language": "LLVM",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 71073,
-      "forks": 8445,
+      "stars": 71164,
+      "forks": 8449,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Open source inference server that runs the best local models for your hardware, plugged into the agent you already use. Works with Pi, OpenCode, Hermes, OpenClaw, Codex, Claude Code, Oh My Pi, and Cline.",
       "url": "https://github.com/magnitudedev/magnitude",
       "avatarUrl": "https://github.com/magnitudedev.png",
-      "stars": 3763,
-      "forks": 270,
+      "stars": 3885,
+      "forks": 280,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 47618,
-      "forks": 7396,
+      "stars": 47760,
+      "forks": 7408,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Voice-to-text dictation app with local (Nvidia Parakeet/Whisper) and cloud models (BYOK). Privacy-first and available cross-platform.",
       "url": "https://github.com/OpenWhispr/openwhispr",
       "avatarUrl": "https://github.com/OpenWhispr.png",
-      "stars": 7497,
-      "forks": 936,
+      "stars": 7681,
+      "forks": 941,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
