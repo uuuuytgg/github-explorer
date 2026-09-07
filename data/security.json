@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-07T21:59:13.046Z",
+  "updated": "2026-09-07T23:59:31.941Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 20774,
-      "forks": 1517,
+      "stars": 20811,
+      "forks": 1519,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "url": "https://github.com/jo-inc/camofox-browser",
       "avatarUrl": "https://github.com/jo-inc.png",
-      "stars": 9611,
-      "forks": 1012,
+      "stars": 9671,
+      "forks": 1016,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 252733,
-      "forks": 37918,
+      "stars": 252816,
+      "forks": 37924,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "avatarUrl": "https://github.com/The-Swarm-Corporation.png",
-      "stars": 5207,
-      "forks": 798,
+      "stars": 5247,
+      "forks": 800,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "url": "https://github.com/bytedance/deer-flow",
       "avatarUrl": "https://github.com/bytedance.png",
-      "stars": 81805,
-      "forks": 11288,
+      "stars": 81844,
+      "forks": 11291,
       "todayStars": 0,
       "language": "Python",
       "topics": []
