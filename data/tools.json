@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-08T03:16:37.835Z",
+  "updated": "2026-09-08T08:12:32.245Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 20933,
-      "forks": 1523,
+      "stars": 21097,
+      "forks": 1529,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "url": "https://github.com/jo-inc/camofox-browser",
       "avatarUrl": "https://github.com/jo-inc.png",
-      "stars": 9831,
-      "forks": 1026,
+      "stars": 10036,
+      "forks": 1036,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 48221,
-      "forks": 7446,
+      "stars": 48379,
+      "forks": 7460,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "url": "https://github.com/lightpanda-io/browser",
       "avatarUrl": "https://github.com/lightpanda-io.png",
-      "stars": 34922,
-      "forks": 1651,
+      "stars": 35057,
+      "forks": 1657,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
@@ -64,7 +64,7 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 71441,
+      "stars": 71529,
       "forks": 8462,
       "todayStars": 0,
       "language": "TypeScript",
