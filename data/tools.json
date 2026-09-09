@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-09T00:09:49.747Z",
+  "updated": "2026-09-09T04:35:16.168Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 48795,
-      "forks": 7494,
+      "stars": 48937,
+      "forks": 7500,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 283346,
-      "forks": 25366,
+      "stars": 283463,
+      "forks": 25376,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "url": "https://github.com/jo-inc/camofox-browser",
       "avatarUrl": "https://github.com/jo-inc.png",
-      "stars": 10476,
-      "forks": 1051,
+      "stars": 10624,
+      "forks": 1060,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 21376,
-      "forks": 1544,
+      "stars": 21472,
+      "forks": 1545,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
