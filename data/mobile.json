@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-08T22:00:43.940Z",
+  "updated": "2026-09-09T00:09:49.747Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "📱 Display and control your Android device graphically with scrcpy.",
       "url": "https://github.com/viarotel-org/escrcpy",
       "avatarUrl": "https://github.com/viarotel-org.png",
-      "stars": 11347,
+      "stars": 11382,
       "forks": 795,
       "todayStars": 0,
       "language": "JavaScript",
