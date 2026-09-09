@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-09T09:09:45.900Z",
-  "count": 4,
+  "updated": "2026-09-09T13:40:30.272Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "affaan-m/ECC",
@@ -12,49 +12,10 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 254659,
-      "forks": 38150,
+      "stars": 254799,
+      "forks": 38168,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "jo-inc/camofox-browser",
-      "owner": "jo-inc",
-      "name": "camofox-browser",
-      "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
-      "url": "https://github.com/jo-inc/camofox-browser",
-      "avatarUrl": "https://github.com/jo-inc.png",
-      "stars": 10755,
-      "forks": 1063,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "mksglu/context-mode",
-      "owner": "mksglu",
-      "name": "context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
-      "url": "https://github.com/mksglu/context-mode",
-      "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 21558,
-      "forks": 1551,
-      "todayStars": 0,
-      "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "The-Swarm-Corporation/AutoHedge",
-      "owner": "The-Swarm-Corporation",
-      "name": "AutoHedge",
-      "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
-      "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
-      "avatarUrl": "https://github.com/The-Swarm-Corporation.png",
-      "stars": 5876,
-      "forks": 851,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],
