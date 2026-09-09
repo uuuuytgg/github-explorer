@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-09T04:35:16.168Z",
+  "updated": "2026-09-09T09:09:45.900Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 254453,
-      "forks": 38125,
+      "stars": 254659,
+      "forks": 38150,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Stealth headless browser for AI agents — bypass Cloudflare, bot detection, and anti-scraping. Drop-in Puppeteer/Playwright replacement.",
       "url": "https://github.com/jo-inc/camofox-browser",
       "avatarUrl": "https://github.com/jo-inc.png",
-      "stars": 10624,
-      "forks": 1060,
+      "stars": 10755,
+      "forks": 1063,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 21472,
-      "forks": 1545,
+      "stars": 21558,
+      "forks": 1551,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Build your autonomous hedge fund in minutes. AutoHedge harnesses the power of swarm intelligence and AI agents to automate market analysis, risk management, and trade execution.",
       "url": "https://github.com/The-Swarm-Corporation/AutoHedge",
       "avatarUrl": "https://github.com/The-Swarm-Corporation.png",
-      "stars": 5779,
-      "forks": 844,
+      "stars": 5876,
+      "forks": 851,
       "todayStars": 0,
       "language": "Python",
       "topics": []
