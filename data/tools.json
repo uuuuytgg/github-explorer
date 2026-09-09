@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-09T17:16:01.782Z",
+  "updated": "2026-09-09T19:52:58.741Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Make Every Team AI Native",
       "url": "https://github.com/Tencent/teamai-cli",
       "avatarUrl": "https://github.com/Tencent.png",
-      "stars": 2829,
-      "forks": 178,
+      "stars": 2882,
+      "forks": 181,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 283883,
-      "forks": 25408,
+      "stars": 283934,
+      "forks": 25410,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 103752,
-      "forks": 19956,
+      "stars": 103825,
+      "forks": 19960,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 53526,
-      "forks": 9360,
+      "stars": 53586,
+      "forks": 9367,
       "todayStars": 0,
       "language": "Python",
       "topics": []
