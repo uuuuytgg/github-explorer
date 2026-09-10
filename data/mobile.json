@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-10T21:52:14.469Z",
+  "updated": "2026-09-10T23:29:29.402Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 64161,
-      "forks": 8985,
+      "stars": 64210,
+      "forks": 8993,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "url": "https://github.com/nashsu/llm_wiki",
       "avatarUrl": "https://github.com/nashsu.png",
-      "stars": 18047,
+      "stars": 18074,
       "forks": 2098,
       "todayStars": 0,
       "language": "TypeScript",
