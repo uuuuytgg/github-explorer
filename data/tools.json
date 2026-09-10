@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-09T22:02:43.973Z",
+  "updated": "2026-09-10T00:10:40.167Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Make Every Team AI Native",
       "url": "https://github.com/Tencent/teamai-cli",
       "avatarUrl": "https://github.com/Tencent.png",
-      "stars": 2913,
-      "forks": 181,
+      "stars": 2960,
+      "forks": 183,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 283983,
-      "forks": 25412,
+      "stars": 284013,
+      "forks": 25413,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "url": "https://github.com/pascalorg/editor",
       "avatarUrl": "https://github.com/pascalorg.png",
-      "stars": 22858,
-      "forks": 2892,
+      "stars": 22902,
+      "forks": 2894,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 103881,
-      "forks": 19967,
+      "stars": 103932,
+      "forks": 19970,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 53635,
-      "forks": 9367,
+      "stars": 53676,
+      "forks": 9369,
       "todayStars": 0,
       "language": "Python",
       "topics": []
