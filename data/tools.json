@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-11T11:14:31.366Z",
+  "updated": "2026-09-11T15:01:12.907Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "url": "https://github.com/nashsu/llm_wiki",
       "avatarUrl": "https://github.com/nashsu.png",
-      "stars": 18425,
-      "forks": 2114,
+      "stars": 18532,
+      "forks": 2119,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 285042,
-      "forks": 25492,
+      "stars": 285161,
+      "forks": 25501,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source 3D architectural editor with a local CLI, MCP tools, and practical workflows for humans and AI agents.",
       "url": "https://github.com/pascalorg/editor",
       "avatarUrl": "https://github.com/pascalorg.png",
-      "stars": 23293,
-      "forks": 2918,
+      "stars": 23382,
+      "forks": 2926,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

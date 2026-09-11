@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-11T11:14:31.366Z",
+  "updated": "2026-09-11T15:01:12.907Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "url": "https://github.com/nashsu/llm_wiki",
       "avatarUrl": "https://github.com/nashsu.png",
-      "stars": 18425,
-      "forks": 2114,
+      "stars": 18532,
+      "forks": 2119,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
