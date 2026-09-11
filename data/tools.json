@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-11T01:20:02.521Z",
+  "updated": "2026-09-11T06:10:39.179Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 284710,
-      "forks": 25467,
+      "stars": 284849,
+      "forks": 25483,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Make Every Team AI Native",
       "url": "https://github.com/Tencent/teamai-cli",
       "avatarUrl": "https://github.com/Tencent.png",
-      "stars": 3802,
-      "forks": 247,
+      "stars": 3955,
+      "forks": 253,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Never stop coding. Free MIT AI gateway: one endpoint, 352 providers (150+ free), 1200+ models Kimi, Claude, GPT, Gemini, GLM, DeepSeek, MiniMax. Works with Claude Code, Codex, Cursor, OpenCode, Cline &amp; Copilot. Quota-aware auto-fallback, RTK+Caveman compression saves 15-95% tokens, MCP/A2A, Desktop/PWA. Built by 550+ contributors",
       "url": "https://github.com/diegosouzapw/OmniRoute",
       "avatarUrl": "https://github.com/diegosouzapw.png",
-      "stars": 64254,
-      "forks": 8998,
+      "stars": 64427,
+      "forks": 9015,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "url": "https://github.com/JustVugg/colibri",
       "avatarUrl": "https://github.com/JustVugg.png",
-      "stars": 27470,
-      "forks": 3011,
+      "stars": 27553,
+      "forks": 3016,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "avatarUrl": "https://github.com/THU-MAIC.png",
-      "stars": 35331,
-      "forks": 5638,
+      "stars": 35525,
+      "forks": 5657,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "LLM Wiki is a cross-platform desktop application that turns your documents into an organized, interlinked knowledge base — automatically. Instead of traditional RAG (retrieve-and-answer from scratch every time), the LLM incrementally builds and maintains a persistent wiki from your sources。",
       "url": "https://github.com/nashsu/llm_wiki",
       "avatarUrl": "https://github.com/nashsu.png",
-      "stars": 18123,
-      "forks": 2099,
+      "stars": 18270,
+      "forks": 2107,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
