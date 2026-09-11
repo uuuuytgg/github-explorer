@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-11T15:01:12.907Z",
+  "updated": "2026-09-11T18:27:01.943Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "url": "https://github.com/alsk1992/CloddsBot",
       "avatarUrl": "https://github.com/alsk1992.png",
-      "stars": 1998,
-      "forks": 274,
+      "stars": 2061,
+      "forks": 277,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-11T15:01:12.907Z",
+  "updated": "2026-09-11T18:27:01.943Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 58198,
-      "forks": 3794,
+      "stars": 58355,
+      "forks": 3809,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 48950,
+      "stars": 48979,
       "forks": 4482,
       "todayStars": 0,
       "language": "TypeScript",
@@ -38,8 +38,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 38316,
-      "forks": 2425,
+      "stars": 38387,
+      "forks": 2433,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 72082,
-      "forks": 8526,
+      "stars": 72106,
+      "forks": 8528,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A collection of agent skills that help you build a great interface.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 6171,
-      "forks": 214,
+      "stars": 6207,
+      "forks": 217,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
