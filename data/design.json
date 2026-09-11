@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-11T06:10:39.179Z",
-  "count": 4,
+  "updated": "2026-09-11T11:14:31.366Z",
+  "count": 5,
   "repos": [
     {
       "fullName": "tt-a1i/archify",
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 57710,
-      "forks": 3770,
+      "stars": 58026,
+      "forks": 3788,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 48842,
-      "forks": 4467,
+      "stars": 48908,
+      "forks": 4476,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 38001,
-      "forks": 2406,
+      "stars": 38232,
+      "forks": 2422,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,10 +51,23 @@
       "description": "🌊 The original agent meta-harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 72023,
-      "forks": 8520,
+      "stars": 72057,
+      "forks": 8521,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "jakubkrehel/skills",
+      "owner": "jakubkrehel",
+      "name": "skills",
+      "description": "A collection of agent skills that help you build a great interface.",
+      "url": "https://github.com/jakubkrehel/skills",
+      "avatarUrl": "https://github.com/jakubkrehel.png",
+      "stars": 6117,
+      "forks": 213,
+      "todayStars": 0,
+      "language": "Markdown",
       "topics": []
     }
   ],
