@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-12T09:35:01.919Z",
-  "count": 1,
+  "updated": "2026-09-12T13:07:01.953Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "alsk1992/CloddsBot",
@@ -12,10 +12,23 @@
       "description": "Open Source AI trading agent that operates autonomously across 1000+ markets - Polymarket, Kalshi, Binance, Hyperliquid, Solana DEXs, 5 EVM chains. Scans for edge, executes instantly, manages risk while you sleep. Agent commerce protocol for machine-to-machine payments. Self-hosted. Built on Claude.",
       "url": "https://github.com/alsk1992/CloddsBot",
       "avatarUrl": "https://github.com/alsk1992.png",
-      "stars": 2280,
-      "forks": 294,
+      "stars": 2321,
+      "forks": 298,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "avatarUrl": "https://github.com/SnailSploit.png",
+      "stars": 3368,
+      "forks": 538,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
