@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-13T14:20:53.097Z",
+  "updated": "2026-09-13T17:28:10.163Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Browse media content with your own rules on Android TV",
       "url": "https://github.com/yuliskov/SmartTube",
       "avatarUrl": "https://github.com/yuliskov.png",
-      "stars": 33330,
-      "forks": 2022,
+      "stars": 33374,
+      "forks": 2025,
       "todayStars": 0,
       "language": "Java",
       "topics": []
