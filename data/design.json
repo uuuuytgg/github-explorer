@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-14T01:21:06.591Z",
+  "updated": "2026-09-14T06:31:10.964Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 60792,
-      "forks": 3995,
+      "stars": 61231,
+      "forks": 4034,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 49607,
-      "forks": 4532,
+      "stars": 49732,
+      "forks": 4541,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 39226,
-      "forks": 2491,
+      "stars": 39396,
+      "forks": 2500,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7523,
-      "forks": 269,
+      "stars": 7560,
+      "forks": 271,
       "todayStars": 0,
       "language": "Rust",
       "topics": []

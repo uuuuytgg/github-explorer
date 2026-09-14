@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-14T01:21:06.591Z",
+  "updated": "2026-09-14T06:31:10.964Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "avatarUrl": "https://github.com/SnailSploit.png",
-      "stars": 4157,
-      "forks": 592,
+      "stars": 4290,
+      "forks": 602,
       "todayStars": 0,
       "language": "Python",
       "topics": []
