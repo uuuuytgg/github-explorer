@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-14T13:19:10.280Z",
+  "updated": "2026-09-14T18:44:56.569Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
       "url": "https://github.com/ruvnet/RuView",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 93657,
-      "forks": 12415,
+      "stars": 93748,
+      "forks": 12425,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
       "url": "https://github.com/OpenBMB/VoxCPM",
       "avatarUrl": "https://github.com/OpenBMB.png",
-      "stars": 37227,
-      "forks": 4230,
+      "stars": 37298,
+      "forks": 4238,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A modern platform for visual, flexible, and extensible graph-based investigations. For cybersecurity analysts and investigators.",
       "url": "https://github.com/reconurge/flowsint",
       "avatarUrl": "https://github.com/reconurge.png",
-      "stars": 8169,
-      "forks": 1016,
+      "stars": 8262,
+      "forks": 1024,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "avatarUrl": "https://github.com/SnailSploit.png",
-      "stars": 4478,
-      "forks": 612,
+      "stars": 4615,
+      "forks": 623,
       "todayStars": 0,
       "language": "Python",
       "topics": []
