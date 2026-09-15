@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-15T21:45:06.574Z",
+  "updated": "2026-09-15T23:43:18.689Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "📺 Homebrew's official macOS GUI",
       "url": "https://github.com/Homebrew/BrewUI",
       "avatarUrl": "https://github.com/Homebrew.png",
-      "stars": 1289,
-      "forks": 28,
+      "stars": 1325,
+      "forks": 29,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "ASC is a super FAST Android decompiler front-end designed for Agents/Mobile Researchers.",
       "url": "https://github.com/MG1937/ASC",
       "avatarUrl": "https://github.com/MG1937.png",
-      "stars": 1110,
-      "forks": 191,
+      "stars": 1148,
+      "forks": 195,
       "todayStars": 0,
       "language": "Python",
       "topics": []
