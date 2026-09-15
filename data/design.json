@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-15T00:34:29.123Z",
+  "updated": "2026-09-15T05:18:31.077Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 50028,
-      "forks": 4569,
+      "stars": 50113,
+      "forks": 4571,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
       "url": "https://github.com/tt-a1i/archify",
       "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 62227,
-      "forks": 4110,
+      "stars": 62561,
+      "forks": 4138,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7659,
+      "stars": 7710,
       "forks": 273,
       "todayStars": 0,
       "language": "Rust",
@@ -51,8 +51,8 @@
       "description": "38 editorial diagram types for Claude Code, Codex, and Pi. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 39790,
-      "forks": 2526,
+      "stars": 39917,
+      "forks": 2531,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 25680,
-      "forks": 1862,
+      "stars": 26261,
+      "forks": 1894,
       "todayStars": 0,
       "language": "Go",
       "topics": []
