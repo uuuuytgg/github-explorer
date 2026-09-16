@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-16T06:43:15.994Z",
-  "count": 4,
+  "updated": "2026-09-16T12:03:44.280Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "alibaba/open-code-review",
@@ -12,8 +12,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 29420,
-      "forks": 2093,
+      "stars": 30308,
+      "forks": 2157,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7866,
+      "stars": 7885,
       "forks": 272,
       "todayStars": 0,
       "language": "Rust",
@@ -38,23 +38,10 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 50486,
-      "forks": 4606,
+      "stars": 50563,
+      "forks": 4610,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "tt-a1i/archify",
-      "owner": "tt-a1i",
-      "name": "archify",
-      "description": "Agent skill for beautiful, verifiable architecture, workflow, sequence, data-flow, and lifecycle diagrams—self-contained HTML with motion and crisp export.",
-      "url": "https://github.com/tt-a1i/archify",
-      "avatarUrl": "https://github.com/tt-a1i.png",
-      "stars": 63969,
-      "forks": 4243,
-      "todayStars": 0,
-      "language": "JavaScript",
       "topics": []
     }
   ],
