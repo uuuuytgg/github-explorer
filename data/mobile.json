@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-17T05:24:52.593Z",
+  "updated": "2026-09-17T10:09:15.865Z",
   "count": 3,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "url": "https://github.com/abue-ammar/tinycast",
       "avatarUrl": "https://github.com/abue-ammar.png",
-      "stars": 5733,
+      "stars": 5868,
       "forks": 274,
       "todayStars": 0,
       "language": "Swift",
@@ -25,8 +25,8 @@
       "description": "",
       "url": "https://github.com/Lakr233/vphone-cli",
       "avatarUrl": "https://github.com/Lakr233.png",
-      "stars": 13440,
-      "forks": 1593,
+      "stars": 13563,
+      "forks": 1608,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 109840,
-      "forks": 14062,
+      "stars": 109965,
+      "forks": 14070,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
