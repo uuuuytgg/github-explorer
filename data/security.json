@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-17T21:45:41.664Z",
+  "updated": "2026-09-17T23:46:23.315Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 10384,
-      "forks": 559,
+      "stars": 10545,
+      "forks": 564,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "eBPF-based Networking, Security, and Observability",
       "url": "https://github.com/cilium/cilium",
       "avatarUrl": "https://github.com/cilium.png",
-      "stars": 25245,
+      "stars": 25258,
       "forks": 4073,
       "todayStars": 0,
       "language": "Go",
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 261060,
-      "forks": 39082,
+      "stars": 261143,
+      "forks": 39092,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-17T21:45:41.664Z",
+  "updated": "2026-09-17T23:46:23.315Z",
   "count": 1,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Tinycast — a tiny, fully native macOS launcher, hotkeys, and clipboard history.",
       "url": "https://github.com/abue-ammar/tinycast",
       "avatarUrl": "https://github.com/abue-ammar.png",
-      "stars": 6102,
+      "stars": 6133,
       "forks": 286,
       "todayStars": 0,
       "language": "Swift",
