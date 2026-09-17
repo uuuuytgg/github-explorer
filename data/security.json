@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-16T22:26:32.819Z",
+  "updated": "2026-09-17T00:43:32.800Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 7003,
-      "forks": 412,
+      "stars": 7210,
+      "forks": 421,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -22,11 +22,11 @@
       "fullName": "SnailSploit/Claude-Red",
       "owner": "SnailSploit",
       "name": "Claude-Red",
-      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface �� from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "avatarUrl": "https://github.com/SnailSploit.png",
-      "stars": 5742,
-      "forks": 738,
+      "stars": 5764,
+      "forks": 741,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 260196,
-      "forks": 38944,
+      "stars": 260273,
+      "forks": 38956,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
