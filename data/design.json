@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-18T01:51:01.800Z",
+  "updated": "2026-09-18T06:47:27.636Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 34866,
-      "forks": 2477,
+      "stars": 35554,
+      "forks": 2518,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7942,
-      "forks": 272,
+      "stars": 7960,
+      "forks": 273,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
