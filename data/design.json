@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-18T11:56:41.775Z",
+  "updated": "2026-09-18T15:30:57.051Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 36135,
-      "forks": 2570,
+      "stars": 36339,
+      "forks": 2587,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7977,
+      "stars": 7988,
       "forks": 273,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 51245,
-      "forks": 4665,
+      "stars": 51298,
+      "forks": 4669,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
