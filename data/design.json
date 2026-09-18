@@ -2,18 +2,18 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-18T06:47:27.636Z",
-  "count": 2,
+  "updated": "2026-09-18T11:56:41.775Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "alibaba/open-code-review",
       "owner": "alibaba",
       "name": "open-code-review",
-      "description": "Fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 35554,
-      "forks": 2518,
+      "stars": 36135,
+      "forks": 2570,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,10 +25,23 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 7960,
+      "stars": 7977,
       "forks": 273,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "heygen-com/hyperframes",
+      "owner": "heygen-com",
+      "name": "hyperframes",
+      "description": "Write HTML. Render video. Built for agents.",
+      "url": "https://github.com/heygen-com/hyperframes",
+      "avatarUrl": "https://github.com/heygen-com.png",
+      "stars": 51245,
+      "forks": 4665,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],

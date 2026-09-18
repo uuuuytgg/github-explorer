@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-18T06:47:27.636Z",
-  "count": 3,
+  "updated": "2026-09-18T11:56:41.775Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "cloudflare/security-audit-skill",
@@ -12,23 +12,10 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 11208,
-      "forks": 603,
+      "stars": 11855,
+      "forks": 644,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "cilium/cilium",
-      "owner": "cilium",
-      "name": "cilium",
-      "description": "eBPF-based Networking, Security, and Observability",
-      "url": "https://github.com/cilium/cilium",
-      "avatarUrl": "https://github.com/cilium.png",
-      "stars": 25315,
-      "forks": 4076,
-      "todayStars": 0,
-      "language": "Go",
       "topics": []
     },
     {
@@ -38,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 261372,
-      "forks": 39128,
+      "stars": 261547,
+      "forks": 39148,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
