@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-19T06:04:06.866Z",
-  "count": 2,
+  "updated": "2026-09-19T10:52:19.203Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "cloudflare/security-audit-skill",
@@ -12,21 +12,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 14230,
-      "forks": 769,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 262228,
-      "forks": 39231,
+      "stars": 14855,
+      "forks": 813,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
