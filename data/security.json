@@ -2,9 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-20T06:58:33.329Z",
-  "count": 1,
+  "updated": "2026-09-20T11:59:50.726Z",
+  "count": 3,
   "repos": [
+    {
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://github.com/affaan-m.png",
+      "stars": 263258,
+      "forks": 39394,
+      "todayStars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
     {
       "fullName": "cloudflare/security-audit-skill",
       "owner": "cloudflare",
@@ -12,10 +25,23 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 16923,
-      "forks": 929,
+      "stars": 17406,
+      "forks": 957,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "paperless-ngx/paperless-ngx",
+      "owner": "paperless-ngx",
+      "name": "paperless-ngx",
+      "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
+      "url": "https://github.com/paperless-ngx/paperless-ngx",
+      "avatarUrl": "https://github.com/paperless-ngx.png",
+      "stars": 45349,
+      "forks": 3132,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
