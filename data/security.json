@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-20T18:17:27.412Z",
+  "updated": "2026-09-20T20:56:51.262Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 263520,
-      "forks": 39437,
+      "stars": 263624,
+      "forks": 39445,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 17775,
-      "forks": 990,
+      "stars": 17882,
+      "forks": 993,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A community-supported supercharged document management system: scan, index and archive all your documents",
       "url": "https://github.com/paperless-ngx/paperless-ngx",
       "avatarUrl": "https://github.com/paperless-ngx.png",
-      "stars": 45462,
-      "forks": 3140,
+      "stars": 45498,
+      "forks": 3141,
       "todayStars": 0,
       "language": "Python",
       "topics": []
