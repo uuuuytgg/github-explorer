@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-20T15:33:48.994Z",
+  "updated": "2026-09-20T18:17:27.412Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A framework for building agentic apps",
       "url": "https://github.com/BuilderIO/agent-native",
       "avatarUrl": "https://github.com/BuilderIO.png",
-      "stars": 5054,
-      "forks": 474,
+      "stars": 5097,
+      "forks": 480,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://github.com/trycua.png",
-      "stars": 24979,
-      "forks": 1714,
+      "stars": 25032,
+      "forks": 1722,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Claude Code is an agentic coding tool that lives in your terminal, understands your codebase, and helps you code faster by executing routine tasks, explaining complex code, and handling git workflows - all through natural language commands.",
       "url": "https://github.com/anthropics/claude-code",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 146968,
-      "forks": 24008,
+      "stars": 147019,
+      "forks": 24027,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Fault-tolerant, highly scalable GPU orchestration, and a machine learning framework designed for training models with billions to trillions of parameters",
       "url": "https://github.com/higgsfield-ai/higgsfield",
       "avatarUrl": "https://github.com/higgsfield-ai.png",
-      "stars": 5209,
-      "forks": 937,
+      "stars": 5265,
+      "forks": 945,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 16560,
-      "forks": 2123,
+      "stars": 16643,
+      "forks": 2130,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The Generative UI framework",
       "url": "https://github.com/vercel-labs/json-render",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 17085,
-      "forks": 909,
+      "stars": 17161,
+      "forks": 913,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 97492,
-      "forks": 10283,
+      "stars": 97568,
+      "forks": 10289,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

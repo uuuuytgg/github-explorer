@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-20T15:33:48.994Z",
+  "updated": "2026-09-20T18:17:27.412Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 38222,
-      "forks": 2724,
+      "stars": 38284,
+      "forks": 2729,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 8163,
+      "stars": 8172,
       "forks": 284,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 51848,
-      "forks": 4721,
+      "stars": 51897,
+      "forks": 4726,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 110397,
-      "forks": 14430,
+      "stars": 110411,
+      "forks": 14442,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
