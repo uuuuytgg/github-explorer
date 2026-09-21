@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-09-21T20:34:12.959Z",
+  "updated": "2026-09-21T23:35:21.334Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A framework for building agentic apps",
       "url": "https://github.com/BuilderIO/agent-native",
       "avatarUrl": "https://github.com/BuilderIO.png",
-      "stars": 5812,
-      "forks": 533,
+      "stars": 5867,
+      "forks": 534,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://github.com/trycua.png",
-      "stars": 25644,
-      "forks": 1766,
+      "stars": 25679,
+      "forks": 1767,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 17588,
-      "forks": 2183,
+      "stars": 17688,
+      "forks": 2187,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "url": "https://github.com/akitaonrails/ai-memory",
       "avatarUrl": "https://github.com/akitaonrails.png",
-      "stars": 7608,
-      "forks": 518,
+      "stars": 7652,
+      "forks": 520,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Secure environments for developers and their agents",
       "url": "https://github.com/coder/coder",
       "avatarUrl": "https://github.com/coder.png",
-      "stars": 16382,
-      "forks": 1562,
+      "stars": 16403,
+      "forks": 1564,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AutoClip : AI-powered video clipping and highlight generation · 一款智能高光提取与剪辑的二创工具",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "avatarUrl": "https://github.com/zhouxiaoka.png",
-      "stars": 8167,
-      "forks": 1568,
+      "stars": 8204,
+      "forks": 1569,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Project NOMAD is an offline-first knowledge and education server. Wikipedia, thousands of books, courses, maps, and optional local AI, all running on hardware you own with no internet required.",
       "url": "https://github.com/Crosstalk-Solutions/project-nomad",
       "avatarUrl": "https://github.com/Crosstalk-Solutions.png",
-      "stars": 37785,
-      "forks": 3763,
+      "stars": 37838,
+      "forks": 3766,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "OpenAI Codex 桌面端/CLI 的可视化管理工具，具有Provider/API 切换、会话同步、提示词注入、Skills/MCP 管理、TOML 配置可视化的跨平台工具。",
       "url": "https://github.com/yynxxxxx/Codex-X",
       "avatarUrl": "https://github.com/yynxxxxx.png",
-      "stars": 3650,
-      "forks": 460,
+      "stars": 3665,
+      "forks": 461,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
