@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-09-22T17:04:56.588Z",
+  "updated": "2026-09-22T20:10:20.104Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Agent Substrate: the core system",
       "url": "https://github.com/agent-substrate/substrate",
       "avatarUrl": "https://github.com/agent-substrate.png",
-      "stars": 2839,
-      "forks": 376,
+      "stars": 2889,
+      "forks": 380,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 15142,
-      "forks": 1358,
+      "stars": 15266,
+      "forks": 1363,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31005,
-      "forks": 3533,
+      "stars": 31050,
+      "forks": 3535,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Google's open agentic orchestration runtime",
       "url": "https://github.com/google/ax",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 7228,
-      "forks": 340,
+      "stars": 7387,
+      "forks": 348,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "url": "https://github.com/superdesigndev/treg",
       "avatarUrl": "https://github.com/superdesigndev.png",
-      "stars": 2082,
-      "forks": 209,
+      "stars": 2136,
+      "forks": 213,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Edit videos with coding agents",
       "url": "https://github.com/browser-use/video-use",
       "avatarUrl": "https://github.com/browser-use.png",
-      "stars": 25661,
-      "forks": 3106,
+      "stars": 25742,
+      "forks": 3111,
       "todayStars": 0,
       "language": "Python",
       "topics": []
