@@ -2,7 +2,7 @@
   "category": "trending",
   "label": "热门趋势",
   "icon": "🔥",
-  "updated": "2026-09-23T00:59:40.231Z",
+  "updated": "2026-09-23T05:31:49.657Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "",
       "url": "https://github.com/anthropics/financial-services",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 36341,
-      "forks": 5315,
+      "stars": 36501,
+      "forks": 5333,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Agent Substrate: the core system",
       "url": "https://github.com/agent-substrate/substrate",
       "avatarUrl": "https://github.com/agent-substrate.png",
-      "stars": 2977,
-      "forks": 386,
+      "stars": 3084,
+      "forks": 389,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 15403,
-      "forks": 1371,
+      "stars": 15724,
+      "forks": 1401,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31127,
-      "forks": 3540,
+      "stars": 31204,
+      "forks": 3549,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Google's open agentic orchestration runtime",
       "url": "https://github.com/google/ax",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 7603,
-      "forks": 355,
+      "stars": 7916,
+      "forks": 368,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "url": "https://github.com/mvt-project/mvt",
       "avatarUrl": "https://github.com/mvt-project.png",
-      "stars": 14110,
-      "forks": 1359,
+      "stars": 14213,
+      "forks": 1367,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "OpenRouter for agent tools. Join community here: https://discord.gg/6mQYYfFMAn",
       "url": "https://github.com/superdesigndev/treg",
       "avatarUrl": "https://github.com/superdesigndev.png",
-      "stars": 2222,
-      "forks": 218,
+      "stars": 2318,
+      "forks": 226,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Edit videos with coding agents",
       "url": "https://github.com/browser-use/video-use",
       "avatarUrl": "https://github.com/browser-use.png",
-      "stars": 25843,
-      "forks": 3119,
+      "stars": 26018,
+      "forks": 3130,
       "todayStars": 0,
       "language": "Python",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-23T00:59:40.231Z",
+  "updated": "2026-09-23T05:31:49.657Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 39731,
-      "forks": 2852,
+      "stars": 39848,
+      "forks": 2861,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12495,
-      "forks": 1142,
+      "stars": 12507,
+      "forks": 1143,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 110637,
-      "forks": 14516,
+      "stars": 110666,
+      "forks": 14518,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 18374,
-      "forks": 2254,
+      "stars": 18447,
+      "forks": 2263,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
