@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-23T10:16:02.780Z",
+  "updated": "2026-09-23T15:06:52.466Z",
   "count": 4,
   "repos": [
     {
@@ -12,10 +12,23 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 40006,
-      "forks": 2873,
+      "stars": 40084,
+      "forks": 2880,
       "todayStars": 0,
       "language": "Go",
+      "topics": []
+    },
+    {
+      "fullName": "davila7/claude-code-templates",
+      "owner": "davila7",
+      "name": "claude-code-templates",
+      "description": "CLI tool for configuring and monitoring Claude Code",
+      "url": "https://github.com/davila7/claude-code-templates",
+      "avatarUrl": "https://github.com/davila7.png",
+      "stars": 31368,
+      "forks": 3559,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12515,
+      "stars": 12522,
       "forks": 1144,
       "todayStars": 0,
       "language": "Rust",
-      "topics": []
-    },
-    {
-      "fullName": "supabase/supabase",
-      "owner": "supabase",
-      "name": "supabase",
-      "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
-      "url": "https://github.com/supabase/supabase",
-      "avatarUrl": "https://github.com/supabase.png",
-      "stars": 110685,
-      "forks": 14536,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     },
     {
@@ -51,8 +51,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 18511,
-      "forks": 2268,
+      "stars": 18626,
+      "forks": 2274,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
