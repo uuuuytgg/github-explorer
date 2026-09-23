@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-22T22:55:02.106Z",
-  "count": 5,
+  "updated": "2026-09-23T00:59:40.231Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "alibaba/open-code-review",
@@ -12,23 +12,10 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 39711,
-      "forks": 2851,
+      "stars": 39731,
+      "forks": 2852,
       "todayStars": 0,
       "language": "Go",
-      "topics": []
-    },
-    {
-      "fullName": "sergebulaev/linkedin-skills",
-      "owner": "sergebulaev",
-      "name": "linkedin-skills",
-      "description": "Claude skills for LinkedIn. 11 Claude Code and Codex skills that write human-sounding LinkedIn posts, craft comments that get noticed, analyze your feed, and build a publishing cadence, all from your terminal. Content engineering by Creative Content Crafts. MIT.",
-      "url": "https://github.com/sergebulaev/linkedin-skills",
-      "avatarUrl": "https://github.com/sergebulaev.png",
-      "stars": 3298,
-      "forks": 559,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -38,8 +25,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12489,
-      "forks": 1141,
+      "stars": 12495,
+      "forks": 1142,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,7 +38,7 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 110632,
+      "stars": 110637,
       "forks": 14516,
       "todayStars": 0,
       "language": "TypeScript",
@@ -64,8 +51,8 @@
       "description": "OpenStock is an open-source alternative to expensive market platforms. Track real-time prices, set personalized alerts, and explore detailed company insights — built openly, for everyone, forever free.",
       "url": "https://github.com/Open-Dev-Society/OpenStock",
       "avatarUrl": "https://github.com/Open-Dev-Society.png",
-      "stars": 18345,
-      "forks": 2253,
+      "stars": 18374,
+      "forks": 2254,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
