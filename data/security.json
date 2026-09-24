@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-24T10:14:45.048Z",
-  "count": 2,
+  "updated": "2026-09-24T15:06:15.256Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "mvt-project/mvt",
@@ -12,23 +12,10 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "url": "https://github.com/mvt-project/mvt",
       "avatarUrl": "https://github.com/mvt-project.png",
-      "stars": 14580,
-      "forks": 1388,
+      "stars": 14628,
+      "forks": 1390,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "DeusData/codebase-memory-mcp",
-      "owner": "DeusData",
-      "name": "codebase-memory-mcp",
-      "description": "High-performance code intelligence MCP server. Indexes codebases into a persistent knowledge graph — average repo in milliseconds. 158 languages, sub-ms queries, 99% fewer tokens. Single static binary, zero dependencies.",
-      "url": "https://github.com/DeusData/codebase-memory-mcp",
-      "avatarUrl": "https://github.com/DeusData.png",
-      "stars": 44768,
-      "forks": 3649,
-      "todayStars": 0,
-      "language": "C",
       "topics": []
     }
   ],
