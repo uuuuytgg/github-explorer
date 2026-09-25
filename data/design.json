@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-25T15:21:36.960Z",
+  "updated": "2026-09-25T19:21:25.230Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 41168,
-      "forks": 2959,
+      "stars": 41256,
+      "forks": 2966,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31782,
-      "forks": 3615,
+      "stars": 31804,
+      "forks": 3618,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12593,
-      "forks": 1148,
+      "stars": 12600,
+      "forks": 1147,
       "todayStars": 0,
       "language": "Rust",
       "topics": []

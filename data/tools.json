@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-25T15:21:36.960Z",
+  "updated": "2026-09-25T19:21:25.230Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 83887,
-      "forks": 15164,
+      "stars": 84421,
+      "forks": 15197,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 291494,
-      "forks": 26084,
+      "stars": 291573,
+      "forks": 26099,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 269508,
-      "forks": 22716,
+      "stars": 269609,
+      "forks": 22722,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 18200,
-      "forks": 1554,
+      "stars": 18323,
+      "forks": 1559,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Wifite but USB-only &amp; cross-platform.",
       "url": "https://github.com/derv82/wifit3",
       "avatarUrl": "https://github.com/derv82.png",
-      "stars": 756,
-      "forks": 76,
+      "stars": 835,
+      "forks": 80,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Bootstrap Kubernetes the hard way. No scripts.",
       "url": "https://github.com/kelseyhightower/kubernetes-the-hard-way",
       "avatarUrl": "https://github.com/kelseyhightower.png",
-      "stars": 50046,
-      "forks": 15912,
+      "stars": 50093,
+      "forks": 15915,
       "todayStars": 0,
       "language": "",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 57222,
-      "forks": 10001,
+      "stars": 57339,
+      "forks": 10009,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Google's open agentic orchestration runtime",
       "url": "https://github.com/google/ax",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 11203,
-      "forks": 541,
+      "stars": 11352,
+      "forks": 546,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 4307,
-      "forks": 642,
+      "stars": 4384,
+      "forks": 645,
       "todayStars": 0,
       "language": "Python",
       "topics": []
