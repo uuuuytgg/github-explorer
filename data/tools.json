@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-25T05:22:13.185Z",
+  "updated": "2026-09-25T10:19:21.743Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 56767,
-      "forks": 9953,
+      "stars": 57026,
+      "forks": 9975,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 17933,
-      "forks": 1543,
+      "stars": 18073,
+      "forks": 1548,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Google's open agentic orchestration runtime",
       "url": "https://github.com/google/ax",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 10686,
-      "forks": 521,
+      "stars": 10979,
+      "forks": 532,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A unified library of SOTA model optimization techniques like quantization, distillation, pruning, neural architecture search, speculative decoding, etc. It compresses deep learning models for downstream deployment frameworks like TensorRT-LLM, TensorRT, vLLM, etc. to optimize inference speed.",
       "url": "https://github.com/NVIDIA/Model-Optimizer",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 4148,
-      "forks": 633,
+      "stars": 4222,
+      "forks": 637,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 50391,
-      "forks": 4618,
+      "stars": 50462,
+      "forks": 4621,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 291297,
-      "forks": 26063,
+      "stars": 291378,
+      "forks": 26072,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Build an agent harness and control it end-to-end. Open-source SDK for production AI agents in Python &amp; TypeScript - any model, any cloud.",
       "url": "https://github.com/strands-agents/harness-sdk",
       "avatarUrl": "https://github.com/strands-agents.png",
-      "stars": 8321,
-      "forks": 1244,
+      "stars": 8371,
+      "forks": 1249,
       "todayStars": 0,
       "language": "Python",
       "topics": []
