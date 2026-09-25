@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-09-25T00:37:31.022Z",
+  "updated": "2026-09-25T05:22:13.185Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "MVT (Mobile Verification Toolkit) helps with conducting forensics of mobile devices in order to find signs of a potential compromise.",
       "url": "https://github.com/mvt-project/mvt",
       "avatarUrl": "https://github.com/mvt-project.png",
-      "stars": 14728,
-      "forks": 1392,
+      "stars": 14756,
+      "forks": 1394,
       "todayStars": 0,
       "language": "Python",
       "topics": []
