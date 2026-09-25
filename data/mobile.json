@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-25T19:21:25.230Z",
+  "updated": "2026-09-25T22:32:53.808Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Wifite but USB-only &amp; cross-platform.",
       "url": "https://github.com/derv82/wifit3",
       "avatarUrl": "https://github.com/derv82.png",
-      "stars": 835,
-      "forks": 80,
+      "stars": 888,
+      "forks": 85,
       "todayStars": 0,
       "language": "Python",
       "topics": []
