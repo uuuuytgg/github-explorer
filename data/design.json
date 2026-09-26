@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-26T20:16:45.087Z",
+  "updated": "2026-09-26T23:00:01.543Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31914,
-      "forks": 3630,
+      "stars": 31919,
+      "forks": 3632,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 41580,
+      "stars": 41605,
       "forks": 2989,
       "todayStars": 0,
       "language": "Go",
@@ -38,7 +38,7 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12626,
+      "stars": 12629,
       "forks": 1149,
       "todayStars": 0,
       "language": "Rust",
@@ -51,8 +51,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 19140,
-      "forks": 1628,
+      "stars": 19180,
+      "forks": 1633,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
