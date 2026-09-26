@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-26T14:29:20.583Z",
+  "updated": "2026-09-26T17:53:26.396Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android, Emulators, Simulators and Real Devices)",
       "url": "https://github.com/mobile-next/mobile-mcp",
       "avatarUrl": "https://github.com/mobile-next.png",
-      "stars": 7124,
-      "forks": 629,
+      "stars": 7221,
+      "forks": 634,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
