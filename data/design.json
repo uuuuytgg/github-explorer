@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-26T10:14:05.616Z",
-  "count": 3,
+  "updated": "2026-09-26T14:29:20.583Z",
+  "count": 4,
   "repos": [
-    {
-      "fullName": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 41476,
-      "forks": 2980,
-      "todayStars": 0,
-      "language": "Go",
-      "topics": []
-    },
     {
       "fullName": "davila7/claude-code-templates",
       "owner": "davila7",
@@ -25,10 +12,23 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31870,
-      "forks": 3624,
+      "stars": 31896,
+      "forks": 3626,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://github.com/alibaba.png",
+      "stars": 41523,
+      "forks": 2984,
+      "todayStars": 0,
+      "language": "Go",
       "topics": []
     },
     {
@@ -38,10 +38,23 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12617,
+      "stars": 12620,
       "forks": 1149,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "dream-num/univer",
+      "owner": "dream-num",
+      "name": "univer",
+      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
+      "url": "https://github.com/dream-num/univer",
+      "avatarUrl": "https://github.com/dream-num.png",
+      "stars": 19007,
+      "forks": 1620,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],
