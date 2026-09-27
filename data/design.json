@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-27T12:25:12.564Z",
+  "updated": "2026-09-27T17:05:26.127Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,21 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 31957,
-      "forks": 3639,
+      "stars": 31975,
+      "forks": 3641,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "rohitg00/ai-engineering-from-scratch",
+      "owner": "rohitg00",
+      "name": "ai-engineering-from-scratch",
+      "description": "Learn it. Build it. Ship it for others.",
+      "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
+      "avatarUrl": "https://github.com/rohitg00.png",
+      "stars": 58996,
+      "forks": 10208,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +38,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 41781,
-      "forks": 3006,
+      "stars": 41845,
+      "forks": 3009,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,23 +51,10 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12635,
+      "stars": 12644,
       "forks": 1150,
       "todayStars": 0,
       "language": "Rust",
-      "topics": []
-    },
-    {
-      "fullName": "dream-num/univer",
-      "owner": "dream-num",
-      "name": "univer",
-      "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
-      "url": "https://github.com/dream-num/univer",
-      "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 19859,
-      "forks": 1691,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     }
   ],
