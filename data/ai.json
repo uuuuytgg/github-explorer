@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-09-27T17:05:26.127Z",
+  "updated": "2026-09-27T20:07:01.830Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 89083,
-      "forks": 15598,
+      "stars": 89435,
+      "forks": 15620,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "url": "https://github.com/vectorize-io/hindsight",
       "avatarUrl": "https://github.com/vectorize-io.png",
-      "stars": 36266,
-      "forks": 4661,
+      "stars": 36971,
+      "forks": 4817,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 39279,
-      "forks": 4676,
+      "stars": 39683,
+      "forks": 4713,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 58996,
-      "forks": 10208,
+      "stars": 59117,
+      "forks": 10217,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 771,
-      "forks": 88,
+      "stars": 853,
+      "forks": 93,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 20011,
-      "forks": 1698,
+      "stars": 20080,
+      "forks": 1701,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,7 +90,7 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "url": "https://github.com/willfaust/Madeira",
       "avatarUrl": "https://github.com/willfaust.png",
-      "stars": 746,
+      "stars": 775,
       "forks": 151,
       "todayStars": 0,
       "language": "C",

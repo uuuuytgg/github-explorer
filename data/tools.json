@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-27T17:05:26.127Z",
+  "updated": "2026-09-27T20:07:01.830Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 89083,
-      "forks": 15598,
+      "stars": 89435,
+      "forks": 15620,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 58996,
-      "forks": 10208,
+      "stars": 59117,
+      "forks": 10217,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "avatarUrl": "https://github.com/InfinityLoop1308.png",
-      "stars": 6473,
-      "forks": 216,
+      "stars": 6516,
+      "forks": 217,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "TypeScript-to-Native Compiler",
       "url": "https://github.com/vercel-labs/scriptc",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 5296,
+      "stars": 5340,
       "forks": 137,
       "todayStars": 0,
       "language": "TypeScript",
@@ -64,8 +64,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 20011,
-      "forks": 1698,
+      "stars": 20080,
+      "forks": 1701,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
