@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-28T07:06:19.560Z",
+  "updated": "2026-09-28T15:22:13.952Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,21 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 32013,
-      "forks": 3647,
+      "stars": 32051,
+      "forks": 3649,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatarUrl": "https://github.com/debpalash.png",
+      "stars": 42522,
+      "forks": 4990,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,23 +38,10 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 59745,
-      "forks": 10283,
+      "stars": 60127,
+      "forks": 10357,
       "todayStars": 0,
       "language": "Python",
-      "topics": []
-    },
-    {
-      "fullName": "alibaba/open-code-review",
-      "owner": "alibaba",
-      "name": "open-code-review",
-      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
-      "url": "https://github.com/alibaba/open-code-review",
-      "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 42042,
-      "forks": 3016,
-      "todayStars": 0,
-      "language": "Go",
       "topics": []
     },
     {
@@ -51,8 +51,8 @@
       "description": "🥧 Savoury implementation of the QUIC transport protocol and HTTP/3",
       "url": "https://github.com/cloudflare/quiche",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 12671,
-      "forks": 1151,
+      "stars": 12682,
+      "forks": 1153,
       "todayStars": 0,
       "language": "Rust",
       "topics": []

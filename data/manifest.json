@@ -1,10 +1,10 @@
 {
-  "updated": "2026-09-28T07:06:19.560Z",
+  "updated": "2026-09-28T15:22:13.952Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
       "icon": "🔥",
-      "count": 9
+      "count": 8
     },
     "newest": {
       "label": "本周新星",
@@ -14,7 +14,7 @@
     "ai": {
       "label": "AI & LLM",
       "icon": "🤖",
-      "count": 7
+      "count": 6
     },
     "design": {
       "label": "设计系统",
@@ -24,12 +24,12 @@
     "tools": {
       "label": "开发工具",
       "icon": "🛠",
-      "count": 5
+      "count": 2
     },
     "mobile": {
       "label": "移动开发",
       "icon": "📱",
-      "count": 2
+      "count": 0
     },
     "security": {
       "label": "安全研究",
