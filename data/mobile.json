@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-28T01:25:10.808Z",
+  "updated": "2026-09-28T07:06:19.560Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An open-source Android app to let you browse YouTube and other services freely.",
       "url": "https://github.com/InfinityLoop1308/PipePipe",
       "avatarUrl": "https://github.com/InfinityLoop1308.png",
-      "stars": 6583,
-      "forks": 223,
+      "stars": 6695,
+      "forks": 225,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
       "url": "https://github.com/willfaust/Madeira",
       "avatarUrl": "https://github.com/willfaust.png",
-      "stars": 821,
-      "forks": 152,
+      "stars": 884,
+      "forks": 154,
       "todayStars": 0,
       "language": "C",
       "topics": []
