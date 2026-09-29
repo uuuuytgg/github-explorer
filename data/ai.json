@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-09-29T01:04:44.717Z",
+  "updated": "2026-09-29T06:51:07.949Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 44119,
-      "forks": 5099,
+      "stars": 45203,
+      "forks": 5176,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 92821,
-      "forks": 15894,
+      "stars": 93389,
+      "forks": 15936,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Hindsight: Agent Memory That Learns",
       "url": "https://github.com/vectorize-io/hindsight",
       "avatarUrl": "https://github.com/vectorize-io.png",
-      "stars": 40991,
-      "forks": 5536,
+      "stars": 41536,
+      "forks": 5589,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An advanced guide which might benefit you a lot 🎉 . 韩先凯的人生进阶指南 人生进阶指南 离谱的人生 人生进阶 AI学习 AI指南 韩先凯的AI学习指南 英语学习指南/英语学习教程/英语学习/学英语",
       "url": "https://github.com/byoungd/up",
       "avatarUrl": "https://github.com/byoungd.png",
-      "stars": 64683,
-      "forks": 6513,
+      "stars": 65034,
+      "forks": 6542,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Multi-agent harness that runs Claude Code and Codex together as one system",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 1723,
-      "forks": 137,
+      "stars": 1919,
+      "forks": 147,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 21265,
-      "forks": 1803,
+      "stars": 21448,
+      "forks": 1812,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
