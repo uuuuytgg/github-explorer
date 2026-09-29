@@ -2,8 +2,35 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-29T06:51:07.949Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-09-29T13:29:21.591Z",
+  "count": 2,
+  "repos": [
+    {
+      "fullName": "t8y2/dbx",
+      "owner": "t8y2",
+      "name": "dbx",
+      "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
+      "url": "https://github.com/t8y2/dbx",
+      "avatarUrl": "https://github.com/t8y2.png",
+      "stars": 21683,
+      "forks": 2074,
+      "todayStars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "willfaust/Madeira",
+      "owner": "willfaust",
+      "name": "Madeira",
+      "description": "Run x86-64 Windows PC games on jailed iOS via FEX-Emu + Wine + DXMT",
+      "url": "https://github.com/willfaust/Madeira",
+      "avatarUrl": "https://github.com/willfaust.png",
+      "stars": 1029,
+      "forks": 180,
+      "todayStars": 0,
+      "language": "C",
+      "topics": []
+    }
+  ],
   "error": null
 }
