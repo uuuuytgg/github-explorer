@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-09-30T13:57:39.438Z",
+  "updated": "2026-09-30T18:45:06.108Z",
   "count": 2,
   "repos": [
     {
@@ -12,7 +12,7 @@
       "description": "Firebase SDK for Apple App Development",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "avatarUrl": "https://github.com/firebase.png",
-      "stars": 6713,
+      "stars": 6737,
       "forks": 1798,
       "todayStars": 0,
       "language": "C++",
@@ -25,8 +25,8 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "url": "https://github.com/t8y2/dbx",
       "avatarUrl": "https://github.com/t8y2.png",
-      "stars": 22862,
-      "forks": 2128,
+      "stars": 23033,
+      "forks": 2138,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
