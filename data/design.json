@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-09-30T01:34:52.310Z",
+  "updated": "2026-09-30T07:24:40.348Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 48210,
-      "forks": 5404,
+      "stars": 49026,
+      "forks": 5475,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 61426,
-      "forks": 10534,
+      "stars": 61733,
+      "forks": 10564,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 32182,
-      "forks": 3652,
+      "stars": 32196,
+      "forks": 3654,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 72582,
-      "forks": 4380,
+      "stars": 72705,
+      "forks": 4392,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
