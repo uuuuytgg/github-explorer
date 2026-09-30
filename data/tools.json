@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-09-29T22:43:22.638Z",
+  "updated": "2026-09-30T01:34:52.310Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 10515,
-      "forks": 1413,
+      "stars": 10639,
+      "forks": 1422,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 94385,
-      "forks": 16046,
+      "stars": 94496,
+      "forks": 16052,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "25 MB lightweight cross-platform database client for 100+ databases, including MySQL, PostgreSQL, SQLite, Redis, MongoDB, DuckDB, SQL Server, and Dameng. Built-in AI, MCP Server, CLI, desktop and Docker. | 轻量级跨平台数据库管理工具，支持 MySQL、PostgreSQL、SQLite、Redis、MongoDB、达梦等 100+ 数据库，提供桌面端、Docker、CLI、内置 AI 助手和 MCP。",
       "url": "https://github.com/t8y2/dbx",
       "avatarUrl": "https://github.com/t8y2.png",
-      "stars": 21933,
-      "forks": 2084,
+      "stars": 22060,
+      "forks": 2088,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Self-hosted deployment platform",
       "url": "https://github.com/oblien/openship",
       "avatarUrl": "https://github.com/oblien.png",
-      "stars": 13787,
-      "forks": 1233,
+      "stars": 13847,
+      "forks": 1239,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Download videos from almost any website. Lightweight, self-hosted media downloader with a clean web UI.",
       "url": "https://github.com/averygan/reclip",
       "avatarUrl": "https://github.com/averygan.png",
-      "stars": 10052,
-      "forks": 1529,
+      "stars": 10135,
+      "forks": 1538,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 61278,
-      "forks": 10525,
+      "stars": 61426,
+      "forks": 10534,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 21821,
-      "forks": 1840,
+      "stars": 21872,
+      "forks": 1848,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "HTTP load generator, ApacheBench (ab) replacement",
       "url": "https://github.com/rakyll/hey",
       "avatarUrl": "https://github.com/rakyll.png",
-      "stars": 20457,
-      "forks": 1310,
+      "stars": 20484,
+      "forks": 1312,
       "todayStars": 0,
       "language": "Go",
       "topics": []
