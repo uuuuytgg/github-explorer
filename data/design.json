@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-01T14:52:45.265Z",
+  "updated": "2026-10-01T19:56:38.550Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 51127,
-      "forks": 5670,
+      "stars": 51270,
+      "forks": 5696,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 62306,
-      "forks": 10661,
+      "stars": 62370,
+      "forks": 10672,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 73386,
-      "forks": 4426,
+      "stars": 73549,
+      "forks": 4433,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "CLI tool for configuring and monitoring Claude Code",
       "url": "https://github.com/davila7/claude-code-templates",
       "avatarUrl": "https://github.com/davila7.png",
-      "stars": 32263,
-      "forks": 3664,
+      "stars": 32267,
+      "forks": 3665,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8009,
-      "forks": 808,
+      "stars": 8057,
+      "forks": 812,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "The Office Harness for AI Agents — Spreadsheets, Docs, Slides, Canvas, Relational Tables, and PDF in one runtime.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 22212,
+      "stars": 22229,
       "forks": 1868,
       "todayStars": 0,
       "language": "TypeScript",
@@ -90,8 +90,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179179,
-      "forks": 32734,
+      "stars": 179191,
+      "forks": 32736,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
