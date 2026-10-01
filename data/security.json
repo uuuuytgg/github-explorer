@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-01T07:46:32.365Z",
-  "count": 2,
+  "updated": "2026-10-01T14:52:45.265Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "mksglu/context-mode",
@@ -12,23 +12,10 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 24574,
-      "forks": 1773,
+      "stars": 24686,
+      "forks": 1777,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "colbymchenry/codegraph",
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 72683,
-      "forks": 4665,
-      "todayStars": 0,
-      "language": "C",
       "topics": []
     }
   ],
