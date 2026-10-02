@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-01T23:35:05.483Z",
+  "updated": "2026-10-02T02:33:40.722Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Firebase SDK for Apple App Development",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "avatarUrl": "https://github.com/firebase.png",
-      "stars": 6855,
-      "forks": 1806,
+      "stars": 6866,
+      "forks": 1807,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Useful tool to track location or mobile number",
       "url": "https://github.com/HunxByts/GhostTrack",
       "avatarUrl": "https://github.com/HunxByts.png",
-      "stars": 16384,
-      "forks": 2251,
+      "stars": 16436,
+      "forks": 2257,
       "todayStars": 0,
       "language": "Python",
       "topics": []

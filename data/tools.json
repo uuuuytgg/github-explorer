@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-01T23:35:05.483Z",
+  "updated": "2026-10-02T02:33:40.722Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 273868,
-      "forks": 22990,
+      "stars": 273956,
+      "forks": 22999,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 13991,
-      "forks": 1622,
+      "stars": 14052,
+      "forks": 1630,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Firebase SDK for Apple App Development",
       "url": "https://github.com/firebase/firebase-ios-sdk",
       "avatarUrl": "https://github.com/firebase.png",
-      "stars": 6855,
-      "forks": 1806,
+      "stars": 6866,
+      "forks": 1807,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 293953,
-      "forks": 26291,
+      "stars": 294005,
+      "forks": 26296,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 24772,
-      "forks": 1783,
+      "stars": 24796,
+      "forks": 1785,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "AI agent toolkit: unified LLM API, agent loop, TUI, coding agent CLI",
       "url": "https://github.com/earendil-works/pi",
       "avatarUrl": "https://github.com/earendil-works.png",
-      "stars": 111190,
-      "forks": 14129,
+      "stars": 111263,
+      "forks": 14135,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "url": "https://github.com/pablostanley/yoinks",
       "avatarUrl": "https://github.com/pablostanley.png",
-      "stars": 2914,
-      "forks": 276,
+      "stars": 2979,
+      "forks": 280,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
