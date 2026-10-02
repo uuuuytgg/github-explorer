@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-02T19:59:31.228Z",
+  "updated": "2026-10-02T23:33:40.761Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 51799,
-      "forks": 5761,
+      "stars": 51873,
+      "forks": 5771,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 62660,
-      "forks": 10704,
+      "stars": 62693,
+      "forks": 10714,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179247,
-      "forks": 32822,
+      "stars": 179254,
+      "forks": 32847,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 74202,
-      "forks": 4471,
+      "stars": 74297,
+      "forks": 4478,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 55805,
-      "forks": 5036,
+      "stars": 55874,
+      "forks": 5037,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8234,
+      "stars": 8240,
       "forks": 829,
       "todayStars": 0,
       "language": "Python",
