@@ -2,9 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-02T08:59:09.750Z",
-  "count": 1,
+  "updated": "2026-10-02T15:23:42.385Z",
+  "count": 3,
   "repos": [
+    {
+      "fullName": "JuliusBrussee/caveman",
+      "owner": "JuliusBrussee",
+      "name": "caveman",
+      "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
+      "url": "https://github.com/JuliusBrussee/caveman",
+      "avatarUrl": "https://github.com/JuliusBrussee.png",
+      "stars": 108923,
+      "forks": 6314,
+      "todayStars": 0,
+      "language": "Go",
+      "topics": []
+    },
     {
       "fullName": "mksglu/context-mode",
       "owner": "mksglu",
@@ -12,10 +25,23 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 24879,
-      "forks": 1788,
+      "stars": 24945,
+      "forks": 1796,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "colbymchenry/codegraph",
+      "owner": "colbymchenry",
+      "name": "codegraph",
+      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
+      "url": "https://github.com/colbymchenry/codegraph",
+      "avatarUrl": "https://github.com/colbymchenry.png",
+      "stars": 72854,
+      "forks": 4682,
+      "todayStars": 0,
+      "language": "C",
       "topics": []
     }
   ],
