@@ -2,9 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-03T08:20:34.155Z",
+  "updated": "2026-10-03T13:32:43.624Z",
   "count": 3,
   "repos": [
+    {
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://github.com/affaan-m.png",
+      "stars": 271838,
+      "forks": 40598,
+      "todayStars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
     {
       "fullName": "JuliusBrussee/caveman",
       "owner": "JuliusBrussee",
@@ -12,8 +25,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 109233,
-      "forks": 6319,
+      "stars": 109337,
+      "forks": 6324,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,23 +38,10 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 25116,
-      "forks": 1803,
+      "stars": 25170,
+      "forks": 1805,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "colbymchenry/codegraph",
-      "owner": "colbymchenry",
-      "name": "codegraph",
-      "description": "Pre-indexed code knowledge graph, auto syncs on code changes, for Claude Code, Codex, Gemini, Cursor, OpenCode, AntiGravity, Kiro, CoPilot, and Hermes Agent — fewer tokens, fewer tool calls, 100% local",
-      "url": "https://github.com/colbymchenry/codegraph",
-      "avatarUrl": "https://github.com/colbymchenry.png",
-      "stars": 73053,
-      "forks": 4686,
-      "todayStars": 0,
-      "language": "C",
       "topics": []
     }
   ],
