@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-03T20:11:52.733Z",
-  "count": 8,
+  "updated": "2026-10-03T22:52:04.880Z",
+  "count": 9,
   "repos": [
     {
       "fullName": "debpalash/VoiceStudio",
@@ -12,8 +12,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 52484,
-      "forks": 5852,
+      "stars": 52556,
+      "forks": 5857,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 75134,
-      "forks": 4507,
+      "stars": 75247,
+      "forks": 4515,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 63048,
-      "forks": 10786,
+      "stars": 63119,
+      "forks": 10791,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 56255,
-      "forks": 5058,
+      "stars": 56297,
+      "forks": 5060,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Build production-ready applications in TypeScript",
       "url": "https://github.com/Effect-TS/effect",
       "avatarUrl": "https://github.com/Effect-TS.png",
-      "stars": 16774,
-      "forks": 811,
+      "stars": 16796,
+      "forks": 813,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179300,
-      "forks": 32903,
+      "stars": 179303,
+      "forks": 32921,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8286,
-      "forks": 834,
+      "stars": 8288,
+      "forks": 835,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,10 +103,23 @@
       "description": "Rust GUI components for building fantastic cross-platform desktop application by using GPUI.",
       "url": "https://github.com/longbridge/gpui-kit",
       "avatarUrl": "https://github.com/longbridge.png",
-      "stars": 15822,
-      "forks": 973,
+      "stars": 15837,
+      "forks": 975,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "boykopovar/AnyPS5",
+      "owner": "boykopovar",
+      "name": "AnyPS5",
+      "description": "Tool for automatic PS5 executables porting to Linux and Windows",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "avatarUrl": "https://github.com/boykopovar.png",
+      "stars": 3224,
+      "forks": 273,
+      "todayStars": 0,
+      "language": "C++",
       "topics": []
     }
   ],
