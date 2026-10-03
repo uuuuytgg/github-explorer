@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-03T02:18:38.052Z",
+  "updated": "2026-10-03T08:20:34.155Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 88714,
-      "forks": 7812,
+      "stars": 89122,
+      "forks": 7849,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 109120,
-      "forks": 6316,
+      "stars": 109233,
+      "forks": 6319,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 294488,
-      "forks": 26321,
+      "stars": 294601,
+      "forks": 26332,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 274749,
-      "forks": 23062,
+      "stars": 274906,
+      "forks": 23074,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 14450,
-      "forks": 1660,
+      "stars": 14541,
+      "forks": 1669,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 52430,
-      "forks": 7880,
+      "stars": 52519,
+      "forks": 7885,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 25053,
-      "forks": 1799,
+      "stars": 25116,
+      "forks": 1803,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Developer-first error tracking and performance monitoring",
       "url": "https://github.com/getsentry/sentry",
       "avatarUrl": "https://github.com/getsentry.png",
-      "stars": 45040,
-      "forks": 4892,
+      "stars": 45085,
+      "forks": 4894,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "yoink any video from your terminal. no shady ads.",
       "url": "https://github.com/pablostanley/yoinks",
       "avatarUrl": "https://github.com/pablostanley.png",
-      "stars": 3527,
-      "forks": 310,
+      "stars": 3642,
+      "forks": 318,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
