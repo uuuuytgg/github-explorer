@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-04T08:25:46.579Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-10-04T14:10:26.738Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "tester-army/e2e",
+      "owner": "tester-army",
+      "name": "e2e",
+      "description": "Next generation e2e testing framework for web and mobile apps.",
+      "url": "https://github.com/tester-army/e2e",
+      "avatarUrl": "https://github.com/tester-army.png",
+      "stars": 2534,
+      "forks": 96,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    }
+  ],
   "error": null
 }
