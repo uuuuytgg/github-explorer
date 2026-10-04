@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-04T14:10:26.738Z",
+  "updated": "2026-10-04T18:08:04.395Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "url": "https://github.com/tester-army/e2e",
       "avatarUrl": "https://github.com/tester-army.png",
-      "stars": 2534,
-      "forks": 96,
+      "stars": 2791,
+      "forks": 107,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
       "url": "https://github.com/coreyhaines31/marketingskills",
       "avatarUrl": "https://github.com/coreyhaines31.png",
-      "stars": 52827,
-      "forks": 7910,
+      "stars": 52934,
+      "forks": 7914,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 90441,
-      "forks": 7945,
+      "stars": 90627,
+      "forks": 7965,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Developer-first error tracking and performance monitoring",
       "url": "https://github.com/getsentry/sentry",
       "avatarUrl": "https://github.com/getsentry.png",
-      "stars": 45286,
-      "forks": 4900,
+      "stars": 45333,
+      "forks": 4901,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 62895,
-      "forks": 8028,
+      "stars": 63033,
+      "forks": 8042,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "url": "https://github.com/caddyserver/caddy",
       "avatarUrl": "https://github.com/caddyserver.png",
-      "stars": 76328,
-      "forks": 5035,
+      "stars": 76435,
+      "forks": 5040,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 101029,
-      "forks": 10611,
+      "stars": 101120,
+      "forks": 10612,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Use Garry Tan's exact Claude Code setup: 23 opinionated tools that serve as CEO, Designer, Eng Manager, Release Manager, Doc Engineer, and QA",
       "url": "https://github.com/garrytan/gstack",
       "avatarUrl": "https://github.com/garrytan.png",
-      "stars": 135035,
-      "forks": 20081,
+      "stars": 135087,
+      "forks": 20089,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "DeepSeek 4 Flash and PRO local inference engine for Metal, CUDA and ROCm",
       "url": "https://github.com/antirez/ds4",
       "avatarUrl": "https://github.com/antirez.png",
-      "stars": 23305,
-      "forks": 2239,
+      "stars": 23364,
+      "forks": 2246,
       "todayStars": 0,
       "language": "C",
       "topics": []

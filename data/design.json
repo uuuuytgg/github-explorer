@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-04T14:10:26.738Z",
+  "updated": "2026-10-04T18:08:04.395Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 75903,
-      "forks": 4539,
+      "stars": 76082,
+      "forks": 4544,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 52933,
-      "forks": 5893,
+      "stars": 53032,
+      "forks": 5911,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 56528,
-      "forks": 5077,
+      "stars": 56648,
+      "forks": 5082,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "Build production-ready applications in TypeScript",
       "url": "https://github.com/Effect-TS/effect",
       "avatarUrl": "https://github.com/Effect-TS.png",
-      "stars": 16930,
+      "stars": 16948,
       "forks": 818,
       "todayStars": 0,
       "language": "TypeScript",
@@ -64,8 +64,8 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 63576,
-      "forks": 10878,
+      "stars": 63763,
+      "forks": 10907,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8315,
-      "forks": 837,
+      "stars": 8332,
+      "forks": 838,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 4844,
-      "forks": 347,
+      "stars": 4908,
+      "forks": 353,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
