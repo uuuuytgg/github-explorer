@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-05T05:30:24.943Z",
-  "count": 7,
+  "updated": "2026-10-05T12:36:28.324Z",
+  "count": 10,
   "repos": [
     {
       "fullName": "pbakaus/impeccable",
@@ -12,23 +12,10 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 76464,
-      "forks": 4563,
+      "stars": 76786,
+      "forks": 4580,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "debpalash/VoiceStudio",
-      "owner": "debpalash",
-      "name": "VoiceStudio",
-      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
-      "url": "https://github.com/debpalash/VoiceStudio",
-      "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 53277,
-      "forks": 5933,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -38,10 +25,23 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 56860,
-      "forks": 5103,
+      "stars": 57027,
+      "forks": 5112,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatarUrl": "https://github.com/debpalash.png",
+      "stars": 53439,
+      "forks": 5957,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -51,10 +51,23 @@
       "description": "Build production-ready applications in TypeScript",
       "url": "https://github.com/Effect-TS/effect",
       "avatarUrl": "https://github.com/Effect-TS.png",
-      "stars": 16989,
-      "forks": 819,
+      "stars": 17014,
+      "forks": 823,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "Gaurav-Gosain/tuios",
+      "owner": "Gaurav-Gosain",
+      "name": "tuios",
+      "description": "A terminal window manager that knows what your agents are doing. Tiling panes, workspaces, sessions that survive restarts, and one Inbox for every coding agent.",
+      "url": "https://github.com/Gaurav-Gosain/tuios",
+      "avatarUrl": "https://github.com/Gaurav-Gosain.png",
+      "stars": 4749,
+      "forks": 208,
+      "todayStars": 0,
+      "language": "Go",
       "topics": []
     },
     {
@@ -64,10 +77,23 @@
       "description": "Learn it. Build it. Ship it for others.",
       "url": "https://github.com/rohitg00/ai-engineering-from-scratch",
       "avatarUrl": "https://github.com/rohitg00.png",
-      "stars": 64049,
-      "forks": 10965,
+      "stars": 64316,
+      "forks": 11037,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "cloudflare/cloudflare-os",
+      "owner": "cloudflare",
+      "name": "cloudflare-os",
+      "description": "Agent workspace built on Cloudflare Workers for creating documents, building apps, and running agents with your company’s context and systems.",
+      "url": "https://github.com/cloudflare/cloudflare-os",
+      "avatarUrl": "https://github.com/cloudflare.png",
+      "stars": 10822,
+      "forks": 1301,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -77,10 +103,23 @@
       "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
       "url": "https://github.com/tile-ai/tilelang",
       "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8377,
-      "forks": 840,
+      "stars": 8401,
+      "forks": 846,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://github.com/msitarzewski.png",
+      "stars": 156954,
+      "forks": 25337,
+      "todayStars": 0,
+      "language": "Shell",
       "topics": []
     },
     {
@@ -90,8 +129,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 5021,
-      "forks": 364,
+      "stars": 5085,
+      "forks": 372,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

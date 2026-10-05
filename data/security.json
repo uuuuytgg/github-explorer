@@ -2,8 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-05T05:30:24.943Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-10-05T12:36:28.324Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://github.com/msitarzewski.png",
+      "stars": 156954,
+      "forks": 25337,
+      "todayStars": 0,
+      "language": "Shell",
+      "topics": []
+    }
+  ],
   "error": null
 }
