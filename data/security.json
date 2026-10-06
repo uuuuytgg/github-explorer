@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-05T20:44:58.011Z",
+  "updated": "2026-10-06T01:28:17.097Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 157174,
-      "forks": 25358,
+      "stars": 157273,
+      "forks": 25371,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Pi-hole-class DNS ad-blocker on a $2 ESP32-C3 (no PSRAM): 537k domains as 40-bit FNV-1a hashes in flash, binary-searched. UDP DNS sinkhole + web dashboard. https://youtube.com/shorts/RaxszOUMi8E?feature=share",
       "url": "https://github.com/M-Abozaid/esp32-c3-adblock",
       "avatarUrl": "https://github.com/M-Abozaid.png",
-      "stars": 1286,
-      "forks": 118,
+      "stars": 1356,
+      "forks": 120,
       "todayStars": 0,
       "language": "C++",
       "topics": []

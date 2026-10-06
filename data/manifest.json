@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-05T20:44:58.011Z",
+  "updated": "2026-10-06T01:28:17.097Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -9,7 +9,7 @@
     "newest": {
       "label": "本周新星",
       "icon": "🆕",
-      "count": 20
+      "count": 21
     },
     "ai": {
       "label": "AI & LLM",

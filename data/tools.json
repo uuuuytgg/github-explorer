@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-05T20:44:58.011Z",
+  "updated": "2026-10-06T01:28:17.097Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "url": "https://github.com/tester-army/e2e",
       "avatarUrl": "https://github.com/tester-army.png",
-      "stars": 4545,
-      "forks": 191,
+      "stars": 4830,
+      "forks": 199,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Give your AI agent eyes to see the entire internet. Read &amp; search Twitter, Reddit, YouTube, GitHub, Bilibili, XiaoHongShu — one CLI, zero API fees.",
       "url": "https://github.com/Panniantong/Agent-Reach",
       "avatarUrl": "https://github.com/Panniantong.png",
-      "stars": 91790,
-      "forks": 8058,
+      "stars": 91899,
+      "forks": 8065,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "World's first open-source, agentic video production system. 12 production pipelines, 100+ tools, 700+ agent skill and production-knowledge files. Turn your AI coding assistant into a full video production studio.",
       "url": "https://github.com/calesthio/OpenMontage",
       "avatarUrl": "https://github.com/calesthio.png",
-      "stars": 63905,
-      "forks": 8119,
+      "stars": 64049,
+      "forks": 8129,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Fast and extensible multi-platform HTTP/1-2-3 web server with automatic HTTPS",
       "url": "https://github.com/caddyserver/caddy",
       "avatarUrl": "https://github.com/caddyserver.png",
-      "stars": 77032,
-      "forks": 5072,
+      "stars": 77131,
+      "forks": 5074,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "url": "https://github.com/DuarteSantos8/openGym",
       "avatarUrl": "https://github.com/DuarteSantos8.png",
-      "stars": 4053,
-      "forks": 635,
+      "stars": 4235,
+      "forks": 657,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 157174,
-      "forks": 25358,
+      "stars": 157273,
+      "forks": 25371,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
