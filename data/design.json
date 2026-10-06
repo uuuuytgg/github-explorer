@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-06T19:48:08.122Z",
+  "updated": "2026-10-06T23:23:50.923Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 5458,
-      "forks": 399,
+      "stars": 5503,
+      "forks": 403,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 57836,
-      "forks": 5158,
+      "stars": 57923,
+      "forks": 5161,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 6116,
-      "forks": 453,
+      "stars": 6429,
+      "forks": 467,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "中英双语终身学习指南：英语学习、AI 协作、真实项目与成长证据。A bilingual guide to English learning and AI-era growth.",
       "url": "https://github.com/byoungd/up",
       "avatarUrl": "https://github.com/byoungd.png",
-      "stars": 67496,
-      "forks": 6696,
+      "stars": 67501,
+      "forks": 6698,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
