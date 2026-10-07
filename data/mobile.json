@@ -2,9 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-07T09:13:21.252Z",
-  "count": 1,
+  "updated": "2026-10-07T16:27:18.672Z",
+  "count": 2,
   "repos": [
+    {
+      "fullName": "manaflow-ai/cmux",
+      "owner": "manaflow-ai",
+      "name": "cmux",
+      "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
+      "url": "https://github.com/manaflow-ai/cmux",
+      "avatarUrl": "https://github.com/manaflow-ai.png",
+      "stars": 27752,
+      "forks": 2458,
+      "todayStars": 0,
+      "language": "Swift",
+      "topics": []
+    },
     {
       "fullName": "tester-army/e2e",
       "owner": "tester-army",
@@ -12,8 +25,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "url": "https://github.com/tester-army/e2e",
       "avatarUrl": "https://github.com/tester-army.png",
-      "stars": 6756,
-      "forks": 298,
+      "stars": 7122,
+      "forks": 315,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
