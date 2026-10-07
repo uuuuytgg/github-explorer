@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-07T02:30:20.415Z",
+  "updated": "2026-10-07T09:13:21.252Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "url": "https://github.com/tester-army/e2e",
       "avatarUrl": "https://github.com/tester-army.png",
-      "stars": 6419,
-      "forks": 289,
+      "stars": 6756,
+      "forks": 298,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 278217,
-      "forks": 23296,
+      "stars": 278632,
+      "forks": 23334,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 9712,
-      "forks": 1079,
+      "stars": 11000,
+      "forks": 1199,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
       "url": "https://github.com/msitarzewski/agency-agents",
       "avatarUrl": "https://github.com/msitarzewski.png",
-      "stars": 157864,
-      "forks": 25451,
+      "stars": 158042,
+      "forks": 25466,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "url": "https://github.com/DuarteSantos8/openGym",
       "avatarUrl": "https://github.com/DuarteSantos8.png",
-      "stars": 5775,
-      "forks": 791,
+      "stars": 6175,
+      "forks": 830,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 44084,
-      "forks": 2842,
+      "stars": 44336,
+      "forks": 2853,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
