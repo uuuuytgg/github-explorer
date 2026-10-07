@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-07T16:27:18.672Z",
+  "updated": "2026-10-07T21:25:32.108Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 13014,
-      "forks": 1378,
+      "stars": 14391,
+      "forks": 1511,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 279160,
-      "forks": 23387,
+      "stars": 279441,
+      "forks": 23411,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Factory Droid, and Pi. 42 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 44673,
-      "forks": 2869,
+      "stars": 44872,
+      "forks": 2882,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 102541,
-      "forks": 10747,
+      "stars": 102710,
+      "forks": 10763,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A native, user-mode, multi-process, graphical debugger.",
       "url": "https://github.com/EpicGames/raddebugger",
       "avatarUrl": "https://github.com/EpicGames.png",
-      "stars": 7767,
-      "forks": 378,
+      "stars": 7832,
+      "forks": 381,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Open source Ghostty-based macOS terminal with vertical tabs and notifications for AI coding agents. Built for multitasking, organization, and programmability.",
       "url": "https://github.com/manaflow-ai/cmux",
       "avatarUrl": "https://github.com/manaflow-ai.png",
-      "stars": 27752,
-      "forks": 2458,
+      "stars": 27806,
+      "forks": 2460,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Scale computer-use 2.0 with open-source drivers, cross-OS fleets, and benchmarks for training, evaluation, and data generation.",
       "url": "https://github.com/trycua/cua",
       "avatarUrl": "https://github.com/trycua.png",
-      "stars": 28639,
-      "forks": 2034,
+      "stars": 28701,
+      "forks": 2038,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Next generation e2e testing framework for web and mobile apps.",
       "url": "https://github.com/tester-army/e2e",
       "avatarUrl": "https://github.com/tester-army.png",
-      "stars": 7122,
-      "forks": 315,
+      "stars": 7313,
+      "forks": 331,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Self-hosted gym &amp; body-weight tracker — plan routines, log workouts (supersets, warm-ups, cardio), see which muscles are trained, fatigued or detrained, import from FitNotes/Strong/Hevy, passkey login. Your data, your server.",
       "url": "https://github.com/DuarteSantos8/openGym",
       "avatarUrl": "https://github.com/DuarteSantos8.png",
-      "stars": 6570,
-      "forks": 881,
+      "stars": 6771,
+      "forks": 894,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
