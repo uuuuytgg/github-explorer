@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-08T07:18:20.131Z",
-  "count": 4,
+  "updated": "2026-10-08T14:42:46.094Z",
+  "count": 3,
   "repos": [
-    {
-      "fullName": "mvschwarz/openrig",
-      "owner": "mvschwarz",
-      "name": "openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "url": "https://github.com/mvschwarz/openrig",
-      "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 5897,
-      "forks": 434,
-      "todayStars": 0,
-      "language": "TypeScript",
-      "topics": []
-    },
     {
       "fullName": "boykopovar/AnyPS5",
       "owner": "boykopovar",
@@ -25,10 +12,23 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 11696,
-      "forks": 892,
+      "stars": 13636,
+      "forks": 1048,
       "todayStars": 0,
       "language": "C++",
+      "topics": []
+    },
+    {
+      "fullName": "mvschwarz/openrig",
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "avatarUrl": "https://github.com/mvschwarz.png",
+      "stars": 6015,
+      "forks": 441,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -38,23 +38,10 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 58753,
-      "forks": 5227,
+      "stars": 58980,
+      "forks": 5257,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "tile-ai/tilelang",
-      "owner": "tile-ai",
-      "name": "tilelang",
-      "description": "Domain-specific language designed to streamline the development of high-performance GPU/CPU/Accelerators kernels",
-      "url": "https://github.com/tile-ai/tilelang",
-      "avatarUrl": "https://github.com/tile-ai.png",
-      "stars": 8503,
-      "forks": 858,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],
