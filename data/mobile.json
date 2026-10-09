@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-09T00:18:27.051Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-10-09T13:31:13.167Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "twostraws/SwiftUI-Agent-Skill",
+      "owner": "twostraws",
+      "name": "SwiftUI-Agent-Skill",
+      "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
+      "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
+      "avatarUrl": "https://github.com/twostraws.png",
+      "stars": 5247,
+      "forks": 191,
+      "todayStars": 0,
+      "language": "",
+      "topics": []
+    }
+  ],
   "error": null
 }
