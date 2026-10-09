@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-09T13:31:13.167Z",
+  "updated": "2026-10-09T18:58:47.073Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 19328,
-      "forks": 1527,
+      "stars": 21003,
+      "forks": 1692,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 6306,
-      "forks": 460,
+      "stars": 6368,
+      "forks": 463,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 59526,
-      "forks": 5307,
+      "stars": 59678,
+      "forks": 5321,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
