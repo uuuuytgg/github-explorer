@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-10T18:51:37.792Z",
+  "updated": "2026-10-10T22:04:29.164Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179406,
-      "forks": 33555,
+      "stars": 179473,
+      "forks": 33583,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
