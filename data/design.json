@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-10T08:41:37.711Z",
-  "count": 3,
+  "updated": "2026-10-10T14:43:34.493Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "boykopovar/AnyPS5",
@@ -12,23 +12,10 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 23724,
-      "forks": 1964,
+      "stars": 25045,
+      "forks": 2082,
       "todayStars": 0,
       "language": "C++",
-      "topics": []
-    },
-    {
-      "fullName": "mvschwarz/openrig",
-      "owner": "mvschwarz",
-      "name": "openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "url": "https://github.com/mvschwarz/openrig",
-      "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 6569,
-      "forks": 483,
-      "todayStars": 0,
-      "language": "TypeScript",
       "topics": []
     },
     {
@@ -38,10 +25,36 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 59998,
-      "forks": 5356,
+      "stars": 60158,
+      "forks": 5374,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "mvschwarz/openrig",
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "avatarUrl": "https://github.com/mvschwarz.png",
+      "stars": 6639,
+      "forks": 486,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "flutter/flutter",
+      "owner": "flutter",
+      "name": "flutter",
+      "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
+      "url": "https://github.com/flutter/flutter",
+      "avatarUrl": "https://github.com/flutter.png",
+      "stars": 179330,
+      "forks": 33545,
+      "todayStars": 0,
+      "language": "Dart",
       "topics": []
     }
   ],
