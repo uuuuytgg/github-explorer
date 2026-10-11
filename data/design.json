@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-11T06:44:57.074Z",
+  "updated": "2026-10-11T13:32:47.035Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 27530,
-      "forks": 2327,
+      "stars": 28528,
+      "forks": 2424,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,21 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 60457,
-      "forks": 5401,
-      "todayStars": 0,
-      "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "mvschwarz/openrig",
-      "owner": "mvschwarz",
-      "name": "openrig",
-      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
-      "url": "https://github.com/mvschwarz/openrig",
-      "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 6776,
-      "forks": 501,
+      "stars": 60628,
+      "forks": 5420,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,10 +38,23 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179636,
-      "forks": 33627,
+      "stars": 179739,
+      "forks": 33697,
       "todayStars": 0,
       "language": "Dart",
+      "topics": []
+    },
+    {
+      "fullName": "mvschwarz/openrig",
+      "owner": "mvschwarz",
+      "name": "openrig",
+      "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
+      "url": "https://github.com/mvschwarz/openrig",
+      "avatarUrl": "https://github.com/mvschwarz.png",
+      "stars": 6840,
+      "forks": 511,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],
