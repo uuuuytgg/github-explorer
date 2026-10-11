@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-11T18:26:41.197Z",
+  "updated": "2026-10-11T22:11:09.042Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 96461,
-      "forks": 21511,
+      "stars": 101179,
+      "forks": 22221,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 50013,
-      "forks": 3174,
+      "stars": 50218,
+      "forks": 3189,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "url": "https://github.com/pytorch/pytorch",
       "avatarUrl": "https://github.com/pytorch.png",
-      "stars": 104386,
-      "forks": 32075,
+      "stars": 104443,
+      "forks": 32090,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "url": "https://github.com/lyogavin/airllm",
       "avatarUrl": "https://github.com/lyogavin.png",
-      "stars": 36301,
-      "forks": 3806,
+      "stars": 36408,
+      "forks": 3814,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
