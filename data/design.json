@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-12T16:59:42.077Z",
+  "updated": "2026-10-12T23:30:39.409Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 32148,
-      "forks": 2775,
+      "stars": 32795,
+      "forks": 2845,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 61593,
-      "forks": 5511,
+      "stars": 61786,
+      "forks": 5530,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 179913,
-      "forks": 33838,
+      "stars": 179955,
+      "forks": 33840,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Build your own network of agents from Claude Code, Codex and Pi: persistent teams with roles, shared context and owned work.",
       "url": "https://github.com/mvschwarz/openrig",
       "avatarUrl": "https://github.com/mvschwarz.png",
-      "stars": 7165,
-      "forks": 540,
+      "stars": 7237,
+      "forks": 548,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
