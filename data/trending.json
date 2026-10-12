@@ -2,7 +2,7 @@
   "category": "trending",
   "label": "热门趋势",
   "icon": "🔥",
-  "updated": "2026-10-12T01:18:05.754Z",
+  "updated": "2026-10-12T07:31:58.551Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 105888,
-      "forks": 23334,
+      "stars": 121021,
+      "forks": 27176,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 30182,
-      "forks": 2596,
+      "stars": 31025,
+      "forks": 2670,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 17978,
-      "forks": 2943,
+      "stars": 19136,
+      "forks": 3121,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 50389,
-      "forks": 3200,
+      "stars": 51097,
+      "forks": 3238,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "avatarUrl": "https://github.com/bilawalsidhu.png",
-      "stars": 51725,
-      "forks": 10383,
+      "stars": 52269,
+      "forks": 10450,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Tensors and Dynamic neural networks in Python with strong GPU acceleration",
       "url": "https://github.com/pytorch/pytorch",
       "avatarUrl": "https://github.com/pytorch.png",
-      "stars": 104505,
-      "forks": 32128,
+      "stars": 104651,
+      "forks": 32185,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "AirLLM 70B inference with single 4GB GPU",
       "url": "https://github.com/lyogavin/airllm",
       "avatarUrl": "https://github.com/lyogavin.png",
-      "stars": 36506,
-      "forks": 3818,
+      "stars": 36798,
+      "forks": 3831,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Original Apollo 11 Guidance Computer (AGC) source code for the command and lunar modules.",
       "url": "https://github.com/chrislgarry/Apollo-11",
       "avatarUrl": "https://github.com/chrislgarry.png",
-      "stars": 74270,
-      "forks": 8104,
+      "stars": 74436,
+      "forks": 8118,
       "todayStars": 0,
       "language": "Assembly",
       "topics": []
