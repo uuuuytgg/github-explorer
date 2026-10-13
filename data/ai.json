@@ -2,8 +2,8 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-13T03:50:46.215Z",
-  "count": 7,
+  "updated": "2026-10-13T11:13:54.251Z",
+  "count": 6,
   "repos": [
     {
       "fullName": "morluto/rea",
@@ -12,10 +12,23 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 166314,
-      "forks": 39379,
+      "stars": 184635,
+      "forks": 44712,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "debpalash/VoiceStudio",
+      "owner": "debpalash",
+      "name": "VoiceStudio",
+      "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
+      "url": "https://github.com/debpalash/VoiceStudio",
+      "avatarUrl": "https://github.com/debpalash.png",
+      "stars": 61299,
+      "forks": 6871,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -25,23 +38,10 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 27425,
-      "forks": 1952,
+      "stars": 27739,
+      "forks": 1968,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "open-webui/open-webui",
-      "owner": "open-webui",
-      "name": "open-webui",
-      "description": "User-friendly AI Interface (Supports Ollama, OpenAI API, ...)",
-      "url": "https://github.com/open-webui/open-webui",
-      "avatarUrl": "https://github.com/open-webui.png",
-      "stars": 155177,
-      "forks": 22653,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     },
     {
@@ -51,10 +51,23 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 52876,
-      "forks": 3341,
+      "stars": 53344,
+      "forks": 3377,
       "todayStars": 0,
       "language": "HTML",
+      "topics": []
+    },
+    {
+      "fullName": "vercel-labs/skills",
+      "owner": "vercel-labs",
+      "name": "skills",
+      "description": "The open agent skills tool - npx skills",
+      "url": "https://github.com/vercel-labs/skills",
+      "avatarUrl": "https://github.com/vercel-labs.png",
+      "stars": 34113,
+      "forks": 2928,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -64,36 +77,10 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "url": "https://github.com/lyogavin/airllm",
       "avatarUrl": "https://github.com/lyogavin.png",
-      "stars": 37650,
-      "forks": 3879,
+      "stars": 37938,
+      "forks": 3892,
       "todayStars": 0,
       "language": "Jupyter Notebook",
-      "topics": []
-    },
-    {
-      "fullName": "microsoft/BitNet",
-      "owner": "microsoft",
-      "name": "BitNet",
-      "description": "Official inference framework for 1-bit LLMs",
-      "url": "https://github.com/microsoft/BitNet",
-      "avatarUrl": "https://github.com/microsoft.png",
-      "stars": 40960,
-      "forks": 3815,
-      "todayStars": 0,
-      "language": "C++",
-      "topics": []
-    },
-    {
-      "fullName": "Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "description": "Use Claude Code, Codex, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 59318,
-      "forks": 9339,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],

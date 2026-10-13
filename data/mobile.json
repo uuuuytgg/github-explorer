@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-13T03:50:46.215Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-10-13T11:13:54.251Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "xtool-org/xtool",
+      "owner": "xtool-org",
+      "name": "xtool",
+      "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
+      "url": "https://github.com/xtool-org/xtool",
+      "avatarUrl": "https://github.com/xtool-org.png",
+      "stars": 8533,
+      "forks": 351,
+      "todayStars": 0,
+      "language": "Swift",
+      "topics": []
+    }
+  ],
   "error": null
 }
