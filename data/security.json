@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-13T11:13:54.251Z",
+  "updated": "2026-10-13T18:17:31.942Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 27739,
-      "forks": 1968,
+      "stars": 28019,
+      "forks": 1985,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
