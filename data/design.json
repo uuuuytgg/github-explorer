@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-14T20:48:05.348Z",
+  "updated": "2026-10-14T23:31:04.376Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 36944,
-      "forks": 3258,
+      "stars": 37092,
+      "forks": 3276,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 63602,
-      "forks": 5704,
+      "stars": 63674,
+      "forks": 5714,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 55248,
-      "forks": 3494,
+      "stars": 55300,
+      "forks": 3497,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,7 +51,7 @@
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "avatarUrl": "https://github.com/twostraws.png",
-      "stars": 5945,
+      "stars": 5965,
       "forks": 218,
       "todayStars": 0,
       "language": "",
@@ -64,8 +64,8 @@
       "description": "Flutter makes it easy and fast to build beautiful apps for mobile and beyond",
       "url": "https://github.com/flutter/flutter",
       "avatarUrl": "https://github.com/flutter.png",
-      "stars": 180152,
-      "forks": 34109,
+      "stars": 180166,
+      "forks": 34106,
       "todayStars": 0,
       "language": "Dart",
       "topics": []
