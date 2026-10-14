@@ -2,7 +2,7 @@
   "category": "trending",
   "label": "热门趋势",
   "icon": "🔥",
-  "updated": "2026-10-14T01:29:55.622Z",
+  "updated": "2026-10-14T06:31:36.256Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 208577,
-      "forks": 51002,
+      "stars": 217643,
+      "forks": 53779,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A spy satellite simulator in your browser, except the data is real. Live open source spatial intelligence on a photorealistic 3D globe.",
       "url": "https://github.com/bilawalsidhu/gods-eye-view",
       "avatarUrl": "https://github.com/bilawalsidhu.png",
-      "stars": 55440,
-      "forks": 10838,
+      "stars": 55818,
+      "forks": 10886,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 63388,
-      "forks": 7050,
+      "stars": 64134,
+      "forks": 7129,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 28266,
-      "forks": 1995,
+      "stars": 28473,
+      "forks": 2007,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 54171,
-      "forks": 3439,
+      "stars": 54588,
+      "forks": 3453,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The open agent skills tool - npx skills",
       "url": "https://github.com/vercel-labs/skills",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 34529,
-      "forks": 2953,
+      "stars": 34704,
+      "forks": 2960,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "AirLLM 2.8T LLM inference with single 4GB GPU",
       "url": "https://github.com/lyogavin/airllm",
       "avatarUrl": "https://github.com/lyogavin.png",
-      "stars": 38354,
-      "forks": 3922,
+      "stars": 38480,
+      "forks": 3932,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 25742,
-      "forks": 4035,
+      "stars": 26382,
+      "forks": 4126,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "url": "https://github.com/xtool-org/xtool",
       "avatarUrl": "https://github.com/xtool-org.png",
-      "stars": 9411,
-      "forks": 400,
+      "stars": 9747,
+      "forks": 410,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
