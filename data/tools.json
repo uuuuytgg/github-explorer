@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-14T17:22:45.985Z",
+  "updated": "2026-10-14T20:48:05.348Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 234889,
-      "forks": 58637,
+      "stars": 238482,
+      "forks": 59376,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 28909,
-      "forks": 2030,
+      "stars": 28996,
+      "forks": 2038,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "url": "https://github.com/nvm-sh/nvm",
       "avatarUrl": "https://github.com/nvm-sh.png",
-      "stars": 95403,
-      "forks": 10510,
+      "stars": 95428,
+      "forks": 10514,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 52325,
-      "forks": 4764,
+      "stars": 52395,
+      "forks": 4769,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "url": "https://github.com/xtool-org/xtool",
       "avatarUrl": "https://github.com/xtool-org.png",
-      "stars": 10399,
-      "forks": 452,
+      "stars": 10598,
+      "forks": 467,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "avatarUrl": "https://github.com/NationalSecurityAgency.png",
-      "stars": 87123,
-      "forks": 9736,
+      "stars": 87311,
+      "forks": 9752,
       "todayStars": 0,
       "language": "Java",
       "topics": []
