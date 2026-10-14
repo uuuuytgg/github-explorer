@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-14T06:31:36.256Z",
-  "count": 1,
+  "updated": "2026-10-14T12:20:28.633Z",
+  "count": 2,
   "repos": [
     {
       "fullName": "mksglu/context-mode",
@@ -12,10 +12,23 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 28473,
-      "forks": 2007,
+      "stars": 28719,
+      "forks": 2017,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "ifixai-ai/iFixAi",
+      "owner": "ifixai-ai",
+      "name": "iFixAi",
+      "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
+      "url": "https://github.com/ifixai-ai/iFixAi",
+      "avatarUrl": "https://github.com/ifixai-ai.png",
+      "stars": 26620,
+      "forks": 1474,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],

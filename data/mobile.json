@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-14T06:31:36.256Z",
+  "updated": "2026-10-14T12:20:28.633Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Cross-platform Xcode replacement. Build and deploy iOS apps with SwiftPM on Linux, Windows, macOS.",
       "url": "https://github.com/xtool-org/xtool",
       "avatarUrl": "https://github.com/xtool-org.png",
-      "stars": 9747,
-      "forks": 410,
+      "stars": 10075,
+      "forks": 431,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
