@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-15T01:48:34.738Z",
+  "updated": "2026-10-15T06:36:59.732Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 243686,
-      "forks": 60822,
+      "stars": 250744,
+      "forks": 62966,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 66484,
-      "forks": 7322,
+      "stars": 67144,
+      "forks": 7380,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 29167,
-      "forks": 2047,
+      "stars": 29362,
+      "forks": 2056,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Turn any AI agent into an AI Scientist. The #1 Agent Skills library for science, used by 250,000+ scientists worldwide. 177 ready-to-use validated skills plus 100+ scientific databases covering biology, chemistry, medicine, and drug discovery. Compatible with Cursor, Claude Code, Codex, Pi, Antigravity, and the open Agent Skills standard.",
       "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
       "avatarUrl": "https://github.com/K-Dense-AI.png",
-      "stars": 49399,
-      "forks": 4424,
+      "stars": 49641,
+      "forks": 4440,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 52539,
-      "forks": 4774,
+      "stars": 52728,
+      "forks": 4785,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Independent Auditing of AI Agents. Run by human or the agent itself, to answer the most crucial question in the AI Agent Economy. Is the agent doing what is supposed to do? With iFixAi you can have this answer in less than 120 seconds.",
       "url": "https://github.com/ifixai-ai/iFixAi",
       "avatarUrl": "https://github.com/ifixai-ai.png",
-      "stars": 27479,
-      "forks": 1505,
+      "stars": 27824,
+      "forks": 1518,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Fully autonomous AI Agents system capable of performing complex penetration testing tasks",
       "url": "https://github.com/vxcontrol/pentagi",
       "avatarUrl": "https://github.com/vxcontrol.png",
-      "stars": 29545,
-      "forks": 4436,
+      "stars": 29910,
+      "forks": 4483,
       "todayStars": 0,
       "language": "Go",
       "topics": []
