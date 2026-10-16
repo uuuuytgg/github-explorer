@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-16T01:16:15.157Z",
+  "updated": "2026-10-16T05:58:14.023Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 38696,
-      "forks": 3444,
+      "stars": 38945,
+      "forks": 3477,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 64575,
-      "forks": 5801,
+      "stars": 64749,
+      "forks": 5830,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 55933,
-      "forks": 3535,
+      "stars": 56055,
+      "forks": 3546,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "SwiftUI agent skill for Claude Code, Codex, and other AI tools.",
       "url": "https://github.com/twostraws/SwiftUI-Agent-Skill",
       "avatarUrl": "https://github.com/twostraws.png",
-      "stars": 6096,
-      "forks": 221,
+      "stars": 6123,
+      "forks": 222,
       "todayStars": 0,
       "language": "",
       "topics": []
