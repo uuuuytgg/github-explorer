@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-16T23:51:45.843Z",
+  "updated": "2026-10-17T01:50:18.829Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 30590,
-      "forks": 4861,
+      "stars": 30664,
+      "forks": 4870,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 39894,
-      "forks": 3567,
+      "stars": 39956,
+      "forks": 3577,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 56425,
-      "forks": 3577,
+      "stars": 56458,
+      "forks": 3580,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 65306,
-      "forks": 5883,
+      "stars": 65337,
+      "forks": 5884,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
