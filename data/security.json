@@ -2,35 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-18T10:00:28.081Z",
-  "count": 2,
-  "repos": [
-    {
-      "fullName": "affaan-m/ECC",
-      "owner": "affaan-m",
-      "name": "ECC",
-      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
-      "url": "https://github.com/affaan-m/ECC",
-      "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 282872,
-      "forks": 42015,
-      "todayStars": 0,
-      "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "xerj-org/xerj",
-      "owner": "xerj-org",
-      "name": "xerj",
-      "description": "XERJ is the new way for AI to search data. Its autoindex capability activates agents to know your data without the token waste of grep (1974 tool). One command indexes code, docs, logs and PDFs for search, RAG, security audits and agent memory, using 40x fewer tokens than grep. It’s durable and can replace ElasticSearch saving you x10 infra costs.",
-      "url": "https://github.com/xerj-org/xerj",
-      "avatarUrl": "https://github.com/xerj-org.png",
-      "stars": 8096,
-      "forks": 429,
-      "todayStars": 0,
-      "language": "Rust",
-      "topics": []
-    }
-  ],
+  "updated": "2026-10-18T13:58:04.253Z",
+  "count": 0,
+  "repos": [],
   "error": null
 }

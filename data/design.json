@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-18T10:00:28.081Z",
-  "count": 4,
+  "updated": "2026-10-18T13:58:04.253Z",
+  "count": 5,
   "repos": [
     {
       "fullName": "storytold/artcraft",
@@ -12,8 +12,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 32167,
-      "forks": 5099,
+      "stars": 32323,
+      "forks": 5122,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 42327,
-      "forks": 3832,
+      "stars": 42595,
+      "forks": 3855,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 57298,
-      "forks": 3652,
+      "stars": 57418,
+      "forks": 3662,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -51,10 +51,23 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 66230,
-      "forks": 5986,
+      "stars": 66410,
+      "forks": 6002,
       "todayStars": 0,
       "language": "TypeScript",
+      "topics": []
+    },
+    {
+      "fullName": "MadsLorentzen/ai-job-search",
+      "owner": "MadsLorentzen",
+      "name": "ai-job-search",
+      "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
+      "url": "https://github.com/MadsLorentzen/ai-job-search",
+      "avatarUrl": "https://github.com/MadsLorentzen.png",
+      "stars": 51687,
+      "forks": 17117,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
