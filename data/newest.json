@@ -2,7 +2,7 @@
   "category": "newest",
   "label": "本周新星",
   "icon": "🆕",
-  "updated": "2026-10-18T05:54:03.250Z",
+  "updated": "2026-10-18T10:00:28.081Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 310821,
-      "forks": 78716,
+      "stars": 313755,
+      "forks": 79524,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 31971,
-      "forks": 5069,
+      "stars": 32167,
+      "forks": 5099,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 42044,
-      "forks": 3808,
+      "stars": 42327,
+      "forks": 3832,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 57157,
-      "forks": 3637,
+      "stars": 57298,
+      "forks": 3652,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 41982,
-      "forks": 4476,
+      "stars": 42197,
+      "forks": 4498,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 66121,
-      "forks": 5972,
+      "stars": 66230,
+      "forks": 5986,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 30555,
-      "forks": 2219,
+      "stars": 30586,
+      "forks": 2237,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "avatarUrl": "https://github.com/NationalSecurityAgency.png",
-      "stars": 90390,
-      "forks": 10120,
+      "stars": 90487,
+      "forks": 10132,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 295310,
-      "forks": 24771,
+      "stars": 295524,
+      "forks": 24790,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "A context-compression plugin for small context windows (a 100K context is enough), token savings (5x fewer tokens), and month-long single sessions (billions of tokens).上下文压缩插件，兼顾小窗口(100k上下文足矣)省token(省5倍token)和超长会话(数月级别几十亿token单会话)。billion-context is all you need",
       "url": "https://github.com/ranxianglei/billion-context",
       "avatarUrl": "https://github.com/ranxianglei.png",
-      "stars": 1773,
-      "forks": 143,
+      "stars": 1810,
+      "forks": 147,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
