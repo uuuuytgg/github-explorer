@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-18T21:36:59.507Z",
+  "updated": "2026-10-18T23:37:54.635Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 32633,
-      "forks": 5174,
+      "stars": 32691,
+      "forks": 5182,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 43069,
-      "forks": 3909,
+      "stars": 43171,
+      "forks": 3917,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 57624,
+      "stars": 57666,
       "forks": 3688,
       "todayStars": 0,
       "language": "HTML",
@@ -51,8 +51,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 66660,
-      "forks": 6035,
+      "stars": 66711,
+      "forks": 6046,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 52813,
-      "forks": 17300,
+      "stars": 53048,
+      "forks": 17344,
       "todayStars": 0,
       "language": "Python",
       "topics": []
