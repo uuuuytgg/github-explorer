@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-17T23:22:59.821Z",
+  "updated": "2026-10-18T01:14:53.816Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -24,7 +24,7 @@
     "tools": {
       "label": "开发工具",
       "icon": "🛠",
-      "count": 7
+      "count": 6
     },
     "mobile": {
       "label": "移动开发",
