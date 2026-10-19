@@ -2,7 +2,7 @@
   "category": "newest",
   "label": "本周新星",
   "icon": "🆕",
-  "updated": "2026-10-18T23:37:54.635Z",
+  "updated": "2026-10-19T01:38:43.281Z",
   "count": 10,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Reverse engineer anything with agents, from app behavior down to native binaries.",
       "url": "https://github.com/morluto/rea",
       "avatarUrl": "https://github.com/morluto.png",
-      "stars": 321816,
-      "forks": 81551,
+      "stars": 322789,
+      "forks": 81793,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 32691,
-      "forks": 5182,
+      "stars": 32760,
+      "forks": 5192,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 43171,
-      "forks": 3917,
+      "stars": 43245,
+      "forks": 3926,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
       "url": "https://github.com/anthropics/claude-plugins-official",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 42654,
-      "forks": 4529,
+      "stars": 42721,
+      "forks": 4535,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Context window optimization for AI coding agents. Sandboxes tool output (98% reduction), persists session memory, and enforces routing across 17 platforms via MCP + hooks.",
       "url": "https://github.com/mksglu/context-mode",
       "avatarUrl": "https://github.com/mksglu.png",
-      "stars": 30747,
-      "forks": 2276,
+      "stars": 30770,
+      "forks": 2279,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 57666,
-      "forks": 3688,
+      "stars": 57720,
+      "forks": 3697,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Ghidra is a software reverse engineering (SRE) framework",
       "url": "https://github.com/NationalSecurityAgency/ghidra",
       "avatarUrl": "https://github.com/NationalSecurityAgency.png",
-      "stars": 90874,
-      "forks": 10173,
+      "stars": 90931,
+      "forks": 10180,
       "todayStars": 0,
       "language": "Java",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 66711,
-      "forks": 6046,
+      "stars": 66769,
+      "forks": 6059,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "Cursor plugin specification and official plugins",
       "url": "https://github.com/cursor/plugins",
       "avatarUrl": "https://github.com/cursor.png",
-      "stars": 12722,
-      "forks": 1253,
+      "stars": 12757,
+      "forks": 1258,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -129,8 +129,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 53048,
-      "forks": 17344,
+      "stars": 53315,
+      "forks": 17408,
       "todayStars": 0,
       "language": "Python",
       "topics": []
