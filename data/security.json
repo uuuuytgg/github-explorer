@@ -2,8 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-19T06:46:33.536Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-10-19T14:07:10.131Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "headroomlabs-ai/headroom",
+      "owner": "headroomlabs-ai",
+      "name": "headroom",
+      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
+      "url": "https://github.com/headroomlabs-ai/headroom",
+      "avatarUrl": "https://github.com/headroomlabs-ai.png",
+      "stars": 76038,
+      "forks": 5911,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  ],
   "error": null
 }
