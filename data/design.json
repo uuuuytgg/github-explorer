@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-19T23:10:40.139Z",
+  "updated": "2026-10-20T01:46:10.149Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "ArtCraft is an intentional crafting engine for artists, designers, and filmmakers",
       "url": "https://github.com/storytold/artcraft",
       "avatarUrl": "https://github.com/storytold.png",
-      "stars": 33683,
-      "forks": 5331,
+      "stars": 33757,
+      "forks": 5345,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
       "url": "https://github.com/MadsLorentzen/ai-job-search",
       "avatarUrl": "https://github.com/MadsLorentzen.png",
-      "stars": 57073,
-      "forks": 18158,
+      "stars": 57410,
+      "forks": 18225,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Tool for automatic PS5 executables porting to Linux and Windows",
       "url": "https://github.com/boykopovar/AnyPS5",
       "avatarUrl": "https://github.com/boykopovar.png",
-      "stars": 44430,
-      "forks": 4057,
+      "stars": 44534,
+      "forks": 4072,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Write HTML. Render video. Built for agents.",
       "url": "https://github.com/heygen-com/hyperframes",
       "avatarUrl": "https://github.com/heygen-com.png",
-      "stars": 67629,
-      "forks": 6115,
+      "stars": 67702,
+      "forks": 6119,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, and Pi. 44 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 58370,
-      "forks": 3751,
+      "stars": 58458,
+      "forks": 3754,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 77437,
-      "forks": 8480,
+      "stars": 77563,
+      "forks": 8495,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 77156,
-      "forks": 9102,
+      "stars": 77216,
+      "forks": 9105,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
