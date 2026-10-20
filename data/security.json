@@ -2,9 +2,35 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-20T06:47:00.458Z",
-  "count": 1,
+  "updated": "2026-10-20T12:21:15.714Z",
+  "count": 3,
   "repos": [
+    {
+      "fullName": "cloudflare/security-audit-skill",
+      "owner": "cloudflare",
+      "name": "security-audit-skill",
+      "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "avatarUrl": "https://github.com/cloudflare.png",
+      "stars": 33125,
+      "forks": 2075,
+      "todayStars": 0,
+      "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "msitarzewski/agency-agents",
+      "owner": "msitarzewski",
+      "name": "agency-agents",
+      "description": "A complete AI agency at your fingertips - From frontend wizards to Reddit community ninjas, from whimsy injectors to reality checkers. Each agent is a specialized expert with personality, processes, and proven deliverables.",
+      "url": "https://github.com/msitarzewski/agency-agents",
+      "avatarUrl": "https://github.com/msitarzewski.png",
+      "stars": 161987,
+      "forks": 26223,
+      "todayStars": 0,
+      "language": "Shell",
+      "topics": []
+    },
     {
       "fullName": "headroomlabs-ai/headroom",
       "owner": "headroomlabs-ai",
@@ -12,8 +38,8 @@
       "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
       "url": "https://github.com/headroomlabs-ai/headroom",
       "avatarUrl": "https://github.com/headroomlabs-ai.png",
-      "stars": 76390,
-      "forks": 5931,
+      "stars": 76522,
+      "forks": 5939,
       "todayStars": 0,
       "language": "Python",
       "topics": []
