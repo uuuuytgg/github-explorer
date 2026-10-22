@@ -1,10 +1,10 @@
 {
-  "updated": "2026-10-22T01:49:35.114Z",
+  "updated": "2026-10-22T06:44:48.470Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
       "icon": "🔥",
-      "count": 12
+      "count": 11
     },
     "newest": {
       "label": "本周新星",
@@ -24,7 +24,7 @@
     "tools": {
       "label": "开发工具",
       "icon": "🛠",
-      "count": 8
+      "count": 7
     },
     "mobile": {
       "label": "移动开发",
