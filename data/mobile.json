@@ -2,22 +2,9 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-22T06:44:48.470Z",
-  "count": 2,
+  "updated": "2026-10-22T12:28:29.550Z",
+  "count": 1,
   "repos": [
-    {
-      "fullName": "stablyai/orca",
-      "owner": "stablyai",
-      "name": "orca",
-      "description": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "avatarUrl": "https://github.com/stablyai.png",
-      "stars": 101748,
-      "forks": 6434,
-      "todayStars": 0,
-      "language": "TypeScript",
-      "topics": []
-    },
     {
       "fullName": "supabase/supabase",
       "owner": "supabase",
@@ -25,8 +12,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 113158,
-      "forks": 16979,
+      "stars": 113280,
+      "forks": 16988,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

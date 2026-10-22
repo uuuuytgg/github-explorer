@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-22T06:44:48.470Z",
-  "count": 2,
+  "updated": "2026-10-22T12:28:29.550Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "cloudflare/security-audit-skill",
@@ -12,23 +12,10 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 37340,
-      "forks": 2335,
+      "stars": 38131,
+      "forks": 2381,
       "todayStars": 0,
       "language": "JavaScript",
-      "topics": []
-    },
-    {
-      "fullName": "headroomlabs-ai/headroom",
-      "owner": "headroomlabs-ai",
-      "name": "headroom",
-      "description": "Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.",
-      "url": "https://github.com/headroomlabs-ai/headroom",
-      "avatarUrl": "https://github.com/headroomlabs-ai.png",
-      "stars": 77396,
-      "forks": 6009,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],
