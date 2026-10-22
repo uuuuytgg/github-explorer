@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-22T20:41:00.161Z",
+  "updated": "2026-10-22T23:35:29.222Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 132805,
-      "forks": 12712,
+      "stars": 132908,
+      "forks": 12718,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 113427,
-      "forks": 16993,
+      "stars": 113469,
+      "forks": 16999,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "FastAPI framework, high performance, easy to learn, fast to code, ready for production",
       "url": "https://github.com/fastapi/fastapi",
       "avatarUrl": "https://github.com/fastapi.png",
-      "stars": 103649,
-      "forks": 10084,
+      "stars": 103715,
+      "forks": 10086,
       "todayStars": 0,
       "language": "Python",
       "topics": []
