@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-22T12:28:29.550Z",
+  "updated": "2026-10-22T17:27:33.113Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
       "url": "https://github.com/anthropics/knowledge-work-plugins",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 31302,
-      "forks": 3507,
+      "stars": 31435,
+      "forks": 3520,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you never wrote.",
       "url": "https://github.com/DietrichGebert/ponytail",
       "avatarUrl": "https://github.com/DietrichGebert.png",
-      "stars": 172627,
-      "forks": 9389,
+      "stars": 173020,
+      "forks": 9417,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 38131,
-      "forks": 2381,
+      "stars": 38766,
+      "forks": 2417,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable knowledge graph. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: local deterministic AST parsing, every edge explained, no vector store.",
       "url": "https://github.com/Graphify-Labs/graphify",
       "avatarUrl": "https://github.com/Graphify-Labs.png",
-      "stars": 132319,
-      "forks": 12685,
+      "stars": 132648,
+      "forks": 12702,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "The Postgres development platform. Supabase gives you a dedicated Postgres database to build your web, mobile, and AI applications.",
       "url": "https://github.com/supabase/supabase",
       "avatarUrl": "https://github.com/supabase.png",
-      "stars": 113280,
-      "forks": 16988,
+      "stars": 113371,
+      "forks": 16986,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "url": "https://github.com/luongnv89/claude-howto",
       "avatarUrl": "https://github.com/luongnv89.png",
-      "stars": 42641,
-      "forks": 5351,
+      "stars": 42882,
+      "forks": 5372,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Minecraft 启动器 Plain Craft Launcher（PCL）。",
       "url": "https://github.com/Meloong-Git/PCL",
       "avatarUrl": "https://github.com/Meloong-Git.png",
-      "stars": 8548,
-      "forks": 1180,
+      "stars": 8635,
+      "forks": 1192,
       "todayStars": 0,
       "language": "Visual Basic .NET",
       "topics": []
