@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-23T17:00:41.600Z",
+  "updated": "2026-10-23T20:24:03.745Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 18526,
-      "forks": 1862,
+      "stars": 18668,
+      "forks": 1875,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
       "url": "https://github.com/SnailSploit/Claude-Red",
       "avatarUrl": "https://github.com/SnailSploit.png",
-      "stars": 8220,
-      "forks": 1081,
+      "stars": 8335,
+      "forks": 1089,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "url": "https://github.com/nodejs/node",
       "avatarUrl": "https://github.com/nodejs.png",
-      "stars": 122699,
-      "forks": 39942,
+      "stars": 122783,
+      "forks": 39884,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
