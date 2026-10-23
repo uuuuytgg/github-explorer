@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-23T06:40:23.550Z",
-  "count": 1,
+  "updated": "2026-10-23T12:04:21.485Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "cloudflare/security-audit-skill",
@@ -12,10 +12,36 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 40112,
-      "forks": 2502,
+      "stars": 40766,
+      "forks": 2543,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "SnailSploit/Claude-Red",
+      "owner": "SnailSploit",
+      "name": "Claude-Red",
+      "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. Each skill is a structured SKILL.md file that primes Claude with expert-level methodology for a specific attack surface — from SQLi to shellcode, EDR evasion to exploit development.",
+      "url": "https://github.com/SnailSploit/Claude-Red",
+      "avatarUrl": "https://github.com/SnailSploit.png",
+      "stars": 8025,
+      "forks": 1068,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "OpenBMB/VoxCPM",
+      "owner": "OpenBMB",
+      "name": "VoxCPM",
+      "description": "VoxCPM2: Tokenizer-Free TTS for Multilingual Speech Generation, Creative Voice Design, and True-to-Life Cloning",
+      "url": "https://github.com/OpenBMB/VoxCPM",
+      "avatarUrl": "https://github.com/OpenBMB.png",
+      "stars": 40005,
+      "forks": 4555,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     }
   ],
