@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-25T00:18:13.413Z",
+  "updated": "2026-10-25T04:58:57.606Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 19470,
-      "forks": 1930,
+      "stars": 19579,
+      "forks": 1938,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 3126,
-      "forks": 397,
+      "stars": 3183,
+      "forks": 402,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "url": "https://github.com/google-gemini/gemini-cli",
       "avatarUrl": "https://github.com/google-gemini.png",
-      "stars": 108047,
-      "forks": 14807,
+      "stars": 108174,
+      "forks": 14816,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
