@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-25T04:58:57.606Z",
+  "updated": "2026-10-25T09:34:04.231Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 44985,
-      "forks": 2793,
+      "stars": 45518,
+      "forks": 2824,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "url": "https://github.com/NVIDIA/OpenShell",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 19579,
-      "forks": 1938,
+      "stars": 19685,
+      "forks": 1945,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Official, AWS-supported MCP servers, skills, and plugins to help AI agents build on AWS",
       "url": "https://github.com/aws/agent-toolkit-for-aws",
       "avatarUrl": "https://github.com/aws.png",
-      "stars": 3183,
-      "forks": 402,
+      "stars": 3245,
+      "forks": 403,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 32359,
-      "forks": 1661,
+      "stars": 32656,
+      "forks": 1683,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
       "url": "https://github.com/luongnv89/claude-howto",
       "avatarUrl": "https://github.com/luongnv89.png",
-      "stars": 44671,
-      "forks": 5498,
+      "stars": 44813,
+      "forks": 5511,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 86576,
-      "forks": 5168,
+      "stars": 86791,
+      "forks": 5180,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
       "url": "https://github.com/google-gemini/gemini-cli",
       "avatarUrl": "https://github.com/google-gemini.png",
-      "stars": 108174,
-      "forks": 14816,
+      "stars": 108320,
+      "forks": 14826,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "url": "https://github.com/makecindy/cindy",
       "avatarUrl": "https://github.com/makecindy.png",
-      "stars": 4202,
-      "forks": 604,
+      "stars": 4349,
+      "forks": 619,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
