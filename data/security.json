@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-25T09:34:04.231Z",
+  "updated": "2026-10-25T13:54:23.378Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 45518,
-      "forks": 2824,
+      "stars": 45980,
+      "forks": 2854,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
