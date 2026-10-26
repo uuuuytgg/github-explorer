@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-25T22:07:59.720Z",
+  "updated": "2026-10-26T00:16:55.918Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 114500,
-      "forks": 22124,
+      "stars": 114582,
+      "forks": 22128,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An open-source, self-hostable PaaS alternative to Vercel, Heroku &amp; Netlify that lets you easily deploy static sites, databases, full-stack applications and 360+ one-click services on your own servers.",
       "url": "https://github.com/coollabsio/coolify",
       "avatarUrl": "https://github.com/coollabsio.png",
-      "stars": 64280,
-      "forks": 5779,
+      "stars": 64358,
+      "forks": 5785,
       "todayStars": 0,
       "language": "PHP",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "avatarUrl": "https://github.com/AgriciDaniel.png",
-      "stars": 20754,
-      "forks": 2942,
+      "stars": 20838,
+      "forks": 2953,
       "todayStars": 0,
       "language": "Python",
       "topics": []

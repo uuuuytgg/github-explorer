@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-25T22:07:59.720Z",
+  "updated": "2026-10-26T00:16:55.918Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "url": "https://github.com/makecindy/cindy",
       "avatarUrl": "https://github.com/makecindy.png",
-      "stars": 4780,
-      "forks": 659,
+      "stars": 4841,
+      "forks": 663,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 33604,
-      "forks": 1751,
+      "stars": 33724,
+      "forks": 1761,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "VoiceStudio is the open-source, fully-local ElevenLabs alternative — voice cloning, voice design, video dubbing, dictation, transcription &amp; audiobook creation in 646 languages.",
       "url": "https://github.com/debpalash/VoiceStudio",
       "avatarUrl": "https://github.com/debpalash.png",
-      "stars": 86629,
-      "forks": 9596,
+      "stars": 86776,
+      "forks": 9606,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 87579,
-      "forks": 5234,
+      "stars": 87676,
+      "forks": 5242,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "url": "https://github.com/TauricResearch/TradingAgents",
       "avatarUrl": "https://github.com/TauricResearch.png",
-      "stars": 114500,
-      "forks": 22124,
+      "stars": 114582,
+      "forks": 22128,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "url": "https://github.com/JetBrains/thinkrail",
       "avatarUrl": "https://github.com/JetBrains.png",
-      "stars": 1561,
-      "forks": 97,
+      "stars": 1704,
+      "forks": 102,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 46713,
-      "forks": 2897,
+      "stars": 46852,
+      "forks": 2903,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Universal SEO skill for Claude Code. 26 sub-skills + 19 sub-agents covering technical SEO, E-E-A-T, schema, GEO/AEO, agent readiness (Lighthouse Agentic Browsing, WebMCP, llms.txt), backlinks, local SEO, e-commerce, international SEO, Google APIs, and PDF/Excel reporting. 9 optional extensions for live SEO data.",
       "url": "https://github.com/AgriciDaniel/claude-seo",
       "avatarUrl": "https://github.com/AgriciDaniel.png",
-      "stars": 20754,
-      "forks": 2942,
+      "stars": 20838,
+      "forks": 2953,
       "todayStars": 0,
       "language": "Python",
       "topics": []
