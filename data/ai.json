@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-10-27T11:09:55.173Z",
+  "updated": "2026-10-27T16:33:08.986Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 37770,
-      "forks": 1969,
+      "stars": 38401,
+      "forks": 2004,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
       "url": "https://github.com/nightly-labs/openbot",
       "avatarUrl": "https://github.com/nightly-labs.png",
-      "stars": 1827,
-      "forks": 212,
+      "stars": 2123,
+      "forks": 226,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 305868,
-      "forks": 27243,
+      "stars": 306150,
+      "forks": 27258,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "The design language that makes your AI harness better at design.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 89804,
-      "forks": 5337,
+      "stars": 90170,
+      "forks": 5358,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Consider it done. The open-source AI agent that works out of the box · 想到，就能做到。开源、开箱即用的 AI Agent。",
       "url": "https://github.com/makecindy/cindy",
       "avatarUrl": "https://github.com/makecindy.png",
-      "stars": 7080,
-      "forks": 849,
+      "stars": 7284,
+      "forks": 868,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "📨 The ultimate agentic social media scheduling tool 🤖",
       "url": "https://github.com/gitroomhq/postiz-app",
       "avatarUrl": "https://github.com/gitroomhq.png",
-      "stars": 38835,
-      "forks": 7469,
+      "stars": 39074,
+      "forks": 7478,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 290299,
-      "forks": 43013,
+      "stars": 290548,
+      "forks": 43040,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Vibe code with pi in a lightweight, real IDE that customises itself around the way you work — The Vibe You Need",
       "url": "https://github.com/JetBrains/thinkrail",
       "avatarUrl": "https://github.com/JetBrains.png",
-      "stars": 3449,
-      "forks": 184,
+      "stars": 3729,
+      "forks": 196,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "LIST OF ALL MY JAILBREAKS",
       "url": "https://github.com/togg53192-cmd/jailbreaks",
       "avatarUrl": "https://github.com/togg53192-cmd.png",
-      "stars": 4826,
-      "forks": 775,
+      "stars": 5145,
+      "forks": 798,
       "todayStars": 0,
       "language": "",
       "topics": []

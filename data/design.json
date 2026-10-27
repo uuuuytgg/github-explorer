@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-27T11:09:55.173Z",
+  "updated": "2026-10-27T16:33:08.986Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 79656,
-      "forks": 9351,
+      "stars": 79717,
+      "forks": 9355,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
