@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-28T00:11:43.485Z",
+  "updated": "2026-10-28T05:33:54.456Z",
   "categories": {
     "trending": {
       "label": "热门趋势",
@@ -34,7 +34,7 @@
     "security": {
       "label": "安全研究",
       "icon": "🔐",
-      "count": 1
+      "count": 2
     }
   }
 }
