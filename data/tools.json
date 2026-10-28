@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-27T20:57:29.603Z",
+  "updated": "2026-10-28T00:11:43.485Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 306328,
-      "forks": 27276,
+      "stars": 306424,
+      "forks": 27277,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
