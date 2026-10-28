@@ -2,8 +2,8 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-28T05:33:54.456Z",
-  "count": 1,
+  "updated": "2026-10-28T11:36:49.531Z",
+  "count": 3,
   "repos": [
     {
       "fullName": "obra/superpowers",
@@ -12,10 +12,36 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 306630,
-      "forks": 27292,
+      "stars": 306910,
+      "forks": 27316,
       "todayStars": 0,
       "language": "Shell",
+      "topics": []
+    },
+    {
+      "fullName": "expo/skills",
+      "owner": "expo",
+      "name": "skills",
+      "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
+      "url": "https://github.com/expo/skills",
+      "avatarUrl": "https://github.com/expo.png",
+      "stars": 3349,
+      "forks": 215,
+      "todayStars": 0,
+      "language": "Shell",
+      "topics": []
+    },
+    {
+      "fullName": "ruvnet/RuView",
+      "owner": "ruvnet",
+      "name": "RuView",
+      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
+      "url": "https://github.com/ruvnet/RuView",
+      "avatarUrl": "https://github.com/ruvnet.png",
+      "stars": 100523,
+      "forks": 13121,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],
