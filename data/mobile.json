@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-28T11:36:49.531Z",
+  "updated": "2026-10-28T17:21:22.234Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，支持 百度网盘 / 阿里云盘 / 中国移动云盘 / 天翼云盘 / 迅雷云盘 / 夸克网盘 / UC网盘 / 123云盘 八大网盘",
       "url": "https://github.com/hmjz100/LinkSwift",
       "avatarUrl": "https://github.com/hmjz100.png",
-      "stars": 33748,
-      "forks": 2380,
+      "stars": 34094,
+      "forks": 2402,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "url": "https://github.com/expo/skills",
       "avatarUrl": "https://github.com/expo.png",
-      "stars": 3349,
-      "forks": 215,
+      "stars": 3454,
+      "forks": 219,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
