@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-29T07:17:23.446Z",
-  "count": 2,
+  "updated": "2026-10-29T14:31:06.102Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "pbakaus/impeccable",
@@ -12,21 +12,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 93527,
-      "forks": 5522,
-      "todayStars": 0,
-      "language": "Rust",
-      "topics": []
-    },
-    {
-      "fullName": "ruvnet/RuView",
-      "owner": "ruvnet",
-      "name": "RuView",
-      "description": "π RuView turns commodity WiFi signals into real-time spatial intelligence, vital sign monitoring, and presence detection — all without a single pixel of video.",
-      "url": "https://github.com/ruvnet/RuView",
-      "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 101294,
-      "forks": 13175,
+      "stars": 94501,
+      "forks": 5583,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
