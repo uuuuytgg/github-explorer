@@ -2,8 +2,8 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-29T19:50:19.186Z",
-  "count": 3,
+  "updated": "2026-10-29T23:40:37.379Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "pbakaus/impeccable",
@@ -12,10 +12,23 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 95034,
-      "forks": 5602,
+      "stars": 95248,
+      "forks": 5614,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "hugohe3/ppt-master",
+      "owner": "hugohe3",
+      "name": "ppt-master",
+      "description": "AI turns documents or topics into real, native PowerPoint decks—with native shapes, transitions and animations, data-backed charts and tables on demand, audio narration from speaker notes, and support for your own .pptx templates. · by Hugo He",
+      "url": "https://github.com/hugohe3/ppt-master",
+      "avatarUrl": "https://github.com/hugohe3.png",
+      "stars": 70815,
+      "forks": 5527,
+      "todayStars": 0,
+      "language": "Python",
       "topics": []
     },
     {
@@ -25,8 +38,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 9144,
-      "forks": 347,
+      "stars": 9169,
+      "forks": 348,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
@@ -38,8 +51,8 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 80111,
-      "forks": 9399,
+      "stars": 80138,
+      "forks": 9400,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
