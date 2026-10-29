@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-29T14:31:06.102Z",
+  "updated": "2026-10-29T19:50:19.186Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "avatarUrl": "https://github.com/Donchitos.png",
-      "stars": 28747,
-      "forks": 4022,
+      "stars": 28995,
+      "forks": 4029,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
