@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-30T16:03:22.756Z",
+  "updated": "2026-10-30T20:42:44.971Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "url": "https://github.com/expo/skills",
       "avatarUrl": "https://github.com/expo.png",
-      "stars": 3820,
-      "forks": 243,
+      "stars": 3857,
+      "forks": 245,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
