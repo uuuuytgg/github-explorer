@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-10-29T23:40:37.379Z",
+  "updated": "2026-10-30T02:55:57.612Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 95248,
-      "forks": 5614,
+      "stars": 95559,
+      "forks": 5634,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
