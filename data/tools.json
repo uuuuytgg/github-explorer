@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-31T19:55:42.762Z",
+  "updated": "2026-10-31T22:54:22.125Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 308206,
-      "forks": 25934,
+      "stars": 308321,
+      "forks": 25942,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "avatarUrl": "https://github.com/Donchitos.png",
-      "stars": 31035,
-      "forks": 4254,
+      "stars": 31118,
+      "forks": 4263,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 309945,
-      "forks": 27572,
+      "stars": 310024,
+      "forks": 27578,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "url": "https://github.com/lightpanda-io/browser",
       "avatarUrl": "https://github.com/lightpanda-io.png",
-      "stars": 39097,
-      "forks": 1902,
+      "stars": 39190,
+      "forks": 1905,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Orkas is an open-source (MIT), local-first AI team for your desktop: a Commander turns your goal into to-dos and coordinates 16 built-in specialist agents plus Claude Code, Codex, OpenCode, OpenClaw and Hermes, with projects, scheduled automations and connectors. Free app for macOS &amp; Windows; built-in models or your own keys.",
       "url": "https://github.com/Orkas-AI/Orkas",
       "avatarUrl": "https://github.com/Orkas-AI.png",
-      "stars": 6048,
-      "forks": 366,
+      "stars": 6103,
+      "forks": 369,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,7 +77,7 @@
       "description": "Open Multi-Agent Interactive Classroom — Get an immersive, multi-agent learning experience in just one click",
       "url": "https://github.com/THU-MAIC/OpenMAIC",
       "avatarUrl": "https://github.com/THU-MAIC.png",
-      "stars": 42130,
+      "stars": 42165,
       "forks": 6511,
       "todayStars": 0,
       "language": "TypeScript",
@@ -90,8 +90,8 @@
       "description": "Linux, Jenkins, AWS, SRE, Prometheus, Docker, Python, Ansible, Git, Kubernetes, Terraform, OpenStack, SQL, NoSQL, Azure, GCP, DNS, Elastic, Network, Virtualization. DevOps Interview Questions",
       "url": "https://github.com/bregman-arie/devops-exercises",
       "avatarUrl": "https://github.com/bregman-arie.png",
-      "stars": 85844,
-      "forks": 20538,
+      "stars": 85942,
+      "forks": 20542,
       "todayStars": 0,
       "language": "Python",
       "topics": []
