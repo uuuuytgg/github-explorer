@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-31T00:03:48.306Z",
+  "updated": "2026-10-31T05:29:55.612Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 97028,
-      "forks": 5713,
+      "stars": 97302,
+      "forks": 5731,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 9367,
-      "forks": 357,
+      "stars": 9411,
+      "forks": 359,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
@@ -38,7 +38,7 @@
       "description": "🌊 The original agent harness. Deploy intelligent multi-player swarms, coordinate autonomous workflows, and build conversational AI systems. Features adaptive memory, self-learning intelligence, federation, vector RAG integration, and native Claude Code / Codex / Hermes and many more Integrated",
       "url": "https://github.com/ruvnet/ruflo",
       "avatarUrl": "https://github.com/ruvnet.png",
-      "stars": 80298,
+      "stars": 80329,
       "forks": 9416,
       "todayStars": 0,
       "language": "TypeScript",

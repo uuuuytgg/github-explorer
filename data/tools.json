@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-10-31T00:03:48.306Z",
+  "updated": "2026-10-31T05:29:55.612Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A collection of AI agent skills for working with Expo projects and Expo Application Services",
       "url": "https://github.com/expo/skills",
       "avatarUrl": "https://github.com/expo.png",
-      "stars": 3890,
-      "forks": 247,
+      "stars": 3923,
+      "forks": 248,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 307459,
-      "forks": 25878,
+      "stars": 307622,
+      "forks": 25896,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 309411,
-      "forks": 27522,
+      "stars": 309543,
+      "forks": 27544,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "url": "https://github.com/lightpanda-io/browser",
       "avatarUrl": "https://github.com/lightpanda-io.png",
-      "stars": 38346,
-      "forks": 1871,
+      "stars": 38561,
+      "forks": 1877,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
