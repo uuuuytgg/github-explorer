@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-10-31T16:03:02.625Z",
+  "updated": "2026-10-31T19:55:42.762Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 43600,
-      "forks": 2287,
+      "stars": 43775,
+      "forks": 2304,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 97899,
-      "forks": 5774,
+      "stars": 98097,
+      "forks": 5785,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 9521,
-      "forks": 367,
+      "stars": 9564,
+      "forks": 368,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
