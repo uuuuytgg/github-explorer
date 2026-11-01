@@ -2,7 +2,7 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-10-31T22:54:22.125Z",
+  "updated": "2026-11-01T01:35:18.374Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "avatarUrl": "https://github.com/Donchitos.png",
-      "stars": 31118,
-      "forks": 4263,
+      "stars": 31206,
+      "forks": 4275,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Free and open-source macOS menu bar toolkit.",
       "url": "https://github.com/vorssaint/vorssaint-utils",
       "avatarUrl": "https://github.com/vorssaint.png",
-      "stars": 31864,
-      "forks": 1537,
+      "stars": 31919,
+      "forks": 1538,
       "todayStars": 0,
       "language": "Swift",
       "topics": []
