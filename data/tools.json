@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-01T23:02:57.187Z",
+  "updated": "2026-11-02T02:26:13.705Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Lightpanda: the headless browser designed for AI and automation",
       "url": "https://github.com/lightpanda-io/browser",
       "avatarUrl": "https://github.com/lightpanda-io.png",
-      "stars": 40054,
-      "forks": 1959,
+      "stars": 40249,
+      "forks": 1969,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A collective list of free APIs",
       "url": "https://github.com/public-apis/public-apis",
       "avatarUrl": "https://github.com/public-apis.png",
-      "stars": 494525,
-      "forks": 55198,
+      "stars": 494701,
+      "forks": 55212,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "avatarUrl": "https://github.com/Donchitos.png",
-      "stars": 32188,
-      "forks": 4390,
+      "stars": 32394,
+      "forks": 4410,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Open-source AI Security Operations Center: alert fusion, LLM-agent triage, MITRE ATT&amp;CK investigation, and a replayable decision ledger for every agent step. Self-hostable, runs with no API keys, MIT licensed. Ships an MCP server for Claude, Cursor and Continue.",
       "url": "https://github.com/beenuar/AiSOC",
       "avatarUrl": "https://github.com/beenuar.png",
-      "stars": 6181,
-      "forks": 643,
+      "stars": 6277,
+      "forks": 650,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "In-depth tutorials on LLMs, RAGs and real-world AI agent applications.",
       "url": "https://github.com/patchy631/ai-engineering-hub",
       "avatarUrl": "https://github.com/patchy631.png",
-      "stars": 40183,
-      "forks": 6481,
+      "stars": 40341,
+      "forks": 6493,
       "todayStars": 0,
       "language": "Jupyter Notebook",
       "topics": []
