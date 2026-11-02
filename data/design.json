@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-02T02:26:13.705Z",
+  "updated": "2026-11-02T09:42:51.077Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 44962,
-      "forks": 2387,
+      "stars": 45362,
+      "forks": 2408,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 99430,
-      "forks": 5881,
+      "stars": 99849,
+      "forks": 5907,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 10110,
-      "forks": 392,
+      "stars": 10212,
+      "forks": 394,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "url": "https://github.com/ghostty-org/ghostty",
       "avatarUrl": "https://github.com/ghostty-org.png",
-      "stars": 63191,
-      "forks": 3817,
+      "stars": 63246,
+      "forks": 3821,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
