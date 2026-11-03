@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-03T16:35:22.559Z",
+  "updated": "2026-11-03T21:58:28.021Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 46714,
-      "forks": 2475,
+      "stars": 46881,
+      "forks": 2479,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 101253,
+      "stars": 101432,
       "forks": 5986,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 10546,
-      "forks": 405,
+      "stars": 10599,
+      "forks": 408,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "url": "https://github.com/ghostty-org/ghostty",
       "avatarUrl": "https://github.com/ghostty-org.png",
-      "stars": 63402,
-      "forks": 3822,
+      "stars": 63425,
+      "forks": 3810,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 10347,
-      "forks": 373,
+      "stars": 10437,
+      "forks": 375,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
