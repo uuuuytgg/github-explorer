@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-02T19:46:30.081Z",
+  "updated": "2026-11-03T01:53:46.345Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Computer use CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-desktop",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 9106,
-      "forks": 625,
+      "stars": 9872,
+      "forks": 663,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 92614,
-      "forks": 9758,
+      "stars": 92955,
+      "forks": 9785,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Turn Claude Code into a full game dev studio — 49 AI agents, 72 workflow skills, and a complete coordination system mirroring real studio hierarchy.",
       "url": "https://github.com/Donchitos/Claude-Code-Game-Studios",
       "avatarUrl": "https://github.com/Donchitos.png",
-      "stars": 33354,
-      "forks": 4505,
+      "stars": 33605,
+      "forks": 4524,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Run frontier MoE models on hardware you already own — pure C, zero deps, experts streamed from disk. Tiny engine, immense model. 🐦",
       "url": "https://github.com/JustVugg/colibri",
       "avatarUrl": "https://github.com/JustVugg.png",
-      "stars": 46438,
-      "forks": 5371,
+      "stars": 46590,
+      "forks": 5385,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 310063,
-      "forks": 26085,
+      "stars": 310265,
+      "forks": 26097,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 9951,
-      "forks": 358,
+      "stars": 10053,
+      "forks": 362,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The open-source app everyone uses to manage agents at work",
       "url": "https://github.com/paperclipai/paperclip",
       "avatarUrl": "https://github.com/paperclipai.png",
-      "stars": 110282,
-      "forks": 18270,
+      "stars": 110419,
+      "forks": 18280,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
