@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-04T01:52:08.296Z",
+  "updated": "2026-11-04T08:12:45.017Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🕷️ The BEST Web Scraping framework that handles everything from a single request to a full-scale crawl! Don't be shy, join here: https://discord.gg/EMgGbDceNQ and follow here for daily tips and tricks: https://x.com/Scrapling_dev",
       "url": "https://github.com/D4Vinci/Scrapling",
       "avatarUrl": "https://github.com/D4Vinci.png",
-      "stars": 94925,
-      "forks": 9954,
+      "stars": 95415,
+      "forks": 10003,
       "todayStars": 0,
       "language": "Python",
       "topics": []
