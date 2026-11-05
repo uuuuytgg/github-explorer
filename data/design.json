@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-05T01:59:42.570Z",
+  "updated": "2026-11-05T17:20:00.795Z",
   "count": 5,
   "repos": [
     {
@@ -12,23 +12,10 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 47979,
-      "forks": 2533,
+      "stars": 48554,
+      "forks": 2574,
       "todayStars": 0,
       "language": "CSS",
-      "topics": []
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "url": "https://github.com/pbakaus/impeccable",
-      "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 102870,
-      "forks": 6086,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     },
     {
@@ -38,8 +25,21 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 11066,
-      "forks": 415,
+      "stars": 11390,
+      "forks": 429,
+      "todayStars": 0,
+      "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatarUrl": "https://github.com/pbakaus.png",
+      "stars": 103653,
+      "forks": 6136,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 10821,
-      "forks": 417,
+      "stars": 10959,
+      "forks": 424,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
       "url": "https://github.com/ghostty-org/ghostty",
       "avatarUrl": "https://github.com/ghostty-org.png",
-      "stars": 63551,
-      "forks": 3818,
+      "stars": 63622,
+      "forks": 3828,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
