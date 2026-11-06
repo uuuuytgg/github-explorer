@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-06T17:26:50.555Z",
+  "updated": "2026-11-06T22:13:17.781Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "General purpose TLS and crypto library",
       "url": "https://github.com/openssl/openssl",
       "avatarUrl": "https://github.com/openssl.png",
-      "stars": 31241,
-      "forks": 11581,
+      "stars": 31272,
+      "forks": 11580,
       "todayStars": 0,
       "language": "C",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 63369,
-      "forks": 4109,
+      "stars": 63814,
+      "forks": 4138,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

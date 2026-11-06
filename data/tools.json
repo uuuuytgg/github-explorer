@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-06T17:26:50.555Z",
+  "updated": "2026-11-06T22:13:17.781Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 8659,
-      "forks": 699,
+      "stars": 8907,
+      "forks": 717,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The Symfony PHP framework",
       "url": "https://github.com/symfony/symfony",
       "avatarUrl": "https://github.com/symfony.png",
-      "stars": 31306,
-      "forks": 9942,
+      "stars": 31399,
+      "forks": 9945,
       "todayStars": 0,
       "language": "PHP",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Prometheus monitoring system and time series database.",
       "url": "https://github.com/prometheus/prometheus",
       "avatarUrl": "https://github.com/prometheus.png",
-      "stars": 67053,
-      "forks": 10979,
+      "stars": 67135,
+      "forks": 10983,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A new type of shell",
       "url": "https://github.com/nushell/nushell",
       "avatarUrl": "https://github.com/nushell.png",
-      "stars": 40856,
-      "forks": 2334,
+      "stars": 40948,
+      "forks": 2341,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 316394,
-      "forks": 26465,
+      "stars": 316629,
+      "forks": 26485,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "url": "https://github.com/astral-sh/ruff",
       "avatarUrl": "https://github.com/astral-sh.png",
-      "stars": 50554,
-      "forks": 2597,
+      "stars": 50646,
+      "forks": 2605,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
