@@ -2,22 +2,9 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-06T10:00:28.043Z",
-  "count": 5,
+  "updated": "2026-11-06T17:26:50.555Z",
+  "count": 4,
   "repos": [
-    {
-      "fullName": "Nutlope/hallmark",
-      "owner": "Nutlope",
-      "name": "hallmark",
-      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
-      "url": "https://github.com/Nutlope/hallmark",
-      "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 49131,
-      "forks": 2604,
-      "todayStars": 0,
-      "language": "CSS",
-      "topics": []
-    },
     {
       "fullName": "max-sixty/worktrunk",
       "owner": "max-sixty",
@@ -25,10 +12,23 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 11693,
-      "forks": 449,
+      "stars": 11761,
+      "forks": 451,
       "todayStars": 0,
       "language": "Rust",
+      "topics": []
+    },
+    {
+      "fullName": "Nutlope/hallmark",
+      "owner": "Nutlope",
+      "name": "hallmark",
+      "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "avatarUrl": "https://github.com/Nutlope.png",
+      "stars": 49406,
+      "forks": 2622,
+      "todayStars": 0,
+      "language": "CSS",
       "topics": []
     },
     {
@@ -38,8 +38,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 104298,
-      "forks": 6186,
+      "stars": 104587,
+      "forks": 6212,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,23 +51,10 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 11145,
-      "forks": 430,
+      "stars": 11227,
+      "forks": 433,
       "todayStars": 0,
       "language": "Markdown",
-      "topics": []
-    },
-    {
-      "fullName": "ghostty-org/ghostty",
-      "owner": "ghostty-org",
-      "name": "ghostty",
-      "description": "👻 Ghostty is a fast, feature-rich, and cross-platform terminal emulator that uses platform-native UI and GPU acceleration.",
-      "url": "https://github.com/ghostty-org/ghostty",
-      "avatarUrl": "https://github.com/ghostty-org.png",
-      "stars": 63702,
-      "forks": 3835,
-      "todayStars": 0,
-      "language": "Zig",
       "topics": []
     }
   ],
