@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-07T01:54:24.030Z",
+  "updated": "2026-11-07T07:54:18.297Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 11807,
-      "forks": 455,
+      "stars": 11842,
+      "forks": 458,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 49649,
-      "forks": 2632,
+      "stars": 49799,
+      "forks": 2641,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
       "url": "https://github.com/pbakaus/impeccable",
       "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 104831,
-      "forks": 6231,
+      "stars": 105001,
+      "forks": 6240,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 11296,
-      "forks": 438,
+      "stars": 11350,
+      "forks": 440,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
