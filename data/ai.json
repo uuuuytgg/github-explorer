@@ -2,7 +2,7 @@
   "category": "ai",
   "label": "AI & LLM",
   "icon": "🤖",
-  "updated": "2026-11-06T22:13:17.781Z",
+  "updated": "2026-11-07T01:54:24.030Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 8907,
-      "forks": 717,
+      "stars": 9086,
+      "forks": 730,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Ruby on Rails",
       "url": "https://github.com/rails/rails",
       "avatarUrl": "https://github.com/rails.png",
-      "stars": 58997,
-      "forks": 23829,
+      "stars": 59032,
+      "forks": 23832,
       "todayStars": 0,
       "language": "Ruby",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Agent Skills for Google products and technologies",
       "url": "https://github.com/google/skills",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 22803,
-      "forks": 1919,
+      "stars": 22851,
+      "forks": 1922,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 316629,
-      "forks": 26485,
+      "stars": 316754,
+      "forks": 26499,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 63814,
-      "forks": 4138,
+      "stars": 64090,
+      "forks": 4154,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
