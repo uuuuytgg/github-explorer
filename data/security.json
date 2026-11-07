@@ -2,22 +2,9 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-07T07:54:18.297Z",
+  "updated": "2026-11-07T14:27:39.081Z",
   "count": 2,
   "repos": [
-    {
-      "fullName": "openssl/openssl",
-      "owner": "openssl",
-      "name": "openssl",
-      "description": "General purpose TLS and crypto library",
-      "url": "https://github.com/openssl/openssl",
-      "avatarUrl": "https://github.com/openssl.png",
-      "stars": 31340,
-      "forks": 11583,
-      "todayStars": 0,
-      "language": "C",
-      "topics": []
-    },
     {
       "fullName": "cloudflare/security-audit-skill",
       "owner": "cloudflare",
@@ -25,10 +12,23 @@
       "description": "A coding-agent skill for multi-phase security audits with independently verified, machine-readable findings",
       "url": "https://github.com/cloudflare/security-audit-skill",
       "avatarUrl": "https://github.com/cloudflare.png",
-      "stars": 64504,
-      "forks": 4186,
+      "stars": 65001,
+      "forks": 4217,
       "todayStars": 0,
       "language": "JavaScript",
+      "topics": []
+    },
+    {
+      "fullName": "ranxianglei/billion-context",
+      "owner": "ranxianglei",
+      "name": "billion-context",
+      "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
+      "url": "https://github.com/ranxianglei/billion-context",
+      "avatarUrl": "https://github.com/ranxianglei.png",
+      "stars": 4452,
+      "forks": 359,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     }
   ],

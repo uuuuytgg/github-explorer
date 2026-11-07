@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-07T07:54:18.297Z",
+  "updated": "2026-11-07T14:27:39.081Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 11842,
-      "forks": 458,
+      "stars": 11885,
+      "forks": 460,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,23 +25,10 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 49799,
-      "forks": 2641,
+      "stars": 49986,
+      "forks": 2651,
       "todayStars": 0,
       "language": "CSS",
-      "topics": []
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "url": "https://github.com/pbakaus/impeccable",
-      "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 105001,
-      "forks": 6240,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     },
     {
@@ -51,10 +38,23 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 11350,
-      "forks": 440,
+      "stars": 11404,
+      "forks": 441,
       "todayStars": 0,
       "language": "Markdown",
+      "topics": []
+    },
+    {
+      "fullName": "pbakaus/impeccable",
+      "owner": "pbakaus",
+      "name": "impeccable",
+      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "url": "https://github.com/pbakaus/impeccable",
+      "avatarUrl": "https://github.com/pbakaus.png",
+      "stars": 105209,
+      "forks": 6255,
+      "todayStars": 0,
+      "language": "Rust",
       "topics": []
     }
   ],
