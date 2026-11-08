@@ -2,7 +2,7 @@
   "category": "trending",
   "label": "热门趋势",
   "icon": "🔥",
-  "updated": "2026-11-08T19:06:47.823Z",
+  "updated": "2026-11-08T22:50:31.320Z",
   "count": 9,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Hunt down social media accounts by username across social networks",
       "url": "https://github.com/sherlock-project/sherlock",
       "avatarUrl": "https://github.com/sherlock-project.png",
-      "stars": 102917,
-      "forks": 12090,
+      "stars": 103305,
+      "forks": 12110,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "avatarUrl": "https://github.com/dsx-ai-factory.png",
-      "stars": 776,
-      "forks": 107,
+      "stars": 821,
+      "forks": 111,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source Grok Bot alternative with a virtual machine that bots can use",
       "url": "https://github.com/milind-soni/OpenMausBot",
       "avatarUrl": "https://github.com/milind-soni.png",
-      "stars": 18035,
-      "forks": 2519,
+      "stars": 18165,
+      "forks": 2531,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 19319,
-      "forks": 3275,
+      "stars": 19382,
+      "forks": 3279,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Browser automation CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-browser",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 47446,
-      "forks": 3252,
+      "stars": 47538,
+      "forks": 3256,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 16141,
-      "forks": 1288,
+      "stars": 16518,
+      "forks": 1311,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Public repository for Agent Skills",
       "url": "https://github.com/anthropics/skills",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 189427,
-      "forks": 22330,
+      "stars": 189564,
+      "forks": 22341,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Multi-Joint dynamics with Contact. A general purpose physics simulator.",
       "url": "https://github.com/google-deepmind/mujoco",
       "avatarUrl": "https://github.com/google-deepmind.png",
-      "stars": 16301,
-      "forks": 1950,
+      "stars": 16370,
+      "forks": 1951,
       "todayStars": 0,
       "language": "C++",
       "topics": []
@@ -116,8 +116,8 @@
       "description": "A context-compression plugin for month-long single sessions (billions of tokens) ,small context windows (a 100K context is enough) and token savings (5x fewer tokens) .上下文压缩插件，月级长会话会话， 兼顾小窗口(100k上下文足矣)省token(省5倍token) . billion-context is all you need",
       "url": "https://github.com/ranxianglei/billion-context",
       "avatarUrl": "https://github.com/ranxianglei.png",
-      "stars": 5035,
-      "forks": 401,
+      "stars": 5095,
+      "forks": 404,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
