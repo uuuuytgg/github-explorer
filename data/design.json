@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-08T14:39:58.963Z",
+  "updated": "2026-11-08T19:06:47.823Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 10030,
-      "forks": 815,
+      "stars": 10208,
+      "forks": 826,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,7 +25,7 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 12056,
+      "stars": 12090,
       "forks": 466,
       "todayStars": 0,
       "language": "Rust",
@@ -38,8 +38,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 50661,
-      "forks": 2685,
+      "stars": 50808,
+      "forks": 2696,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 11624,
-      "forks": 450,
+      "stars": 11672,
+      "forks": 452,
       "todayStars": 0,
       "language": "Markdown",
       "topics": []
