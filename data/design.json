@@ -2,9 +2,22 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-08T07:56:58.088Z",
+  "updated": "2026-11-08T14:39:58.963Z",
   "count": 4,
   "repos": [
+    {
+      "fullName": "NVIDIA/auto-ontology",
+      "owner": "NVIDIA",
+      "name": "auto-ontology",
+      "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
+      "url": "https://github.com/NVIDIA/auto-ontology",
+      "avatarUrl": "https://github.com/NVIDIA.png",
+      "stars": 10030,
+      "forks": 815,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
     {
       "fullName": "max-sixty/worktrunk",
       "owner": "max-sixty",
@@ -12,8 +25,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 11991,
-      "forks": 464,
+      "stars": 12056,
+      "forks": 466,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +38,8 @@
       "description": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
       "url": "https://github.com/Nutlope/hallmark",
       "avatarUrl": "https://github.com/Nutlope.png",
-      "stars": 50462,
-      "forks": 2676,
+      "stars": 50661,
+      "forks": 2685,
       "todayStars": 0,
       "language": "CSS",
       "topics": []
@@ -38,23 +51,10 @@
       "description": "A collection of agent skills that help you build great interfaces.",
       "url": "https://github.com/jakubkrehel/skills",
       "avatarUrl": "https://github.com/jakubkrehel.png",
-      "stars": 11565,
+      "stars": 11624,
       "forks": 450,
       "todayStars": 0,
       "language": "Markdown",
-      "topics": []
-    },
-    {
-      "fullName": "pbakaus/impeccable",
-      "owner": "pbakaus",
-      "name": "impeccable",
-      "description": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
-      "url": "https://github.com/pbakaus/impeccable",
-      "avatarUrl": "https://github.com/pbakaus.png",
-      "stars": 105745,
-      "forks": 6285,
-      "todayStars": 0,
-      "language": "Rust",
       "topics": []
     }
   ],
