@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-07T22:27:32.801Z",
+  "updated": "2026-11-08T01:39:33.340Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Browser automation CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-browser",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 46766,
-      "forks": 3203,
+      "stars": 46851,
+      "forks": 3211,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 317627,
-      "forks": 26571,
+      "stars": 317746,
+      "forks": 26582,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The Prometheus monitoring system and time series database.",
       "url": "https://github.com/prometheus/prometheus",
       "avatarUrl": "https://github.com/prometheus.png",
-      "stars": 67432,
-      "forks": 11001,
+      "stars": 67449,
+      "forks": 11004,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "An extremely fast Python linter and code formatter, written in Rust.",
       "url": "https://github.com/astral-sh/ruff",
       "avatarUrl": "https://github.com/astral-sh.png",
-      "stars": 50958,
-      "forks": 2628,
+      "stars": 50980,
+      "forks": 2632,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A utility-first CSS framework for rapid UI development.",
       "url": "https://github.com/tailwindlabs/tailwindcss",
       "avatarUrl": "https://github.com/tailwindlabs.png",
-      "stars": 98430,
-      "forks": 7103,
+      "stars": 98484,
+      "forks": 7109,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "NVIDIA Kubernetes Engine (NVKE). A management plane for GPU Kubernetes on bare metal.",
       "url": "https://github.com/dsx-ai-factory/nvke",
       "avatarUrl": "https://github.com/dsx-ai-factory.png",
-      "stars": 532,
-      "forks": 86,
+      "stars": 562,
+      "forks": 90,
       "todayStars": 0,
       "language": "Go",
       "topics": []
