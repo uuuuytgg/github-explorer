@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-10T17:59:42.448Z",
+  "updated": "2026-11-10T22:53:37.231Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 114972,
-      "forks": 12075,
+      "stars": 115107,
+      "forks": 12094,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 20372,
-      "forks": 3458,
+      "stars": 20460,
+      "forks": 3468,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "avatarUrl": "https://github.com/homeassistant-ai.png",
-      "stars": 6473,
-      "forks": 424,
+      "stars": 6597,
+      "forks": 428,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Browser automation CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-browser",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 49049,
-      "forks": 3442,
+      "stars": 49155,
+      "forks": 3446,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A batteries-included framework for building web apps",
       "url": "https://github.com/tokio-rs/topcoat",
       "avatarUrl": "https://github.com/tokio-rs.png",
-      "stars": 6689,
-      "forks": 294,
+      "stars": 6765,
+      "forks": 297,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Skills for Real Engineers. Straight from my .agents directory.",
       "url": "https://github.com/mattpocock/skills",
       "avatarUrl": "https://github.com/mattpocock.png",
-      "stars": 320657,
-      "forks": 26893,
+      "stars": 320850,
+      "forks": 26905,
       "todayStars": 0,
       "language": "Shell",
       "topics": []

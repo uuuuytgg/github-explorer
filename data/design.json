@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-10T17:59:42.448Z",
+  "updated": "2026-11-10T22:53:37.231Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 11369,
-      "forks": 935,
+      "stars": 11428,
+      "forks": 940,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Worktrunk is a CLI for Git worktree management, designed for parallel AI agent workflows",
       "url": "https://github.com/max-sixty/worktrunk",
       "avatarUrl": "https://github.com/max-sixty.png",
-      "stars": 12370,
-      "forks": 484,
+      "stars": 12387,
+      "forks": 487,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Local voice dictation for mac, windows and linux",
       "url": "https://github.com/anomalyco/hex",
       "avatarUrl": "https://github.com/anomalyco.png",
-      "stars": 6135,
-      "forks": 374,
+      "stars": 6183,
+      "forks": 375,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
