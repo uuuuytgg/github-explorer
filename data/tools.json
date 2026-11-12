@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-11T23:34:14.257Z",
+  "updated": "2026-11-12T04:11:51.914Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 115905,
-      "forks": 12157,
+      "stars": 116065,
+      "forks": 12171,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Browser automation CLI for AI agents",
       "url": "https://github.com/vercel-labs/agent-browser",
       "avatarUrl": "https://github.com/vercel-labs.png",
-      "stars": 49839,
-      "forks": 3485,
+      "stars": 49976,
+      "forks": 3492,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Configure and automate Home Assistant with Claude, ChatGPT, and other AI assistants.",
       "url": "https://github.com/homeassistant-ai/ha-mcp",
       "avatarUrl": "https://github.com/homeassistant-ai.png",
-      "stars": 7332,
-      "forks": 452,
+      "stars": 7457,
+      "forks": 455,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "avatarUrl": "https://github.com/openai.png",
-      "stars": 11690,
-      "forks": 933,
+      "stars": 11848,
+      "forks": 945,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []

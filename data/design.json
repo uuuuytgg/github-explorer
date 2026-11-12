@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-11T23:34:14.257Z",
+  "updated": "2026-11-12T04:11:51.914Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Auto Ontology is a Python framework for building semantic, graph-based reasoning layers over data. It enables deterministic query generation, better context retrieval, and more explainable AI for LLM and agent workflows.",
       "url": "https://github.com/NVIDIA/auto-ontology",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 11819,
-      "forks": 969,
+      "stars": 11922,
+      "forks": 978,
       "todayStars": 0,
       "language": "Python",
       "topics": []
