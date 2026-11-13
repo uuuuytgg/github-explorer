@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-13T15:52:44.564Z",
+  "updated": "2026-11-13T21:42:17.213Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 50318,
-      "forks": 3738,
+      "stars": 50532,
+      "forks": 3751,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "avatarUrl": "https://github.com/openai.png",
-      "stars": 12919,
-      "forks": 1011,
+      "stars": 13073,
+      "forks": 1021,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "url": "https://github.com/backnotprop/plannotator",
       "avatarUrl": "https://github.com/backnotprop.png",
-      "stars": 10327,
-      "forks": 781,
+      "stars": 10400,
+      "forks": 782,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A fancy self-hosted monitoring tool",
       "url": "https://github.com/louislam/uptime-kuma",
       "avatarUrl": "https://github.com/louislam.png",
-      "stars": 93700,
-      "forks": 8713,
+      "stars": 93808,
+      "forks": 8719,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A hive mind communication platform",
       "url": "https://github.com/block/buzz",
       "avatarUrl": "https://github.com/block.png",
-      "stars": 37207,
-      "forks": 4933,
+      "stars": 37276,
+      "forks": 4940,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
