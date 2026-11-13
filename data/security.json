@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-13T07:58:13.843Z",
-  "count": 2,
+  "updated": "2026-11-13T15:52:44.564Z",
+  "count": 1,
   "repos": [
     {
       "fullName": "openai/codex-security",
@@ -12,23 +12,10 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "avatarUrl": "https://github.com/openai.png",
-      "stars": 12688,
-      "forks": 992,
+      "stars": 12919,
+      "forks": 1011,
       "todayStars": 0,
       "language": "TypeScript",
-      "topics": []
-    },
-    {
-      "fullName": "Alishahryar1/free-claude-code",
-      "owner": "Alishahryar1",
-      "name": "free-claude-code",
-      "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
-      "url": "https://github.com/Alishahryar1/free-claude-code",
-      "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 69577,
-      "forks": 10799,
-      "todayStars": 0,
-      "language": "Python",
       "topics": []
     }
   ],
