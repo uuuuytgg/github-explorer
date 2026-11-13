@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-12T20:25:09.582Z",
+  "updated": "2026-11-13T01:14:54.871Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "avatarUrl": "https://github.com/openai.png",
-      "stars": 12308,
-      "forks": 972,
+      "stars": 12430,
+      "forks": 978,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Node Version Manager - POSIX-compliant bash script to manage multiple active node.js versions.",
       "url": "https://github.com/nvm-sh/nvm",
       "avatarUrl": "https://github.com/nvm-sh.png",
-      "stars": 95984,
-      "forks": 10757,
+      "stars": 96014,
+      "forks": 10761,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "An open-source AI coding agent that lives in your terminal.",
       "url": "https://github.com/QwenLM/qwen-code",
       "avatarUrl": "https://github.com/QwenLM.png",
-      "stars": 29726,
-      "forks": 3390,
+      "stars": 29817,
+      "forks": 3396,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "LLM Inference Engine for Metal, CUDA and Vulkan.",
       "url": "https://github.com/ashhart/TensorFold",
       "avatarUrl": "https://github.com/ashhart.png",
-      "stars": 1906,
-      "forks": 391,
+      "stars": 1940,
+      "forks": 392,
       "todayStars": 0,
       "language": "Zig",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Node.js JavaScript runtime ✨🐢🚀✨",
       "url": "https://github.com/nodejs/node",
       "avatarUrl": "https://github.com/nodejs.png",
-      "stars": 123565,
-      "forks": 38053,
+      "stars": 123601,
+      "forks": 38058,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Production-grade engineering skills for AI coding agents.",
       "url": "https://github.com/addyosmani/agent-skills",
       "avatarUrl": "https://github.com/addyosmani.png",
-      "stars": 116586,
-      "forks": 12204,
+      "stars": 116677,
+      "forks": 12210,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Use Claude Code, Codex, Antigravity, VSCode, Pi, and OpenCode (and 6 other harnesses) for free (1.3B+ free tokens) from your terminal, app, IDE, or phone, and now from the browser with native browser sessions (multi-harness + multi-model) like OpenClaw (voice supported + ToS friendly)",
       "url": "https://github.com/Alishahryar1/free-claude-code",
       "avatarUrl": "https://github.com/Alishahryar1.png",
-      "stars": 69159,
-      "forks": 10743,
+      "stars": 69298,
+      "forks": 10761,
       "todayStars": 0,
       "language": "Python",
       "topics": []
