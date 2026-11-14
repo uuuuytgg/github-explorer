@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-14T15:02:11.104Z",
+  "updated": "2026-11-14T19:53:58.944Z",
   "count": 4,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 27788,
-      "forks": 2164,
+      "stars": 28015,
+      "forks": 2177,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "url": "https://github.com/google/elephant-goldfish-model",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 18916,
-      "forks": 1409,
+      "stars": 19075,
+      "forks": 1418,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 72144,
-      "forks": 57442,
+      "stars": 72222,
+      "forks": 57469,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A collection of projects designed to help developers quickly get started with building deployable applications using the Claude API",
       "url": "https://github.com/anthropics/claude-quickstarts",
       "avatarUrl": "https://github.com/anthropics.png",
-      "stars": 20929,
-      "forks": 3494,
+      "stars": 20960,
+      "forks": 3497,
       "todayStars": 0,
       "language": "Python",
       "topics": []
