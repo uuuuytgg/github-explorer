@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-14T01:46:28.625Z",
+  "updated": "2026-11-14T08:13:10.297Z",
   "count": 1,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "OpenAI's Codex Security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities. npm: https://www.npmjs.com/package/@openai/codex-security",
       "url": "https://github.com/openai/codex-security",
       "avatarUrl": "https://github.com/openai.png",
-      "stars": 13152,
-      "forks": 1024,
+      "stars": 13301,
+      "forks": 1031,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
