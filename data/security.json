@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-15T02:55:16.856Z",
+  "updated": "2026-11-15T10:01:54.276Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "🪨 why use many token when few token do trick. Viral skill + proxy for coding agents that cuts 65% of tokens by talking like a caveman.",
       "url": "https://github.com/JuliusBrussee/caveman",
       "avatarUrl": "https://github.com/JuliusBrussee.png",
-      "stars": 120109,
-      "forks": 7002,
+      "stars": 120255,
+      "forks": 7010,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "A WiFi security auditing software",
       "url": "https://github.com/martin-olivier/airgorah",
       "avatarUrl": "https://github.com/martin-olivier.png",
-      "stars": 5924,
-      "forks": 1026,
+      "stars": 6092,
+      "forks": 1049,
       "todayStars": 0,
       "language": "Rust",
       "topics": []
