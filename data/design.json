@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-15T21:43:41.484Z",
+  "updated": "2026-11-16T01:23:24.481Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 28784,
-      "forks": 2250,
+      "stars": 28890,
+      "forks": 2256,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 72474,
-      "forks": 57567,
+      "stars": 72515,
+      "forks": 57575,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "url": "https://github.com/google/elephant-goldfish-model",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 19690,
-      "forks": 1460,
+      "stars": 19789,
+      "forks": 1463,
       "todayStars": 0,
       "language": "Python",
       "topics": []
