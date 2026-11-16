@@ -2,8 +2,22 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-11-16T08:06:44.362Z",
-  "count": 0,
-  "repos": [],
+  "updated": "2026-11-16T18:26:10.467Z",
+  "count": 1,
+  "repos": [
+    {
+      "fullName": "kajisho5/ffmpeg-skill",
+      "owner": "kajisho5",
+      "name": "ffmpeg-skill",
+      "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "avatarUrl": "https://github.com/kajisho5.png",
+      "stars": 6459,
+      "forks": 576,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    }
+  ],
   "error": null
 }

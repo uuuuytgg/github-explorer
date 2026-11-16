@@ -2,9 +2,22 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-16T08:06:44.362Z",
-  "count": 3,
+  "updated": "2026-11-16T18:26:10.467Z",
+  "count": 5,
   "repos": [
+    {
+      "fullName": "GoogleChrome/modern-web-guidance-src",
+      "owner": "GoogleChrome",
+      "name": "modern-web-guidance-src",
+      "description": "Keep your coding agent up to date with the latest web best practices",
+      "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
+      "avatarUrl": "https://github.com/GoogleChrome.png",
+      "stars": 7890,
+      "forks": 690,
+      "todayStars": 0,
+      "language": "TypeScript",
+      "topics": []
+    },
     {
       "fullName": "meta/astryx",
       "owner": "meta",
@@ -12,8 +25,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 29149,
-      "forks": 2277,
+      "stars": 29464,
+      "forks": 2299,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +38,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 72625,
-      "forks": 57617,
+      "stars": 72764,
+      "forks": 57659,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,10 +51,23 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "url": "https://github.com/google/elephant-goldfish-model",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 19983,
-      "forks": 1484,
+      "stars": 20265,
+      "forks": 1499,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "alibaba/open-code-review",
+      "owner": "alibaba",
+      "name": "open-code-review",
+      "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
+      "url": "https://github.com/alibaba/open-code-review",
+      "avatarUrl": "https://github.com/alibaba.png",
+      "stars": 52820,
+      "forks": 4264,
+      "todayStars": 0,
+      "language": "Go",
       "topics": []
     }
   ],
