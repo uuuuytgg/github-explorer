@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-17T09:49:49.635Z",
+  "updated": "2026-11-17T18:50:07.704Z",
   "count": 2,
   "repos": [
     {
@@ -12,23 +12,23 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://github.com/elementalsouls.png",
-      "stars": 7897,
-      "forks": 1224,
+      "stars": 8810,
+      "forks": 1320,
       "todayStars": 0,
       "language": "Python",
       "topics": []
     },
     {
-      "fullName": "NVIDIA/SkillEvaluator",
-      "owner": "NVIDIA",
-      "name": "SkillEvaluator",
-      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 3094,
-      "forks": 440,
+      "fullName": "affaan-m/ECC",
+      "owner": "affaan-m",
+      "name": "ECC",
+      "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
+      "url": "https://github.com/affaan-m/ECC",
+      "avatarUrl": "https://github.com/affaan-m.png",
+      "stars": 305290,
+      "forks": 44953,
       "todayStars": 0,
-      "language": "Python",
+      "language": "JavaScript",
       "topics": []
     }
   ],
