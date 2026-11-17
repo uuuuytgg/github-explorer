@@ -2,9 +2,22 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-17T01:54:56.073Z",
-  "count": 1,
+  "updated": "2026-11-17T09:49:49.635Z",
+  "count": 2,
   "repos": [
+    {
+      "fullName": "elementalsouls/Claude-BugHunter",
+      "owner": "elementalsouls",
+      "name": "Claude-BugHunter",
+      "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
+      "url": "https://github.com/elementalsouls/Claude-BugHunter",
+      "avatarUrl": "https://github.com/elementalsouls.png",
+      "stars": 7897,
+      "forks": 1224,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
     {
       "fullName": "NVIDIA/SkillEvaluator",
       "owner": "NVIDIA",
@@ -12,8 +25,8 @@
       "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 2749,
-      "forks": 364,
+      "stars": 3094,
+      "forks": 440,
       "todayStars": 0,
       "language": "Python",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-17T01:54:56.073Z",
+  "updated": "2026-11-17T09:49:49.635Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "The workspace to stay in the loop and on top of agents - shape, decide, plan, annotate, review code, share with team, and send all feedback to agents with one click.",
       "url": "https://github.com/backnotprop/plannotator",
       "avatarUrl": "https://github.com/backnotprop.png",
-      "stars": 12600,
-      "forks": 1231,
+      "stars": 12844,
+      "forks": 1276,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 27826,
-      "forks": 2527,
+      "stars": 28585,
+      "forks": 2593,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Modern Docker Management, Designed for Everyone",
       "url": "https://github.com/getarcaneapp/arcane",
       "avatarUrl": "https://github.com/getarcaneapp.png",
-      "stars": 8773,
-      "forks": 405,
+      "stars": 8991,
+      "forks": 465,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 9753,
-      "forks": 1242,
+      "stars": 9879,
+      "forks": 1283,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
       "url": "https://github.com/NVIDIA/SkillEvaluator",
       "avatarUrl": "https://github.com/NVIDIA.png",
-      "stars": 2749,
-      "forks": 364,
+      "stars": 3094,
+      "forks": 440,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 52978,
-      "forks": 4299,
+      "stars": 53285,
+      "forks": 4367,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "PaperOrchestra is a multi-agent framework for automated AI research paper writing.",
       "url": "https://github.com/google-research/paper-orchestra",
       "avatarUrl": "https://github.com/google-research.png",
-      "stars": 1579,
-      "forks": 241,
+      "stars": 1994,
+      "forks": 310,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
       "url": "https://github.com/kajisho5/ffmpeg-skill",
       "avatarUrl": "https://github.com/kajisho5.png",
-      "stars": 6816,
-      "forks": 603,
+      "stars": 7379,
+      "forks": 669,
       "todayStars": 0,
       "language": "Python",
       "topics": []

@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-17T01:54:56.073Z",
+  "updated": "2026-11-17T09:49:49.635Z",
   "count": 5,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "avatarUrl": "https://github.com/GoogleChrome.png",
-      "stars": 8016,
-      "forks": 699,
+      "stars": 8209,
+      "forks": 710,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 29639,
-      "forks": 2307,
+      "stars": 29861,
+      "forks": 2327,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 72822,
-      "forks": 57676,
+      "stars": 72958,
+      "forks": 57721,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Open-source plugin for designing and reviewing software with agents",
       "url": "https://github.com/google/elephant-goldfish-model",
       "avatarUrl": "https://github.com/google.png",
-      "stars": 20396,
-      "forks": 1509,
+      "stars": 20558,
+      "forks": 1521,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 52978,
-      "forks": 4299,
+      "stars": 53285,
+      "forks": 4367,
       "todayStars": 0,
       "language": "Go",
       "topics": []
