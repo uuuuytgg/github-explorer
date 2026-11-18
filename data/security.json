@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-17T18:50:07.704Z",
+  "updated": "2026-11-18T01:25:03.897Z",
   "count": 2,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://github.com/elementalsouls.png",
-      "stars": 8810,
-      "forks": 1320,
+      "stars": 9338,
+      "forks": 1360,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 305290,
-      "forks": 44953,
+      "stars": 305525,
+      "forks": 44980,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []

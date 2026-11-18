@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-17T18:50:07.704Z",
+  "updated": "2026-11-18T01:25:03.897Z",
   "count": 6,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "avatarUrl": "https://github.com/GoogleChrome.png",
-      "stars": 8359,
-      "forks": 721,
+      "stars": 8460,
+      "forks": 725,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 30042,
-      "forks": 2347,
+      "stars": 30162,
+      "forks": 2355,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。 LLM-powered multi-market stock analysis system with multi-source market data, real-time news, decision dashboard, automated notifications, and cost-free scheduled runs.",
       "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
       "avatarUrl": "https://github.com/ZhuLinsen.png",
-      "stars": 73052,
-      "forks": 57774,
+      "stars": 73084,
+      "forks": 57782,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 53595,
-      "forks": 4418,
+      "stars": 53743,
+      "forks": 4432,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "avatarUrl": "https://github.com/tradermonty.png",
-      "stars": 6812,
-      "forks": 1403,
+      "stars": 6870,
+      "forks": 1410,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 10012,
-      "forks": 1322,
+      "stars": 10114,
+      "forks": 1332,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
