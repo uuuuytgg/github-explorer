@@ -2,8 +2,8 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-18T08:41:03.566Z",
-  "count": 2,
+  "updated": "2026-11-18T17:31:44.652Z",
+  "count": 4,
   "repos": [
     {
       "fullName": "elementalsouls/Claude-BugHunter",
@@ -12,10 +12,36 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 82 skills, 15 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://github.com/elementalsouls.png",
-      "stars": 10061,
-      "forks": 1412,
+      "stars": 10947,
+      "forks": 1487,
       "todayStars": 0,
       "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "NVIDIA/SkillEvaluator",
+      "owner": "NVIDIA",
+      "name": "SkillEvaluator",
+      "description": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "avatarUrl": "https://github.com/NVIDIA.png",
+      "stars": 3586,
+      "forks": 505,
+      "todayStars": 0,
+      "language": "Python",
+      "topics": []
+    },
+    {
+      "fullName": "appwrite/appwrite",
+      "owner": "appwrite",
+      "name": "appwrite",
+      "description": "The open-source cloud for agents &amp; devs. Including Auth, Databases, Storage, Functions, Messaging, Hosting, Realtime, WAF and more",
+      "url": "https://github.com/appwrite/appwrite",
+      "avatarUrl": "https://github.com/appwrite.png",
+      "stars": 58163,
+      "forks": 5887,
+      "todayStars": 0,
+      "language": "TypeScript",
       "topics": []
     },
     {
@@ -25,8 +51,8 @@
       "description": "The agent harness performance optimization system. Skills, instincts, memory, security, and research-first development for Claude Code, Codex, Opencode, Cursor and beyond.",
       "url": "https://github.com/affaan-m/ECC",
       "avatarUrl": "https://github.com/affaan-m.png",
-      "stars": 305896,
-      "forks": 45017,
+      "stars": 306290,
+      "forks": 45093,
       "todayStars": 0,
       "language": "JavaScript",
       "topics": []
