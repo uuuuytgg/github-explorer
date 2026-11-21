@@ -2,7 +2,7 @@
   "category": "design",
   "label": "设计系统",
   "icon": "🎨",
-  "updated": "2026-11-21T15:17:58.331Z",
+  "updated": "2026-11-21T20:57:00.591Z",
   "count": 7,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 11257,
-      "forks": 1424,
+      "stars": 11365,
+      "forks": 1432,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Keep your coding agent up to date with the latest web best practices",
       "url": "https://github.com/GoogleChrome/modern-web-guidance-src",
       "avatarUrl": "https://github.com/GoogleChrome.png",
-      "stars": 9760,
-      "forks": 780,
+      "stars": 9852,
+      "forks": 787,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Secure, fast, efficient, battle-tested at Alibaba's scale. Hybrid architecture code review tool: deterministic pipelines + LLM Agent, precise line-level comments, built-in multi-language ruleset (NPE, thread-safety, XSS, SQL injection), OpenAI &amp; Anthropic compatible.",
       "url": "https://github.com/alibaba/open-code-review",
       "avatarUrl": "https://github.com/alibaba.png",
-      "stars": 54986,
-      "forks": 4545,
+      "stars": 55053,
+      "forks": 4558,
       "todayStars": 0,
       "language": "Go",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
       "url": "https://github.com/tradermonty/claude-trading-skills",
       "avatarUrl": "https://github.com/tradermonty.png",
-      "stars": 7548,
-      "forks": 1476,
+      "stars": 7592,
+      "forks": 1480,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "AG-UI: the Agent-User Interaction Protocol. Bring Agents into Frontend Applications.",
       "url": "https://github.com/ag-ui-protocol/ag-ui",
       "avatarUrl": "https://github.com/ag-ui-protocol.png",
-      "stars": 20952,
-      "forks": 2134,
+      "stars": 20992,
+      "forks": 2139,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "An open source design system that's fully customizable and agent ready",
       "url": "https://github.com/meta/astryx",
       "avatarUrl": "https://github.com/meta.png",
-      "stars": 31637,
-      "forks": 2486,
+      "stars": 31748,
+      "forks": 2496,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
       "url": "https://github.com/dream-num/univer",
       "avatarUrl": "https://github.com/dream-num.png",
-      "stars": 31033,
-      "forks": 2830,
+      "stars": 31080,
+      "forks": 2832,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
