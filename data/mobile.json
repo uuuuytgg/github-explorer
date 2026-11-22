@@ -2,18 +2,18 @@
   "category": "mobile",
   "label": "移动开发",
   "icon": "📱",
-  "updated": "2026-11-22T07:35:20.426Z",
+  "updated": "2026-11-22T15:40:02.994Z",
   "count": 1,
   "repos": [
     {
       "fullName": "mjmirza/app-store-compliance",
       "owner": "mjmirza",
       "name": "app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 111 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 112 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "avatarUrl": "https://github.com/mjmirza.png",
-      "stars": 3556,
-      "forks": 219,
+      "stars": 3767,
+      "forks": 227,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
