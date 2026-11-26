@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-26T02:20:45.766Z",
+  "updated": "2026-11-26T11:10:35.439Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://github.com/elementalsouls.png",
-      "stars": 23105,
-      "forks": 2362,
+      "stars": 23722,
+      "forks": 2420,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -22,11 +22,11 @@
       "fullName": "mjmirza/app-store-compliance",
       "owner": "mjmirza",
       "name": "app-store-compliance",
-      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 124 documented rejection patterns and fixes, privacy manifest and Data safety checks, 114 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
+      "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "avatarUrl": "https://github.com/mjmirza.png",
-      "stars": 6516,
-      "forks": 421,
+      "stars": 6750,
+      "forks": 445,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "url": "https://github.com/toeverything/AFFiNE",
       "avatarUrl": "https://github.com/toeverything.png",
-      "stars": 78524,
-      "forks": 5723,
+      "stars": 78721,
+      "forks": 5731,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
