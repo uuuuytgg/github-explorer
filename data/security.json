@@ -2,7 +2,7 @@
   "category": "security",
   "label": "安全研究",
   "icon": "🔐",
-  "updated": "2026-11-27T02:48:38.302Z",
+  "updated": "2026-11-27T11:30:45.638Z",
   "count": 3,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "A Claude Code skill bundle for bug hunting and external red-team work - 85 skills, 16 slash commands, 681 disclosed-report patterns curated across 24 core vulnerability classes, plus enterprise identity + infrastructure attack matrices.",
       "url": "https://github.com/elementalsouls/Claude-BugHunter",
       "avatarUrl": "https://github.com/elementalsouls.png",
-      "stars": 24725,
-      "forks": 2513,
+      "stars": 25309,
+      "forks": 2588,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "avatarUrl": "https://github.com/mjmirza.png",
-      "stars": 7077,
-      "forks": 474,
+      "stars": 7283,
+      "forks": 519,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "There can be more than Notion and Miro. AFFiNE(pronounced [ə‘fain]) is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use.",
       "url": "https://github.com/toeverything/AFFiNE",
       "avatarUrl": "https://github.com/toeverything.png",
-      "stars": 79021,
-      "forks": 5757,
+      "stars": 79177,
+      "forks": 5790,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
