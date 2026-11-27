@@ -2,7 +2,7 @@
   "category": "tools",
   "label": "开发工具",
   "icon": "🛠",
-  "updated": "2026-11-27T11:30:45.638Z",
+  "updated": "2026-11-27T20:17:02.533Z",
   "count": 8,
   "repos": [
     {
@@ -12,8 +12,8 @@
       "description": "An agentic skills framework &amp; software development methodology that works.",
       "url": "https://github.com/obra/superpowers",
       "avatarUrl": "https://github.com/obra.png",
-      "stars": 327887,
-      "forks": 29119,
+      "stars": 328208,
+      "forks": 29162,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -25,8 +25,8 @@
       "description": "\"CLI-Anything: Making ALL Software Agent-Native\" -- CLI-Hub: https://clianything.cc/",
       "url": "https://github.com/HKUDS/CLI-Anything",
       "avatarUrl": "https://github.com/HKUDS.png",
-      "stars": 66672,
-      "forks": 6094,
+      "stars": 66907,
+      "forks": 6140,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -38,8 +38,8 @@
       "description": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
       "url": "https://github.com/firecrawl/firecrawl",
       "avatarUrl": "https://github.com/firecrawl.png",
-      "stars": 211281,
-      "forks": 11092,
+      "stars": 211571,
+      "forks": 11125,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -51,8 +51,8 @@
       "description": "Editorial diagram design for Claude Code, Codex, GitHub Copilot, Cursor, Factory Droid, Qoder, and Pi. 52 diagram types. Self-contained HTML + SVG. No shadows. No Mermaid slop.",
       "url": "https://github.com/cathrynlavery/diagram-design",
       "avatarUrl": "https://github.com/cathrynlavery.png",
-      "stars": 74196,
-      "forks": 4982,
+      "stars": 74381,
+      "forks": 5012,
       "todayStars": 0,
       "language": "HTML",
       "topics": []
@@ -64,8 +64,8 @@
       "description": "A library of Agent Skills designed to work with the Stitch MCP server. Each skill follows the Agent Skills open standard, for compatibility with coding agents such as Antigravity, Gemini CLI, Claude Code, Cursor.",
       "url": "https://github.com/google-labs-code/stitch-skills",
       "avatarUrl": "https://github.com/google-labs-code.png",
-      "stars": 13438,
-      "forks": 1588,
+      "stars": 13543,
+      "forks": 1608,
       "todayStars": 0,
       "language": "TypeScript",
       "topics": []
@@ -77,8 +77,8 @@
       "description": "Avoid common App Store and Google Play rejections. Open playbook and pre-submission guard with 125 documented rejection patterns and fixes, privacy manifest and Data safety checks, 117 tracked deadlines (EU AI Act, DSA, COPPA, age laws), and a skill for AI coding agents.",
       "url": "https://github.com/mjmirza/app-store-compliance",
       "avatarUrl": "https://github.com/mjmirza.png",
-      "stars": 7283,
-      "forks": 519,
+      "stars": 7766,
+      "forks": 567,
       "todayStars": 0,
       "language": "Shell",
       "topics": []
@@ -90,8 +90,8 @@
       "description": "The open-source agent for CI/CD reliability.",
       "url": "https://github.com/Tracer-Cloud/opensre",
       "avatarUrl": "https://github.com/Tracer-Cloud.png",
-      "stars": 15980,
-      "forks": 2104,
+      "stars": 16084,
+      "forks": 2140,
       "todayStars": 0,
       "language": "Python",
       "topics": []
@@ -103,8 +103,8 @@
       "description": "AutoClip｜The open-source OpusClip alternative — local-first AI clipping &amp; MCP server, zero subscriptions. 一个链接，一键出片。开源 AI 视频剪辑桌面工具，将播客、访谈、课程等长视频自动剪成短视频，生成字幕、封面和发布文案，适配抖音、小红书、TikTok、Reels 与 YouTube Shorts。",
       "url": "https://github.com/zhouxiaoka/autoclip",
       "avatarUrl": "https://github.com/zhouxiaoka.png",
-      "stars": 17334,
-      "forks": 2441,
+      "stars": 17529,
+      "forks": 2475,
       "todayStars": 0,
       "language": "Python",
       "topics": []
